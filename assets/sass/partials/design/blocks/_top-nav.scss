@@ -1,0 +1,18 @@
+.top-nav {
+  @include breakpoint($phone) {
+    display: none;
+  }
+  ul {
+    text-align: center;
+    font-size: 90%;
+  }
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    position: relative;
+     @include grid-span(9, 4);
+     ul {text-align: right;}
+  }
+  li {
+    padding: 0 0 0 1em;
+    display: inline-block;
+  }
+}

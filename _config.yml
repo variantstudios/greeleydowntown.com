@@ -1,0 +1,55 @@
+# Site settings
+title: Greeley Downtown Development Authority
+email: team@variantstudios.com
+description: 
+baseurl: "http://www.greeleydowntown.com" # the subpath of your site, e.g. /blog/
+url: "http://www.greeleydowntown.com" # the base hostname & protocol for your site
+timezone: America/Denver
+
+# Site Author(s)
+author:
+  name: Brent Robbins
+  email: brent@variantstudios.com
+  name: Michael McQueen
+  email: michael@variantstudios.com
+
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+
+
+# Permalinks
+permalink: /blog/:year-:month-:day/:title/
+
+#Collections
+collections:
+  directory:
+    output: true
+    permalink: /directory/:title/
+
+# Blog Settings
+paginate: 3
+paginate_path: "/blog/page:num/"
+
+# Reading Time Feature
+reading_time:     true
+words_per_minute: 200
+
+# Disqus Comments
+disqus_short_name: 
+disqus_show_comment_count: 
+
+# typekit
+typekit: 
+
+# Social Media
+facebook: 
+
+# Google Analytics
+google_analytics_tracking_id: 
+
+exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]

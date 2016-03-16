@@ -1,0 +1,57 @@
+main {
+  @include clearfix;
+  padding: 0;
+  position: relative;
+  display: block;
+}
+.page-header-wrapper {
+  width: 100%;
+  @include breakpoint($tablet, $no-query: '.no-mq') { 
+    height: 500px; 
+  }
+  .backstretch {
+    margin-top: -250px !important; 
+    @include breakpoint($phone) { 
+      height: 250px !important;
+    }
+    @include breakpoint($tablet, $no-query: '.no-mq') { 
+      margin-top: 0 !important; 
+    }
+  }
+}
+.page-header {
+  position: relative;
+  color: $heading-color;
+  @include text-shadow(1px, 0px, 3px, rgba(black,.4));
+  padding: 2em 2em;
+  background-color: #363C41;
+  margin-top: 250px;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    padding: 1em 4em;
+    margin-top: 0;
+    background: transparent;
+    @include grad(rgba(black,0), rgba(black,.7));
+    position: absolute;
+    bottom: 0;
+  }
+  h1 {
+    color: #fff;
+    font-size: 2.15em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      font-size: 2.35em;
+    }
+  }
+  p {
+    font-size: 1em;
+    font-weight: 300;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      font-size: 1.2em;
+    }
+  }
+}
+.content-wrapper {
+  margin-top: 1em;
+	padding: 2em 1.5em;
+  max-width: 1200px;
+  @include breakpoint($tablet, $no-query: '.no-mq') { padding: 3em 64px; }
+}

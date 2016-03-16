@@ -1,0 +1,26 @@
+body {
+  @include clearfix;
+  background: $site-bg;
+  margin: 0;
+}
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+.wrap {
+  max-width: 100%;
+  @include clearfix;
+  width: 100%;
+}
+.desktop-left {
+  @include clearfix;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    width: 350px;
+    float: left;
+  }
+}
+.desktop-right {
+  @include clearfix;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    width: calc(100% - 350px);
+    float: right;
+  }
+}

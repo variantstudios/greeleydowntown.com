@@ -1,0 +1,50 @@
+.staff-member {
+	@include clearfix;
+	margin-bottom: 2em;
+	img {
+		float: left;
+    padding: 1em 1em 1em 0em;
+    max-width: 110px;
+		@include breakpoint($tablet, $no-query: '.no-mq') { 
+			@include grid-span(3,1); 
+			max-width: none;
+			padding: 1em 2em 1em 0em;
+		}
+	}
+	.staff-title, .staff-bio {
+		float: none;
+		padding: 10px 0;
+		overflow: hidden;
+		@include breakpoint($tablet, $no-query: '.no-mq') { 
+			@include grid-span(9,4); 
+		}
+	}
+	.staff-title {
+		border-bottom: 1px solid darken($color-three, 5%);
+		h2, h3 {
+			color: $color-one;
+			@include text-shadow(0px,0px,0px,rgba(white,0));
+			display: block;
+			margin: 0 0 2px;
+			@include breakpoint($tablet, $no-query: '.no-mq') { 
+				display: inline-block; 
+			}
+		}
+		.staff-name { font-size: 150%; }
+		.staff-position {
+			font-size: 130%;
+			font-weight: 400;
+			@include breakpoint($tablet, $no-query: '.no-mq') { 
+				padding-left: 1em; 
+			}
+		}
+	}
+	.staff-bio {
+		color: $color-two;
+		width: 100%;
+		margin-top: .5em;
+		@include breakpoint($tablet, $no-query: '.no-mq') { 
+			@include grid-span(9,4); 
+		}
+	}
+}

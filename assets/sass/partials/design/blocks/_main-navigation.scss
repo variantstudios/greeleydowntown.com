@@ -1,0 +1,120 @@
+.menu {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  font-family: $heading-font-family;
+  text-align: center;
+  overflow: hidden;
+  li {
+    list-style: none;
+    margin: 0;
+    position: relative;
+    display: block;
+    text-align: center;
+  } 
+  a, a:visited { text-decoration: none; }
+}
+nav.main-nav {
+  font-size: 120%;
+  @include breakpoint($tablet, $no-query: '.no-mq') { padding-top:4.7%; }
+  @include breakpoint($desktop) { padding-top:5.5%; }
+  ul.menu {
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      // Drop down menu styling
+      ul {
+        position: absolute;
+        text-align: left;
+        visibility:hidden;
+        top: 150%;
+        left: 0;
+        opacity: 0;
+        padding: 0em 0 !important;
+        margin: 0;
+        visibility: hidden;
+        transition:all .5s ease;
+        -webkit-transition:all .5s ease;
+        width: 200px;
+        box-shadow: 1px 1px 4px rgba(0,0,0,.5);
+        li { padding: .5em 1.25em; }
+      }
+      li:hover {
+        ul {
+          z-index: 99;
+          background-color: darken($site-bg, 5%);
+          top:110%;
+          left: 0;
+          opacity: 1;
+          visibility: visible;
+          li {
+            display: block;
+            &:hover { background-color: darken($site-bg, 10%); }
+          }
+        }
+      }
+    }
+  }
+  li {
+    padding: .5em .7em;
+    @include breakpoint($tablet, $no-query: '.no-mq') { padding: .5em .75em; }
+    li {
+      padding: 0;
+      font-size: 85%;
+      border-bottom: 0;
+    }
+  }
+  a, a:visited {
+    color: $link;
+    &.active {
+      @include breakpoint($tablet, $no-query: '.no-mq') {
+        &:before, &:after {
+          content: "--------------------------------------------";
+          letter-spacing: -3px;
+        }
+        &:before {
+          margin-left: -100%;
+          margin-right: 20px;
+        }
+        &:after {
+          margin-left: 20px;
+          margin-right: -100%;
+        }
+      }
+    }
+  }
+}
+
+.menu-btn {
+  display: inline-block;
+  float: right;
+  margin: 50px 25px 0 0;
+  background: none;
+  border: none;
+  font-size: 135%;
+  font-family: $heading-font-family;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    display: none;
+  }
+  img {
+    padding-right: .5em;
+  }
+}
+nav.main-nav {
+  ul {
+    @include breakpoint($phone) {
+      position: absolute;
+      left: 0;
+      z-index: 99;
+      background: rgba(255,255,255,0.95);
+      width: 100%;
+      padding: 1em 0;
+      font-weight: 700;
+      transition: .25s all linear;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.8);
+    }
+  }
+  .hide {
+    @include breakpoint($phone) {
+      left: -100%;
+    }
+  }
+}

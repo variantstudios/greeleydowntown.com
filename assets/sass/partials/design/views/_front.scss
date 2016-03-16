@@ -1,0 +1,46 @@
+.front {
+  .front-page-content {
+    color: white;
+    @include text-shadow(1px, 0px, 3px, rgba(black,.4));   
+    padding: 16em 1em 2em;
+    @include grad(rgba(black,0), rgba(black,.7));
+    @include breakpoint($tablet, $no-query: '.no-mq') { 
+      position: fixed;
+      width: -webkit-calc(100% - 350px);
+      width: calc(100% - 350px);
+      bottom: 0;
+      right: 0;
+      padding: 5em 2em 2em;
+    }
+    h1, p {
+      max-width: 1000px;
+    }
+    h1 {
+      margin: 0 0 .1em;
+      font-size: 2.35em;
+      font-weight: 700;
+      color: #fff;
+    }
+    p {
+      font-size: 1.2em;
+      margin: 0;
+    }
+    a, a:visited, a:active {
+      display: block;
+      font-size: 1.1em;      
+      color: $color-four;
+      text-decoration: none;
+      img {
+        margin-top: 20px;
+        display: inline-block;
+        margin-bottom: -10px;
+        padding-left: .5em;
+      }
+    }
+    .services {
+      clear: both;
+      @include clearfix;
+      margin: 3em 0 1em;
+    }
+  }
+}
