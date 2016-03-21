@@ -7,12 +7,10 @@ main {
 .page-header-wrapper {
   width: 100%;
   @include breakpoint($tablet, $no-query: '.no-mq') { 
-    height: 500px; 
   }
   .backstretch {
     margin-top: -250px !important; 
     @include breakpoint($phone) { 
-      height: 250px !important;
     }
     @include breakpoint($tablet, $no-query: '.no-mq') { 
       margin-top: 0 !important; 
@@ -20,19 +18,11 @@ main {
   }
 }
 .page-header {
-  position: relative;
   color: $heading-color;
   @include text-shadow(1px, 0px, 3px, rgba(black,.4));
   padding: 2em 2em;
   background-color: #363C41;
-  margin-top: 250px;
   @include breakpoint($tablet, $no-query: '.no-mq') {
-    padding: 1em 4em;
-    margin-top: 0;
-    background: transparent;
-    @include grad(rgba(black,0), rgba(black,.7));
-    position: absolute;
-    bottom: 0;
   }
   h1 {
     color: #fff;

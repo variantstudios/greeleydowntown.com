@@ -67,8 +67,7 @@ nav.main-nav {
     &.active {
       @include breakpoint($tablet, $no-query: '.no-mq') {
         &:before, &:after {
-          content: "--------------------------------------------";
-          letter-spacing: -3px;
+
         }
         &:before {
           margin-left: -100%;

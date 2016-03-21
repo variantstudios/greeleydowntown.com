@@ -5,9 +5,6 @@
   background: white;
   width: 100%;
   @include breakpoint($tablet, $no-query: '.no-mq') {
-    position: fixed;
-    width: 350px;
-    bottom: 0px;
   }
 }
 footer.wrap {
