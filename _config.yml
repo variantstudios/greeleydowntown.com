@@ -30,6 +30,17 @@ collections:
   directory:
     output: true
     permalink: /directory/:title/
+  classifications:
+    output: false
+
+#Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "directory"
+    values:
+      layout: "directory"
 
 # Blog Settings
 paginate: 3
