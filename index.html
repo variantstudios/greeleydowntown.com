@@ -3,9 +3,90 @@ layout: default
 title: "Greeley Downtown Development Authority"
 description: ""
 class: front
+explore_image_path: "https://unsplash.it/800/500/?random"
+play_image_path: "https://unsplash.it/800/500/?random"
+work_image_path: "https://unsplash.it/800/500/?random"
 ---
 
-<div>
-	<h1>{{ page.title }}</h1>
-	<p>{{ page.description }}</p>
+<div class="front-blocks front-blocks-odd explore">
+  <img class="curve-right" src="assets/images/curve-right.png" />
+  <div class="front-block-image">
+    <div class="icons">
+      <div class="icons-bg"></div>
+      <img class="icon" src="https://dl.dropboxusercontent.com/u/57799018/explore-icon.png" />
+      <img class="icon-text" src="https://dl.dropboxusercontent.com/u/57799018/explore.png"/>
+      <div class="line"></div>
+    </div>
+    
+  </div>
+  <div class="front-block-details">
+    <div class="front-block-header">
+      <h2>See what’s Downtown</h2>
+    </div>
+    <div class="front-block-content">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas eu ex vitae egestas. Proin sagittis ipsum eget neque pretium, vitae congue ex mollis. Phasellus magna massa, suscipit vel faucibus ac, tincidunt sit amet nunc.</p>
+      <a href="#" class="btn-large btn">View Directory</a>
+    </div>
+  </div>
 </div>
+
+<div class="front-blocks front-blocks-even play">
+  <img class="curve-left" src="assets/images/curve-left.png" />
+  <div class="front-block-image">
+    <div class="icons">
+      <div class="icons-bg"></div>
+      <img class="icon" src="https://dl.dropboxusercontent.com/u/57799018/explore-icon.png" />
+      <img class="icon-text" src="https://dl.dropboxusercontent.com/u/57799018/explore.png"/>
+      <div class="line"></div>
+    </div>
+    
+  </div>
+  <div class="front-block-details">
+    <div class="front-block-header">
+      <h2>Upcoming Events</h2>
+    </div>
+    <div class="front-block-content">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas eu ex vitae egestas. Proin sagittis ipsum eget neque pretium, vitae congue ex mollis. Phasellus magna massa, suscipit vel faucibus ac, tincidunt sit amet nunc.</p>
+      <a href="#" class="btn-large btn">View Directory</a>
+    </div>
+  </div>
+</div>
+
+<div class="front-blocks front-blocks-odd work">
+  <img class="curve-right" src="assets/images/curve-right.png" />
+  <div class="front-block-image">
+    <div class="icons">
+      <div class="icons-bg"></div>
+      <img class="icon" src="https://dl.dropboxusercontent.com/u/57799018/explore-icon.png" />
+      <img class="icon-text" src="https://dl.dropboxusercontent.com/u/57799018/explore.png"/>
+      <div class="line"></div>
+    </div>
+    
+  </div>
+  <div class="front-block-details">
+    <div class="front-block-header">
+      <h2>Business Downtown</h2>
+    </div>
+    <div class="front-block-content">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas eu ex vitae egestas. Proin sagittis ipsum eget neque pretium, vitae congue ex mollis. Phasellus magna massa, suscipit vel faucibus ac, tincidunt sit amet nunc.</p>
+      <a href="#" class="btn-large btn">View Directory</a>
+    </div>
+  </div>
+</div>
+
+<style type="text/css">
+  .explore .front-block-image {
+  background: url({{ page.explore_image_path }}) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+</style>
+<script type="text/javascript">
+  $(document).ready(function() {
+    //$(".explore .front-block-image").backstretch("{{ page.explore_image_path }}");
+    $(".play .front-block-image").backstretch("{{ page.play_image_path }}");
+    $(".work .front-block-image").backstretch("{{ page.explore_image_path }}");
+  });
+</script>
