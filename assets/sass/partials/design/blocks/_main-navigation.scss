@@ -11,8 +11,15 @@
   a, a:visited { text-decoration: none; }
 }
 nav.main-nav {
-  font-size: 120%;
+  font-size: 1.7em;
+  padding: .75em 0 0;
+  font-weight: 700;
+  @include breakpoint($desktop, $no-query: '.no-mq') {
+    font-size: 1.9em;
+    padding: .5em 0 0;
+  }
   ul.menu {
+    text-align: center;
     @include breakpoint($tablet, $no-query: '.no-mq') {
       // Drop down menu styling
       ul {
@@ -30,16 +37,16 @@ nav.main-nav {
     }
   }
   li {
-   
-    @include breakpoint($tablet, $no-query: '.no-mq') { 
-
+    padding: 0 1em;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') { 
+       padding: 0 1em;
     }
     li {
 
     }
   }
   a, a:visited {
-    color: $link;
+    color: #fff;
     &.active {
       @include breakpoint($tablet, $no-query: '.no-mq') {
         &:before, &:after {
@@ -51,38 +58,3 @@ nav.main-nav {
   }
 }
 
-.menu-btn {
-  display: inline-block;
-  float: right;
-  margin: 50px 25px 0 0;
-  background: none;
-  border: none;
-  font-size: 135%;
-  font-family: $heading-font-family;
-  @include breakpoint($tablet, $no-query: '.no-mq') {
-    display: none;
-  }
-  img {
-    padding-right: .5em;
-  }
-}
-nav.main-nav {
-  ul {
-    @include breakpoint($phone) {
-      position: absolute;
-      left: 0;
-      z-index: 99;
-      background: rgba(255,255,255,0.95);
-      width: 100%;
-      padding: 1em 0;
-      font-weight: 700;
-      transition: .25s all linear;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.8);
-    }
-  }
-  .hide {
-    @include breakpoint($phone) {
-      left: -100%;
-    }
-  }
-}

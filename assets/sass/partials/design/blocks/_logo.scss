@@ -1,15 +1,11 @@
 .logo {
   text-align: center;
-  width: 125px;
   margin: 0 auto;
-  padding: 2em 1em 1em;
+  padding: 1.5em 1em .5em;
   @include clearfix;
-  display: inline-block;
   vertical-align: middle;
+  background: #1F2021;
   @include breakpoint($tablet, $no-query: '.no-mq') {
-    width: 200px;
-    float: none;
     display: block;
-    padding: 3em 0 1em;
   }
 }

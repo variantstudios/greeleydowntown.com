@@ -1,8 +1,23 @@
 header.site-header {
   margin: 0 auto;
-  background: white;
+  background: $header-bg;
   width: 100%;
+  position: relative;
+  z-index: 2;
   @include clearfix;
-  @include breakpoint($tablet, $no-query: '.no-mq') {
+  .logo {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(4,1);
+    }
+  }
+  .main-nav {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(6,5);
+    }
+  }
+  .more-nav {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(2,11);
+    }
   }
 }

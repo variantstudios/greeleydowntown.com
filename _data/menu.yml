@@ -1,4 +1,6 @@
-- text: About Us
+- text: Explore
   url: /about-us/
-- text: Directory
+- text: Play
+  url: /directory/
+- text: Work
   url: /directory/
