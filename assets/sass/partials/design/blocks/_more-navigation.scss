@@ -1,0 +1,45 @@
+.menu-btn {
+  padding: 1.25em 0;
+  margin: 0 auto;
+  background: none;
+  border: none;
+  font-size: 135%;
+  font-family: $heading-font-family;
+  color: #fff;
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  width: 100%;
+  img {
+    padding-right: .5em;
+  }
+}
+
+nav.more-nav {
+  position: relative;
+  border-left: 1px solid #1F2021;
+  text-align: center;
+  ul {
+      position: absolute;
+      left: 0px;
+      z-index: 99;
+      background: #1F2021;
+      width: 100%;
+      padding: 1em;
+      transition: .25s all linear;
+      top: 78px;
+      opacity: 1;
+      z-index: 1;
+      a {
+        color: #fff;
+      }
+      li {
+        display: block;
+        padding-bottom: .5em;
+      }
+  }
+  .hide {
+     top: 0px;
+     opacity: 0;
+  }
+}

@@ -1,8 +1,11 @@
 <header class="site-header">
     <div class="site-name logo">
-      <a href="/"><img src="/assets/images/logo.svg" /></a>
+      <a href="/"><img src="/assets/images/logo/logo.svg" /></a>
     </div>
     <nav role="navigation" class="main-nav">
       {% include nav.html nav=site.data.menu %}
+    </nav>
+    <nav role="navigation" class="more-nav">
+      {% include more-nav.html nav=site.data.more-menu %}
     </nav>
 </header>
