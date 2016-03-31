@@ -31,7 +31,8 @@ collections:
     output: true
     permalink: /directory/:title/
   classifications:
-    output: false
+    output: true
+    permalink: /directory/:title/
 
 #Defaults
 defaults:
@@ -64,3 +65,5 @@ facebook:
 google_analytics_tracking_id: 
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
+
+header_fallback_image_path: 'https://unsplash.it/1400/500'  

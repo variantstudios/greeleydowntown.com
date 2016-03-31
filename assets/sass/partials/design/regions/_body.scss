@@ -5,8 +5,22 @@ body {
 }
 html { box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
+
+
 .wrap {
-  max-width: 100%;
+  max-width: $container_width;
   @include clearfix;
-  width: 100%;
+  margin: 0 auto;
+  padding: 0em 1em;
+  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+    padding: 0em 2em;
+  }
+}
+
+    
+
+
+.front .wrap {
+  max-width: 100%;
+  padding: 0;
 }

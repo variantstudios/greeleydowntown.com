@@ -4,7 +4,6 @@ sitemap:
   exclude: 'yes'
 ---
 {
-
     "records":    
     [
     {% for business in site.directory %}
@@ -22,6 +21,7 @@ sitemap:
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},
         "classifications": {{ business.classifications | jsonify }},
+        "Logo": {{ business.Logo_image_path | jsonify }},
         "path": "{{ business.url }}"
         }
         {% unless forloop.last %},{% endunless %}

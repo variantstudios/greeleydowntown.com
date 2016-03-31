@@ -14,6 +14,8 @@ Website: 'http://www.1908speakeasy.com/'
 Contact_Name: Tim Veldhuizen
 Contact_Email: 1908speakeasy@gmail.com
 Coordinates: '40.424141, -104.691204'
+Logo_image_path: 'https://unsplash.it/200/400' 
+
 ---
 
 

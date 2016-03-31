@@ -1,0 +1,17 @@
+.pagination, .directory-listings .pagination {
+  @include clearfix;
+  clear: both !important;
+  padding: 1em 0;
+  background: #efefef;
+  margin: 2em 0;
+  border-radius: 3px;
+  li {
+    border: 0;
+    display: inline-block;
+    padding: 0 1em !important;
+    a {
+      text-decoration: none;
+      font-weight: 700;
+    }
+  }
+}
