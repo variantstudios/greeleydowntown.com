@@ -1,0 +1,78 @@
+.directory-listings {
+  .view-filters {
+    background: #EAEAEA;
+    padding: 1em;
+    border-radius: 3px;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(3,10);
+    }
+    input {
+      margin: 1.25em 0;
+      width: 100%;
+      &::-webkit-input-placeholder, &:-moz-placeholder, &::-moz-placeholder, &:-ms-input-placeholder,  {
+         color: #4A4A4A;
+      }
+    }
+  }
+
+  .listings-view, .pagination {
+    @include clearfix;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(9,1);
+    }
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    li {
+      list-style: none;
+      border-bottom: 1px solid #DEDEDE;
+      padding: 2em 0;
+      @include clearfix;
+    }
+  }
+   p {
+      margin: 0;
+    }
+
+  .listing-logo {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(3,1);
+    }
+    img {
+      max-height: 300px;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  .listing-content {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(4,4.25);
+    }
+  }
+  .listing-link {
+    text-decoration: none;
+  }
+  .business {
+    color: $explore;
+    font-size: 1.6em;
+    margin: 0 0 .25em;
+  }
+
+  .location-details {
+    font-size: 1.1em;
+    margin-bottom: .75em;
+  }
+  .listing-details {
+    margin-bottom: .75em;
+    .label {
+      font-weight: 700;
+    }
+    .phone {
+      margin-top: .25em;
+    }
+  }
+
+
+}

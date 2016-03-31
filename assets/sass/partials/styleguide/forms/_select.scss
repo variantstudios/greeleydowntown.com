@@ -1,0 +1,17 @@
+select {
+  box-sizing: border-box;
+  padding: .5em 1em;
+  font-size: 90%;
+  font-family: $font-family;
+  border-radius: 3px;
+  background: #FFFFFF;
+  border: 0;
+  box-shadow: 7px 8px 0px 0px #DEDEDE;
+  width: 100%;
+  -webkit-appearance: none;
+  color: #4A4A4A;
+  &:active, &:focus {
+    box-shadow: none;
+    outline: none;
+  }
+}

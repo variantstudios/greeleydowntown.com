@@ -1,19 +1,63 @@
 ---
 layout: default
 ---
-<h1>{{page.Business}}</h1>
+  <div class="page-header">
+    <div class="wrap">
+      <h1>Explore Downtown</h1>
+    </div>
+  </div>
 
-<p data-ng-bind="business.Phone" class="phone">{{page.Phone}}</p>
+<main>
+  <div class="wrap">
 
-<p><span class="street">{{page.Street}}</span><br>
-<span class="city">{{page.City}}</span>, 
-<span class="state">{{page.State}}</span>
-<span class="zip">{{page.Zip}}</span></p>
+    <div class="directory-fn-content">
+      <h1>{{page.Business}}</h1>
+      
+      <div class="directory-address">
+        <p><span class="street">{{page.Street}}</span><br>
+        <span class="city">{{page.City}}</span>, 
+        <span class="state">{{page.State}}</span>
+        <span class="zip">{{page.Zip}}</span></p>
+      </div>
+      <div class="directory-phone-site">
+        <div class="site-link">
+          {{if page.Website}}<span class="label">Website: </span> 
+          <a href="{{page.Website}}" target="_blank">{{page.Website}}</a></span>{{endif}}
+        </div>
+        <div class="phone">
+          <span class="label">Phone: </span><span data-ng-bind="business.Phone" class="phone">{{page.Phone}}</span>
+        </div>
+      </div>
+      <div class="directory-desc">
+        {{content}}
+      </div>
+    </div>
 
-{{if page.Website}}<a href="{{page.Website}}" target="_blank">website</a></span>{{endif}}
+    <div class="directory-sidebar">
+     <img src="{{page.Logo_image_path}}" />
 
-{% for classification in page.classifications %}
-<p>{{classification}}</p>
-{% endfor %}
+     <div id="leaflet-map"></div>
+      <script type="text/javascript">
+      var map = L.map('leaflet-map').setView([{{ page.Coordinates }}], 16);
+       L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+       }).addTo(map);
+          var marker = L.marker([{{ page.Coordinates }}]);
+          map.addLayer(marker);
+    </script>
 
-{{content}}
+
+     {% for classification in page.classifications %}
+      <p>{{classification.title}}</p>
+      {% endfor %}
+
+    </div>
+
+  </div>
+</main>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".page-header").backstretch("{{ site.header_fallback_image_path }}");
+  });
+</script>

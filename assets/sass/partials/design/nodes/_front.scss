@@ -2,18 +2,40 @@
   h1 {
     span {font-weight: 700;}
   }
-}
-body {
-  &:before {
-    content: '';
-    position: fixed;
-    background: red;
-    width: 1px;
-    height: 100%;
-    left: 50%;
-    z-index: 999;
+  .page-header {
+    margin-bottom: 0;
+    .wrap img {
+      display: block;
+      margin: 0 auto;
+      //padding: 7em 0;
+    }
+    .home-intro-img {
+      padding: 8em 0 0;
+      max-width: 70%;
+    }
+    .down-arrow img {
+      padding-bottom: 5em;
+    }
+    .intro-bg {
+      content: '';
+      background: rgba(0,0,0,0.5);
+      width: 400px;
+      height: 400px;
+      position: absolute;
+      margin: 0 auto;
+      left: 0;
+      right: 0;
+      -webkit-filter: blur(50px);
+      -moz-filter: blur(50px);
+      -o-filter: blur(50px);
+      -ms-filter: blur(50px);
+      filter: blur(50px);
+      z-index: -1;
+      border-radius: 50%;
+    }
   }
 }
+
 .explore {
   .btn {
     background: $explore;
