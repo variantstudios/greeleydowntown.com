@@ -11,6 +11,20 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 
 (ADD PIC)
 
+
+<div class="staff">
+{% for staff in site.data.staff %}
+	<div class="staff-member">
+		<img src="{{ staff.image_path }}" alt="{{ staff.name }}">
+		<div class="staff-title">
+			<h2 class="staff-name">{{ staff.name }}</h2>
+			<h3 class="staff-position">{{ staff.position }}</h3>
+		</div>
+		<div class="staff-bio">{{ staff.bio }}</div>
+	</div>
+{% endfor %}
+</div>
+
 ### Board of Directors
 
 **Bob Tointon**
