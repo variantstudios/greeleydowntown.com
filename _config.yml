@@ -49,9 +49,9 @@ defaults:
     values:
       layout: "event"
 
-sub-nav:
-  - "about"
-  - "directory"
+subnav:
+  - about
+  - directory
 
 # Blog Settings
 paginate: 3
