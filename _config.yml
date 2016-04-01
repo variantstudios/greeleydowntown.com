@@ -36,6 +36,9 @@ collections:
   events:
     output: true
     permalink: /events/:title
+  commercial-property:
+    output: true
+    permalink: /work/commercial-properties/:title
 
 #Defaults
 defaults:
@@ -48,10 +51,15 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      type: "commercial-property"
+    values:
+      layout: "page"
 
 sub-navs:
   - about
   - directory
+  - work
 
 # Blog Settings
 paginate: 3
