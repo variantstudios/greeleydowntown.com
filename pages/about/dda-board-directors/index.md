@@ -12,32 +12,6 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 
 ![DDA Board of Directors](/uploads/versions/ddaboard---x----1200-512x---.jpg)
 
-<div class="staff">{% for staff in site.data.staff %}<div class="staff-member"><img alt="{{ staff.name }}" src="{{ staff.image_path }}" /><div class="staff-title"><h2 class="staff-name">{{ staff.name }}</h2><h3 class="staff-position">{{ staff.position }}</h3></div><div class="staff-bio">{{ staff.bio }}</div></div> {% endfor %}</div>
-
 ### Board of Directors
 
-**Bob Tointon** Chairman; Phelps Tointon
-
-**Tom Grant** Grant, Hoffman & Kamada
-
-**Ken Schultz** NCMC, Inc
-
-**Matt Anderson** AnCon Constructors
-
-**Logan Richardson** Mineral Resources
-
-**Phil Grizzle** Vice Chairman; Zoe's Cafe
-
-**Travis Gillmore** Treasurer; Phelps Tointon
-
-**Sandi Elder** City Council Representative
-
-**Robb Casseday** City Council Representative
-
-**Mary Roberts** Lincoln Park Emporium
-
-**Drew Notestine** Thomas & Tyler
-
-**Janine Reid** High Plains Library District
-
-**Mike Ketterling** KBN Engineers
+<div class="staff">{% for staff in site.data.staff %}<div class="staff-member"><img alt="{{ staff.name }}" src="{{ staff.image_path }}" /><div class="staff-title"><h2 class="staff-name">{{ staff.name }}</h2><h3 class="staff-position">{{ staff.position }}</h3></div><div class="staff-bio">{{ staff.bio }}</div></div> {% endfor %}</div>
