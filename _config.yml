@@ -49,7 +49,7 @@ defaults:
     values:
       layout: "event"
 
-subnav:
+subnavs:
   - about
   - directory
 
