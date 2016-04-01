@@ -33,15 +33,21 @@ collections:
   classifications:
     output: true
     permalink: /directory/:title/
+  events:
+    output: true
+    permalink: /events/:title
 
 #Defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "directory"
     values:
       layout: "directory"
+  - scope:
+      type: "events"
+    values:
+      layout: "event"
 
 # Blog Settings
 paginate: 3
