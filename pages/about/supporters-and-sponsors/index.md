@@ -2,7 +2,8 @@
 layout: page
 title: "Supporters and Sponsors"
 subtitle: "Replace me"
-header_image_path: 'https://unsplash.it/1400/600/?random' 
+header_image_path: 'https://unsplash.it/1400/600/?random'
+sub-nav: about
 permalink: /about/supporters-and-sponsors/
 ---
 

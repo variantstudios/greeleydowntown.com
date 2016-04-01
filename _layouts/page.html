@@ -10,12 +10,11 @@ layout: default
 	<main>
 		<div class="wrap">
 			{{ content }}
-      {% if page.url == "/about/*" or page.url == "/about/" %}
+      {% if page.sub-nav == "about" %}
         {% include about-nav.html nav=site.data.about-menu  %}
       {% endif %}
     </div>
-	</main>
-
+	</main> 
 
   <script type="text/javascript">
   $(document).ready(function() {

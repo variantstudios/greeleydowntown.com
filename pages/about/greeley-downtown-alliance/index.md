@@ -2,7 +2,8 @@
 layout: page
 title: "Greeley Downtown Alliance"
 subtitle: "The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district."
-header_image_path: 'https://unsplash.it/1400/600/?random' 
+header_image_path: 'https://unsplash.it/1400/600/?random'
+sub-nav: about
 permalink: /about/greeley-downtown-alliance/
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 subtitle: "The Downtown Development Authority is dedicated to the revitalization of Downtown Greeley. If you need to get ahold of us, feel free to give us a call, swing by our office during business hours or fill out and submit the form below."
 header_image_path: 'https://unsplash.it/1400/600/?random' 
-permalink: /contact-dda/
+permalink: /contact/
 ---
 
 The Downtown Development Authority is dedicated to the revitalization of Downtown Greeley. If you need to get ahold of us, feel free to give us a call, swing by our office during business hours or fill out and submit the form below.

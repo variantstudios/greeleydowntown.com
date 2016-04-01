@@ -2,7 +2,8 @@
 layout: page
 title: "DDA Board of Directors"
 subtitle: "Downtown Development Authority (DDA) Board of Directors meetings take place the 3rd Thursday of each month at 7:30 am. These meetings are held in the conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are open to the public."
-header_image_path: 'https://unsplash.it/1400/600/?random' 
+header_image_path: 'https://unsplash.it/1400/600/?random'
+sub-nav: about
 permalink:  /about/dda-board-directors/
 ---
 

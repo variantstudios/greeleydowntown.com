@@ -49,6 +49,10 @@ defaults:
     values:
       layout: "event"
 
+sub-nav:
+  - "about"
+  - "directory"
+
 # Blog Settings
 paginate: 3
 paginate_path: "/blog/page:num/"
