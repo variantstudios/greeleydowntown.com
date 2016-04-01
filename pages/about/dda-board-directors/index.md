@@ -14,4 +14,14 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 
 ### Board of Directors
 
-<div class="staff">{% for staff in site.data.staff %}<div class="staff-member"><img alt="{{ staff.name }}" src="{{ staff.image_path }}" /><div class="staff-title"><h2 class="staff-name">{{ staff.name }}</h2><h3 class="staff-position">{{ staff.position }}</h3></div><div class="staff-bio">{{ staff.bio }}</div></div> {% endfor %}</div>
+<div class="staff">
+{% for staff in site.data.staff %}
+<div class="staff-member">
+<img alt="{{ staff.name }}" src="{{ staff.image_path }}" />
+<div class="staff-title">
+<h2 class="staff-name">{{ staff.name }}</h2>
+<h3 class="staff-position">{{ staff.position }}</h3></div>
+<div class="staff-bio">{{ staff.bio }}</div>
+</div>
+{% endfor %}
+</div>
