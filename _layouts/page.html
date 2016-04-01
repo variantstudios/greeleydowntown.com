@@ -9,7 +9,10 @@ layout: default
 
 	<main>
 		<div class="wrap">
-			 {{ content }}
+			{{ content }}
+      {% if page.url == "/about-us/*" %}
+        {% include about-nav.html nav=site.data.about  %}
+      {% endif %}
     </div>
 	</main>
 
