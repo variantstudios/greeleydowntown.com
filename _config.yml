@@ -33,12 +33,9 @@ collections:
   classifications:
     output: true
     permalink: /directory/:title/
-  events:
-    output: true
-    permalink: /events/:title
   commercial-property:
     output: true
-    permalink: /work/commercial-properties/:title
+    permalink: /work/commercial-properties/:title/
 
 #Defaults
 defaults:
@@ -48,13 +45,9 @@ defaults:
     values:
       layout: "directory"
   - scope:
-      type: "events"
-    values:
-      layout: "event"
-  - scope:
       type: "commercial-property"
     values:
-      layout: "page"
+      layout: "commercial-property"
 
 sub-navs:
   - about

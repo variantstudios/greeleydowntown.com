@@ -12,8 +12,9 @@ layout: default
 			{{ content }}
       {% if page.sub-nav == "about" %}
         {% include sub-nav.html nav=site.data.about-menu  %}
-       {% else if page.sub-nav == "work" %}
+       {% elsif page.sub-nav == "work" %}
        {% include sub-nav.html nav=site.data.work-menu  %}
+       {% else %}
       {% endif %}
     </div>
 	</main> 
