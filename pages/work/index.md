@@ -2,7 +2,7 @@
 layout: page
 title: Business Opportunities
 subtitle: 'Replace me.'
-sub-nav: about
+sub-nav: work
 header_image_path: 'https://unsplash.it/1400/600/?random'
 permalink: /work/
 ---
