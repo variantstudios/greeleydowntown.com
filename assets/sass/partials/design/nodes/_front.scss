@@ -308,7 +308,22 @@
   -moz-animation-timing-function:linear;
 }
 
-
+.play {
+  .icons {
+    text-align: center;
+  }
+  .icon {
+    margin: 110px auto -61px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: bottom;
+  }
+  .icon-text {
+    margin: 0 auto 0;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
 @-webkit-keyframes line-width {
   0% {width: 80px;}
   50% {width: 40px;}
