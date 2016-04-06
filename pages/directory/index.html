@@ -27,7 +27,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 <a name="top"></a>
     
 <ul class="listings-view main-content">
-  <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:5 | orderBy:'Business'" class="listing">
+  <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:12 | orderBy:'Business'" class="listing">
 
     <div class="listing-logo">
       <img data-ng-bind="business.Logo" ng-src="{% raw %}{{business.Logo}}{% endraw %}" alt="">
@@ -44,7 +44,6 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
         <span data-ng-bind="business.State" class="state"></span>
         <span data-ng-bind="business.Zip" class="zip"></span> --></p>
       </div>
-
      <!--  <div class="listing-details">
         <span data-ng-if="!!business.Website">
           <span class="label">Website: </span>
@@ -55,11 +54,11 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
           <span data-ng-bind="business.Phone"></span>
         </div>
       </div> -->
-      <div class="tag-wrapper">
+      <!-- <div class="tag-wrapper">
         <div class="tag" data-ng-repeat="item in business.classifications">
           <p data-ng-bind="item"></p>
         </div>
-      </div>
+      </div> -->
   </div>
 
 
