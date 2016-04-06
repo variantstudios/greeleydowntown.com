@@ -1,0 +1,20 @@
+---
+layout: default
+---
+  <div class="page-header">
+    <div class="wrap">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+
+	<main >
+		<div class="wrap">
+        {{ content }}
+    </div>
+	</main> 
+
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $(".page-header").backstretch("{{ page.header_image_path }}");
+  });
+</script>

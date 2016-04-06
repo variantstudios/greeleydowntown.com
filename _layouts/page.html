@@ -7,15 +7,23 @@ layout: default
     </div>
   </div>
 
-	<main>
+	<main >
 		<div class="wrap">
-			{{ content }}
-      {% if page.sub-nav == "about" %}
-        {% include sub-nav.html nav=site.data.about-menu  %}
-       {% elsif page.sub-nav == "work" %}
-       {% include sub-nav.html nav=site.data.work-menu  %}
-       {% else %}
-      {% endif %}
+			<div class="main-content">
+        {{ content }}
+      </div>
+      <div class="sidebar">
+        {% if page.sub-nav == "about" %}
+          {% include sub-nav.html nav=site.data.about-menu  %}
+         {% elsif page.sub-nav == "work" %}
+         {% include sub-nav.html nav=site.data.work-menu  %}
+         {% else %}
+        {% endif %}
+
+        {% if page.permalink == "/directory/" %}
+          {% include directory-filter.html  %}
+        {% endif %}
+      </div>
     </div>
 	</main> 
 
