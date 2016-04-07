@@ -4,6 +4,7 @@
   clear: both;
   background: white;
   width: 100%;
+  background: #EBEBEB;
   @include breakpoint($tablet, $no-query: '.no-mq') {
   }
 }
@@ -13,4 +14,30 @@ footer.wrap {
   font-family: $heading-font-family;
   p { margin: 0; }
   a { color: #A6A8A9; }
+}
+
+.footer-blocks {
+  @include clearfix;
+  .social {
+    img, span {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+}
+
+.footer-block-one {
+  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+    @include grid-span(3,1);
+  }
+}
+.footer-block-two {
+  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+    @include grid-span(5,4);
+  }
+}
+.footer-block-three {
+  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+    @include grid-span(3,10);
+  }
 }

@@ -1,5 +1,32 @@
 <div class="footer-wrapper">
-  <footer role="contentinfo" class="wrap top clearfix">
+  <footer role="contentinfo" class="wrap footer-blocks clearfix">
+    <div class="footer-block footer-block-one">
+      <img src="/assets/images/dda-logo.png" />
+    </div>
+    <div class="footer-block footer-block-two">
+      <h5>Signup for our E-Newsletter</h5>
+        <form action="/" accept-charset="UTF-8" method="post" id="constant-contact-signup-form" class="compact-form">
+          <div class="form-item compact-form-wrapper" id="edit-cc-email-wrapper">
+           <!-- <label for="edit-cc-email" class="compact-form-label">Email  <span class="form-required" title="This field is required.">*</span></label> -->
+           <input type="text" maxlength="128" name="cc_email" id="edit-cc-email" size="30" value="" placeholder="Your Email" class="form-text required compact-form-field">
+          </div>
+          <input type="submit" name="op" id="edit-submit" value="Signup" class="form-submit">
+          <input type="hidden" name="form_build_id" id="form-502fd091bf56100af7b2fce2008e3806" value="form-502fd091bf56100af7b2fce2008e3806">
+          <input type="hidden" name="form_id" id="edit-constant-contact-signup-form" value="constant_contact_signup_form">
+        </form>
+    </div>
+    <div class="footer-block footer-block-three">
+      <div class="social fb">
+        <img src="/assets/images/fb.svg" alt=""><span>Follow us on Facebook</span>
+      </div>
+      <div class="social pin">
+        <img src="/assets/images/pin.svg" alt=""><span>Follow us on Pinterest</span>
+      </div>
+    </div>
+  </footer>
+
+  <footer role="contentinfo" class="wrap clearfix">
+
     <div>Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} All Rights Reserved.</div>
    	<div>Website by: <a href="https://www.variantstudios.com" target="_blank">Variant Studios</a></div>
   </footer>
