@@ -16,13 +16,31 @@ footer.wrap {
   a { color: #A6A8A9; }
 }
 
-.footer-blocks {
+footer.footer-blocks {
   @include clearfix;
+  padding: 3.5em 2em 0em;
   .social {
+    padding: .5em 0;
     img, span {
       display: inline-block;
       vertical-align: middle;
     }
+    span {
+      font-size: 1.2em;
+      font-weight: 700;
+    }
+    img {
+      padding-right:1em;
+    }
+    &.fb {
+      color: #12669F;
+    }
+    &.pin {
+      color: #CC3333;
+    }
+  }
+  .footer-block {
+    padding: 0em 0 2em;
   }
 }
 
@@ -33,11 +51,34 @@ footer.wrap {
 }
 .footer-block-two {
   @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    @include grid-span(5,4);
+    @include grid-span(5,5);
+  }
+  h5 {
+    font-size: 1.5em;
   }
 }
 .footer-block-three {
   @include breakpoint($phone-lg2, $no-query: '.no-mq') {
     @include grid-span(3,10);
   }
+}
+
+footer.bottom {
+  font-size: .9em;
+  color: #4F4F4F;
+  font-weight: 700;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  .copy {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(6,1);
+    }
+  }
+  .site-by {
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      @include grid-span(6,7);
+      text-align: right;
+    }
+  }
+
 }
