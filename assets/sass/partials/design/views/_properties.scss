@@ -1,0 +1,83 @@
+  .view-filters {
+    background: #EAEAEA;
+    padding: 1em;
+    border-radius: 3px;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      //@include grid-span(3,10);
+    }
+    input {
+      margin: 1.25em 0;
+      width: 100%;
+      &::-webkit-input-placeholder, &:-moz-placeholder, &::-moz-placeholder, &:-ms-input-placeholder,  {
+         color: #4A4A4A;
+      }
+    }
+  }
+
+
+  .commercial-properties {
+    @include clearfix;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      //@include grid-span(9,1);
+    }
+  }
+
+  .commercial-properties {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    .commercial-property-teaser {
+      width: 100%;
+      margin: 1em 0;
+      border: 1px solid #DEDEDE;
+      padding: 0;
+      @include clearfix;
+      @include breakpoint(500px) {
+        width: 48%;
+        margin: 1em 1%;
+      }
+      @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+        height: auto;
+        width: 30%;
+        margin: 1em 1.5%;
+        border-radius: 3px;
+      }
+    }
+
+  }
+
+  .commercial-property-teaser-image {
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+
+    }
+  }
+  .commercial-property-details {
+    padding: 1em;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      //@include grid-span(4,4.25);
+    }
+    h3 {
+      color: $explore;
+      font-size: 1.3em;
+      margin: 0 0 .25em;
+    }
+    a {
+      text-decoration: none;
+    }
+
+  }
+  
+  .commercial-property-details-address {
+    font-size: 0.8em;
+    margin: 0;
+  }
+
+

@@ -7,18 +7,21 @@ permalink: /work/commercial-properties/
 header_image_path: 'https://unsplash.it/1400/600/?random' 
 ---
 
-{% for item in site.commercial-property %}
-  <div class="commercial-property-teaser">
-    <div class="commercial-property-teaser-image">
-      <a href="{{ item.url }}" title="{{ item.Title }}">
-        <img src="{{ item.Image_path }}" class="image-border" alt="{{ item.Title }}" />
-      </a>
-       <a href="{{ item.url }}" title="{{ item.Title }}"><h3>{{ item.Title }}</h3></a>
+<div class="commercial-properties">
+  {% for item in site.commercial-property %}
+    <div class="commercial-property-teaser">
+      <div class="commercial-property-teaser-image">
+        <a href="{{ item.url }}" title="{{ item.Title }}">
+          <img src="{{ item.Image_path }}" class="image-border" alt="{{ item.Title }}" />
+        </a>
+         
+      </div>
+      <div class="commercial-property-details">
+        <a href="{{ item.url }}" title="{{ item.Title }}"><h3>{{ item.Title }}</h3></a>
+        <p class="commercial-property-details-address">
+        	{{ item.City }}, {{ item.State }} {{ item.Zip }}
+        </p>
+      </div>
     </div>
-    <div class="commercial-property-details">
-      <p>{{ item.Address }}<br>
-      	{{ item.City }}, {{ item.State }} {{ item.Zip }}
-      </p>
-    </div>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
