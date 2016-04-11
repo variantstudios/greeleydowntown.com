@@ -7,7 +7,7 @@ City: "Greeley"
 State: "Colorado"
 Zip: "80631"
 Phone: "(970) 346-8282"
-Fax: ""
+Fax:
 Website: "https://www.facebook.com/Millenniumtwo/"
 Contact_Name: "Tim Corley & Heidi Unger"
 Contact_Email: ""

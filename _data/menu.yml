@@ -1,6 +1,26 @@
 - text: Explore
-  url: /directory/
+  subitems:
+    - text: Business Directory
+      url: /explore/business-directory/
+    - text: Dining Directory
+      url: /explore/dining-directory/
+    - text: Creative District
+      url: https://greeleycreativedistrict.org/
+    - text: Live Directory
+      url: /explore/live-directory/
+    - text: Gallery
+      url: /explore/gallery/      
 - text: Play
-  url: /our-calendar/
+  subitems:
+    - text: Signature Events
+      url: /play/signature-events/
+    - text: Calendar of Events
+      url: /play/our-calendar/
+    - text: "Arts &amp; Entertainment Directory"
+      url: /play/arts-and-entertainment-directory/
 - text: Work
-  url: /work/
+  subitems:
+    - text: Available Commercial Properties
+      url: /work/commercial-properties/
+    - text: Business Incentives
+      url: /work/business-incentives/
