@@ -7,7 +7,6 @@ sitemap:
     "records":    
     [
     {% for business in site.directory %}
-    {% if business.Fax  != null %}
         {    
         "Business": {{ business.Business | jsonify }},
         "Street": {{ business.Street | jsonify }},
@@ -26,7 +25,6 @@ sitemap:
         "path": "{{ business.url }}"
         }
         {% unless forloop.last %},{% endunless %}
-        {% endif %}
       {% endfor %}
     ]
 }
