@@ -1,3 +1,3 @@
 ---
-title: "Antiques &amp; Consignment"
+title: "Antiques and Consignment"
 ---

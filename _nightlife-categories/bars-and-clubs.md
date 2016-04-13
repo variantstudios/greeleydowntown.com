@@ -1,3 +1,3 @@
 ---
-title: "Bars &amp; Clubs"
+title: "Bars and Clubs"
 ---

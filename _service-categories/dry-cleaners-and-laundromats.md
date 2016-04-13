@@ -1,3 +1,3 @@
 ---
-title: "Dry Cleaners &amp; Laundromats"
+title: "Dry Cleaners and Laundromats"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Liquor &amp; Smoke Shops"
+title: "Liquor and Smoke Shops"
 ---

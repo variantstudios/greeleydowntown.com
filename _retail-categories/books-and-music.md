@@ -1,3 +1,3 @@
 ---
-title: "Books &amp; Music"
+title: "Books and Music"
 ---

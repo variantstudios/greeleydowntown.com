@@ -1,3 +1,3 @@
 ---
-title: "Moving &amp; Storage"
+title: "Moving and Storage"
 ---

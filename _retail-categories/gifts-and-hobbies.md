@@ -1,3 +1,3 @@
 ---
-title: "Gifts &amp; Hobbies"
+title: "Gifts and Hobbies"
 ---

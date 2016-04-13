@@ -1,3 +1,3 @@
 ---
-title: "Construction &amp; Home Improvement"
+title: "Construction and Home Improvement"
 ---

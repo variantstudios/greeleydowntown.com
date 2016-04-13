@@ -1,3 +1,3 @@
 ---
-title: Test One
+title: African
 ---

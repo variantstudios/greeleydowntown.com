@@ -1,3 +1,3 @@
 ---
-title: "Oil &amp; Gas"
+title: "Oil and Gas"
 ---

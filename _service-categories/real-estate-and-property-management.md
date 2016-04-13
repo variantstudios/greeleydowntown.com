@@ -1,3 +1,3 @@
 ---
-title: "Real Estate &amp; Property Management"
+title: "Real Estate and Property Management"
 ---

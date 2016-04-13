@@ -1,3 +1,3 @@
 ---
-title: "Media &amp; Visual Arts"
+title: "Media and Visual Arts"
 ---

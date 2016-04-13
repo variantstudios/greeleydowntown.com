@@ -1,0 +1,1 @@
+var app=angular.module("mainApp",["angularUtils.directives.dirPagination"]).controller("DirectoryCtrl",["$scope","$http",function(n,i){n.loading=!0,i.get("/dining-directory.json").success(function(i){n.businesses=i.records})["catch"](function(n){})["finally"](function(){n.loading=!1}),i.get("/dining-categories.json").success(function(i){n.dining=i.records})}]);

@@ -1,3 +1,3 @@
 ---
-title: "Salons &amp; Spas"
+title: "Salons and Spas"
 ---

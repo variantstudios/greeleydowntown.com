@@ -1,3 +1,3 @@
 ---
-title: "Apparel &amp; Shoes"
+title: "Apparel and Shoes"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Food &amp; Grocery"
+title: "Food and Grocery"
 ---

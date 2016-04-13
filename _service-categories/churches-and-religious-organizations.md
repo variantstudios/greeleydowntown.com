@@ -1,3 +1,3 @@
 ---
-title: "Churches &amp; Religious Organizations"
+title: "Churches and Religious Organizations"
 ---

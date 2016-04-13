@@ -1,3 +1,3 @@
 ---
-title: "Mail &amp; Print"
+title: "Mail and Print"
 ---
