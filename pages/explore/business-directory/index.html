@@ -14,11 +14,11 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 <div class="view-filters sidebar">
   <h3>Filter Listings</h3>
   
-  <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainmentclassifications">
+  <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
   <option value="">Any Entertainment &amp; Recreation Category</option>
   <option ng-repeat="option in entertainment"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
 
-  <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodgingclassifications">
+  <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
   <option value="">Any Lodging &amp; Event Centers Category</option>
   <option ng-repeat="option in lodging"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
 

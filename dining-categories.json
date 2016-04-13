@@ -7,7 +7,7 @@ sitemap:
 
     "records":    
     [
-    {% for class in site.dining-categories %}
+    {% for class in site.dining_categories %}
         {    
         "Title": {{ class.title | jsonify }},
         "value": {{ class.title | slugify | jsonify }}
