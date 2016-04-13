@@ -6,7 +6,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
   - apparel-and-shoes
-service-categories:
+service_categories:
 Street: 330 8th Avenue
 City: Greeley
 State: Colorado

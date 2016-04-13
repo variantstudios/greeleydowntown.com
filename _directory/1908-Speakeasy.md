@@ -6,7 +6,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
   - bars-and-clubs
 retail_categories:
-service-categories:
+service_categories:
 Street: 801 1/2 9th Street
 City: Greeley
 State: Colorado
