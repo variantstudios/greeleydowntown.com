@@ -33,6 +33,24 @@ collections:
   classifications:
     output: true
     permalink: /directory/:title/
+  service-categories:
+    output: false
+    permalink: /service-categories/:title/
+  retail-categories:
+    output: false
+    permalink: /retail-categories/:title/
+  nightlife-categories:
+    output: false
+    permalink: /nightlife-categories/:title/
+  entertainment-and-recreation-categories:
+    output: false
+    permalink: /entertainment-and-recreation-categories/:title/ 
+  dining-categories:
+    output: false
+    permalink: /dining-categories/:title/
+  lodging-and-event-centers-categories:
+    output: false
+    permalink: /lodging-and-event-centers-categories/:title/
   commercial-property:
     output: true
     permalink: /work/commercial-properties/:title/
