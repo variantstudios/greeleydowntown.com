@@ -43,6 +43,8 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
 
   </li>
+  <li ng-show="(businesses | filter:searchBox).length == 0">There are no businesses in this category.</li>
+
 </ul> 
 
 <dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false">
