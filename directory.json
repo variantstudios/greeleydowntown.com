@@ -8,7 +8,7 @@ sitemap:
   [
   {% assign first_item = true %}
   {% for business in site.directory %}
-    {% if business.dining-categories  == null %}
+    {% if business.dining_categories  == null %}
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
@@ -22,11 +22,11 @@ sitemap:
         "Fax": {{ business.Fax | jsonify }},
         "Website": {{ business.Website | jsonify }},
         "Description": {{ business.content | jsonify }},
-        "Entertainment": {{ business.entertainment-and-recreation-categories | jsonify }},
-        "Lodging": {{ business.lodging-and-event-centers-categories | jsonify }},
-        "Nightlife": {{ business.nightlife-categories | jsonify }},
-        "Retail": {{ business.retial-categories | jsonify }},
-        "Services": {{ business.services-categories | jsonify }},
+        "entertainment_and_recreation_categories": {{ business.entertainment_and_recreation_categories | jsonify }},
+        "lodging_and_event_centers_categories": {{ business.lodging_and_event_centers_categories | jsonify }},
+        "nightlife_categories": {{ business.nightlife_categories | jsonify }},
+        "retail_categories": {{ business.retail_categories | jsonify }},
+        "service_categories": {{ business.service_categories | jsonify }},
         "Contact Name": {{ business.Contact_Name | jsonify }},
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},

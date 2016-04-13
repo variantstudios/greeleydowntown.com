@@ -1,11 +1,11 @@
 ---
 Business: Advanced Detail Automotive
 
-dining-categories:
-entertainment-and-recreation-categories:
-lodging-and-event-centers-categories:
-nightlife-categories:
-retail-categories:
+dining_categories:
+entertainment_and_recreation_categories:
+lodging_and_event_centers_categories:
+nightlife_categories:
+retail_categories:
 service-categories:
 
 Street: 716 11th Street
