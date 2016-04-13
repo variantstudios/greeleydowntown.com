@@ -1,13 +1,12 @@
 ---
 Business: 5 Star Industries
-
 dining-categories:
 entertainment-and-recreation-categories:
 lodging-and-event-centers-categories:
 nightlife-categories:
 retail-categories:
 service-categories:
-
+  - moving-and-storage
 Street: 701 5th Street
 City: Greeley
 State: Colorado
