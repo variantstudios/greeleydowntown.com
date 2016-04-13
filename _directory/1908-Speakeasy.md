@@ -1,13 +1,12 @@
 ---
 Business: 1908 Speakeasy
-
 dining-categories:
 entertainment-and-recreation-categories:
 lodging-and-event-centers-categories:
 nightlife-categories:
+  - bars-and-clubs
 retail-categories:
 service-categories:
-
 Street: 801 1/2 9th Street
 City: Greeley
 State: Colorado
@@ -18,8 +17,7 @@ Website: 'http://www.1908speakeasy.com/'
 Contact_Name: Tim Veldhuizen
 Contact_Email: 1908speakeasy@gmail.com
 Coordinates: '40.424141, -104.691204'
-Logo_image_path: 'https://unsplash.it/200/200' 
-
+Logo_image_path: 'https://unsplash.it/200/200'
 ---
 
 
