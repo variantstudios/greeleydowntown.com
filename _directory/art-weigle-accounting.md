@@ -6,7 +6,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
-service-categories:
+service_categories:
 
 Street: 1019 9th Street
 City: Greeley

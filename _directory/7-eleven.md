@@ -6,7 +6,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
   - food-and-grocery
-service-categories:
+service_categories:
 Street: 830 16th Street
 City: Greeley
 State: Colorado
