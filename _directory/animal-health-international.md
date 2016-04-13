@@ -2,8 +2,8 @@
 Business: Animal Health International
 
 dining-categories:
-entertainment-categories:
-lodging-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
 nightlife-categories:
 retail-categories:
 service-categories:

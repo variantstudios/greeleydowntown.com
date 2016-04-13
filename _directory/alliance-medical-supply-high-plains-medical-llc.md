@@ -2,8 +2,8 @@
 Business: 'Alliance Medical Supply, High Plains Medical, LLC'
 
 dining-categories:
-entertainment-categories:
-lodging-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
 nightlife-categories:
 retail-categories:
 service-categories:

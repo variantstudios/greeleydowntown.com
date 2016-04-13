@@ -2,8 +2,8 @@
 Business: 7-Eleven
 
 dining-categories:
-entertainment-categories:
-lodging-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
 nightlife-categories:
 retail-categories:
 service-categories:
