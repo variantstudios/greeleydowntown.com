@@ -22,15 +22,15 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
   <option value="">Any Lodging &amp; Event Centers Category</option>
   <option ng-repeat="option in lodging"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
 
-  <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlifeclassifications">
+  <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife-categories">
   <option value="">Any Nightlife Category</option>
   <option ng-repeat="option in nightlife"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
 
-  <select name="retailSelect" id="retailSelect" ng-model="searchBox.retailclassifications">
+  <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail-categories">
   <option value="">Any Retail Category</option>
   <option ng-repeat="option in retail"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
 
-  <select name="servicesSelect" id="servicesSelect" ng-model="searchBox.servicesclassifications">
+  <select name="servicesSelect" id="servicesSelect" ng-model="searchBox.service-categories">
   <option value="">Any Services Category</option>
   <option ng-repeat="option in services"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br>
 
