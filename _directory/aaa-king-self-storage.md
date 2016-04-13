@@ -1,7 +1,13 @@
 ---
 Business: AAA King Self Storage
-classifications:
-  - equipment-and-storage-rental
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 715 7th Street
 City: Greeley
 State: Colorado

@@ -1,7 +1,13 @@
 ---
 Business: 'Alliance Medical Supply, High Plains Medical, LLC'
-classifications:
-  - health-services
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 914 11th Avenue
 City: Greeley
 State: Colorado

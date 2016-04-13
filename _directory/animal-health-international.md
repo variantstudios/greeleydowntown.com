@@ -1,7 +1,13 @@
 ---
 Business: Animal Health International
-classifications:
-  - agribusiness
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: '822 7th Street, Ste 740'
 City: Greeley
 State: Colorado

@@ -1,8 +1,13 @@
 ---
 Business: "Al's Detailing Sales and Services"
-classifications:
-  - media-web-and-graphic-design
-  - tattoos
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1201 8th Avenue
 City: Greeley
 State: Colorado

@@ -1,7 +1,13 @@
 ---
 Business: Advantage Moving Systems
-classifications:
-  - moving-service
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: '418 8th Avenue #2'
 City: Greeley
 State: Colorado

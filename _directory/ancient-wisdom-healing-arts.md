@@ -1,7 +1,13 @@
 ---
 Business: Ancient Wisdom Healing Arts
-classifications:
-  - health-services
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 815 9th Street
 City: Greeley
 State: Colorado

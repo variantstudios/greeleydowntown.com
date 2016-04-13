@@ -1,7 +1,13 @@
 ---
 Business: Art Weigle Accounting
-classifications:
-  - financial-services
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1019 9th Street
 City: Greeley
 State: Colorado

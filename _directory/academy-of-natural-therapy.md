@@ -1,7 +1,13 @@
 ---
 Business: Academy of Natural Therapy
-classifications:
-  - educational-institutions-and-services
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 625 8th Avenue
 City: Greeley
 State: Colorado

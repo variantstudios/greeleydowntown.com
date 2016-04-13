@@ -1,7 +1,13 @@
 ---
 Business: "A A Jason's Bail Bonds"
-classifications:
-  - legal-services
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1009 9th Street
 City: Greeley
 State: Colorado

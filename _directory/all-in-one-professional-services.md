@@ -1,7 +1,13 @@
 ---
 Business: All-In-One Professional Services
-classifications:
-  - professional-consulting
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: '710 11th Avenue, Ste. 109'
 City: Greeley
 State: Colorado

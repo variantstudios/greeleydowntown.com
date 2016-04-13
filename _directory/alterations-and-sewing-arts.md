@@ -1,7 +1,13 @@
 ---
 Business: Alterations and Sewing Arts
-classifications:
-  - sewing-and-alterations
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1335 8th Avenue
 City: Greeley
 State: Colorado

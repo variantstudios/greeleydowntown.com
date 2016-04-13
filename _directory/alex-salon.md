@@ -1,7 +1,13 @@
 ---
 Business: Alex Salon
-classifications:
-  - salons-and-barber-shops
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1213 11th Avenue
 City: Greeley
 State: Colorado

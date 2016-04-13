@@ -1,7 +1,13 @@
 ---
 Business: And More Embroidery Shop
-classifications:
-  - sewing-and-alterations
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 818 8th Street
 City: Greeley
 State: Colorado

@@ -1,9 +1,13 @@
 ---
 Business: 'Accessories With A Flair!...and Hair'
-classifications:
-  - apparel
-  - shoes-and-accessories
-  - salons-and-barber-shops
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 801 8th Avenue
 City: Greeley
 State: Colorado

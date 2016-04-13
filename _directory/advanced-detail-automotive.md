@@ -1,7 +1,13 @@
 ---
 Business: Advanced Detail Automotive
-classifications:
-  - auto-services
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 716 11th Street
 City: Greeley
 State: Colorado

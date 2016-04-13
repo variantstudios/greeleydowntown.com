@@ -1,8 +1,13 @@
 ---
 Business: A and F East African Store
-classifications:
-  - grocery
-  - convenience
+
+dining-categories:
+entertainment-categories:
+lodging-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1017 8th Avenue
 City: Greeley
 State: Colorado
