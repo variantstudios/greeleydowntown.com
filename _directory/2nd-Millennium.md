@@ -1,7 +1,13 @@
 ---
 Business: "2nd Millennium"
-classifications:
-  - tattoos
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: "909 16th Street"
 City: "Greeley"
 State: "Colorado"

@@ -1,7 +1,13 @@
 ---
 Business: "Anne's Taxes"
-classifications:
-  - financial-services
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1219 5th Avenue
 City: Greeley
 State: Colorado

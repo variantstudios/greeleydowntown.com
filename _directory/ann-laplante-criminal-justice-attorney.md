@@ -1,7 +1,13 @@
 ---
 Business: 'Ann LaPlante, Criminal Justice Attorney'
-classifications:
-  - legal-services
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: '710 11th Avenue, E306'
 City: Greeley
 State: Colorado

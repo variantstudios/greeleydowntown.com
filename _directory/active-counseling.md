@@ -1,7 +1,13 @@
 ---
 Business: Active Counseling
-classifications:
-  - counseling-and-therapy
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: '1220 11th Ave #300'
 City: Greeley
 State: Colorado

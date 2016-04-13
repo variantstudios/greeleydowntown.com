@@ -1,8 +1,13 @@
 ---
 Business: 8th Avenue Arcade and Lingerie
-classifications:
-  - apparel
-  - shoes-and-accessories
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 330 8th Avenue
 City: Greeley
 State: Colorado

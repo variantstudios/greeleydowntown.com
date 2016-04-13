@@ -15,8 +15,25 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
       // Hide loading spinner whether our call succeeded or failed.
       $scope.loading = false;
     });
-	$http.get('/classifications.json')
+
+	$http.get('/entertainment-and-recreation-categories.json')
 	.success(function(data) {
-		$scope.classifications = data.records;
+		$scope.entertainment = data.records;
+	})
+	$http.get('/lodging-and-event-centers-categories.json')
+	.success(function(data) {
+		$scope.lodging = data.records;
+	})
+	$http.get('/nightlife-categories.json')
+	.success(function(data) {
+		$scope.nightlife = data.records;
+	})
+	$http.get('/retail-categories.json')
+	.success(function(data) {
+		$scope.retail = data.records;
+	})
+	$http.get('/service-categories.json')
+	.success(function(data) {
+		$scope.services = data.records;
 	})
 }]);

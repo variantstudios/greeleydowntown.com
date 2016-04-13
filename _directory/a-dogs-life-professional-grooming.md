@@ -1,7 +1,13 @@
 ---
 Business: "A Dog's Life Professional Grooming"
-classifications:
-  - pet-care
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 925 16th Street
 City: Greeley
 State: Colorado

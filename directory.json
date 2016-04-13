@@ -4,10 +4,16 @@ sitemap:
   exclude: 'yes'
 ---
 {
-    "records":    
-    [
-    {% for business in site.directory %}
-        {    
+  "records":    
+  [
+  {% assign first_item = true %}
+  {% for business in site.directory %}
+    {% if business.dining-categories  == null %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
+      {    
         "Business": {{ business.Business | jsonify }},
         "Street": {{ business.Street | jsonify }},
         "City": {{ business.City | jsonify }},
@@ -16,15 +22,19 @@ sitemap:
         "Fax": {{ business.Fax | jsonify }},
         "Website": {{ business.Website | jsonify }},
         "Description": {{ business.content | jsonify }},
-        "Categories": {{ business.Categories | jsonify }},
+        "Entertainment": {{ business.entertainment-and-recreation-categories | jsonify }},
+        "Lodging": {{ business.lodging-and-event-centers-categories | jsonify }},
+        "Nightlife": {{ business.nightlife-categories | jsonify }},
+        "Retail": {{ business.retial-categories | jsonify }},
+        "Services": {{ business.services-categories | jsonify }},
         "Contact Name": {{ business.Contact_Name | jsonify }},
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},
         "classifications": {{ business.classifications | jsonify }},
         "Logo": {{ business.Logo_image_path | jsonify }},
         "path": "{{ business.url }}"
-        }
-        {% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ]
+      }
+    {% endif %}
+  {% endfor %}
+  ]
 }

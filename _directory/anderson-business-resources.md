@@ -1,7 +1,13 @@
 ---
 Business: Anderson Business Resources
-classifications:
-  - professional-consulting
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 611 8th Street Unit 2
 City: Greeley
 State: Colorado

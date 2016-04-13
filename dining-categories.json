@@ -1,0 +1,18 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+{
+
+    "records":    
+    [
+    {% for class in site.dining-categories %}
+        {    
+        "Title": {{ class.title | jsonify }},
+        "value": {{ class.title | slugify | jsonify }}
+        }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+}

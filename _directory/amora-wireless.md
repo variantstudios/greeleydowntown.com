@@ -1,7 +1,13 @@
 ---
 Business: Amora Wireless
-classifications:
-  - communication-and-marketing
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1235 8th Avenue
 City: Greeley
 State: Colorado

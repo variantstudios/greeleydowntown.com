@@ -1,7 +1,13 @@
 ---
 Business: All Drivers Insurance
-classifications:
-  - insurance
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: 1416 11th Avenue
 City: Greeley
 State: Colorado

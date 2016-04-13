@@ -1,7 +1,13 @@
 ---
 Business: Ancon Construction
-classifications:
-  - construction-and-engineering
+
+dining-categories:
+entertainment-and-recreation-categories:
+lodging-and-event-centers-categories:
+nightlife-categories:
+retail-categories:
+service-categories:
+
 Street: '611 8th Street, #1'
 City: Greeley
 State: Colorado
