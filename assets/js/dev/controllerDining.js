@@ -4,7 +4,7 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 
 	$scope.loading = true;
 	
-	$http.get('/dining-directory.json')
+	$http.get('/directory-dining.json')
 	.success(function(response) {
 		$scope.businesses = response.records;
 	})

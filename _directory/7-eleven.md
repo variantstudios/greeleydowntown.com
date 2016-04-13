@@ -1,6 +1,7 @@
 ---
 Business: 7-Eleven
 dining_categories:
+  - fast-food
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
