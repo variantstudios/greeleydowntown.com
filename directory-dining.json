@@ -22,7 +22,7 @@ sitemap:
         "Fax": {{ business.Fax | jsonify }},
         "Website": {{ business.Website | jsonify }},
         "Description": {{ business.content | jsonify }},
-        "Dining": {{ business.dining_categories | jsonify }},
+        "dining_categories": {{ business.dining_categories | jsonify }},
         "Contact Name": {{ business.Contact_Name | jsonify }},
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},

@@ -14,7 +14,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 <div class="view-filters sidebar">
   <h3>Filter Listings</h3>
 
-  <select name="diningSelect" id="servicesSelect" ng-model="searchBox.diningclassifications">
+  <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
   <option value="">-- Any Dining Category --</option>
   <option ng-repeat="option in dining"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br>
 
