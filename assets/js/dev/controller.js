@@ -34,6 +34,6 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 	})
 	$http.get('/service-categories.json')
 	.success(function(data) {
-		$scope.services = data.records;
+		$scope.service = data.records;
 	})
 }]);

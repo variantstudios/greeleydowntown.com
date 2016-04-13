@@ -8,7 +8,7 @@ sitemap:
   [
   {% assign first_item = true %}
   {% for business in site.directory %}
-    {% if business.dining-categories  != null %}
+    {% if business.dining_categories  != null %}
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
@@ -22,7 +22,7 @@ sitemap:
         "Fax": {{ business.Fax | jsonify }},
         "Website": {{ business.Website | jsonify }},
         "Description": {{ business.content | jsonify }},
-        "Dining": {{ business.dining-categories | jsonify }},
+        "Dining": {{ business.dining_categories | jsonify }},
         "Contact Name": {{ business.Contact_Name | jsonify }},
         "Contact Email": {{ business.Contact_Email | jsonify }},
         "Coordinates": {{ business.Coordinates | jsonify }},

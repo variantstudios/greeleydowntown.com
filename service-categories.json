@@ -7,7 +7,7 @@ sitemap:
 
     "records":    
     [
-    {% for class in site.service-categories %}
+    {% for class in site.service_categories %}
         {    
         "Title": {{ class.title | jsonify }},
         "value": {{ class.title | slugify | jsonify }}

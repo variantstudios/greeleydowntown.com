@@ -1,11 +1,11 @@
 ---
 Business: 1908 Speakeasy
-dining-categories:
-entertainment-and-recreation-categories:
-lodging-and-event-centers-categories:
-nightlife-categories:
+dining_categories:
+entertainment_and_recreation_categories:
+lodging_and_event_centers_categories:
+nightlife_categories:
   - bars-and-clubs
-retail-categories:
+retail_categories:
 service-categories:
 Street: 801 1/2 9th Street
 City: Greeley

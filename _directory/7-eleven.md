@@ -1,10 +1,10 @@
 ---
 Business: 7-Eleven
-dining-categories:
-entertainment-and-recreation-categories:
-lodging-and-event-centers-categories:
-nightlife-categories:
-retail-categories:
+dining_categories:
+entertainment_and_recreation_categories:
+lodging_and_event_centers_categories:
+nightlife_categories:
+retail_categories:
   - food-and-grocery
 service-categories:
 Street: 830 16th Street
