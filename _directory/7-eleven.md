@@ -1,13 +1,12 @@
 ---
 Business: 7-Eleven
-
 dining-categories:
 entertainment-and-recreation-categories:
 lodging-and-event-centers-categories:
 nightlife-categories:
 retail-categories:
+  - food-and-grocery
 service-categories:
-
 Street: 830 16th Street
 City: Greeley
 State: Colorado
