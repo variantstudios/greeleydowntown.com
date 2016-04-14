@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: 2016 Blarney on the Block
-permalink: /gallery/2015-blarney-block/
+permalink: /gallery/2016-blarney-block/
 images:
   - title:
     small_image_path: /assets/images/gallery/2015-blarney-block/sm/5bmmo-3343.jpg
@@ -22,3 +22,5 @@ images:
     small_image_path: /assets/images/gallery/2015-blarney-block/sm/dsc6882-3329.jpg
     large_image_path: /assets/images/gallery/2015-blarney-block/lg/dsc6882-3329.jpg
 ---
+
+
