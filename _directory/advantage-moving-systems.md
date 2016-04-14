@@ -17,7 +17,6 @@ Fax:
 Website: 'http://www.advantage-movingsystems.com/'
 Contact_Name: Esau Soto
 Contact_Email: advantagemovingsystems@yahoo.com
-Coordinates: '40.429354, -104.690387'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

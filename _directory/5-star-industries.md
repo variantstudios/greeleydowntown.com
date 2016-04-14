@@ -16,7 +16,6 @@ Fax:
 Website: 'http://www.5starindustries.com/'
 Contact_Name: Ken Alverez
 Contact_Email: ken@5starindustries.com
-Coordinates: '40.428606, -104.688919'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

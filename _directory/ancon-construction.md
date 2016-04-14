@@ -17,7 +17,6 @@ Fax:
 Website:
 Contact_Name: Matt Anderson
 Contact_Email:
-Coordinates: '40.425331, -104.687957'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

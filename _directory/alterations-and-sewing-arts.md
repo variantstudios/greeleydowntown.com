@@ -17,7 +17,6 @@ Fax:
 Website: 'http://sweetrobinsnest.etsy.com'
 Contact_Name: Robin Sweeton
 Contact_Email: sweetrobinsnest@live.com
-Coordinates: '40.417536, -104.690920'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

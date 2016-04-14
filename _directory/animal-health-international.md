@@ -17,7 +17,6 @@ Fax:
 Website: 'http://www.animalhealthinternational.com'
 Contact_Name: David Wagley
 Contact_Email:
-Coordinates: '40.425433, -104.692241'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---
