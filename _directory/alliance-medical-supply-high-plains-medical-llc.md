@@ -18,6 +18,8 @@ Website:
 Contact_Name: C.J. Shovlin
 Contact_Email: even_c@yahoo.com
 Coordinates: '40.423326, -104.696072'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

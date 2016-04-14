@@ -18,6 +18,8 @@ Website: 'https://www.facebook.com/pages/A-Dogs-Life-Professional-Grooming/16007
 Contact_Name: Jamie Weber
 Contact_Email: jamieweber1605@gmail.com
 Coordinates: '40.413771, -104.694025'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

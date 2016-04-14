@@ -1,3 +1,0 @@
----
-title: "Restaurants and Bars"
----

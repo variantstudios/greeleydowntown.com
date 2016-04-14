@@ -18,6 +18,8 @@ Website: 'http://www.7-eleven.com'
 Contact_Name:
 Contact_Email:
 Coordinates: '40.413735, -104.691495'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

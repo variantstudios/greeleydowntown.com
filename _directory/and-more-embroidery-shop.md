@@ -18,6 +18,8 @@ Website:
 Contact_Name: Courtney Graham
 Contact_Email: pen137@comcast.net
 Coordinates: '40.424583, -104.691832'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

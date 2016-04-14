@@ -17,6 +17,8 @@ Website: 'https://www.facebook.com/Millenniumtwo/'
 Contact_Name: 'Tim Corley & Heidi Unger'
 Contact_Email:
 Coordinates: '40.413906, -104.693440'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

@@ -18,6 +18,8 @@ Website: 'http://www.alldriversinsurance.com'
 Contact_Name:
 Contact_Email:
 Coordinates: '40.416604, -104.696289'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

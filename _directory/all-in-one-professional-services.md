@@ -18,6 +18,8 @@ Website: 'http://www.facebook.com/AllInOneProfessionalServices'
 Contact_Name: Damon Sasso
 Contact_Email: damon@1310kfka.com
 Coordinates: '40.425398, -104.695730'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

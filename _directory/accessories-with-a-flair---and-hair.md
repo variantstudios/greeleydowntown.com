@@ -18,6 +18,8 @@ Website: 'http://AccessoriesFashionsandHair.com'
 Contact_Name: Linda Winter
 Contact_Email: lindaw.accessorieswithaflair@gmail.com
 Coordinates: '40.424761, -104.690960'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 
