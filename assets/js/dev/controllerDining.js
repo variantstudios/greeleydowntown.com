@@ -1,7 +1,6 @@
 var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 
 .controller('DirectoryCtrl', ['$scope', '$http', function($scope, $http) {
-
 	$scope.loading = true;
 	
 	$http.get('/directory-dining.json')
