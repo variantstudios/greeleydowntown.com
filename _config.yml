@@ -30,9 +30,6 @@ collections:
   directory:
     output: true
     permalink: /directory/:title/
-  classifications:
-    output: true
-    permalink: /directory/:title/
   service_categories:
     output: false
     permalink: /service-categories/:title/
