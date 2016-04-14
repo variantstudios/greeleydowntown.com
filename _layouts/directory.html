@@ -40,7 +40,7 @@ layout: default
 
     <script type="text/javascript">
       var address = "{{page.Street}}, {{page.City}}, {{page.State}}";
-      var map = L.map('leaflet-map').setView([{{ page.Coordinates }}], 16);
+      var map = L.map('leaflet-map').setView([40.424453, -104.691982], 15);
            L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
               attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
            }).addTo(map);
@@ -53,7 +53,9 @@ layout: default
           var latlng = [lng, lat];
           var marker = new L.Marker(latlng); 
           marker.addTo(map);
-          map.setView( latlng, 18, {animate:true, duration:0.75, noMoveStart:true, easeLinearity: 0.05});
+          marker.bindPopup("<b>{{page.Business}}</b><br>{{page.Street}}, {{page.City}}, {{page.State}}");
+          marker.openPopup();
+          map.setView( latlng, 15, {animate:true, duration:0.75, noMoveStart:true, easeLinearity: 0.05});
         });
 
       </script> 

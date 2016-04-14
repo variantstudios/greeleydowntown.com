@@ -17,7 +17,6 @@ Fax:
 Website: 'http://www.natural-therapy.com'
 Contact_Name: James Mongan
 Contact_Email: mongan@natural-therapy.com
-Coordinates: '40.426875, -104.690772'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

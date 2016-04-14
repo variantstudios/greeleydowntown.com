@@ -17,7 +17,6 @@ Fax:
 Website:
 Contact_Name: Jason Rothe
 Contact_Email:
-Coordinates: '40.423971, -104.694504'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

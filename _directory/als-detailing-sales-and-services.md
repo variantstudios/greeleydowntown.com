@@ -17,7 +17,6 @@ Fax:
 Website:
 Contact_Name:
 Contact_Email:
-Coordinates: '40.419501, -104.691196'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

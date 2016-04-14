@@ -17,7 +17,6 @@ Fax:
 Website:
 Contact_Name: John Anderson
 Contact_Email: ancont1@yahoo.com
-Coordinates: '40.424863, -104.687755'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---

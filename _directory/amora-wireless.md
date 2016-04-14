@@ -17,7 +17,6 @@ Fax:
 Website: 'http://www.1310kfka.com'
 Contact_Name: Teklit Baire
 Contact_Email: amorawireless@gmail.com
-Coordinates: '40.418708, -104.690897'
 Logo_image_path: 'http://placehold.it/200x200'
 
 ---
