@@ -18,6 +18,8 @@ Website:
 Contact_Name: Ann LaPlante
 Contact_Email: alaplante@ctos.com
 Coordinates: '40.425761, -104.696171'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

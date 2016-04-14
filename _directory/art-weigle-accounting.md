@@ -18,6 +18,8 @@ Website:
 Contact_Name: Art Weigle
 Contact_Email:
 Coordinates: '40.424238, -104.695495'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

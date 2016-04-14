@@ -18,6 +18,8 @@ Website: 'http://www.alexsalon.com'
 Contact_Name: Alex Sanagar
 Contact_Email: alexsalon392@gmail.com
 Coordinates: '40.419221, -104.696492'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

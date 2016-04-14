@@ -18,6 +18,8 @@ Website: 'http://AAAKingselfstorage.com'
 Contact_Name: Linda Adams
 Contact_Email: kingstorage@qwest.office
 Coordinates: '40.425853, -104.690718'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 

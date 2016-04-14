@@ -18,6 +18,8 @@ Website: 'http://ancient-wisdom-healing-arts.com'
 Contact_Name: Angela Englehardt
 Contact_Email: Angela.Englehardt@gmail.com
 Coordinates: '40.424212, -104.691656'
+Logo_image_path: 'http://placehold.it/200x200'
+
 ---
 
 
