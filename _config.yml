@@ -54,7 +54,9 @@ collections:
   commercial_property:
     output: true
     permalink: /work/commercial-properties/:title/
-
+  gallery:
+    output: true
+    permalink: /gallery/:title/
 #Defaults
 defaults:
   - scope:
