@@ -4,23 +4,23 @@ title: 2016 Blarney on the Block
 permalink: /gallery/2016-blarney-block/
 images:
   - title:
-    small_image_path: /assets/images/gallery/2015-blarney-block/sm/5bmmo-3343.jpg
-    large_image_path: /assets/images/gallery/2015-blarney-block/lg/5bmmo-3343.jpg
+    small_image_path: /assets/images/gallery/2016-blarney-block/sm/ddabanner-4149.jpg
+    large_image_path: /assets/images/gallery/2016-blarney-block/lg/ddabanner-4149.jpg
   - title:
-    small_image_path: /assets/images/gallery/2015-blarney-block/sm/dsc6848-3332.jpg
-    large_image_path: /assets/images/gallery/2015-blarney-block/lg/dsc6848-3332.jpg
+    small_image_path: /assets/images/gallery/2016-blarney-block/sm/ddavolunteersstarttheparade-4122.jpg
+    large_image_path: /assets/images/gallery/2016-blarney-block/lg/ddavolunteersstarttheparade-4122.jpg
   - title:
-    small_image_path: /assets/images/gallery/2015-blarney-block/sm/dsc6860-3330.jpg
-    large_image_path: /assets/images/gallery/2015-blarney-block/lg/dsc6860-3330.jpg
+    small_image_path: /assets/images/gallery/2016-blarney-block/sm/firstnational-4096.jpg
+    large_image_path: /assets/images/gallery/2016-blarney-block/lg/firstnational-4096.jpg
   - title:
-    small_image_path: /assets/images/gallery/2015-blarney-block/sm/dsc6870-3331.jpg
-    large_image_path: /assets/images/gallery/2015-blarney-block/lg/dsc6870-3331.jpg
+    small_image_path: /assets/images/gallery/2016-blarney-block/sm/funnybikes1-4095.jpg
+    large_image_path: /assets/images/gallery/2016-blarney-block/lg/funnybikes1-4095.jpg
   - title:
-    small_image_path: /assets/images/gallery/2015-blarney-block/sm/dsc6874-3328.jpg
-    large_image_path: /assets/images/gallery/2015-blarney-block/lg/dsc6874-3328.jpg
+    small_image_path: /assets/images/gallery/2016-blarney-block/sm/luckystar1-4080.jpg
+    large_image_path: /assets/images/gallery/2016-blarney-block/lg/luckystar1-4080.jpg
   - title:
-    small_image_path: /assets/images/gallery/2015-blarney-block/sm/dsc6882-3329.jpg
-    large_image_path: /assets/images/gallery/2015-blarney-block/lg/dsc6882-3329.jpg
+    small_image_path: /assets/images/gallery/2016-blarney-block/sm/pipeband1-4140.jpg
+    large_image_path: /assets/images/gallery/2016-blarney-block/lg/pipeband1-4140.jpg
 ---
 
 
