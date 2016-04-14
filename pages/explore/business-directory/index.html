@@ -13,7 +13,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
 <div class="view-filters sidebar">
   <h3>Filter Listings</h3>
-  
+<form name="directoryFilter" novalidate>
   <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
   <option value="">Any Entertainment &amp; Recreation Category</option>
   <option ng-repeat="option in entertainment"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
@@ -32,10 +32,11 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
   <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
   <option value="">Any Service Category</option>
-  <option ng-repeat="option in service"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br>
+  <option ng-repeat="option in service"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
 
-  <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
-  
+    <button type="button" onclick="location.href='/explore/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
+</form>
+
 </div>
 
 <a name="top"></a>
