@@ -11,15 +11,15 @@
     }
     .home-intro-img {
       padding: 8em 0 0;
-      max-width: 70%;
+      max-width: 350px;
     }
     .down-arrow img {
       padding-bottom: 5em;
     }
     .intro-bg {
       content: '';
-      background: rgba(0,0,0,0.5);
-      width: 400px;
+      background: rgba(0,0,0,0.65);
+      width: 80%;
       height: 400px;
       position: absolute;
       margin: 0 auto;
@@ -32,6 +32,9 @@
       filter: blur(50px);
       z-index: -1;
       border-radius: 50%;
+      @include breakpoint($tablet, $no-query: '.no-mq') {
+        width:400px;
+      }
     }
   }
 }
@@ -106,10 +109,13 @@
  // height: 500px !important;
 }
 .front-block-header {
-  padding: 2em 0;
+  padding: 1em 2em;
   margin-bottom: 2em;
   position: relative;
   overflow: hidden;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    padding: 2em 0;
+  }
   &:before {
     content: '';
     width: 1000%;
@@ -178,6 +184,9 @@
   }
 }
 
+.front-block-content {
+  padding: 1em 2em;
+}
 .icons {
   //height:440px;
   //max-width:75%;
@@ -185,16 +194,25 @@
   margin: 0em auto 0;
   left: 0;
   right: 0;
+  padding: 4em;
+  max-width: 400px;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     width:100%;
-    max-width: auto;
+    max-width: 325px;
+    padding: 0;
   }
 
 }
 .icons-bg {
-  height:440px;
+  height:80%;
   width:425px;
   background: url("https://dl.dropboxusercontent.com/u/57799018/icon-lines.png") no-repeat center center;
+  opacity: 0;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    width:400px;
+    height: 425px;
+    opacity: 1;
+  }
 }
 
 .icons-bg {
@@ -313,14 +331,20 @@
     text-align: center;
   }
   .icon-front {
-    margin: 110px auto -61px;
+    margin: 40px auto -90px;
     display: inline-block;
     text-align: center;
     vertical-align: bottom;
+    width: 47%;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      margin: 110px auto -61px;
+    }
   }
   .icon-text {
     margin: 0 auto 0;
     display: inline-block;
+        width: 50%;
+
     vertical-align: middle;
   }
 }
