@@ -12,4 +12,9 @@ $(document).ready(function() {
 	} else {
 		$('html').addClass('no-mq');
 	};
+
+  if (!Modernizr.svg) {
+    $(".logo img").attr("src", "/assets/images/logos/logo.png");
+  }
+
 });

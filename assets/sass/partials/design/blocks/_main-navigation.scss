@@ -518,7 +518,7 @@
   left: 1em;
   display: none;
   color: #fff;
-  position: fixed;
+  position: absolute;
   z-index: 1001;
   @include breakpoint($phone-lg2) {
     display: none;
