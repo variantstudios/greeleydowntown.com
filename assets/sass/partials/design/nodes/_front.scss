@@ -258,7 +258,7 @@
   margin-top: -70px;
 }
 
-.icon {
+.icon-front {
    position: relative;
   text-align: center;
   display: block;
@@ -278,7 +278,7 @@
   -moz-animation-timing-function:linear;
 }
 
-.icon {
+.icon-front {
   display: block;
   -webkit-animation-name: icon-move;
   -webkit-animation-duration:2s;
@@ -312,7 +312,7 @@
   .icons {
     text-align: center;
   }
-  .icon {
+  .icon-front {
     margin: 110px auto -61px;
     display: inline-block;
     text-align: center;

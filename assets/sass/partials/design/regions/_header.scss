@@ -12,7 +12,7 @@ header.site-header {
   }
   .main-nav {
     @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      @include grid-span(6,5);
+      @include grid-span(8,5);
     }
   }
   .more-nav {

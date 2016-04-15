@@ -2,6 +2,17 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 <script type="text/javascript" src="/assets/js/prod/scripts.js"></script>
 
+<script type="text/javascript">
+  
+$(".action--open").click(function() {
+  $(".menu").addClass("menu--open");
+});
+$(".action--close").click(function() {
+  $(".menu").removeClass("menu--open");
+});
+
+</script>
+
 {% if site.google_analytics_tracking_id %}
 <!-- google analytics -->
 <script>

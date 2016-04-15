@@ -2,11 +2,14 @@
     <div class="site-name logo">
       <a href="/"><img src="/assets/images/logo/logo.svg" /></a>
     </div>
-    <nav role="navigation" class="main-nav">
+        <button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
+
+    <nav role="navigation" class="main-nav menu" id="ml-menu" >
+      <button class="action action--close" aria-label="Close Menu"><span class="icon icon--cross"></span></button>
       {% include nav.html nav=site.data.menu %}
     </nav>
-    <nav role="navigation" class="more-nav">
+   <!--  <nav role="navigation" class="more-nav">
       <div class="menu-btn">+ More</div>
       {% include more-nav.html nav=site.data.more-menu %}
-    </nav>
+    </nav> -->
 </header>
