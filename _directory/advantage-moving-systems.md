@@ -20,4 +20,4 @@ Logo_image_path: 'http://placehold.it/200x200'
 ---
 
 
-Placeholder text goes [here](http://google.com).
+![](/uploads/versions/twitter-cover---x----1500-500x---.png)
