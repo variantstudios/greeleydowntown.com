@@ -6,8 +6,8 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-  - media-and-visual-arts
   - mail-and-print
+  - media-and-visual-arts
 Street: 3822 West 11th Street
 City: Greeley
 State: Colorado
@@ -17,7 +17,7 @@ Fax: (970) 111-1112
 Website: 'https://www.variantstudios.com'
 Contact_Name: Brent Robbins
 Contact_Email: team@variantstudios.com
-Logo_image_path:
+Logo_image_path: /uploads/vs-logo.png
 ---
 
 
@@ -26,6 +26,3 @@ A description goes here.
 * one&nbsp;
 * two&nbsp;
 * three
-
-
-![](/uploads/versions/vs-logo---x----189-189x---.png)
