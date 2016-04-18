@@ -20,4 +20,3 @@ Logo_image_path: 'http://placehold.it/200x200'
 ---
 
 
-![](/uploads/versions/twitter-cover---x----1500-500x---.png)
