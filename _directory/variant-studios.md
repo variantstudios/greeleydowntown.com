@@ -1,5 +1,5 @@
 ---
-Business: 1310 KFKA
+Business: 'Variant Studios, Inc.'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -7,14 +7,17 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - media-and-visual-arts
-Street: 820 11th Avenue
+  - mail-and-print
+Street: 3822 West 11th Street
 City: Greeley
 State: Colorado
-Zip: '80631'
-Phone: (970) 356-1310
-Fax:
-Website: 'http://www.1310kfka.com'
-Contact_Name: Damon Sasso
-Contact_Email: damon@1310kfka.com
-Logo_image_path: 'http://placehold.it/200x200'
+Zip: '80634'
+Phone: (970) 111-1111
+Fax: (970) 111-1112
+Website: 'https://www.variantstudios.com'
+Contact_Name: Brent Robbins
+Contact_Email: team@variantstudios.com
+Logo_image_path:
 ---
+
+
