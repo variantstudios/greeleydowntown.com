@@ -1,5 +1,5 @@
 ---
-Business: 8th Avenue Arcade and Lingerie
+Business: Eighth Avenue Adult Arcade
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -17,7 +17,6 @@ Website:
 Contact_Name:
 Contact_Email:
 Logo_image_path: 'http://placehold.it/200x200'
-
 ---
 
 
