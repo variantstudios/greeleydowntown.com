@@ -1,5 +1,5 @@
 ---
-Business: 2nd Millennium
+Business: Millennium 2
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -16,8 +16,7 @@ Fax:
 Website: 'https://www.facebook.com/Millenniumtwo/'
 Contact_Name: 'Tim Corley & Heidi Unger'
 Contact_Email:
-Logo_image_path: 'http://placehold.it/200x200'
-
+Logo_image_path: /_service_categories/millennium 2.jpg
 ---
 
 
