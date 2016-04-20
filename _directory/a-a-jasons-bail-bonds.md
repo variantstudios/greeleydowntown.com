@@ -1,13 +1,12 @@
 ---
 Business: "A A Jason's Bail Bonds"
-
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-
+  - legal
 Street: 1009 9th Street
 City: Greeley
 State: Colorado
@@ -18,7 +17,6 @@ Website:
 Contact_Name: Jason Rothe
 Contact_Email:
 Logo_image_path: 'http://placehold.it/200x200'
-
 ---
 
 
