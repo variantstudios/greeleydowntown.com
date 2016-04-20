@@ -16,7 +16,7 @@ Fax:
 Website: 'http://www.abrucejohnson.com/'
 Contact_Name: Bruce Johnson
 Contact_Email: bruce@abrucejohnson.com
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: /_service_categories/legal.md
 ---
 
 
