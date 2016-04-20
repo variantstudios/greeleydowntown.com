@@ -1,6 +1,7 @@
 ---
 Business: 1908 Speakeasy
 dining_categories:
+  - american
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
@@ -16,8 +17,7 @@ Fax:
 Website: 'http://www.1908speakeasy.com/'
 Contact_Name: Tim Veldhuizen
 Contact_Email: 1908speakeasy@gmail.com
-Logo_image_path: 'http://placehold.it/200x200'
-
+Logo_image_path: /1908 speakeasy.jpg
 ---
 
 
