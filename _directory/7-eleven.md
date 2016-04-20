@@ -8,6 +8,7 @@ nightlife_categories:
 retail_categories:
   - food-and-grocery
 service_categories:
+  - automotive
 Street: 830 16th Street
 City: Greeley
 State: Colorado
@@ -17,8 +18,7 @@ Fax:
 Website: 'http://www.7-eleven.com'
 Contact_Name:
 Contact_Email:
-Logo_image_path: 'http://placehold.it/200x200'
-
+Logo_image_path: /_service_categories/7 11.jpg
 ---
 
 
