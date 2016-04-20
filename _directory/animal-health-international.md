@@ -17,7 +17,7 @@ Fax:
 Website: 'http://www.animalhealthinternational.com'
 Contact_Name: David Wagley
 Contact_Email:
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 

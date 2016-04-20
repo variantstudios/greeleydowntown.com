@@ -17,7 +17,7 @@ Fax:
 Website:
 Contact_Name: C.J. Shovlin
 Contact_Email: even_c@yahoo.com
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 
