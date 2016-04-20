@@ -61,7 +61,7 @@ defaults:
       type: "directory"
     values:
       layout: "directory"
-      Logo_image_path: '/assets/images/directory-default.png' 
+      Logo_image_path: '/assets/images/directory/directory-default.png' 
   - scope:
       type: "commercial-property"
     values:
