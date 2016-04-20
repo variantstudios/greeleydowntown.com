@@ -1,13 +1,12 @@
 ---
 Business: "A Dog's Life Professional Grooming"
-
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-
+  - pet-care
 Street: 925 16th Street
 City: Greeley
 State: Colorado
@@ -18,7 +17,6 @@ Website: 'https://www.facebook.com/pages/A-Dogs-Life-Professional-Grooming/16007
 Contact_Name: Jamie Weber
 Contact_Email: jamieweber1605@gmail.com
 Logo_image_path: 'http://placehold.it/200x200'
-
 ---
 
 
