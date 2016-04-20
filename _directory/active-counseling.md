@@ -17,7 +17,7 @@ Fax: (970) 356-3893
 Website: 'http://activecounseling.org'
 Contact_Name: Jeremy Brooks
 Contact_Email: Jeremy.Brooks@activecounseling.org
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 

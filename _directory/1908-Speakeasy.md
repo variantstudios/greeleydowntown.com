@@ -17,7 +17,7 @@ Fax:
 Website: 'http://www.1908speakeasy.com/'
 Contact_Name: Tim Veldhuizen
 Contact_Email: 1908speakeasy@gmail.com
-Logo_image_path: /1908 speakeasy.jpg
+Logo_image_path: "/assets/images/directory/1908-speakeasy.jpg"
 ---
 
 

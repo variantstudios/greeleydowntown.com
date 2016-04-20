@@ -17,7 +17,7 @@ Fax:
 Website:
 Contact_Name: Matt Anderson
 Contact_Email:
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 

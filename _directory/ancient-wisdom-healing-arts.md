@@ -17,7 +17,7 @@ Fax:
 Website: 'http://ancient-wisdom-healing-arts.com'
 Contact_Name: Angela Englehardt
 Contact_Email: Angela.Englehardt@gmail.com
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 

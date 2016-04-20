@@ -17,7 +17,7 @@ Fax:
 Website: 'http://www.alexsalon.com'
 Contact_Name: Alex Sanagar
 Contact_Email: alexsalon392@gmail.com
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 

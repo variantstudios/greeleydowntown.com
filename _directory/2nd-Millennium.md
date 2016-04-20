@@ -16,7 +16,7 @@ Fax:
 Website: 'https://www.facebook.com/Millenniumtwo/'
 Contact_Name: 'Tim Corley & Heidi Unger'
 Contact_Email:
-Logo_image_path: /_service_categories/millennium 2.jpg
+Logo_image_path: "/assets/images/directory/millennium-2.jpg"
 ---
 
 

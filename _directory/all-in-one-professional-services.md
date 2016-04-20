@@ -17,7 +17,7 @@ Fax:
 Website: 'http://www.facebook.com/AllInOneProfessionalServices'
 Contact_Name: Damon Sasso
 Contact_Email: damon@1310kfka.com
-Logo_image_path: 'http://placehold.it/200x200'
+Logo_image_path: "/assets/images/directory/directory-default.png"
 
 ---
 
