@@ -5,7 +5,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
-  - apparel-and-shoes
+  - gifts-and-hobbies
 service_categories:
 Street: 330 8th Avenue
 City: Greeley
