@@ -1,13 +1,12 @@
 ---
 Business: AAA King Self Storage
-
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-
+  - moving-and-storage
 Street: 715 7th Street
 City: Greeley
 State: Colorado
@@ -17,8 +16,7 @@ Fax:
 Website: 'http://AAAKingselfstorage.com'
 Contact_Name: Linda Adams
 Contact_Email: kingstorage@qwest.office
-Logo_image_path: 'http://placehold.it/200x200'
-
+Logo_image_path: /_service_categories/aaa king storage.jpg
 ---
 
 
