@@ -6,6 +6,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
+  - real-estate-and-property-management
 Street: '611 8th Street, Unit 2'
 City: Greeley
 State: Colorado
