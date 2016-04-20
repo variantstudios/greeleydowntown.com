@@ -16,8 +16,7 @@ Fax:
 Website: 'http://www.5starindustries.com/'
 Contact_Name: Ken Alverez
 Contact_Email: ken@5starindustries.com
-Logo_image_path: 'http://placehold.it/200x200'
-
+Logo_image_path: /_service_categories/5 star industries.jpg
 ---
 
 
