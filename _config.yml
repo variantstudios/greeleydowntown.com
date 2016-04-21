@@ -56,16 +56,18 @@ collections:
     permalink: /gallery/:title/
 #Defaults
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
       type: "directory"
     values:
       layout: "directory"
       Logo_image_path: '/assets/images/directory/directory-default.png' 
-  - scope:
-      type: "commercial-property"
-    values:
-      layout: "commercial-property"
+    scope:
+          path: ""
+          type: "commercial-property"
+        values:
+          layout: "commercial-property"
 
 sub-navs:
   - about
