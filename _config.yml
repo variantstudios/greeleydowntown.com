@@ -61,7 +61,7 @@ defaults:
       type: "directory"
     values:
       layout: "directory"
-      Business: 1310 KFKA
+      Business: ""
       dining_categories: ""
       entertainment_and_recreation_categories: ""
       lodging_and_event_centers_categories: ""
