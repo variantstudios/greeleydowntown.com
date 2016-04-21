@@ -17,7 +17,7 @@ Fax:
 Website: 'http://www.natural-therapy.com'
 Contact_Name: James Mongan
 Contact_Email: mongan@natural-therapy.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/acadofnattherapy.png
 ---
 
 
