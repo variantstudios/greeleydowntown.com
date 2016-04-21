@@ -16,7 +16,7 @@ Fax:
 Website: 'http://AAAKingselfstorage.com'
 Contact_Name: Linda Adams
 Contact_Email: kingstorage@qwest.office
-Logo_image_path: "/assets/images/directory/aaa-king-storage.jpg"
+Logo_image_path: /assets/images/directory/aaa king storage.png
 ---
 
 
