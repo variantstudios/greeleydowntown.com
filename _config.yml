@@ -58,11 +58,14 @@ collections:
 defaults:
   -
     scope:
-      path: ""
       type: "directory"
     values:
       layout: "directory"
       Logo_image_path: '/assets/images/directory/directory-default.png'
+    scope:
+      type: "commercial-property"
+    values:
+      layout: "commercial-property"
 
 sub-navs:
   - about
