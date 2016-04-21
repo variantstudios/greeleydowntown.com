@@ -62,6 +62,7 @@ defaults:
       type: "directory"
     values:
       layout: "directory"
+      Logo_image_path: '/assets/images/directory/directory-default.png'
 
 sub-navs:
   - about
