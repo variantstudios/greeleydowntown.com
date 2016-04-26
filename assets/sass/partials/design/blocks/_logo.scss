@@ -11,7 +11,7 @@
   }
   @include breakpoint($phone-lg2, $no-query: '.no-mq') {
     display: block;
-    padding: 1.5em 2em .5em;
+    padding: 1.5em 2em .25em;
     img {
     }
   }
