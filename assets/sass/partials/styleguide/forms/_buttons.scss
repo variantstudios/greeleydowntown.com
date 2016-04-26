@@ -1,4 +1,4 @@
-input[type="submit"] {
+input[type="submit"], button {
   box-sizing: border-box;
   padding: .5em 1.5em;
   font-size: 1em;
@@ -9,6 +9,7 @@ input[type="submit"] {
   border: 0;
   box-shadow: 7px 8px 0px 0px #DEDEDE;
   margin-bottom: 2em;
+  cursor: pointer;
   &:active, &:focus {
     box-shadow: none;
     outline: none;

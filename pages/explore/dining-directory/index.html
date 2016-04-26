@@ -16,11 +16,12 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 <form name="directoryFilter" novalidate>
 
 
-  <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
+  <div class="select-wrap">
+    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
   <option value="">-- Any Dining Category --</option>
-  <option ng-repeat="option in dining"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br>
+  <option ng-repeat="option in dining"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select></div>
 
-  <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses"><br><br>
+  <div class="search-wrap"><input type="text" ng-model="searchBox.Business" placeholder="Search Businesses"></div>
   <button type="button" onclick="location.href='/explore/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
 </form>
 
