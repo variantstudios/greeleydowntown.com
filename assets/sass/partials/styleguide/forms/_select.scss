@@ -1,7 +1,21 @@
+.select-wrap {
+  padding: 0 0 1.75em;
+  position: relative;
+  &:after {
+    content: '';
+    background: url('../images/select.png') no-repeat;
+    width: 6px;
+    height: 11px;
+    position: absolute;
+    right: 14px;
+    z-index: 99;
+    top: 14px;
+  }
+}
 select {
   box-sizing: border-box;
-  padding: .5em 1em;
-  font-size: 90%;
+  padding: .75em 3em .75em 1em;
+  font-size: 80%;
   font-family: $font-family;
   border-radius: 3px;
   background: #FFFFFF;
@@ -9,7 +23,9 @@ select {
   box-shadow: 7px 8px 0px 0px #DEDEDE;
   width: 100%;
   -webkit-appearance: none;
+  -moz-appearance: none;
   color: #4A4A4A;
+  cursor: pointer;
   &:active, &:focus {
     box-shadow: none;
     outline: none;

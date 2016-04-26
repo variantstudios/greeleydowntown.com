@@ -14,27 +14,29 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 <div class="view-filters sidebar">
   <h3>Filter Listings</h3>
 <form name="directoryFilter" novalidate>
-  <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
+  <div class="select-wrap"><select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
   <option value="">Any Entertainment &amp; Recreation Category</option>
-  <option ng-repeat="option in entertainment"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
+  <option ng-repeat="option in entertainment"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select></div>
 
-  <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
+  <div class="select-wrap"><select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
   <option value="">Any Lodging &amp; Event Centers Category</option>
-  <option ng-repeat="option in lodging"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
+  <option ng-repeat="option in lodging"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select></div>
 
-  <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
+  <div class="select-wrap"><select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
   <option value="">Any Nightlife Category</option>
-  <option ng-repeat="option in nightlife"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
+  <option ng-repeat="option in nightlife"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select></div>
 
-  <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
+  <div class="select-wrap"><select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
   <option value="">Any Retail Category</option>
-  <option ng-repeat="option in retail"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
+  <option ng-repeat="option in retail"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select></div>
 
-  <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
+  <div class="select-wrap"><select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
   <option value="">Any Service Category</option>
-  <option ng-repeat="option in service"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select><br><br>
-<input type="text" ng-model="searchBox.Business" placeholder="Search Businesses"><br><br>
+  <option ng-repeat="option in service"  value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option></select></div>
+<div class="search-wrap">
+<input type="text" ng-model="searchBox.Business" placeholder="Search Businesses"></div>
     <button type="button" onclick="location.href='/explore/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
+
 </form>
 
 </div>
@@ -60,7 +62,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
 
   </li>
-  <li ng-show="(businesses | filter:searchBox).length == 0">Sorry! There's nothing to see here. Try <a href="/explore/business-directory/">resetting</a> your search or try a different spelling.</li>
+  <li ng-show="(businesses | filter:searchBox).length == 0" class="no-results"><h4>Sorry!</h4> There's nothing to see here. Try <a href="/explore/business-directory/">resetting</a> your search or try a different spelling.</li>
 </ul> 
 
 <dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false">

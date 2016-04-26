@@ -18,3 +18,16 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
 .form-item {
   display: inline-block;
 }
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #4A4A4A;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #4A4A4A;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #4A4A4A;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #4A4A4A;
+}
