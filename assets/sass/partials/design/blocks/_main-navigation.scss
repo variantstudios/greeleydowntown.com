@@ -183,13 +183,13 @@
 
 /* Menu styles */
 
-.menu {
+.main-nav.menu {
   position: fixed;
-  top: 120px;
+  top: 85px;
   left: 0;
-  width: 300px;
+  width: 100%;
   height: calc(100vh - 120px);
-  background: #1c1d22;
+  background: #000;
   @include breakpoint($phone-lg2) {
     position: relative;
     top: auto;
@@ -218,8 +218,7 @@
   margin: 0;
   padding: 0;
   list-style-type: none;
-      padding-top: 1em;
-
+ padding-top: 1em;
   @include breakpoint($phone-lg2) {
     padding: 0;
     position: relative;
@@ -235,14 +234,15 @@
       overflow-y: inherit;
       padding: 0;
       position:absolute;
-      top:99%;
+      top:-999%;
       left:0;
       background:#1F2021;
       padding:0;
       font-size: 0.6em;
       width: 200px;
-      height: auto;
+      height: 0;
       opacity: 0;
+
     }
     .menu__link {
       padding: .4em 0;
@@ -254,11 +254,12 @@
     }
   }
 }
+.menu__link  {
 
+}
 .menu__level--current {
   visibility: visible;
 }
-
 .menu__item {
   display: block;
   width: calc(100% - 50px);
@@ -267,14 +268,23 @@
     display: inline-block;
     padding: 0 1em;
     position: relative;
-    &:hover {
+    .menu__item {
+      width: 100%;
+      padding: .5em 1em;
+    }
+  }
+}
+
+.top-level {
+  &:hover {
+    @include breakpoint($phone-lg2) {
       .menu__level {
          z-index: 999;
          opacity: 1;
+         height: auto;
+         top: 99%;
+        //left: 20%;
       }
-    }
-    .menu__item {
-      width: 100%;
     }
   }
 }
@@ -520,6 +530,7 @@
   color: #fff;
   position: absolute;
   z-index: 1001;
+  box-shadow: none;
   @include breakpoint($phone-lg2) {
     display: none;
   }
@@ -533,9 +544,32 @@
   display: none;
   color: #fff;
   z-index: 9999;
+  box-shadow: none;
   @include breakpoint($phone-lg2) {
     display: none
   }
+}
+
+@include breakpoint($phone-lg2) {
+  .main-nav ul li:hover, .main-nav ul li:hover li:hover
+  {
+    background:$play;
+  }
+  .main-nav ul li:first-child:hover, .main-nav ul li:first-child:hover li:hover
+  {
+    background:$explore;
+  }
+
+  .main-nav ul li:nth-child(3):hover, .main-nav ul li:nth-child(3):hover li:hover
+  {
+    background:$work;
+  }
+
+  .main-nav ul li:last-child:hover, .main-nav ul li:last-child:hover li:hover
+  {
+    background:#000;
+  }
+
 }
 
 @include breakpoint($phone-lg2-down) {
