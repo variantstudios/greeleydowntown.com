@@ -8,6 +8,7 @@ input[type="submit"] {
   background: $play;
   border: 0;
   box-shadow: 7px 8px 0px 0px #DEDEDE;
+  margin-bottom: 2em;
   &:active, &:focus {
     box-shadow: none;
     outline: none;

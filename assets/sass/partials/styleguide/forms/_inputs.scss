@@ -7,11 +7,11 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
   background: #FFFFFF;
   border: 0;
   box-shadow: 7px 8px 0px 0px #DEDEDE;
+
   width: 100%;
   &:active, &:focus {
-    box-shadow: none;
     outline: none;
-    width: auto;
+    box-shadow: 7px 8px 0px 0px #B9B9B9;
   }
 }
 

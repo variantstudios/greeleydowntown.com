@@ -1,9 +1,10 @@
 form {
   label {
     color: $heading-color;
-    font-weight: normal;
-    font-size: 110%;
-    padding-bottom: .5em;
+    font-weight: 700;
+    font-size: 105%;
+    padding-bottom: 1em;
+    display: inline-block;
   }
   .description {
     font-size: 85%;
