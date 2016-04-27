@@ -1,5 +1,5 @@
 ---
-Business: "A A Jason's Bail Bonds"
+Business: "AA Jason's Bail Bonds"
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -16,7 +16,7 @@ Fax:
 Website:
 Contact_Name: Jason Rothe
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
