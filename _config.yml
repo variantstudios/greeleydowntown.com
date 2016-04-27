@@ -61,9 +61,9 @@ defaults:
       type: "directory"
     values:
       layout: "directory"
-      type: "commercial-property"
-    values:
-      layout: "commercial-property"
+      # type: "commercial-property"
+      # values:
+      #   layout: "commercial-property"
 
 sub-navs:
   - about
