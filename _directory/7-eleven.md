@@ -17,7 +17,7 @@ Phone: (970) 352-5150
 Fax:
 Website: 'http://www.7-eleven.com'
 Contact_Name:
-Contact_Email:
+Contact_Email: 
 Logo_image_path: /assets/images/directory/seveneleven.png
 ---
 

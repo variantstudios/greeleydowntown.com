@@ -15,7 +15,7 @@ Phone: (970) 356-2374
 Fax:
 Website:
 Contact_Name: Art Weigle
-Contact_Email:
+Contact_Email: 
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

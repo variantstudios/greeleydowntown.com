@@ -15,7 +15,7 @@ Phone: (970) 673-8202
 Fax:
 Website: 'http://www.facebook.com/AllInOneProfessionalServices'
 Contact_Name:
-Contact_Email:
+Contact_Email: 
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

@@ -15,7 +15,7 @@ Phone: (970) 346-8282
 Fax:
 Website: 'https://www.facebook.com/Millenniumtwo/'
 Contact_Name: 'Tim Corley & Heidi Unger'
-Contact_Email:
+Contact_Email: 
 Logo_image_path: /assets/images/directory/millennium2.png
 ---
 

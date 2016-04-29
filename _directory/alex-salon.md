@@ -15,7 +15,7 @@ Phone: (970) 324-7687
 Fax:
 Website: 'http://www.alexsalon.com'
 Contact_Name: Alex Sanagar
-Contact_Email: alexsalon392@gmail.com
+Contact_Email:  alexsalon392@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

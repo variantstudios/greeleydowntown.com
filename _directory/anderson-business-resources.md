@@ -15,7 +15,7 @@ Phone: (970) 353-3007
 Fax:
 Website:
 Contact_Name: John Anderson
-Contact_Email: ancont1@yahoo.com
+Contact_Email:  ancont1@yahoo.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

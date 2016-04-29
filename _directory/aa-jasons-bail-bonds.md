@@ -15,7 +15,7 @@ Phone: (970) 356-7950
 Fax:
 Website:
 Contact_Name: Jason Rothe
-Contact_Email:
+Contact_Email: 
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

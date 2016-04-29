@@ -15,7 +15,7 @@ Phone:
 Fax:
 Website: 'http://www.baselinecorp.com'
 Contact_Name: Rick Behning
-Contact_Email: rick@baselinecorp.com
+Contact_Email:  rick@baselinecorp.com
 Logo_image_path: /assets/images/directory/baseline.png
 ---
 

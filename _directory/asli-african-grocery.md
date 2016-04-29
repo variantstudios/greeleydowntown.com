@@ -15,7 +15,7 @@ Phone: (602) 358-3902
 Fax:
 Website:
 Contact_Name:
-Contact_Email:
+Contact_Email: 
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
