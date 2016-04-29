@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Roger Brindisi
 Contact_Email: r.brindisi@aemail4u.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/cafepanache.png
 ---
 
 
