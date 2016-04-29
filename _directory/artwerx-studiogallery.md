@@ -16,7 +16,7 @@ Phone: (970) 356-5104
 Fax:
 Website: 'https://www.facebook.com/ArtWerxStudioGallery'
 Contact_Name: Andy Nagel
-Contact_Email: miragevideopro@aol.com
+Contact_Email:  miragevideopro@aol.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

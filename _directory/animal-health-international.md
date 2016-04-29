@@ -15,7 +15,7 @@ Phone: (970) 353-2600
 Fax:
 Website: 'http://www.animalhealthinternational.com'
 Contact_Name: David Wagley
-Contact_Email: dave.wagley@animalhealthinternational.com
+Contact_Email:  dave.wagley@animalhealthinternational.com
 Logo_image_path: /assets/images/directory/animalhealth.png
 ---
 

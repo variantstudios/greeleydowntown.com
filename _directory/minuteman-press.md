@@ -1,19 +1,19 @@
 ---
-business: Minuteman Press
-street: 807 17th Street, Ste. F
-city: Greeley
-state: Colorado
-zip: 80631
-phone: 
-website: http://greeley-co.minutemanpress.com/
+Business: Minuteman Press
+Street: 807 17th Street, Ste. F
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: 
+Website: http://greeley-co.minutemanpress.com/
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: Abhishek Kumar
-contact_email: akumar@minutemanpress.com
-logo_image_path: assets/images/directory/directory-default.png
-description: We Design/Print and promote your Business.
+Contact_Name: Abhishek Kumar
+Contact_Email: akumar@minutemanpress.com
+Logo_image_path: assets/images/directory/directory-default.png
 ---
+We Design/Print and promote your Business.

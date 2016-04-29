@@ -15,7 +15,7 @@ Phone: (970) 356-3887
 Fax: (970) 356-3893
 Website: 'http://activecounseling.org'
 Contact_Name: Jeremy Brooks
-Contact_Email: Jeremy.Brooks@activecounseling.org
+Contact_Email:  Jeremy.Brooks@activecounseling.org
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

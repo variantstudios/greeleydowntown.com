@@ -17,7 +17,7 @@ Phone: (970) 351-6448
 Fax: (970) 356-4341
 Website: 'http://AccessoriesFashionsandHair.com'
 Contact_Name: Linda Winter
-Contact_Email: lindaw.accessorieswithaflair@gmail.com
+Contact_Email:  lindaw.accessorieswithaflair@gmail.com
 Logo_image_path: /assets/images/directory/accessories.png
 ---
 

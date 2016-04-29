@@ -1,19 +1,18 @@
 ---
-business: St. Peter's Catholic Church
-street: 915 12th Street
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 352-1060
-website: http://www.stpetergreeley.org
+Business: St. Peter's Catholic Church
+Street: 915 12th Street
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 352-1060
+Website: http://www.stpetergreeley.org
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: 
-contact_email: 
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: 
+Contact_Email: 
+Logo_image_path: assets/images/directory/directory-default.png
 ---

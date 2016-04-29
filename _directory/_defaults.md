@@ -13,6 +13,6 @@ Zip: "80631"
 Phone: ""
 Website: ""
 Contact_Name: ""
-Contact_Email: ""
+Contact_Email:  ""
 Logo_image_path: "/assets/images/directory/directory-default.png"
 ---

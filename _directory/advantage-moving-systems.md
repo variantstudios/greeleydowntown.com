@@ -15,7 +15,7 @@ Phone: (970) 388-7677
 Fax:
 Website: 'http://www.advantage-movingsystems.com/'
 Contact_Name: Esau Soto
-Contact_Email: advantagemovingsystems@yahoo.com
+Contact_Email:  advantagemovingsystems@yahoo.com
 Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 

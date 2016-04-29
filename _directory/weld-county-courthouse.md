@@ -1,19 +1,18 @@
 ---
-business: Weld County Courthouse
-street: 901 9th Avenue
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 351-7300
-website: http://www.courts.state.co.us/Courts/District/Index.cfm/District_ID/19
+Business: Weld County Courthouse
+Street: 901 9th Avenue
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 351-7300
+Website: http://www.courts.state.co.us/Courts/District/Index.cfm/District_ID/19
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: Marci Hoffman
-contact_email: marci.hoffman@judicial.state.co.us
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: Marci Hoffman
+Contact_Email: marci.hoffman@judicial.state.co.us
+Logo_image_path: assets/images/directory/directory-default.png
 ---

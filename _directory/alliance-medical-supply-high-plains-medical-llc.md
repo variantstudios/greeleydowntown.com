@@ -15,7 +15,7 @@ Phone: (970) 353-3316
 Fax:
 Website:
 Contact_Name: C.J. Shovlin
-Contact_Email: even_c@yahoo.com
+Contact_Email:  even_c@yahoo.com
 Logo_image_path: /assets/images/directory/alliancemedical.png
 ---
 

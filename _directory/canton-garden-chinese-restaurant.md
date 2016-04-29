@@ -1,19 +1,18 @@
 ---
-business: Canton Garden Chinese Restaurant
-street: 1330 8th Avenue
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 353-7314
-website: http://www.greeleycantongarden.com/
+Business: Canton Garden Chinese Restaurant
+Street: 1330 8th Avenue
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 353-7314
+Website: http://www.greeleycantongarden.com/
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: David & Fong Chau Chhor
-contact_email: sam.m.chhor@greeleycantongarden.com
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: David & Fong Chau Chhor
+Contact_Email: sam.m.chhor@greeleycantongarden.com
+Logo_image_path: assets/images/directory/directory-default.png
 ---

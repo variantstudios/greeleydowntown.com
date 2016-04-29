@@ -1,19 +1,18 @@
 ---
-business: University Tower
-street: 609 8th Avenue
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 669-5555
-website: 
+Business: University Tower
+Street: 609 8th Avenue
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 669-5555
+Website: 
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: Kelley Hammel
-contact_email: kelley.hammel@gmail.com
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: Kelley Hammel
+Contact_Email: kelley.hammel@gmail.com
+Logo_image_path: assets/images/directory/directory-default.png
 ---

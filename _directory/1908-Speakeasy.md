@@ -16,7 +16,7 @@ Phone: 970-515-5374
 Fax:
 Website: 'http://www.1908speakeasy.com/'
 Contact_Name: Tim Veldhuizen
-Contact_Email: 1908speakeasy@gmail.com
+Contact_Email:  1908speakeasy@gmail.com
 Logo_image_path: /assets/images/directory/1908speakeasy.png
 ---
 

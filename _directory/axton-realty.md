@@ -15,7 +15,7 @@ Phone: (970)352-1115
 Fax: (970)352-8761
 Website: 'https://www.sites.google.com/site/axtonrealtyconsulting/'
 Contact_Name:
-Contact_Email: aaaxton@gmail.com
+Contact_Email:  aaaxton@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

@@ -1,19 +1,18 @@
 ---
-business: The Gables
-street: 931 13th Street
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 302-8368
-website: 
+Business: The Gables
+Street: 931 13th Street
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 302-8368
+Website: 
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: Linde Thompson
-contact_email: linde@kresscinema.com
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: Linde Thompson
+Contact_Email: linde@kresscinema.com
+Logo_image_path: assets/images/directory/directory-default.png
 ---

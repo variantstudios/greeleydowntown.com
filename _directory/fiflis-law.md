@@ -1,19 +1,18 @@
 ---
-business: Fiflis Law
-street: 710 11th Avenue #E302
-city: Greeley
-state: Colorado
-zip: 80631
-phone: 
-website: http://immlaw.com/attorneys/boulder.html
+Business: Fiflis Law
+Street: 710 11th Avenue #E302
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: 
+Website: http://immlaw.com/attorneys/boulder.html
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: 
-contact_email: 
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: 
+Contact_Email: 
+Logo_image_path: assets/images/directory/directory-default.png
 ---

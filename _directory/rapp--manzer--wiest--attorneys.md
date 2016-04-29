@@ -1,19 +1,18 @@
 ---
-business: Rapp, Manzer & Wiest, Attorneys
-street: 710 11th AvenueSte 300
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 346-8500
-website: http://www.northcolaw.com
+Business: Rapp, Manzer & Wiest, Attorneys
+Street: 710 11th AvenueSte 300
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 346-8500
+Website: http://www.northcolaw.com
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: 
-contact_email: 
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: 
+Contact_Email: 
+Logo_image_path: assets/images/directory/directory-default.png
 ---

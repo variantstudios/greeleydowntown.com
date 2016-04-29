@@ -15,7 +15,7 @@ Phone: (970) 351-6398
 Fax:
 Website: 'http://www.awardalliance.com'
 Contact_Name: Paul Hllad
-Contact_Email: info@awardalliance.com
+Contact_Email:  info@awardalliance.com
 Logo_image_path: /assets/images/directory/awardalliance.png
 ---
 

@@ -1,19 +1,18 @@
 ---
-business: Joseph Bodine, Attorney at Law
-street: 912 8th Avenue
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 304-0570
-website: 
+Business: Joseph Bodine, Attorney at Law
+Street: 912 8th Avenue
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 304-0570
+Website: 
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: Joseph Bodine
-contact_email: josephbodine@yahoo.com
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: Joseph Bodine
+Contact_Email: josephbodine@yahoo.com
+Logo_image_path: assets/images/directory/directory-default.png
 ---

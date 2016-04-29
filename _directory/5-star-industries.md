@@ -15,7 +15,7 @@ Phone: (970) 378-0140
 Fax:
 Website: 'http://www.5starindustries.com/'
 Contact_Name: Ken Alverez
-Contact_Email: ken@5starindustries.com
+Contact_Email:  ken@5starindustries.com
 Logo_image_path: /assets/images/directory/5 star industries.png
 ---
 

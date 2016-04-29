@@ -1,19 +1,18 @@
 ---
-business: Family Dollar
-street: 430 8th Avenue
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 378-6965
-website: http://www.familydollar.com
+Business: Family Dollar
+Street: 430 8th Avenue
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 378-6965
+Website: http://www.familydollar.com
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: 
-contact_email: 
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: 
+Contact_Email: 
+Logo_image_path: assets/images/directory/directory-default.png
 ---

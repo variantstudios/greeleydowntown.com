@@ -15,7 +15,7 @@ Phone: (970) 353-1315
 Fax:
 Website:
 Contact_Name: Bali Modesto
-Contact_Email: b_H_autobody@yahoo.com
+Contact_Email:  b_H_autobody@yahoo.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

@@ -1,19 +1,18 @@
 ---
-business: Jeff Evans, LPC
-street: 710 11th Avenue, Ste. 108
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 584-9418
-website: http://jeffevanslpc.weebly.com/
+Business: Jeff Evans, LPC
+Street: 710 11th Avenue, Ste. 108
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 584-9418
+Website: http://jeffevanslpc.weebly.com/
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: 
-contact_email: 
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: 
+Contact_Email: 
+Logo_image_path: assets/images/directory/directory-default.png
 ---

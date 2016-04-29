@@ -1,19 +1,18 @@
 ---
-business: Blackjack Pizza
-street: 814 16th Street
-city: Greeley
-state: Colorado
-zip: 80631
-phone: (970) 356-2500
-website: http://www.blackjackpizza.com/
+Business: Blackjack Pizza
+Street: 814 16th Street
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: (970) 356-2500
+Website: http://www.blackjackpizza.com/
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: Patrick Frain
-contact_email: BJPeast@hotmail.com
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: Patrick Frain
+Contact_Email: BJPeast@hotmail.com
+Logo_image_path: assets/images/directory/directory-default.png
 ---

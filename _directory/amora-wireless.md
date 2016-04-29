@@ -15,7 +15,7 @@ Phone: (970) 352-9538
 Fax:
 Website: 'http://amorawireless.com/'
 Contact_Name: Teklit Baire
-Contact_Email: amorawireless@gmail.com
+Contact_Email:  amorawireless@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 

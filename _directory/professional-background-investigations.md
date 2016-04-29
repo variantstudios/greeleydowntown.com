@@ -1,19 +1,18 @@
 ---
-business: Professional Background Investigations
-street: 801 8th Street, Ste 220-C
-city: Greeley
-state: Colorado
-zip: 80631
-phone: 
-website: http://www.pbiverify.com/
+Business: Professional Background Investigations
+Street: 801 8th Street, Ste 220-C
+City: Greeley
+State: Colorado
+Zip: 80631
+Phone: 
+Website: http://www.pbiverify.com/
 dining_categories: 
 entertainment_and_recreation_categories: 
 lodging_and_event_centers_categories: 
 nightlife_categories: 
 retail_categories: 
 service_categories: 
-contact_name: 
-contact_email: 
-logo_image_path: assets/images/directory/directory-default.png
-description: 
+Contact_Name: 
+Contact_Email: 
+Logo_image_path: assets/images/directory/directory-default.png
 ---

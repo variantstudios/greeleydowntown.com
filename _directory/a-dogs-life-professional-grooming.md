@@ -15,7 +15,7 @@ Phone: (970) 388-4017
 Fax:
 Website: 'https://www.facebook.com/pages/A-Dogs-Life-Professional-Grooming/160079250688557'
 Contact_Name: Jamie Weber
-Contact_Email: jamieweber1605@gmail.com
+Contact_Email:  jamieweber1605@gmail.com
 Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
