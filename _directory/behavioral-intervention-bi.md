@@ -15,7 +15,7 @@ service_categories:
   - health
 Contact_Name: Diana Campbell
 Contact_Email: dianacampbell@bi.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/behavioralintervention.png
 ---
 
 
