@@ -5,8 +5,8 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
+  - gifts-and-hobbies
 service_categories:
-  - health
 Street: 810 12th Street
 City: Greeley
 State: Colorado
