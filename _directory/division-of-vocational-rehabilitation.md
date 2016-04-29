@@ -13,6 +13,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - civic
+  - health
 Contact_Name: Jill Eaton
 Contact_Email: jill.eaton@state.co.us
 Logo_image_path: /assets/images/directory/divvocationalrehab.png
