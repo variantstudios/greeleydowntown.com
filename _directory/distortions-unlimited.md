@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Marsha Taub-Edmunds
 Contact_Email: distortionsunltd@aol.com
-Logo_image_path:
+Logo_image_path: /assets/images/directory/distortions.png
 ---
 
 
