@@ -1,5 +1,5 @@
 ---
-Business: 'City of Greeley: City Hall Annex (United Plaza)'
+Business: 'City of Greeley: City Hall Annex'
 Street: 1100 10th Street
 City: Greeley
 State: Colorado
