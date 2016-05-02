@@ -15,7 +15,7 @@ service_categories:
   - civic
 Contact_Name: Sarah MacQuiddy
 Contact_Email: sarah@greeleychamber.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/greeleychamber.png
 ---
 
 
