@@ -5,7 +5,7 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 350-9220
-Website: 'http://www.greeleymuseums.com'
+Website: 'http://greeleymuseums.com/locations/greeley-history-museum/'
 dining_categories:
 entertainment_and_recreation_categories:
   - museums
@@ -19,4 +19,9 @@ Logo_image_path: assets/images/directory/directory-default.png
 ---
 
 
-The Greeley History Museum is housed in the beautiful Beaux-Arts style Greeley Tribune building built in 1929. Within the brick walls you will find amazing exhibits telling the story of Greeley and old Weld County. The Hazel E. Johnson research center is also located here. Hours are Wednesday - Friday 8:30 am - 4:30 pm and Saturday 10 am - 4 pm, year-round. Admission $2 for adults and $1 for children and seniors.
+The Greeley History Museum is housed in the beautiful Beaux-Arts style Greeley Tribune building built in 1929. Within the brick walls you will find amazing exhibits telling the story of Greeley and old Weld County. The Hazel E. Johnson research center is also located here. Hours are Wednesday through Saturday from 10 am – 4:30 pm, Sunday from noon – 4:30 pm, and closed on major holidays.&nbsp;
+<br>Admission:
+<br>$5 Adult
+<br>$3 Children (3 to 17) & Seniors (60+)
+<br>$15 Family Rate (max. 5 people)
+<br>Members receive free admission. Join today!
