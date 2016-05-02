@@ -16,7 +16,7 @@ retail_categories:
 service_categories:
 Contact_Name: Tim Veldhuizen
 Contact_Email: tim.veldhuizen@yahoo.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/greeleychophouse.png
 ---
 
 
