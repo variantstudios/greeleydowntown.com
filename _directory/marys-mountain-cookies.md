@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Ryan Wood
 Contact_Email: arwood47@aol.com
-Logo_image_path:
+Logo_image_path: /assets/images/directory/marysmountaincookies.png
 ---
 
 
