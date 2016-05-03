@@ -13,6 +13,7 @@ nightlife_categories:
 retail_categories:
   - gifts-and-hobbies
 service_categories:
+  - floral
 Contact_Name: Carolyn Rohrig
 Contact_Email: mariposaflowers@live.com
 Logo_image_path: /assets/images/directory/mariposa.png
