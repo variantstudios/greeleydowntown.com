@@ -15,7 +15,7 @@ service_categories:
   - non-profit
 Contact_Name: Gail Shatz
 Contact_Email: gail@partnersmentoringyouth.org
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/partnersmentoringyouth.png
 ---
 
 
