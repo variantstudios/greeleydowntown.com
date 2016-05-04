@@ -15,7 +15,7 @@ service_categories:
   - health
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/northerncoaids.png
+Logo_image_path: /assets/images/directory/ncap.png
 ---
 
 
