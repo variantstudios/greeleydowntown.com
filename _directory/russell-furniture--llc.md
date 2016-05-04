@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Brad Mirich
 Contact_Email: brad@russellfurniturellc.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/russellfurniture.png
 ---
 
 
