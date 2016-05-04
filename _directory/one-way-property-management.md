@@ -5,14 +5,17 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 515-5004
-Website: http://onewaypropertymanagement.com/
-dining_categories: 
-entertainment_and_recreation_categories: 
-lodging_and_event_centers_categories: 
-nightlife_categories: 
-retail_categories: 
-service_categories: 
+Website: 'http://onewaypropertymanagement.com/'
+dining_categories:
+entertainment_and_recreation_categories:
+lodging_and_event_centers_categories:
+nightlife_categories:
+retail_categories:
+service_categories:
+  - real-estate-and-property-management
 Contact_Name: Seth Bunting
 Contact_Email: onewayproman@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/onewayproperty.png
 ---
+
+
