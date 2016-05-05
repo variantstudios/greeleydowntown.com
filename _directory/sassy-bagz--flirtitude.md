@@ -1,18 +1,22 @@
 ---
-Business: Sassy Bagz & Flirtitude
+Business: 'Sassy Bagz & Flirtitude'
 Street: 908 9th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 302-9323
-Website: http://www.sassybagzgreeley.com
-dining_categories: 
-entertainment_and_recreation_categories: 
-lodging_and_event_centers_categories: 
-nightlife_categories: 
-retail_categories: 
-service_categories: 
+Website: 'http://www.sassybagzgreeley.com'
+dining_categories:
+entertainment_and_recreation_categories:
+lodging_and_event_centers_categories:
+nightlife_categories:
+retail_categories:
+  - apparel-and-shoes
+  - jewlery
+service_categories:
 Contact_Name: Raquel Jandreau
 Contact_Email: nrdzf@comcast.net
 Logo_image_path: assets/images/directory/directory-default.png
 ---
+
+
