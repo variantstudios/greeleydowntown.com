@@ -13,7 +13,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - non-profit
-  - employment
+  - civic
 Contact_Name: Richard Werner
 Contact_Email: rwerner@upstatecolorado.org
 Logo_image_path: /assets/images/directory/upstatecolorado.png
