@@ -19,6 +19,6 @@ Logo_image_path: /assets/images/directory/textbookbrokers.png
 ---
 
 
-The New Low Price Leader on New and USED Textbooks for University of Northern Colorado and Aims Community College! Come see us, we are on 17th Street across the street from Kepner Hall in the University Center by Chipotle. RENT or BUY your textbooks for LE
+The New Low Price Leader on New and USED Textbooks for University of Northern Colorado and Aims Community College! Come see us, we are on 17th Street across the street from Kepner Hall in the University Center by Chipotle. RENT or BUY your textbooks for LE$$! We can special order books for you! We can work with your Financial Aid! We offer counter service. We get your books for you, meaning quick & personal service! We guarantee the best deal on books! Before you do anything, come by and see us!
 
-<script type="math/tex">! NO STUDENT ID NEEDED! Sell you Books for MORE </script>$$! We can special order books for you! We can work with your Financial Aid! We offer counter service. We get your books for you, meaning quick & personal service! We guarantee the best deal on books! Before you do anything, come by and see us!
+<script type="math/tex">! NO STUDENT ID NEEDED! Sell you Books for MORE </script>
