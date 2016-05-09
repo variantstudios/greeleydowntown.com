@@ -1,6 +1,6 @@
 ---
 Business: RMOMS
-Street: '800 8th Avenue, Ste. 100'
+Street: '800 8th Avenue, Ste. 230'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - health
-Contact_Name:
-Contact_Email:
+Contact_Name: Claudia Villalobos
+Contact_Email: claudia.villalobos@nationaloms.com
 Logo_image_path: /assets/images/directory/rmoms.png
 ---
 
