@@ -15,8 +15,8 @@ Phone: (970) 353-3007
 Fax:
 Website: 'http://www.abrucejohnson.com/'
 Contact_Name: Bruce Johnson
-Contact_Email:  bruce@abrucejohnson.com
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Email: bruce@abrucejohnson.com
+Logo_image_path: /assets/images/directory/abrucejohnson.png
 ---
 
 
