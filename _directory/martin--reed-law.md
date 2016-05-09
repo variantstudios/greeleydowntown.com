@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - legal
-Contact_Name: Bradley Martin
-Contact_Email:
+Contact_Name: Brad Martin
+Contact_Email: bdmartinlaw@gmail.com
 Logo_image_path: assets/images/directory/directory-default.png
 ---
 
