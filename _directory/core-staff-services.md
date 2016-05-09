@@ -1,6 +1,6 @@
 ---
 Business: CORE Staff Services
-Street: 800 8th AvenueSte 131
+Street: '800 8th Avenue, Ste 131'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - employment
-Contact_Name: Maria Smialek
-Contact_Email: maria.smialek@corestaff.com
+Contact_Name: Allison Torres
+Contact_Email: allison.torres@guidantgroup.com
 Logo_image_path: assets/images/directory/directory-default.png
 ---
 
