@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - churches-and-religious-organizations
-Contact_Name:
-Contact_Email:
+Contact_Name: Greg Miller
+Contact_Email: owhautosales@live.com
 Logo_image_path: /assets/images/directory/therock.png
 ---
 
