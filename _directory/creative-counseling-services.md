@@ -1,6 +1,6 @@
 ---
 Business: Creative Counseling Services
-Street: '800 8th Avenue, Ste. 135'
+Street: '800 8th Avenue, Ste. 111, 135'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - health
-Contact_Name: Cindy Clyncke
-Contact_Email: c.clyncke@yahoo.com
+Contact_Name: Stephanie Reyes
+Contact_Email: sreyes_ccs@yahoo.com
 Logo_image_path: assets/images/directory/directory-default.png
 ---
 
