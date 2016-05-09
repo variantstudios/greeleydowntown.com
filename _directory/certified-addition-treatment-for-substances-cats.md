@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - health
-Contact_Name:
-Contact_Email:
+Contact_Name: Holly Moore
+Contact_Email: hmoore@catsllc.biz
 Logo_image_path: assets/images/directory/directory-default.png
 ---
 
