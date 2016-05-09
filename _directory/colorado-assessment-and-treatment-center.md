@@ -13,8 +13,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - health
-Contact_Name:
-Contact_Email:
+Contact_Name: David Yingling
+Contact_Email: david.catc@hotmail.com
 Logo_image_path: assets/images/directory/directory-default.png
 ---
 
