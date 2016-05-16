@@ -15,7 +15,7 @@ service_categories:
   - employment
 Contact_Name: Allison Torres
 Contact_Email: allison.torres@guidantgroup.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

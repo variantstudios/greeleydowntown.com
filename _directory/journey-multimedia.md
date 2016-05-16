@@ -15,7 +15,7 @@ service_categories:
   - media-and-visual-arts
 Contact_Name: Phil Drunen
 Contact_Email: phil@journeymm.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

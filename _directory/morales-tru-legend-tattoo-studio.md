@@ -15,7 +15,7 @@ service_categories:
   - tattoos
 Contact_Name: Alfredo Morales
 Contact_Email: trulegend2010@yahoo.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

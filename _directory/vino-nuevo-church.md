@@ -15,7 +15,7 @@ service_categories:
   - churches-and-religious-organizations
 Contact_Name: Samuel Ortega
 Contact_Email: vinonuevo42day@yahoo.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

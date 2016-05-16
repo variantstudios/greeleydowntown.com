@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Bill Crosier
 Contact_Email: Bill@wcrosierlaw.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

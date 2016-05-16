@@ -15,7 +15,7 @@ service_categories:
   - health
 Contact_Name: Stephanie Reyes
 Contact_Email: sreyes_ccs@yahoo.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Brad Martin
 Contact_Email: bdmartinlaw@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

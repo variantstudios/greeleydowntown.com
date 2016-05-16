@@ -15,7 +15,7 @@ service_categories:
   - health
 Contact_Name: Gary Liscum
 Contact_Email: Garyliscum@msn.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

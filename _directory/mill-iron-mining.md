@@ -15,7 +15,7 @@ service_categories:
   - manufacturing
 Contact_Name: 'Jim Esquibel & Doug Derr'
 Contact_Email:
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

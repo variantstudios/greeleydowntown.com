@@ -15,7 +15,7 @@ service_categories:
   - salons-and-spas
 Contact_Name: Melody Lancaster/ Janelle Lancaster
 Contact_Email: safaritan@qwestoffice.net
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

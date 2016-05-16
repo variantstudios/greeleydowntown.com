@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Kevin Strobel
 Contact_Email: greeley.pubdef@coloradodefenders.us
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

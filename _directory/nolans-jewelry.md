@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Bunny Nolan
 Contact_Email: dnolan8700@aol.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

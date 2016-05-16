@@ -15,7 +15,7 @@ service_categories:
   - churches-and-religious-organizations
 Contact_Name:
 Contact_Email: fusiongreeley@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

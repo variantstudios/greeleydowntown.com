@@ -15,7 +15,7 @@ service_categories:
   - agribusiness
 Contact_Name: Susan Sewald
 Contact_Email: csugarbeet@aol.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

@@ -15,7 +15,7 @@ service_categories:
   - construction-and-home-improvement
 Contact_Name: Steve Martinez
 Contact_Email: steve20mtz@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

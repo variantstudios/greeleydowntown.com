@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Barb Valdez
 Contact_Email: bvaldez@colegalserv.org
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

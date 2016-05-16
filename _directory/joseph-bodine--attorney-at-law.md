@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Joseph Bodine
 Contact_Email: josephbodine@yahoo.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

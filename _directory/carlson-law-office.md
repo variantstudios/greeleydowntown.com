@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Eric Carlson
 Contact_Email: carlsonlawoffice@msn.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

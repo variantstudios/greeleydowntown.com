@@ -15,7 +15,7 @@ service_categories:
   - churches-and-religious-organizations
 Contact_Name: 'Joe & Yvette Consonero'
 Contact_Email:
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

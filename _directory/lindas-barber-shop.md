@@ -15,7 +15,7 @@ service_categories:
   - salons-and-spas
 Contact_Name: Linda Bass
 Contact_Email: lindakbass@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 
