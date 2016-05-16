@@ -15,7 +15,7 @@ service_categories:
   - agribusiness
 Contact_Name: Debbie Clark
 Contact_Email: info@csddata.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

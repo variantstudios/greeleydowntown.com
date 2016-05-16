@@ -14,5 +14,5 @@ retail_categories:
 service_categories: 
 Contact_Name: Rick Adels
 Contact_Email: nccgrly@aol.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---

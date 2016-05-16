@@ -15,7 +15,7 @@ service_categories:
   - pet-care
 Contact_Name: Dames
 Contact_Email: Doggroomingbydames@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

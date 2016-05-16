@@ -15,7 +15,7 @@ service_categories:
   - civic
 Contact_Name: Chad Pedigo
 Contact_Email: Chad.Pedigo@state.co.us
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

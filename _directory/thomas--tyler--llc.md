@@ -15,7 +15,7 @@ service_categories:
   - real-estate-and-property-management
 Contact_Name: Drew Notestine
 Contact_Email: drew@thomasandtyler.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

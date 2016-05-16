@@ -15,7 +15,7 @@ service_categories:
   - media-and-visual-arts
 Contact_Name: Andy Nagel
 Contact_Email:
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

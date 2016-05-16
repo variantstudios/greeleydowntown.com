@@ -15,7 +15,7 @@ service_categories:
   - automotive
 Contact_Name: Randy Premer
 Contact_Email:
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

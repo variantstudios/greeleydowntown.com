@@ -15,7 +15,7 @@ service_categories:
   - automotive
 Contact_Name: Tony Mendoza
 Contact_Email: dog_5@comcast.net
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

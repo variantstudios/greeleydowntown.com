@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Ed Stromberger
 Contact_Email:
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

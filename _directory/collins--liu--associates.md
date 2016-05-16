@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Maria Liu
 Contact_Email: maria@cotriallaw.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

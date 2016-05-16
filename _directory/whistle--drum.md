@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Blayne Chastain
 Contact_Email: blayne@whistleanddrum.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

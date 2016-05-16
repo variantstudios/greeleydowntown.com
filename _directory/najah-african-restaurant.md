@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Abdiwali Amaan
 Contact_Email: daahirsh@hotmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

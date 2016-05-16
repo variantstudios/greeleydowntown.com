@@ -15,7 +15,7 @@ service_categories:
   - automotive
 Contact_Name: Bruce Yackey
 Contact_Email: mail@gamracingengines.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

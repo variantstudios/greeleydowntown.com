@@ -15,7 +15,7 @@ service_categories:
   - media-and-visual-arts
 Contact_Name: John Blake
 Contact_Email: John@JohnBlakePhotography.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

@@ -15,7 +15,7 @@ service_categories:
   - real-estate-and-property-management
 Contact_Name: Susan Harris
 Contact_Email: syharris@aol.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

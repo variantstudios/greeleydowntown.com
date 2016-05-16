@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Ryan Gentry
 Contact_Email: gentry_rw@hotmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

@@ -16,7 +16,7 @@ retail_categories:
 service_categories:
 Contact_Name: Raquel Jandreau
 Contact_Email: nrdzf@comcast.net
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

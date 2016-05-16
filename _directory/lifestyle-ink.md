@@ -15,7 +15,7 @@ service_categories:
   - tattoos
 Contact_Name: Steven Ortega
 Contact_Email: lifestyleinkllc@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

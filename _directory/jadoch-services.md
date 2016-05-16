@@ -15,7 +15,7 @@ service_categories:
   - financial
 Contact_Name: Jessica Gonzales
 Contact_Email: jjadoch@msn.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

@@ -15,7 +15,7 @@ service_categories:
   - financial
 Contact_Name: Diane Johnson
 Contact_Email: abjohnson1994@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

@@ -15,7 +15,7 @@ service_categories:
   - legal
 Contact_Name: Esy Ray
 Contact_Email: esyrayinterpreters@comcast.net
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
 
 

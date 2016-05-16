@@ -14,5 +14,5 @@ retail_categories:
 service_categories: 
 Contact_Name: Kelley Hammel
 Contact_Email: kelley.hammel@gmail.com
-Logo_image_path: assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/directory-default.png"
 ---
