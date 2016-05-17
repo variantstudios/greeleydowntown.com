@@ -20,13 +20,13 @@ layout: default
         <span class="zip">{{page.Zip}}</span></p>
       </div>
       <div class="directory-phone-site">
-        <div class="site-link">
-          {{if page.Website}}<span class="label">Website: </span> 
-          <a href="{{page.Website}}" target="_blank">{{page.Website}}</a></span>{{endif}}
-        </div>
-        <div class="phone">
-          <span class="label">Phone: </span><span data-ng-bind="business.Phone" class="phone">{{page.Phone}}</span>
-        </div>
+       {% if page.Website != null %}<div class="site-link">
+          <span class="label">Website: </span> 
+          <a href="{{page.Website}}">{{page.Website}}</a></span>
+        </div>{% endif %}
+         {% if page.Phone != null %}<div class="phone">
+          <span class="label">Phone: </span><span class="phone">{{page.Phone}}</span>
+        </div>{% endif %}
       </div>
       <div class="directory-desc">
         {{content}}
@@ -34,8 +34,9 @@ layout: default
     </div>
 
     <div class="directory-sidebar">
-     <img src="{{page.Logo_image_path}}" />
-
+      {% if page.Website != null %}<a href="{{page.Website}}">{% endif %}
+     <img src="{{page.Logo_image_path}}" alt="{{page.Business}}" title="{{page.Business}}" />
+     {% if page.Website != null %}</a>{% endif %}
      <div id="leaflet-map"></div>
 
     <script type="text/javascript">

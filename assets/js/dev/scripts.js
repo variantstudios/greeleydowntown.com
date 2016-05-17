@@ -17,4 +17,16 @@ $(document).ready(function() {
     $(".logo img").attr("src", "/assets/images/logos/logo.png");
   }
 
+  // OPEN UP ALL EXTERNAL LINKS IN A NEW WINDOW
+  $('a').each(function() {
+   var a = new RegExp('/' + window.location.host + '/');
+   if(!a.test(this.href)) {
+       $(this).click(function(event) {
+           event.preventDefault();
+           event.stopPropagation();
+           window.open(this.href, '_blank');
+       });
+   }
+  });
+
 });

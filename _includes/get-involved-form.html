@@ -1,0 +1,48 @@
+<form action="#" method="post" class="contact-form">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type="hidden" name="_to" value="brent@variantstudios.com">
+  <input type="hidden" name="_subject" value="Greeley DDA - Get Involved">
+  <input type="text" name="_gotcha" style="display: none;">
+  <!-- all your input fields here.... -->
+    <div class="webform-component">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" required="">
+    </div>
+    <div class="webform-component">
+        <label for="email">Email</label>
+        <input type="text" name="email" id="email" required="">
+    </div>
+     <div class="webform-component">
+        <label for="phone">Phone</label>
+        <input type="text" name="phone" id="phone">
+    </div>
+
+
+     <div class="webform-component">
+        <label>Get Involved with</label>
+         
+         <div class="form-checkboxes"><div class="form-item" id="edit-submitted-get-involved-1-wrapper">
+         <label class="option" for="edit-submitted-get-involved-1"><input type="checkbox" name="submitted[get_involved][internships]" id="edit-submitted-get-involved-1" value="internships" class="form-checkbox"> Internships</label>
+        </div>
+
+        <div class="form-item" id="edit-submitted-get-involved-2-wrapper">
+         <label class="option" for="edit-submitted-get-involved-2"><input type="checkbox" name="submitted[get_involved][events]" id="edit-submitted-get-involved-2" value="events" class="form-checkbox"> Events</label>
+        </div>
+        
+        <div class="form-item" id="edit-submitted-get-involved-3-wrapper">
+         <label class="option" for="edit-submitted-get-involved-3"><input type="checkbox" name="submitted[get_involved][performances]" id="edit-submitted-get-involved-3" value="performances" class="form-checkbox"> Performances</label>
+        </div>
+        
+        <div class="form-item" id="edit-submitted-get-involved-4-wrapper">
+         <label class="option" for="edit-submitted-get-involved-4"><input type="checkbox" name="submitted[get_involved][dda_committees]" id="edit-submitted-get-involved-4" value="dda_committees" class="form-checkbox"> DDA Committees</label>
+        </div>
+        
+        <div class="form-item" id="edit-submitted-get-involved-5-wrapper">
+         <label class="option" for="edit-submitted-get-involved-5"><input type="checkbox" name="submitted[get_involved][special_interest]" id="edit-submitted-get-involved-5" value="special_interest" class="form-checkbox"> Special Interest</label>
+        </div>
+
+      </div>
+
+
+    <input class="sendButton" type="submit" name="Submit" value="Send">
+</form>

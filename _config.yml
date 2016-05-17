@@ -66,9 +66,10 @@ defaults:
       #   layout: "commercial-property"
 
 sub-navs:
-  - about
-  - directory
+  - explore
+  - play
   - work
+  - more
 
 # Blog Settings
 paginate: 3

@@ -18,4 +18,7 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 	.success(function(data) {
 		$scope.dining = data.records;
 	})
+	$scope.pageChanged = function() {
+   		 $('html,body').animate({scrollTop: 300}, 900);
+	};
 }]);

@@ -33,7 +33,7 @@ L.GeoSearch.Provider.Google = L.Class.extend({
 
     loadMapsApi: function () {
         var self = this;
-        var url = "https://maps.googleapis.com/maps/api/js?v=3&callback=onLoadGoogleApiCallback&sensor=false";
+        var url = "https://maps.googleapis.com/maps/api/js?v=3&callback=onLoadGoogleApiCallback&sensor=false&key=AIzaSyCLKGZrNZ8MFalu78-9Oq1-ysExw97dWnk";
         var script = document.createElement('script');
         script.id = 'load_google_api';
         script.type = "text/javascript";

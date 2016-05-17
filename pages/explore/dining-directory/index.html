@@ -26,10 +26,8 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 </form>
 
 </div>
-
-<a name="top"></a>
     
-<ul class="listings-view main-content">
+<ul class="listings-view main-content" ng-cloak>
   <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
 
     <div class="listing-logo">
@@ -48,12 +46,13 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
 
   </li>
-  <li ng-show="(businesses | filter:searchBox).length == 0">Sorry! There's nothing to see here. Try <a href="/explore/dining-directory/">resetting</a> your search or try a different spelling.</li>
+    <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak><h4>Sorry!</h4> There's nothing to see here. Try <a href="/explore/dining-directory/">resetting</a> your search or try a different spelling.</li>
+</ul> 
 
 </ul> 
 
-<dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false">
-</dir-pagination-controls>  
+<dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false" on-page-change="pageChanged()">
+</dir-pagination-controls>   
 
   </div>
 </div>

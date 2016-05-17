@@ -1,17 +1,16 @@
 ---
 layout: page
 title: Supporters and Sponsors
-subtitle: Replace me
+description: 
 header_image_path: 'https://unsplash.it/1400/600/?random'
-sub-nav: about
-permalink: /about/supporters-and-sponsors/
+sub-nav: more
+permalink: /supporters-and-sponsors/
 ---
 
 
 ## DDA Supporters
 
 ### 2015
-{: .present-before-paste}
 
 [Anadarko Petroleum Corp.](http://www.anadarko.com/)
 
@@ -56,7 +55,6 @@ Wheeler Management Group
 ## DDA Event Sponsors
 
 ### 2015 Oktobrewfest
-{: .present-before-paste}
 
 Academy of Natural Therapy
 
