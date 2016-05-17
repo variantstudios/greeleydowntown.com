@@ -1,22 +1,6 @@
-- text: About the DDA
-  url: /about/
-- text: News
-  url: /news/
-- text: District Map
-  url: /district-map/
-- text: Parking Map
-  url: /parking-map/
-- text: Get Involved
-  url: /get-involved/
-- text: DDA Board of Directors
-  url: /about/dda-board-directors/
-- text: Community Links
-  url: /about/community-links-web-sites/
-- text: Historic Downtown
-  url: /about/historic-downtown/
-- text: Greeley Downtown Alliance
-  url: /about/greeley-downtown-alliance/
-- text: "Supporters &amp; Sponsors"
-  url: /supporters-and-sponsors/
-- text: Contact
-  url: /contact/
+- text: Work
+  url: /work/
+- text: Commercial Properties
+  url: /work/commercial-properties/
+- text: Business Incentives
+  url: /work/business-incentives/

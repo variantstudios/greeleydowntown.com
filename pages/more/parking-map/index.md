@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Greeley Downtown Parking Map
-subtitle: 
+description: 
 header_image_path: 'https://unsplash.it/1400/600/?random'
 pdf_path: "/assets/pdfs/parkingmap-05-13-16.pdf"
-sub-nav: about
+sub-nav: more
 permalink: /parking-map/
 ---
 
