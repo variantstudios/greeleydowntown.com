@@ -36,4 +36,8 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 	.success(function(data) {
 		$scope.service = data.records;
 	})
+
+	$scope.pageChanged = function() {
+   		 $('html,body').animate({scrollTop: 310}, 500);
+	};
 }]);
