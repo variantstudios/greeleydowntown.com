@@ -22,10 +22,10 @@ permalink: /community-links-web-sites/
 
 [Upstate Colorado](http://www.upstatecolorado.org/)
 
-Greeley Creative District- http://www.discovergreeleycreativedistrict.com/
+[Greeley Creative District](http://www.discovergreeleycreativedistrict.com/)
 
-University of Northern Colorado- http://www.unco.edu/
+[University of Northern Colorado](http://www.unco.edu/)
 
-Aims Community College- http://www.aims.edu/
+[Aims Community College](http://www.aims.edu/)
 
-Poudre Trail- http://www.poudreheritage.org/
+[Poudre Trail](http://www.poudreheritage.org/)
