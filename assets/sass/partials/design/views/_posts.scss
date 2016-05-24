@@ -1,1 +1,14 @@
 // This is for news or blog view
+article.post {
+    h2 {
+        display: inline-block;
+    }
+    span.post-date {
+        margin: 0 0 0 10px;
+        top: 0px;
+        position: relative;
+        font-style: italic;
+        font-size: 1em;
+        color: rgba(0, 0, 0, .6);
+    }
+}
