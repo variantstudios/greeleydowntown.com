@@ -5,7 +5,7 @@
     - text: Dining Directory
       url: /explore/dining-directory/
     - text: Creative District
-      url: https://greeleycreativedistrict.org/
+      url: http://www.discovergreeleycreativedistrict.com/
     - text: Live Directory
       url: /explore/live-directory/
     - text: Gallery
@@ -16,8 +16,6 @@
       url: /play/signature-events/
     - text: Calendar of Events
       url: /play/our-calendar/
-    - text: "Arts &amp; Entertainment Directory"
-      url: /play/arts-and-entertainment-directory/
 - text: Work
   subitems:
     - text: Available Commercial Properties
