@@ -1,140 +1,143 @@
 .view-filters {
-  background: #EAEAEA;
-  padding: 1em;
-  border-radius: 3px;
-  margin-bottom: 2em;
-  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    //@include grid-span(3,10);
-  }
-  .search-wrap {
-    position: relative;
-    padding: 0 0 1.75em;
-    &:after {
-      content: '';
-      background: url('../images/search.png') no-repeat;
-      width: 14px;
-      height: 14px;
-      position: absolute;
-      right: 12px;
-      z-index: 1;
-      top: 14px;
+    background: #EAEAEA;
+    padding: 1em;
+    border-radius: 3px;
+    margin-bottom: 2em;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+        //@include grid-span(3,10);
     }
-  }
-  input[type="text"] {
-    width: 100%;
-    font-size: 85%;
-    margin: 0;
-    padding: .75em 3em .75em 1em;
-  }
-  h3 {
-    margin-bottom: 1.1em;
-  }
+    .search-wrap {
+        position: relative;
+        padding: 0 0 1.75em;
+        &:after {
+            content: '';
+            background: url('../images/search.png') no-repeat;
+            width: 14px;
+            height: 14px;
+            position: absolute;
+            right: 12px;
+            z-index: 1;
+            top: 14px;
+        }
+    }
+    input[type="text"] {
+        width: 100%;
+        font-size: 85%;
+        margin: 0;
+        padding: .75em 3em .75em 1em;
+    }
+    h3 {
+        margin-bottom: 1.1em;
+    }
 }
 
-
-
-
 .directory-listings {
-
-  .listings-view, .pagination {
-    @include clearfix;
-    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      //@include grid-span(9,1);
+    .listings-view,
+    .pagination {
+        @include clearfix;
+        @include breakpoint($phone-lg2,
+        $no-query: '.no-mq') {
+            //@include grid-span(9,1);
+        }
     }
-  }
-  .listings-view.main-content {
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-    .listing {
-      width: 100%;
-      margin: 1em 0;
-      @include breakpoint(500px) {
-        width: 48%;
-        margin: 1em 1%;
-      }
-      @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-        height: auto;
-        width: 30%;
-        margin: 1em 1.5%;
+    .listings-view.main-content {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+        .listing {
+            width: 100%;
+            margin: 1em 0;
+            position: relative;
+            transition: all .1s ease-out;
+            //cursor: pointer;
+            top: 0;
+            &:hover {
+                box-shadow: 0px 0px 8px rgba(0, 0, 0, .2);
+                top: -4px;
+            }
+            @include breakpoint(500px) {
+                width: 48%;
+                margin: 1em 1%;
+            }
+            @include breakpoint($phone-lg2,
+            $no-query: '.no-mq') {
+                height: auto;
+                width: 30%;
+                margin: 1em 1.5%;
+                border-radius: 3px;
+            }
+        }
+    }
+    ul {
+        padding: 0;
+        margin: 0;
+        li {
+            list-style: none;
+            border: 1px solid #DEDEDE;
+            padding: 0;
+            @include clearfix;
+        }
+    }
+    p {
+        margin: 0;
+    }
+    .listing-logo {
+        @include breakpoint($phone-lg2,
+        $no-query: '.no-mq') {
+            //@include grid-span(3,1);
+        }
+        //margin-bottom: 1em;
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+        }
+    }
+    .listing-content {
+        padding: 1em;
+        @include breakpoint($phone-lg2,
+        $no-query: '.no-mq') {
+            //@include grid-span(4,4.25);
+        }
+    }
+    .listing-link {
+        text-decoration: none;
+    }
+    .business {
+        color: $explore;
+        font-size: 1.3em;
+        margin: 0 0 .25em;
+    }
+    .location-details {
+        font-size: 0.8em;
+        //margin-bottom: .75em;
+    }
+    .listing-details {
+        margin-bottom: .75em;
+        .label {
+            font-weight: 700;
+        }
+        .phone {
+            margin-top: .25em;
+        }
+    }
+    .no-results {
+        border: 1px solid #A91C1C;
+        padding: 1em 1.5em;
+        display: inline-block;
         border-radius: 3px;
-      }
+        background: #D05A5A;
+        color: #fff;
+        width: 100%;
+        a,
+        h4 {
+            margin: 0;
+            color: inherit;
+        }
     }
-
-  }
-
-  ul {
-    padding: 0;
-    margin: 0;
-    li {
-      list-style: none;
-      border: 1px solid #DEDEDE;
-      padding: 0;
-      @include clearfix;
-    }
-  }
-   p {
-      margin: 0;
-    }
-
-  .listing-logo {
-    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      //@include grid-span(3,1);
-    }
-    //margin-bottom: 1em;
-    img {
-      display: block;
-      margin: 0 auto;
-      width: 100%;
-
-    }
-  }
-  .listing-content {
-    padding: 1em;
-    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      //@include grid-span(4,4.25);
-    }
-  }
-  .listing-link {
-    text-decoration: none;
-  }
-  .business {
-    color: $explore;
-    font-size: 1.3em;
-    margin: 0 0 .25em;
-  }
-
-  .location-details {
-    font-size: 0.8em;
-    //margin-bottom: .75em;
-  }
-  .listing-details {
-    margin-bottom: .75em;
-    .label {
-      font-weight: 700;
-    }
-    .phone {
-      margin-top: .25em;
-    }
-  }
-
-  .no-results {
-    border: 1px solid #A91C1C;
-    padding: 1em 1.5em;
-    display: inline-block;
-    border-radius: 3px;
-    background: #D05A5A;
-    color: #fff;
-    width: 100%;
-    a, h4 {
-      margin: 0;
-      color: inherit;
-    }
-  }
-
 }
