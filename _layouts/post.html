@@ -1,26 +1,14 @@
 ---
-layout: default
+layout: page
 ---
-<div class="post">
-
-  <header class="">
-    <h1 class="">{{ page.title }}</h1>
-    <p class="">{{ page.date | date: "%b %-d, %Y" }}</p>
-    <p class="">{% include reading-time.html %}</p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-  <nav class="pagination" role="navigation">
-    {% if page.previous %}
-      <a href="{{ page.previous.url }}" class="" title="{{ page.previous.title }}">Older</a>
-    {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url }}" class="" title="{{ page.next.title }}">Newer</a>
-    {% endif %}
-  </nav><!-- /.pagination -->
-
-{% include comments.html %}
-</div>
+ {{ content }} {% assign counter=0 %} {% for post in site.posts %} {% assign counter=counter | plus:1 %}
+<article class="style{{counter}} post">
+    <h2>{{post.title}}</h2> <span class="post-date">{{post.date | date: '%B %d, %Y'}}</span>
+    <div class="image"><img src="{{post.image_path}}" alt="{{post.title}}" /></div>
+    <div class="content">
+        {% if post.content %}
+        <p>{{post.content}}</p>{% endif %}
+        <p> <a href="{{post.link}}">read more</a> </p>
+    </div>
+</article>
+{% endfor %}

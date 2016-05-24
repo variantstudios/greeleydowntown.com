@@ -23,7 +23,8 @@ kramdown:
 
 
 # Permalinks
-permalink: /blog/:year-:month-:day/:title/
+permalink: /news/:year-:month-:day/:title/
+
 
 #Collections
 collections:
