@@ -24,6 +24,7 @@
     }
   }
   .directory-phone-site {
+    margin-bottom: 1em;
     @include breakpoint($phone-lg2, $no-query: '.no-mq') {
       overflow: hidden;
     }
@@ -43,7 +44,7 @@
   }
   img {
     display: block;
-    margin: 0 auto 2em;
+    margin: 0 auto 1em;
   }
 }
 

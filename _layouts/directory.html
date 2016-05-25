@@ -24,8 +24,13 @@ layout: default
           <span class="label">Website: </span> 
           <a href="{{page.Website}}">{{page.Website}}</a></span>
         </div>{% endif %}
-         {% if page.Phone != null %}<div class="phone">
+         {% if page.Phone != null %}
+         <div class="phone">
           <span class="label">Phone: </span><span class="phone">{{page.Phone}}</span>
+        </div>{% endif %}
+        {% if page.Fax != null %}
+         <div class="phone">
+          <span class="label">Fax: </span><span class="phone">{{page.Fax}}</span>
         </div>{% endif %}
       </div>
       <div class="directory-desc">
@@ -61,8 +66,8 @@ layout: default
 
       </script> 
 
-     {% for classification in page.classifications %}
-      <p>{{classification.title}}</p>
+     {% for item in page.service_categories %}
+      <p>{{ item.title }}</p>
       {% endfor %}
 
     </div>
