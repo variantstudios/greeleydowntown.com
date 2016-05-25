@@ -1,10 +1,9 @@
-<!-- MICHAEL PLEASE FEEL FREE TO CHANGE THE MARKUP -->
 
 <section class="clearfix">
-  <ul class="grid">
+  <ul class="gallery-grid">
     {% for item in page.images %}
       <li itemscope class="grid-item">
-        <a class="gallery" href="{{ item.large_image_path }}"><img class="gallery-item lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
+        <a class="gallery-item" href="{{ item.large_image_path }}"><img class="gallery-img lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
       </li>
     {% endfor %}
   </ul>

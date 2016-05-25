@@ -6,14 +6,20 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
 
 <section class="clearfix">
-  <ul class="grid">
+  <ul class="gallery-grid">
     {% for item in site.gallery %}
 		<a class="gallery-group" href="{{ item.permalink }}">
-			<li itemscope class="grid-item">
-				<h5 class="gallery-group-name">{{ item.title }}</h5>
-				<img class="gallery-item lrg" src="{{ item.images.first.small_image_path }}" alt="{{ item.title }}" itemprop="image">
+			<li itemscope class="">
+				<img class="gallery-img lrg" src="{{ item.images.first.small_image_path }}" alt="{{ item.title }}" itemprop="image">
+        <h5 class="gallery-group-name">{{ item.title }}</h5>
 			</li>
 		</a>
     {% endfor %}
   </ul>
 </section>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".page-header").backstretch("{{ page.header_image_path }}");
+  });
+</script>

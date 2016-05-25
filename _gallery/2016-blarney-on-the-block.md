@@ -2,6 +2,7 @@
 layout: gallery
 title: 2016 Blarney on the Block
 permalink: /gallery/2016-blarney-block/
+header_image_path: 'https://unsplash.it/1400/600/?random' 
 images:
   - title:
     small_image_path: /assets/images/gallery/2016-blarney-block/sm/ddabanner-4149.jpg

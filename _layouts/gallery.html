@@ -1,17 +1,24 @@
 ---
 layout: default
 ---
-<!-- MICHAEL PLEASE FEEL FREE TO CHANGE THE MARKUP -->
+<div class="page-header">
+    <div class="wrap">
+       <h1>{{ page.title }}</h1>
+        <h3 class="subtitle">{{ page.subtitle }}</h3>
+    </div>
+  </div>
 
 <div class="content-wrapper full-width">
   <main class="wrap">
-      <header>
-        <h1>{{ page.title }}</h1>
-        <h3 class="subtitle">{{ page.subtitle }}</h3>
-      </header>
       <section>
       	{{ content }}
 	    {% include gallery.html %}
 	  </section>
   </main>
 </div>
+
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $(".page-header").backstretch("{{ page.header_image_path }}");
+  });
+</script>
