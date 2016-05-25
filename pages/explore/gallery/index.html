@@ -7,7 +7,8 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
 <section class="clearfix">
   <ul class="gallery-grid">
-    {% for item in site.gallery %}
+    {% assign items = site.gallery | sort:"weight"  %}
+    {% for item in items  %}
 		<a class="gallery-group" href="{{ item.permalink }}">
 			<li itemscope class="">
 				<img class="gallery-img lrg" src="{{ item.images.first.small_image_path }}" alt="{{ item.title }}" itemprop="image">
@@ -15,6 +16,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 			</li>
 		</a>
     {% endfor %}
+    
   </ul>
 </section>
 
