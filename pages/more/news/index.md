@@ -6,5 +6,3 @@ header_image_path: 'https://unsplash.it/1400/200/?random'
 sub-nav: more
 permalink: /news/
 ---
-
-Coming Soon.

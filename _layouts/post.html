@@ -7,8 +7,9 @@ layout: page
     {% if post.image_path %}<div class="image"><img src="{{post.image_path}}" alt="{{post.title}}" /></div>{% endif %}
     <div class="content">
         {% if post.content %}
-        <p>{{post.content}}</p>{% endif %}
-        <p> <a href="{{post.link}}">read more</a> </p>
+          <p>{{post.content}}</p>
+        {% endif %}
+        <div class="external-link"> <a href="{{post.link}}">Read More</a> </div>
     </div>
 </article>
 {% endfor %}
