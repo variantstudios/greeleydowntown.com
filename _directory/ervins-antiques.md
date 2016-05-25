@@ -16,7 +16,7 @@ Phone: (970) 515-6775
 Website: 'https://www.facebook.com/Ervins-Antiques-Gifts-192905390863533/'
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: "/assets/images/directory/ervin's antiques.png"
 ---
 
 
