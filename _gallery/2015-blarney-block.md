@@ -2,6 +2,7 @@
 layout: gallery
 title: 2015 Blarney on the Block
 permalink: /gallery/2015-blarney-block/
+header_image_path: 'https://unsplash.it/1400/600/?random' 
 images:
   - title:
     small_image_path: /assets/images/gallery/2015-blarney-block/sm/5bmmo-3343.jpg
