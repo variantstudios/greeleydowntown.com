@@ -97,3 +97,21 @@ Royal Nepal Restaurant
 [iheart radio](http://www.iheart.com/)
 
 [Greeley Tribune](http://www.greeleytribune.com/)
+
+[Startek](http://www.startek.com/)
+
+[Teletech](http://www.teletech.com/)
+
+[City of Greeley](http://greeleygov.com/)
+
+[Sears Real Estate](http://www.searsrealestate.com/)
+
+[First National Bank](https://www.1stnationalbank.com/)
+
+[Tri-City Cyle](http://www.tricitycycle.com/)
+
+[Melissa McDonald](https://www.statefarm.com/agent/US/CO/Greeley/Melissa-Mcdonald-ZB0KX2VV000)
+
+Pres Montoya
+
+Nic Lezama
