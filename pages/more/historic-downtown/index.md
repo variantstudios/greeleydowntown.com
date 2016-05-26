@@ -8,7 +8,7 @@ permalink: /historic-downtown/
 ---
 
 
-### Downtown - Where Greeley began…
+### Downtown: Where Greeley Began
 
 ![](/uploads/versions/greeley-9th-st-8th-ave---x----960-552x---.jpg)
 
