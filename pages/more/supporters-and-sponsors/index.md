@@ -1,183 +1,55 @@
 ---
 layout: page
 title: Supporters and Sponsors
-description: 
+description:
 header_image_path: 'https://unsplash.it/1400/600/?random'
 sub-nav: more
 permalink: /supporters-and-sponsors/
 ---
 
 
-## DDA Supporters
+## 2016 DDA Sponsors:
 
-### 2015
-
-[Anadarko Petroleum Corp.](http://www.anadarko.com/)
-
-[Anderson & Whitney, PC](http://awhitney.com/)
+[Anderson & Whitney](http://awhitney.com/)
 
 [Animal Health International](http://www.animalhealthinternational.com/)
 
-[Banner Health](https://www.bannerhealth.com/)
-
 Colorado Sugarbeet Growers Assoc.
 
-Evans Group, LLC
+Evans Group
 
-Flood & Peterson
+[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
 
-Florio's Shoes
+[Flood & Peterson](http://floodpeterson.com/)
 
-Hensel Phelps Construction
+Great Northern Properties
 
-High Plains Library District
+[Hensel Phelps Construction Co.](http://www.henselphelps.com/)
+
+[High Plains Library District](http://www.mylibrary.us/)
 
 Jean Lewis
 
-KBN Engineers
+[KBN Engineers](http://www.kbnengineers.com/)
 
-Leprino Foods
+[Leprino Foods Company](http://www.leprinofoods.com/)
 
-NCMC, Inc.
-
-Norfolk Iron & Metal
+[Norfolk Iron & Metal Co.](http://www.norfolkiron.com/)
 
 Phelps-Tointon
 
-Phoenix Training Studios
+[Realtec Commercial Real Estate](http://realtec.com/)
 
-Thomas & Tyler, LLC
+[Rise + Grind](http://rise-grind.com/)
 
-Weiss Jewelers
+[The Bell 5 Land Company](http://www.bell5.com/)
 
-Wheeler Management Group
+[Thomas & Tyler](http://www.thomasandtyler.com/)
 
-## DDA Event Sponsors
+[Weiss Jewelers](http://www.weissjewelers.com/)
 
-### 2015 Oktobrewfest
+## 2016 Event Sponsors
 
-Academy of Natural Therapy
+### Oktobrewfest
 
-Accessories with a Flair... and Hair!
-
-All Purpose Rental
-
-BandWagon Magazine
-
-Black Bottle Brewery
-
-Brix Taphouse & Brewery
-
-Broken Plow Brewery
-
-City of Greeley
-
-Consider it There
-
-Crabtree Brewing Co.
-
-Cranford Cove Tea Tavern
-
-Ehrlich Toyota
-
-Grand Lake Brewing
-
-Greeley Philharmonic Orchestra
-
-Greeley Tribune
-
-Guaranty Bank
-
-High Hops Brewery
-
-Lamar
-
-Lincoln Park Emporium
-
-Magnolia River Manufacturing
-
-Mariposa Plants & Flowers
-
-Mineral Resources
-
-MouCo Cheese
-
-NCMC, Inc
-
-Noble Energy
-
-Northern Colorado Credit Union
-
-Northern Colorado Disposal
-
-Oskar Blues
-
-Personally Yours
-
-Phoenix Training Studios
-
-Right Coast Pizza
-
-Rio Grande Mexican Restaurant
-
-Roche Constructors
-
-Sew Downtown
-
-Showcase Art Center
-
-Steamway Floor to Ceiling
-
-Stuft Burger
-
-Syntax Spirits
-
-The Currier Inn
-
-Townsquare Media Group
-
-Triple S Rental
-
-WeldWerks Brewing Co.
-
-Wheeler Management Group
-
-Wiley Roots Brewing Company
-
-Woody’s Newsstand
-
-### 2015 Friday Fest
-
-All Purpose Rental & Sales
-
-Brix Taphouse & Brewery
-
-State Farm – Melissa McDonald
-
-State Farm – Nicolas Lezama
-
-CG Smokeless Vapors
-
-City of Greeley
-
-Greeley Stampede
-
-Greeley Subaru
-
-High Country Beverage
-
-iHeartRadio/Clear Channel
-
-Make Today Count
-
-Make Today Count
-
-Noble Energy
-
-Pres Montoya Real Estate
-
-Sears Real Estate
-
-Startek
-
-Weld Family Clinic of Chiropractic
+&nbsp;
