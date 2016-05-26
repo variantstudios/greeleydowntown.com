@@ -52,4 +52,48 @@ Phelps-Tointon
 
 ### Oktobrewfest
 
-&nbsp;
+[Academy of Natural Therapy](http://www.natural-therapy.com/)
+
+[Accessories with a Flair & Hair](http://accessoriesfashionsandhair.com/)
+
+[Batter Up Cakes](http://www.greeleybakery.com/)
+
+[Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)
+
+[Cranford Cove Tea Tavern](http://www.cranfordcove.com/)
+
+Florio’s Shoes
+
+[Lincoln Park Emporium](http://www.lincolnparkemporium.com/home.php)
+
+[Mariposa Plants & Flowers](http://www.mariposaflowers.com/)
+
+[NCMC Inc.](https://www.bannerhealth.com/Locations/Colorado/North+Colorado+Medical+Center/About+Us/NCMC+Inc+Board.htm)
+
+[Right Coast Pizza](http://www.rightcoastpizza.com/)
+
+Royal Nepal Restaurant
+
+[SteamWay Floor to Ceiling](http://www.steamwayftc.com/)
+
+[Stuft Burger](http://www.stuftburgerbar.com/)
+
+[Syntax Spirits Distillery](http://www.syntaxspirits.com/)
+
+[The Nerd Store](http://the-nerd-store.com/)
+
+[The Resource Center](http://tests4greeley.com/)
+
+[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
+
+[Wheeler Management Group](http://www.wheelermgt.com/)
+
+### Friday Fest
+
+[High Country Beverage](http://highcountrybeverage.com/)
+
+[All Purpose Rental & Sales](http://www.allpurposerental.com/)
+
+[iheart radio](http://www.iheart.com/)
+
+[Greeley Tribune](http://www.greeleytribune.com/)
