@@ -8,15 +8,21 @@ permalink: /community-links-web-sites/
 ---
 
 
-[City of Greeley](http://greeleygov.com/)
+[![](/uploads/versions/greeleycitylogo---x----200-113x---.jpg)](http://greeleygov.com/)
 
-[Greeley Chamber/Visit Greeley](http://www.greeleychamber.com/)
+[![](/uploads/versions/chamberlogo---x----200-119x---.png)](http://www.greeleychamber.com/)
+
+![](/uploads/versions/colorado-sbdc---x----200-90x---.gif)
 
 [East Colorado SBDC](http://www.eastcoloradosbdc.com/)
 
-[Weld County](http://www.co.weld.co.us/)
+[![](/uploads/versions/wclogovector---x----198-200x---.jpg)](http://www.co.weld.co.us/)
 
-[Colorado](http://www.colorado.com/)
+[![](/uploads/versions/colorado---x----200-133x---.gif)](http://www.colorado.com/)
+
+&nbsp;
+
+&nbsp;
 
 [The Tribune](http://greeleytribune.com/)
 
