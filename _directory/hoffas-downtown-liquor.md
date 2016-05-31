@@ -1,5 +1,5 @@
 ---
-Business: "Hoffa's Downtown Liquor"
+Business: Greeley Liquor Store
 Street: 1102 9th Street
 City: Greeley
 State: Colorado
@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name:
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
