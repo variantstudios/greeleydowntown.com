@@ -1,5 +1,5 @@
 ---
-Business: High Plains Library District Lincoln Park Branch
+Business: Lincoln Park Library
 Street: 1012 11th Street
 City: Greeley
 State: Colorado
