@@ -33,7 +33,17 @@
       padding-right: .5em;
     }
   }
+  .listing-contact {
+        margin-bottom: .75em;
+        .label {
+            font-weight: 700;
+                padding-right: 0.25em;
 
+        }
+        .phone {
+            margin-top: .25em;
+        }
+    }
 }
 .directory-desc {
   clear: both;
