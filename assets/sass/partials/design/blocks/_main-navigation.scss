@@ -1,141 +1,3 @@
-// .menu {
-//   padding: 0;
-//   margin: 0;
-//   font-family: $heading-font-family;
-//   //overflow: hidden;
-//   li {
-//     list-style: none;
-//     margin: 0;
-//     display: inline-block;
-//     li {
-//       display: block;
-//     }
-//   } 
-//   a, a:visited { text-decoration: none; }
-// }
-// nav.main-nav {
-//   font-size: 1.7em;
-//   padding: .75em 0 0;
-//   font-weight: 700;
-//   @include breakpoint($desktop, $no-query: '.no-mq') {
-//     font-size: 1.8em;
-//     padding: 0 0;
-//   }
-//   ul.menu {
-//     text-align: center;
-//     @include breakpoint($tablet, $no-query: '.no-mq') {
-//       // Drop down menu styling
-//       ul {
-       
-
-//       }
-//       li:hover {
-//         ul {
-//           li {
-//             display: block;
-//             &:hover {  }
-//           }
-//         }
-//       }
-//     }
-//   }
-//   li {
-//     padding: 0 1em;
-//     @include breakpoint($phone-lg2, $no-query: '.no-mq') { 
-//        padding: 0.65em 1em;
-//     }
-//     li {
-//       padding: .75em .75em;
-//     }
-//   }
-//   a, a:visited {
-//     color: #fff;
-//     &.active {
-//       @include breakpoint($tablet, $no-query: '.no-mq') {
-//         &:before, &:after {
-
-//         }
-        
-//       }
-//     }
-//   }
-// }
-
-// .main-nav
-// {
-// }
-
-// .main-nav ul
-// {
-//   list-style:none;
-//   position:relative;
-//   margin:0;
-//   padding:0
-// }
-
-// .main-nav ul a
-// {
-//   display:block;
-// }
-
-// .main-nav ul li
-// {
-//   position:relative;
-//   margin:0;
-// }
-
-// .main-nav ul li.current-menu-item
-// {
-//   background:#ddd
-// }
-
-// .main-nav ul li:hover, .main-nav ul li:hover li:hover
-// {
-//   background:$play;
-// }
-// .main-nav ul li:first-child:hover, .main-nav ul li:first-child:hover li:hover
-// {
-//   background:$explore;
-// }
-
-// .main-nav ul li:last-child:hover, .main-nav ul li:last-child:hover li:hover
-// {
-//   background:$work;
-// }
-
-// .main-nav ul ul
-// {
-//   display:none;
-//   position:absolute;
-//   top:100%;
-//   left:0;
-//   background:#1F2021;
-//   padding:0;
-//   font-size: 0.6em;
-// }
-
-// .main-nav ul ul li
-// {
-//   float:none;
-//   width:200px
-// }
-
-// .main-nav ul ul a
-// {
-//   line-height:120%;
-//   //padding:10px 15px
-// }
-
-// .main-nav ul ul ul
-// {
-//   top:0;
-//   left:100%
-// }
-
-// .main-nav ul li:hover > ul
-// {
-//   display:block
-// }
 
 
 
@@ -190,11 +52,22 @@
   width: 100%;
   height: calc(100vh - 120px);
   background: #000;
-  @include breakpoint($phone-lg2) {
+  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
     position: relative;
     top: auto;
     height: auto;
     background: none;
+  }
+  li.top-level:last-child {
+    float: right;
+    &:before {
+      content: '+';
+      color: #fff;
+      display: inline-block;
+      font-size: 2em;
+          vertical-align: middle;
+
+    }
   }
 }
 
@@ -204,6 +77,12 @@
   bottom: 0;
   overflow: hidden;
   width: 100%;
+}
+
+span.menu__link {
+  &:hover {
+    cursor: default;
+  }
 }
 
 .menu__level {
@@ -301,6 +180,8 @@
   @include breakpoint($phone-lg2) {
     padding: 1.5em 1em;
     font-size: 1.1em;
+    display: inline-block;
+        vertical-align: middle;
   }
   @include breakpoint($desktop) {
     padding: 1em;

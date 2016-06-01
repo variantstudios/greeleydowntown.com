@@ -5,9 +5,11 @@
   background: white;
   width: 100%;
   background: #EBEBEB;
-      margin-top: 2em;
-
-  @include breakpoint($tablet, $no-query: '.no-mq') {
+  margin-top: 2em;
+}
+.front {
+  .footer-wrapper {
+    margin-top: 0;
   }
 }
 footer.wrap {
@@ -39,6 +41,9 @@ footer.footer-blocks {
     }
     &.pin {
       color: #CC3333;
+    }
+    &.insta {
+      color: #277296;
     }
   }
   .footer-block {

@@ -62,6 +62,9 @@
   h2 {
     color: $work;
   }
+  .icon-text {
+    max-width: 230px;
+  }
 }
 
 
@@ -76,7 +79,7 @@
     width: 100%;
   }
   h2 {
-    margin: 0;
+    //margin: 0;
   }
   p {
     font-size: 110%;
@@ -112,18 +115,18 @@
   padding: 1em 2em;
   margin-bottom: 2em;
   position: relative;
-  overflow: hidden;
+  //overflow: hidden;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     padding: 2em 0;
   }
   &:before {
     content: '';
     width: 1000%;
-    height: 200%;
-    background: url('../images/front-block-header.png');
+    height: 100%;
+    background: url(../images/front-block-header.png);
     position: absolute;
     top: 0;
-    left: -100%;
+    right: -100px;
     z-index: -1;
   }
 }
@@ -134,6 +137,16 @@
   z-index: 999;
   @include breakpoint($phone) {
    display: none;
+  }
+  &:before {
+    content: '';
+    width: 1000%;
+    height: 100%;
+    background: url(../images/front-block-header.png);
+    position: absolute;
+    top: 0;
+    right: -100px;
+    z-index: -1;
   }
 }
 .curve-left {
@@ -185,7 +198,7 @@
 }
 
 .front-block-content {
-  padding: 1em 2em;
+  padding: 2em 2em 1em;
 }
 .icons {
   //height:440px;
@@ -194,8 +207,9 @@
   margin: 0em auto 0;
   left: 0;
   right: 0;
-  padding: 4em;
+  padding: 3em 2em;
   max-width: 400px;
+      top: 2em;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     width:100%;
     max-width: 325px;
@@ -212,6 +226,8 @@
     width:400px;
     height: 425px;
     opacity: 1;
+    left: -11%;
+    top: 0;
   }
 }
 
@@ -225,7 +241,6 @@
   -moz-animation-duration:50s;
   -moz-animation-iteration-count:infinite;
   -moz-animation-timing-function:linear;
-  left: 0;
   right: 0;
   margin: 0 auto;
 }
@@ -337,7 +352,7 @@
     vertical-align: bottom;
     width: 47%;
     @include breakpoint($tablet, $no-query: '.no-mq') {
-      margin: 110px auto -61px;
+      margin: 70px auto -95px;
     }
   }
   .icon-text {
