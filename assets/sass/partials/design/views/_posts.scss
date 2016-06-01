@@ -1,14 +1,13 @@
 // This is for news or blog view
 article.post {
+    padding-bottom: 1.5em;
     h2 {
-        display: inline-block;
+      margin-bottom: 0;
     }
     span.post-date {
-        margin: 0 0 0 10px;
-        top: 0px;
-        position: relative;
+        margin: 0 0 1em;
         font-style: italic;
         font-size: 1em;
-        color: rgba(0, 0, 0, .6);
+        display: block;
     }
 }
