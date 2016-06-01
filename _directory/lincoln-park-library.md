@@ -1,6 +1,6 @@
 ---
-Business: High Plains Library District Lincoln Park Branch
-Street: '919 7th Street, Suite 100'
+Business: Lincoln Park Library
+Street: 1012 11th Street
 City: Greeley
 State: Colorado
 Zip: 80631

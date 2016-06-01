@@ -5,27 +5,28 @@ description:
 header_image_path: 'https://unsplash.it/1400/600/?random'
 sub-nav: more
 permalink: /community-links-web-sites/
+class: "community"
 ---
 
 
-[City of Greeley](http://greeleygov.com/)
+[![](/uploads/versions/greeleycitylogo---x----200-113x---.jpg)](http://greeleygov.com/)
 
-[Greeley Chamber/Visit Greeley](http://www.greeleychamber.com/)
+[![](/uploads/versions/chamberlogo---x----200-119x---.png)](http://www.greeleychamber.com/)
 
-[East Colorado SBDC](http://www.eastcoloradosbdc.com/)
+[![](/uploads/versions/colorado-sbdc---x----200-90x---.gif)](http://www.eastcoloradosbdc.com/)
 
-[Weld County](http://www.co.weld.co.us/)
+[![](/uploads/versions/wclogovector---x----198-200x---.jpg)](http://www.co.weld.co.us/)
 
-[Colorado](http://www.colorado.com/)
+[![](/uploads/versions/colorado---x----200-133x---.gif)](http://www.colorado.com/)
 
-[The Tribune](http://greeleytribune.com/)
+[![](/uploads/versions/greeleytriblogo---x----200-38x---.gif)](http://greeleytribune.com/)
 
-[Upstate Colorado](http://www.upstatecolorado.org/)
+[![](/uploads/versions/upstatelogohome---x----200-152x---.gif)](http://www.upstatecolorado.org/)
 
-[Greeley Creative District](http://www.discovergreeleycreativedistrict.com/)
+[![](/uploads/versions/gcd---x----193-200x---.jpg)](http://www.discovergreeleycreativedistrict.com/)
 
-[University of Northern Colorado](http://www.unco.edu/)
+[![](/uploads/versions/northerncoloradobearslogo---x----200-150x---.jpg)](http://www.unco.edu/)
 
-[Aims Community College](http://www.aims.edu/)
+[![](/uploads/versions/aims---x----200-112x---.gif)](http://www.aims.edu/)
 
-[Poudre Trail](http://www.poudreheritage.org/)
+[![](/uploads/versions/cache-la-poudre---x----200-70x---.jpg)](http://www.poudreheritage.org/)
