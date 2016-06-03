@@ -60,6 +60,10 @@
   }
   li.top-level:last-child {
     float: right;
+    padding: 0 1em;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      padding: 0 3em;
+    }
     &:before {
       content: '+';
       color: #fff;
@@ -118,10 +122,9 @@ span.menu__link {
       background:#1F2021;
       padding:0;
       font-size: 0.6em;
-      width: 200px;
+      width: 217px;
       height: 0;
       opacity: 0;
-
     }
     .menu__link {
       padding: .4em 0;

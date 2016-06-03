@@ -10,6 +10,8 @@ layout: default
 <main>
   <div class="wrap">
 
+    <div class="back-to-directory"><a href="{% if page.dining_categories != null %}/explore/dining-directory/{% else %}/explore/business-directory/{% endif %}">Back to Directory</a></div>
+
     <div class="directory-fn-content">
       <h1>{{page.Business}}</h1>
       

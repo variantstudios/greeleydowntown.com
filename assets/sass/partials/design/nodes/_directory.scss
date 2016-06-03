@@ -1,65 +1,105 @@
 .directory-fn-content {
-  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    @include grid-span(8,5);
-  }
-  h1 {
-    color: $explore;
-    padding-bottom: 1em;
-    &:after {
-      content: '';
-      background: $explore;
-      height: 5px;
-      width: 40px;
-      display: block;
-      margin-top: 1em;
-    }
-  }
-  .directory-address, .directory-phone-site {
-   font-size: .9em;
-  }
-  .directory-address {
     @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      float: left;
-      padding-right: 3em;
+        @include grid-span(8, 5);
     }
-  }
-  .directory-phone-site {
-    margin-bottom: 1em;
-    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      overflow: hidden;
+    h1 {
+        color: $explore;
+        padding-bottom: 1em;
+        &:after {
+            content: '';
+            background: $explore;
+            height: 5px;
+            width: 40px;
+            display: block;
+            margin-top: 1em;
+        }
     }
-    .label {
-      font-weight: 700;
-      padding-right: .5em;
+    .directory-address,
+    .directory-phone-site {
+        font-size: .9em;
     }
-  }
-  .listing-contact {
+    .directory-address {
+        @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+            float: left;
+            padding-right: 3em;
+        }
+    }
+    .directory-phone-site {
+        margin-bottom: 1em;
+        @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+            overflow: hidden;
+        }
+        .label {
+            font-weight: 700;
+            padding-right: .5em;
+        }
+    }
+    .listing-contact {
         margin-bottom: .75em;
         .label {
             font-weight: 700;
-                padding-right: 0.25em;
-
+            padding-right: 0.25em;
         }
         .phone {
             margin-top: .25em;
         }
     }
 }
+
 .directory-desc {
-  clear: both;
+    clear: both;
 }
+
 .directory-sidebar {
-  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    @include grid-span(3.5,1);
-  }
-  img {
-    display: block;
-    margin: 0 auto 1em;
-  }
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+        @include grid-span(3.5, 1);
+    }
+    img {
+        display: block;
+        margin: 0 auto 1em;
+    }
 }
 
-#leaflet-map { height: 250px; width: 100%; margin-bottom: 1.5em;}
+#leaflet-map {
+    height: 250px;
+    width: 100%;
+    margin-bottom: 1.5em;
+}
 
-[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
-  display: none !important;
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
+    display: none !important;
+}
+
+.back-to-directory {
+    top: -30px;
+    position: relative;
+    text-align: left;
+    margin-bottom: -15px;
+    @include animation-name(fadeInSide);
+    @include animation-duration(.9s);
+    a {
+        color: #C1C1C1;
+        font-size: .9em;
+        text-decoration: none;
+        text-transform: uppercase;
+        @include transition(all 0.3s ease-in-out);
+        &:hover {
+            color: #4699D1;
+        }
+    }
+}
+@keyframes fadeInSide {
+    from {
+        opacity: 0;
+        transform: translate3d(0, -20px, 0);
+    }
+    to {
+        opacity: 1;
+        transform: none;
+    }
 }
