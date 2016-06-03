@@ -18,7 +18,7 @@ With projects of all sizes, both commercial and residential, programs for non-pr
 
 sdafhjkasdhf&nbsp;
 
-![](/uploads/versions/wat---x----366-235x---.gif)
+![Wat!](/uploads/versions/5bmmo-3343---x0-10-194-125-366-235x---.jpg)
 
 The goal of the Greeley Downtown Development Authority (DDA) is reflected in its Vision Statement:
 
