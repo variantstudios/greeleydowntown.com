@@ -38,12 +38,14 @@ footer.footer-blocks {
     }
     &.fb {
       color: #12669F;
+      a { color: #12669F; }
     }
     &.pin {
-      color: #CC3333;
+      a { color: #CC3333; }
     }
     &.insta {
       color: #277296;
+      a { color: #277296; }
     }
   }
   .footer-block {
