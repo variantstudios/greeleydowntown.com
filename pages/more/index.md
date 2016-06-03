@@ -3,7 +3,7 @@ layout: page
 title: About the DDA
 description: 'A  DDA is a special purpose district that is established by voters who live, own or lease property in a defined area. It is governed by a Board of Directors, and is intended to foster economic development and revitalization within a downtown area. Both residential and commercial portions of a city are important and necessary elements of its history, character and vitality.'
 sub-nav: more
-header_image_path: 'https://unsplash.it/1400/600/?random'
+header_image_path: /assets/images/headers/amanda-marie-mural-finished.jpg
 permalink: /about/
 ---
 
