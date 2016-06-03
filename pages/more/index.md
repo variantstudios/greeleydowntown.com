@@ -10,10 +10,6 @@ permalink: /about/
 
 A DDA is a special purpose district that is established by voters who live, own or lease property in a defined area. It is governed by a Board of Directors, and is intended to foster economic development and revitalization within a downtown area. Both residential and commercial portions of a city are important and necessary elements of its history, character and vitality.
 
-[![Test](/uploads/versions/ddabanner-4149---x----194-144x---.jpg)](http://google.com)
-
-&nbsp;
-
 With projects of all sizes, both commercial and residential, programs for non-profits and individuals, developers and businesses, the DDA approach has been widely successful in downtown areas across the country. Through the use of financial tools for new development, as well as, redevelopment, they are a catalyst for revitalization.
 
 The goal of the Greeley Downtown Development Authority (DDA) is reflected in its Vision Statement:
