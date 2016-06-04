@@ -13,4 +13,8 @@ real-estate-agency: ""
 real-estate-agent: ""
 real-estate-email: ""
 real-estate-phone: ""
+image-gallery:
+  - title: ""
+    small_image_path: "/assets/images/directory/directory-default.png"
+    large_image_path: "/assets/images/directory/directory-default.png"
 ---
