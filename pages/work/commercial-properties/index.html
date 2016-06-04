@@ -1,27 +1,29 @@
 ---
 layout: page
 title: "Commercial Properties"
-subtitle: 'Replace me.'
+description: 
 sub-nav: work
 permalink: /work/commercial-properties/
 header_image_path: 'https://unsplash.it/1400/600/?random' 
 ---
 
 <div class="commercial-properties">
-  {% for item in site.commercial-property %}
+  {% for item in site.properties %}
+  {% if item.property-type == 'Commercial' %}
     <div class="commercial-property-teaser">
       <div class="commercial-property-teaser-image">
-        <a href="{{ item.url }}" title="{{ item.Title }}">
-          <img src="{{ item.Image_path }}" class="image-border" alt="{{ item.Title }}" />
+        <a href="{{ item.url }}" title="{{ item.title }}">
+          <img src="{{ item.image_path }}" class="image-border" alt="{{ item.title }}" />
         </a>
          
       </div>
       <div class="commercial-property-details">
-        <a href="{{ item.url }}" title="{{ item.Title }}"><h3>{{ item.Title }}</h3></a>
+        <a href="{{ item.url }}" title="{{ item.title }}"><h3>{{ item.title }}</h3></a>
         <p class="commercial-property-details-address">
-        	{{ item.City }}, {{ item.State }} {{ item.Zip }}
+        	{{ item.city }}, {{ item.state }} {{ item.zip }}
         </p>
       </div>
     </div>
+  {% endif %}
   {% endfor %}
 </div>

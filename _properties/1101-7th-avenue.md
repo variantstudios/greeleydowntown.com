@@ -13,6 +13,10 @@ real-estate-agency: Bunnell Real Estate Services
 real-estate-agent: Kevin Bunnell
 real-estate-email: hotproperties1@hotmail.com
 real-estate-phone: (970) 381-8899
+image-gallery:
+  - title: ""
+    small_image_path: ""
+    large_image_path: ""
 ---
 
 Garage unit with a 12-foot roll-up door. It has the gas line installed and is ready for furnace. It does have shared restroom access. Zoned Commercial High Density. Owner-carry terms possible.

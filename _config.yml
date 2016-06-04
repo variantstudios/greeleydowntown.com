@@ -66,12 +66,18 @@ defaults:
       layout: "directory"
       sitemap:
         exclude: "no"
+    scope:
+      type: "properties"
+    values:
+      layout: "property"
+      sitemap:
+        exclude: "no"
 
 sale-or-leases:
   - Sale
   - Lease
   - Sale and Lease
-  
+
 property-types:
   - Commercial
   - Residential
