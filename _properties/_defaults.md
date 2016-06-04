@@ -1,9 +1,9 @@
 ---
 Title: ""
-Property_Type: ""
+Property-Type: ""
 Description: ""
 Image_path: "/assets/images/directory/directory-default.png"
-Sale_or_Lease: ""
+Sale-or-Lease: ""
 Square_Footage: ""
 Price: ""
 Address: ""
