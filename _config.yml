@@ -51,9 +51,9 @@ collections:
   lodging_and_event_centers_categories:
     output: false
     permalink: /lodging-and-event-centers-categories/:title/
-  commercial_property:
+  properties:
     output: true
-    permalink: /work/commercial-properties/:title/
+    permalink: /properties/:title/
   gallery:
     output: true
     permalink: /gallery/:title/
