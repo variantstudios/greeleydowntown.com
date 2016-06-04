@@ -1,9 +1,9 @@
 ---
 Title: 1101 7th Avenue
-Property-Type: 
+property-type: 
 Description: Garage unit with a 12-foot roll-up door. It has the gas line installed and is ready for furnace. It does have shared restroom access. Zoned Commercial High Density. Owner-carry terms possible.
 Image_path: /assets/images/commercial-property/11037thavenue.jpg
-Sale-or-Lease: 
+sale-or-lease: 
 Square_Footage: 620 SF
 Frice: '$60,000'
 Address: 1101 7th Avenue
