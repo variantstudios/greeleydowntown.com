@@ -1,19 +1,18 @@
 ---
-Title: 1015 9th Avenue
+title: 1015 9th Avenue
 property-type: Commercial
-Description: 'Prominent Downtown Location in the Heart of the Central Business District! Excellent visibility, ample frontage & tons of square footage.'
-Image_path: /assets/images/properties/thevineyard.jpg
+image_path: /assets/images/properties/thevineyard.jpg
 sale-or-lease: Sale
-Square_Footage: '9,520 SF'
-Price: '$749,000'
-Address: 1015 9th Avenue
-City: Greeley
-State: CO
-Zip: '80634'
-Real_Estate_Agency: RE/MAX Alliance
-Real_Estate_Agent: Ben Emslie
-Real_Estate_Email: propertybyben@live.com
-Real_Estate_Phone: (970) 391-9331
+square-footage: '9,520 SF'
+price: '$749,000'
+address: 1015 9th Avenue
+city: Greeley
+state: CO
+zip: '80634'
+real-estate-agency: RE/MAX Alliance
+real-estate-agent: Ben Emslie
+real-estate-email: propertybyben@live.com
+real-estate-phone: (970) 391-9331
 ---
 
 
