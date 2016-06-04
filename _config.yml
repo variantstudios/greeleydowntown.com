@@ -67,12 +67,12 @@ defaults:
       sitemap:
         exclude: "no"
 
-Sale-or-Leases:
+sale-or-leases:
   - Sale
   - Lease
   - Sale and Lease
   
-Property-Types:
+property-types:
   - Commercial
   - Residential
 
