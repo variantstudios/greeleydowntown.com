@@ -1,0 +1,16 @@
+---
+title: t
+property-type:
+image_path: /assets/images/directory/directory-default.png
+sale-or-lease:
+square-footage:
+price:
+address:
+city: Greeley
+state: CO
+zip: '80631'
+real-estate-agency:
+real-estate-agent:
+real-estate-email:
+real-estate-phone:
+---
