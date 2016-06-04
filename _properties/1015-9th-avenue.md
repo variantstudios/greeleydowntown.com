@@ -13,6 +13,10 @@ real-estate-agency: RE/MAX Alliance
 real-estate-agent: Ben Emslie
 real-estate-email: propertybyben@live.com
 real-estate-phone: (970) 391-9331
+image-gallery:
+  - title: ""
+    small_image_path: ""
+    large_image_path: ""
 ---
 
 

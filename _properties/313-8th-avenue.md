@@ -13,6 +13,10 @@ real-estate-agency:
 real-estate-agent: Jay Scolnick
 real-estate-email: jscol@pchomesltd.com
 real-estate-phone: (303) 573-0067
+image-gallery:
+  - title: ""
+    small_image_path: ""
+    large_image_path: ""
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: ""
 property-type: ""
-image_path: "/assets/images/directory/directory-default.png"
+image_path: "/assets/images/properties/properties-default.png"
 sale-or-lease: ""
 square-footage: ""
 price: ""
@@ -15,6 +15,6 @@ real-estate-email: ""
 real-estate-phone: ""
 image-gallery:
   - title: ""
-    small_image_path: "/assets/images/directory/directory-default.png"
-    large_image_path: "/assets/images/directory/directory-default.png"
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"
 ---
