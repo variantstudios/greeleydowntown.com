@@ -2,7 +2,7 @@
 layout: gallery
 title: 2016 Blarney on the Block
 permalink: /gallery/2016-blarney-block/
-weight: 2
+weight: 0
 header_image_path: 'https://unsplash.it/1400/600/?random'
 images:
   - title:
