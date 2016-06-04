@@ -67,14 +67,14 @@ defaults:
       sitemap:
         exclude: "no"
 
-Sale_or_Leases:
-  - "Sale"
-  - "Lease"
-  - "Sale & Lease"
+Sale-or-Leases:
+  - Sale
+  - Lease
+  - Sale and Lease
   
-Property_Types:
-  - "Commercial"
-  - "Residential"
+Property-Types:
+  - Commercial
+  - Residential
 
 sub-navs:
   - explore
