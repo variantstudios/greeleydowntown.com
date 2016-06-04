@@ -67,12 +67,12 @@ defaults:
       sitemap:
         exclude: "no"
 
-sale-or-leases:
+Sale-or-Leases:
   - Sale
   - Lease
   - Sale and Lease
   
-property-types:
+Property-Types:
   - Commercial
   - Residential
 
@@ -81,6 +81,7 @@ sub-navs:
   - play
   - work
   - more
+
 
 # Blog Settings
 paginate: 3
