@@ -1,9 +1,9 @@
 ---
 title: t
-property-type:
+property-type: Commercial
 image_path: /assets/images/directory/directory-default.png
-sale-or-lease:
-square-footage:
+sale-or-lease: Sale
+square-footage: d
 price:
 address:
 city: Greeley
@@ -14,3 +14,5 @@ real-estate-agent:
 real-estate-email:
 real-estate-phone:
 ---
+
+
