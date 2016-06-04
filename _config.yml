@@ -67,6 +67,15 @@ defaults:
       sitemap:
         exclude: "no"
 
+Sale_or_Lease:
+  - "Sale"
+  - "Lease"
+  - "Sale & Lease"
+  
+Property_Type:
+  - "Commercial"
+  - "Residential"
+
 sub-navs:
   - explore
   - play
