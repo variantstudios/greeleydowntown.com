@@ -3,7 +3,7 @@ title: 1101 7th Avenue
 property-type: Commercial
 image_path: /assets/images/properties/11037thavenue.jpg
 sale-or-lease: Sale
-square-Footage: 620 SF
+square-footage: 620 SF
 price: '$60,000'
 address: 1101 7th Avenue
 city: Greeley
