@@ -1,19 +1,18 @@
 ---
-Title: 313 8th Avenue
-Property-Type: Commercial
-Description:
-Image_path: /assets/images/properties/3138thavenue.jpg
-Sale-or-Lease: Sale
-Square_Footage: '6,000 SF'
-Price: '$45,000'
-Address:
-City: Greeley
-State: CO
-Zip: '80631'
-Real_Estate_Agency:
-Real_Estate_Agent: Jay Scolnick
-Real_Estate_Email: jscol@pchomesltd.com
-Real_Estate_Phone: (303) 573-0067
+title: 313 8th Avenue
+property-type: Commercial
+image_path: /assets/images/properties/3138thavenue.jpg
+sale-or-lease: Sale
+square-footage: '6,000 SF'
+price: '$45,000'
+address: 313 8th Avenue
+city: Greeley
+state: CO
+zip: '80631'
+real-estate-agency:
+real-estate-agent: Jay Scolnick
+real-estate-email: jscol@pchomesltd.com
+real-estate-phone: (303) 573-0067
 ---
 
 
