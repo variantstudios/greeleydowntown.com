@@ -1,9 +1,9 @@
 ---
 Title: 1015 9th Avenue
-property-type:
+property-type: Residential
 Description: 'Prominent Downtown Location in the Heart of the Central Business District! Excellent visibility, ample frontage & tons of square footage.'
 Image_path: /assets/images/properties/thevineyard.jpg
-sale-or-lease:
+sale-or-lease: Lease
 Square_Footage: '9,520 SF'
 Price: '$749,000'
 Address: 1015 9th Avenue
