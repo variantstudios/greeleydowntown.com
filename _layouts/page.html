@@ -28,7 +28,7 @@ layout: default
           {% include sub-nav.html nav=site.data.work-menu  %}
         {% elsif page.sub-nav == "more" %}
           {% include sub-nav.html nav=site.data.more-menu  %}
-        {% if page.url == "/directory/" %}
+        {% elsif page.url == "/directory/" %}
           {% include directory-filter.html  %}
         {% endif %}
 
