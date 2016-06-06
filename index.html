@@ -69,19 +69,11 @@ work_image_path: "assets/images/work-bg.jpg"
   </div>
 </div>
 
-<style type="text/css">
-  .explore .front-block-image {
-  background: url({{ page.explore_image_path }}) no-repeat center center; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-</style>
 <script type="text/javascript">
   $(document).ready(function() {
     //$(".explore .front-block-image").backstretch("{{ page.explore_image_path }}");
     $(".play .front-block-image").backstretch("{{ page.play_image_path }}");
     $(".work .front-block-image").backstretch("{{ page.work_image_path }}");
+    $(".work .front-block-image").backstretch("{{ page.explore_image_path }}");
   });
 </script>
