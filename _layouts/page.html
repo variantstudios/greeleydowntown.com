@@ -10,7 +10,10 @@ layout: default
 	<main >
 		<div class="wrap">
 			<div class="main-content clearfix">
-        {{ content }}
+			    <div>
+			        {{ content }} 
+			    </div>
+       
         
          {% if page.url == "/contact/" %}
             {% include contact-form.html %}
