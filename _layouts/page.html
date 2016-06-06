@@ -11,6 +11,10 @@ layout: default
 		<div class="wrap">
 			<div class="main-content clearfix">
         {{ content }}
+        
+         {% if page.url == "contact" %}
+            {% include contactform.html %}
+         {% endif %}
       </div>
       <div class="sidebar">
         {% if page.sub-nav == "explore" %}
