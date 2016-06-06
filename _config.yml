@@ -66,6 +66,7 @@ defaults:
       layout: "directory"
       sitemap:
         exclude: "no"
+  -
     scope:
       type: "properties"
     values:
