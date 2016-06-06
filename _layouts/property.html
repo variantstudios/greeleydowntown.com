@@ -54,12 +54,12 @@ layout: default
 
     <div class="directory-sidebar">
       {% if page.Website != null %}<a href="{{page.Website}}">{% endif %}
-     <img src="{{page.Logo_image_path}}" alt="{{page.Business}}" title="{{page.Business}}" />
+     <img src="{{page.image_path}}" alt="{{page.title}}" title="{{page.title}}" />
      {% if page.Website != null %}</a>{% endif %}
      <div id="leaflet-map"></div>
 
     <script type="text/javascript">
-      var address = "{{page.Street}}, {{page.City}}, {{page.State}}";
+      var address = "{{page.address}}, {{page.city}}, {{page.state}}";
       var map = L.map('leaflet-map').setView([40.424453, -104.691982], 15);
            L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
               attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
@@ -73,7 +73,7 @@ layout: default
           var latlng = [lng, lat];
           var marker = new L.Marker(latlng); 
           marker.addTo(map);
-          marker.bindPopup("<b>{{page.Business}}</b><br>{{page.Street}}, {{page.City}}, {{page.State}}");
+          marker.bindPopup("<b>{{page.title}}</b><br>{{page.address}}, {{page.city}}, {{page.state}}");
           marker.openPopup();
           map.setView( latlng, 15, {animate:true, duration:0.75, noMoveStart:true, easeLinearity: 0.05});
         });
