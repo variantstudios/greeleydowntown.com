@@ -27,6 +27,8 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
   <button type="button" onclick="location.href='/explore/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
 </form>
 
+{% include sub-nav.html nav=site.data.explore-menu %}
+
 </div>
     
 <ul class="listings-view main-content" ng-cloak>

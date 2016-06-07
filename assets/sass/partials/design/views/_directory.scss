@@ -79,7 +79,7 @@
         margin: 0;
         li {
             list-style: none;
-            border: 1px solid #DEDEDE;
+            border-bottom: 1px solid #DEDEDE;
             padding: 0;
             @include clearfix;
         }
