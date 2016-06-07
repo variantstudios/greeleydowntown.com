@@ -1,30 +1,31 @@
 ---
-title: "Friday Fest 2016"
+title: Friday Fest 2016
 description: "Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, Greeley's famous and unique Go-Cup service, street performers, fire spinners, facepainting, balloon artistry, sidewalk chalk and more for the kids."
-image_path: "/assets/images/signature-events/Friday-Fest-2016.jpg"
+image_path: /assets/images/signature-events/Friday-Fest-2016.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 1
 ---
-HERE IT IS!!!  
+
+
+HERE IT IS!!!
 
 2016 Line-up
 
 Fridays on the 9th St Plaza, downtown Greeley
 
-Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, Greeley's famous and unique "Go-Cup" service, street performers, fire spinners, facepainting, balloon artistry, sidewalk chalk and more for the kids.
+Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, Greeley’s famous and unique “Go-Cup” service, street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids.
 
 Go Cup 5 to 10 / Bands generally play 6 to 9
 
-!!! Title Sponsors - IMAGE GOES HERE !!!
-friday-fest-2016-season-sponsor-thank-you.jpg
+!!! Title Sponsors - IMAGE GOES HERE !!! friday-fest-2016-season-sponsor-thank-you.jpg
 
 ### May 6th – Mayplay Festival
 
-  6 stages -  28 Bands – 1 incredible night. Bands include: Slow Caves, Silver and Gold, The Burroughs, The Epilogues, Hypnotic Vibes, Daniele Ate the Sandwich and so many more!!! No tickets needed. Be sure to stop by the Startek booth. They are HIRING!!!! 
+6 stages - 28 Bands – 1 incredible night. Bands include: Slow Caves, Silver and Gold, The Burroughs, The Epilogues, Hypnotic Vibes, Daniele Ate the Sandwich and so many more!!! No tickets needed. Be sure to stop by the Startek booth. They are HIRING!!!!
 
 ### May 13th - Movers and Shakers
 
-The Movers and Shakers are a tight knit band of four music enthusiasts who bring everything they have to every single performance. Influences range from old school soul stars like Otis Redding and Sam and Dave to The Red Hot Chile Peppers, Talker, Joe Cocker and Jonny Lange. The band is fronted by dynamic vocalist Andy Webber. Andy's energetic and soulful style is impressive. Andy has the vocal chops to cover anything. Don't miss an opportunity to see this band. You won't be disappointed.
+The Movers and Shakers are a tight knit band of four music enthusiasts who bring everything they have to every single performance. Influences range from old school soul stars like Otis Redding and Sam and Dave to The Red Hot Chile Peppers, Talker, Joe Cocker and Jonny Lange. The band is fronted by dynamic vocalist Andy Webber. Andy’s energetic and soulful style is impressive. Andy has the vocal chops to cover anything. Don’t miss an opportunity to see this band. You won’t be disappointed.
 
 ### May 20th – Woodshed Red
 
@@ -36,7 +37,7 @@ Moses Jones Band Performs High-Energy Party Music That Will Have You Dancing All
 
 ### June 3rd - Greeley Unexpected Kickoff w/ Judge Roughneck
 
-The City of Greeley kicks off the third year of their successful “Greeley Unexpected” campaign with an unexpected band.  Judge Roughneck is one of Colorado’s premier bands, repeatedly voted Denver’s best ska/reggae act. They have been asked to perform over ten times at the prestigious Reggae on the Rocks Festival at Red Rock’s Amphitheater. JR’s unique brand of ska and reggae is infused with a dose of soul and R & B. The result is a unique, high energy dance sound. 
+The City of Greeley kicks off the third year of their successful “Greeley Unexpected” campaign with an unexpected band. Judge Roughneck is one of Colorado’s premier bands, repeatedly voted Denver’s best ska/reggae act. They have been asked to perform over ten times at the prestigious Reggae on the Rocks Festival at Red Rock’s Amphitheater. JR’s unique brand of ska and reggae is infused with a dose of soul and R & B. The result is a unique, high energy dance sound.
 
 ### June 10th - Greeley Blues Jam Kickoff w/ Jason Ricci
 
@@ -44,7 +45,7 @@ We kick off the Greeley Blues Jam with another great free show downtown this yea
 
 ### June 17th – Greeley Stampede Kickoff w/ The Country Music Project
 
-Every year the Greeley Stampede kicks off their festivities with a fantastic night downtown. This year will be bigger and better when we welcome The Country Music Project to the stage. With its mix of male and female four-part vocals, and instrumentation that includes acoustic, electric and pedal steel guitars, mandolin, keyboards, bass and drums, TCMP keeps alive the old sound of country music, but has the power to punch out the popular sounds of today’s new artists.  
+Every year the Greeley Stampede kicks off their festivities with a fantastic night downtown. This year will be bigger and better when we welcome The Country Music Project to the stage. With its mix of male and female four-part vocals, and instrumentation that includes acoustic, electric and pedal steel guitars, mandolin, keyboards, bass and drums, TCMP keeps alive the old sound of country music, but has the power to punch out the popular sounds of today’s new artists.
 
 ### June 24th - Josh Hoyer & Soul Colossal
 
@@ -56,7 +57,7 @@ Kris Lager Band is another repeat performer on the Friday Fest stage. They have 
 
 ### July 8th – Retro Eighties Tribute Band
 
-Get out your best 80’s attire and get ready for a dance party with Retro. Retro is mostly an 80's tribute band but does some 70's and early 90's as well. The give a very high energy performance complete with outfits, props and full stage design.
+Get out your best 80’s attire and get ready for a dance party with Retro. Retro is mostly an 80’s tribute band but does some 70’s and early 90’s as well. The give a very high energy performance complete with outfits, props and full stage design.
 
 ### July 15th – My Blue Sky / Honoring the Music of the Allman Brother’s Family of Bands
 
@@ -68,11 +69,11 @@ We’re partnering up with KGRE for a night of authentic Mexican music and Mexic
 
 ### July 29th - Arts Picnic Kickoff w/ Funkinphino
 
-A big crowd pleaser every year, Funkiphino is set to get the plaza hopping once again to kick off the annual Greeley Arts Picnic. This band has become a tradition for the Arts Picnic and we wouldn’t have it any other way. Colorado's Funk Sensation, pronounced "Funk-If-I-Know,” is THE most requested group in the region. We are thrilled to welcome them back again this year!
+A big crowd pleaser every year, Funkiphino is set to get the plaza hopping once again to kick off the annual Greeley Arts Picnic. This band has become a tradition for the Arts Picnic and we wouldn’t have it any other way. Colorado’s Funk Sensation, pronounced “Funk-If-I-Know,” is THE most requested group in the region. We are thrilled to welcome them back again this year!
 
 ### August 5th - Brothers of the Son
 
- This six piece band embodies the spirit and emotion of Southern Rock, Colorado Style. They strongly identify with the roots of real Country, Rock and Blues. Influences such as Lynyrd Skynyrd and The Allman Brothers more drive our twin lead guitars, keys and a rockin' rhythm section which sets the stage for strong vocals. Their performances range from blistering rock to acoustic ballads all played and performed with passion and expertise.             
+This six piece band embodies the spirit and emotion of Southern Rock, Colorado Style. They strongly identify with the roots of real Country, Rock and Blues. Influences such as Lynyrd Skynyrd and The Allman Brothers more drive our twin lead guitars, keys and a rockin’ rhythm section which sets the stage for strong vocals. Their performances range from blistering rock to acoustic ballads all played and performed with passion and expertise.
 
 ### August 12th – Chris Daniels
 
@@ -92,12 +93,12 @@ Stay tuned for news about this annual event that rocks 2 stages and multiple ban
 
 ### September 9th – Kizumba
 
-Kizumba is one of Colorado's longest performing and best Salsa bands. Formed in 1990, the 12 piece salsa orchestra has performed across Colorado and internationally so put on your salsa shoes and join us on the 2nd for some hot, hot salsa!
+Kizumba is one of Colorado’s longest performing and best Salsa bands. Formed in 1990, the 12 piece salsa orchestra has performed across Colorado and internationally so put on your salsa shoes and join us on the 2nd for some hot, hot salsa!
 
 ### September 16th – My favorite Bands Festival
 
-Two bands will be cover their favorite bands. Rumor has it that this you you’ll be treated to The Talking Heads and Aretha Franklin!!  
+Two bands will be cover their favorite bands. Rumor has it that this you you’ll be treated to The Talking Heads and Aretha Franklin!!
 
 ### Sponsors:
 
-High Country -Coors, Corona, Blue Moon, Linenkugle / All Purpose Rentals   iheart radio / Greeley Tribune
+High Country -Coors, Corona, Blue Moon, Linenkugle / All Purpose Rentals iheart radio / Greeley Tribune
