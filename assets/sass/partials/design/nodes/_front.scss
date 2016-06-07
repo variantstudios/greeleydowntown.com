@@ -220,7 +220,7 @@
 .icons-bg {
   height:80%;
   width:425px;
-  background: url("https://dl.dropboxusercontent.com/u/57799018/icon-lines.png") no-repeat center center;
+  background: url(../images/icon-lines.png) no-repeat center center;
   opacity: 0;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     width:400px;
