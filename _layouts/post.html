@@ -1,15 +1,8 @@
 ---
 layout: page
 ---
- {{ content }} {% assign counter=0 %} {% for post in site.posts %} {% assign counter=counter | plus:1 %}
-<article class="style{{counter}} post">
-    <h2>{{post.title}}</h2> <span class="post-date">{{post.date | date: '%B %d, %Y'}}</span>
-    {% if post.image_path %}<div class="image"><img src="{{post.image_path}}" alt="{{post.title}}" /></div>{% endif %}
-    <div class="content">
-        {% if post.content %}
-          <p>{{post.content}}</p>
-        {% endif %}
-        <div class="external-link"> <a href="{{post.link}}">Read More</a> </div>
-    </div>
-</article>
-{% endfor %}
+ <div>{{ content }}</div>
+ 
+{% if page.url == "/news/" %}
+	{% include in-the-news.html %}
+{% endif %}

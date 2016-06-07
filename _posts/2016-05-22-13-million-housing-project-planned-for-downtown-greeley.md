@@ -2,10 +2,8 @@
 layout: post
 title: $13 million housing project planned for downtown Greeley
 date: 2016-05-22T10:00:00.000Z
-image_path:
+image_path: 
 link: 'http://www.greeleytribune.com/news/21194234-113/biz-buzz-13-million-housing-project-planned-for'
-sitemap:
-  exclude:
 ---
 
 
