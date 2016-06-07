@@ -18,6 +18,7 @@ layout: default
 
   <script type="text/javascript">
   $(document).ready(function() {
-    $(".page-header").backstretch("{{ page.header_image_path }}");
+    $(".page-header").backstretch(" {{page.header_image_path}} ", {fade: 600});
   });
 </script>
+

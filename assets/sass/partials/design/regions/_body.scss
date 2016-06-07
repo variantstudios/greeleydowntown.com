@@ -1,39 +1,42 @@
 body {
-  @include clearfix;
-  background: $site-bg;
-  margin: 0;
+    @include clearfix;
+    background: $site-bg;
+    margin: 0;
 }
-html { box-sizing: border-box; }
-*, *:before, *:after { box-sizing: inherit; }
 
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
 
 .wrap {
-  max-width: $container_width;
-  @include clearfix;
-  margin: 0 auto;
-  padding: 0em 1em;
-  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    padding: 0em 2em;
-  }
+    max-width: $container_width;
+    @include clearfix;
+    margin: 0 auto;
+    padding: 0em 1em;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+        padding: 0em 2em;
+    }
 }
 
-    
-
-
 .front main .wrap {
-  max-width: 100%;
-  padding: 0;
+    max-width: 100%;
+    padding: 0;
 }
 
 .main-content {
-  @include breakpoint($tablet, $no-query: '.no-mq') {
-    @include grid-span(8,1);
-  }
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+        @include grid-span(8, 1);
+    }
 }
 
-.sidebar{
-  @include breakpoint($tablet, $no-query: '.no-mq') {
-    @include grid-span(3.5,9.5);
-  }
+.sidebar {
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+        @include grid-span(3.5, 9.5);
+    }
 }
-

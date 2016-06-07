@@ -59,7 +59,31 @@
     }
 }
 
+@keyframes Zoomin {
+    from {
+        margin-top: -100px;
+        @include transform-origin(50% 50%);
+        @include transform(scale(.95));
+        opacity: 0;
+        box-shadow: rgba(0, 0, 0, .8) 0px 0px 50px inset;
+    }
+    to {
+        margin-top: 0;
+        opacity: 1;
+        @include transform(scale(1));
+        box-shadow: rgba(0, 0, 0, 0) 0 0 0 inset;
+    }
+}
+
 .front {
-    animation: fadein .5s;
-    animation-timing-function: ease-out;
+    /* animation: fadein .3s;
+    animation-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+    //animation-timing-function: ease-out;*/
+    /*    animation: Zoomin .4s;
+  animation-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+  @include transform-style(preserve-3d);*/
+}
+
+body.front {
+    background-color: #111;
 }
