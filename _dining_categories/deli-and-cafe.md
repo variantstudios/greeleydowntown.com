@@ -1,3 +1,3 @@
 ---
-title: Deli & Café
+title: Deli and Cafe
 ---

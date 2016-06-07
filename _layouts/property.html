@@ -1,92 +1,107 @@
 ---
-layout: default
+layout: default 
 ---
-  <div class="page-header">
+<div class="page-header">
     <div class="wrap">
-      {% if page.property-type == 'Residential' %}<h1>Live Directory</h1>{% else if page.property-type == 'Commercial'%}<h1>Available Commercial Properties</h1>{% endif %}
+        {% if page.property-type == 'Residential' %}
+        <h1>Live Directory</h1>{% else if page.property-type == 'Commercial'%}
+        <h1>Available Commercial Properties</h1>{% endif %}
     </div>
-  </div>
-
+</div>
 <main>
-  <div class="wrap">
+    <div class="wrap">
+        <div class="back-to-directory"><a href=" {% if page.property-type == 'Residential' %}/explore/live-directory/{% else if page.property-type == 'Commercial'%}/work/commercial-properties/{% endif %}">Back to Directory</a></div>
+        <div class="directory-fn-content">
+            <h1>{{page.title}}</h1>
+            <div class="directory-address">
+                <p><span class="street">{{page.address}}</span>
+                    <br>
+                    <span class="city">{{page.city}}</span>,
+                    <span class="state">{{page.state}}</span>
+                    <span class="zip">{{page.zip}}</span></p>
+            </div>
+            <div class="directory-phone-site">
+                {% if page.sale-or-lease != null %}
+                <div class="sale-or-lease">
+                    <span class="label">Sale or Lease:</span><span class="">{{page.sale-or-lease}}</span>
+                </div>
+                {% endif %} {% if page.square-footage != null %}
+                <div class="square-footage">
+                    <span class="label">Square footage: </span><span class="phone">{{page.square-footage}}</span>
+                </div>
+                {% endif %} {% if page.price != null %}
+                <div class="price">
+                    <span class="label">Price: </span><span class="price-amount">{{page.price}}</span>
+                </div>
+                {% endif %}
+            </div>
+            <div class="directory-desc">
+                {{content}}
+            </div>
+            <div class="listing-contact">
+                <strong>Real Estate Agent:</strong> {% if page.real-estate-agency != null %}
+                <div class="real-estate-agency">
+                    <span>{{page.real-estate-agency}}</span>
+                </div>{% endif %} {% if page.real-estate-agent != null %}
+                <div class="real-estate-agent">
+                    <span>{{page.real-estate-agent}}</span>
+                </div>{% endif %} {% if page.real-estate-email != null %}
+                <div class="real-estate-email">
+                    <span><a href="mailto:{{page.real-estate-email}}">{{page.real-estate-email}}</a></span>
+                </div>{% endif %} {% if page.real-estate-phone != null %}
+                <div class="real-estate-phone">
+                    <span>{{page.real-estate-phone}}</span>
+                </div>{% endif %}
+            </div>
 
-    <div class="back-to-directory"><a href=" {% if page.property-type == 'Residential' %}/explore/live-directory/{% else if page.property-type == 'Commercial'%}/work/commercial-properties/{% endif %}">Back to Directory</a></div>
 
-    <div class="directory-fn-content">
-      <h1>{{page.title}}</h1>
-      
-      <div class="directory-address">
-        <p><span class="street">{{page.address}}</span><br>
-        <span class="city">{{page.city}}</span>, 
-        <span class="state">{{page.state}}</span>
-        <span class="zip">{{page.zip}}</span></p>
-      </div>
-      <div class="directory-phone-site">
-       {% if page.Website != null %}<div class="site-link">
-          <span class="label">Website: </span> 
-          <a href="{{page.Website}}">{{page.Website}}</a></span>
-        </div>{% endif %}
-         {% if page.Phone != null %}
-         <div class="phone">
-          <span class="label">Phone: </span><span class="phone">{{page.Phone}}</span>
-        </div>{% endif %}
-        {% if page.Fax != null %}
-         <div class="phone">
-          <span class="label">Fax: </span><span class="phone">{{page.Fax}}</span>
-        </div>{% endif %}
-      </div>
-      <div class="directory-desc">
-        {{content}}
-      </div>
-      <div class="listing-contact">
-        {% if page.Contact_Name != null %}
-         <div class="phone">
-          <span class="label">Contact Person: </span><span class="phone">{{page.Contact_Name}}</span>
+            <section>
+    <ul class="gallery-grid">
+        {% for item in page.image-gallery %}
+        <li itemscope class="grid-item">
+            <a class="gallery-item" href="{{ item.large_image_path }}"><img class="gallery-img lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+
+
         </div>
-        {% endif %}
-        {% if page.Contact_Email != null %}
-         <div class="phone">
-          <span class="label">Contact Email: </span><span class="phone">{{page.Contact_Email}}</span>
-        </div>
-        {% endif %}
-      </div>
-    </div>
-
-    <div class="directory-sidebar">
-      {% if page.Website != null %}<a href="{{page.Website}}">{% endif %}
+        <div class="directory-sidebar">
+            {% if page.Website != null %}<a href="{{page.Website}}">{% endif %}
      <img src="{{page.image_path}}" alt="{{page.title}}" title="{{page.title}}" />
      {% if page.Website != null %}</a>{% endif %}
-     <div id="leaflet-map"></div>
+            <div id="leaflet-map"></div>
+            <script type="text/javascript">
+            var address = "{{page.address}}, {{page.city}}, {{page.state}}";
+            var map = L.map('leaflet-map').setView([40.424453, -104.691982], 15);
+            L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+            }).addTo(map);
 
-    <script type="text/javascript">
-      var address = "{{page.address}}, {{page.city}}, {{page.state}}";
-      var map = L.map('leaflet-map').setView([40.424453, -104.691982], 15);
-           L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-              attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
-           }).addTo(map);
-
-       var googleGeocodeProvider = new L.GeoSearch.Provider.Google(),
-        addressText = address;
-        googleGeocodeProvider.GetLocations( addressText, function (data) {
-          var lat = data[0].X;
-          var lng = data[0].Y;
-          var latlng = [lng, lat];
-          var marker = new L.Marker(latlng); 
-          marker.addTo(map);
-          marker.bindPopup("<b>{{page.title}}</b><br>{{page.address}}, {{page.city}}, {{page.state}}");
-          marker.openPopup();
-          map.setView( latlng, 15, {animate:true, duration:0.75, noMoveStart:true, easeLinearity: 0.05});
-        });
-
-      </script> 
-
+            var googleGeocodeProvider = new L.GeoSearch.Provider.Google(),
+                addressText = address;
+            googleGeocodeProvider.GetLocations(addressText, function(data) {
+                var lat = data[0].X;
+                var lng = data[0].Y;
+                var latlng = [lng, lat];
+                var marker = new L.Marker(latlng);
+                marker.addTo(map);
+                marker.bindPopup("<b>{{page.title}}</b><br>{{page.address}}, {{page.city}}, {{page.state}}");
+                marker.openPopup();
+                map.setView(latlng, 15, {
+                    animate: true,
+                    duration: 0.75,
+                    noMoveStart: true,
+                    easeLinearity: 0.05
+                });
+            });
+            </script>
+        </div>
     </div>
-
-  </div>
 </main>
-
 <script type="text/javascript">
-  $(document).ready(function() {
+$(document).ready(function() {
     $(".page-header").backstretch("{{ site.header_fallback_image_path }}");
-  });
+});
 </script>
