@@ -25,7 +25,6 @@ kramdown:
 # Permalinks
 permalink: /news/:year-:month-:day/:title/
 
-
 #Collections
 collections:
   posts:
@@ -36,6 +35,9 @@ collections:
   service_categories:
     output: false
     permalink: /service-categories/:title/
+  signature_events:
+    output: true
+    permalink: /play/signature-events/:title/
   retail_categories:
     output: false
     permalink: /retail-categories/:title/
@@ -61,9 +63,26 @@ collections:
 defaults:
   -
     scope:
+      type: "posts"
+    values:
+      layout: "post"
+      sub-nav: "more"
+      sitemap:
+        exclude: "yes"
+  -
+    scope:
+      type: "signature_events"
+    values:
+      layout: "post"
+      sub-nav: "play"
+      sitemap:
+        exclude: "yes"
+  -
+    scope:
       type: "directory"
     values:
       layout: "directory"
+      sub-nav: "explore"
       sitemap:
         exclude: "no"
   -
@@ -88,15 +107,6 @@ sub-navs:
   - play
   - work
   - more
-
-
-# Blog Settings
-paginate: 3
-paginate_path: "/blog/page:num/"
-
-# Reading Time Feature
-reading_time:     true
-words_per_minute: 200
 
 # Disqus Comments
 disqus_short_name: 

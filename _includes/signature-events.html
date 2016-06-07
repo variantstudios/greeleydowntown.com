@@ -1,0 +1,13 @@
+{% assign items = site.signature_events | sort: 'weight' %}
+{% for post in items %}
+<article class="post">
+<h2>{{post.title}}</h2>
+{% if post.image_path %}<div class="image"><a href="{{post.url}}" title="{{post.title}}"><img src="{{post.image_path}}" alt="{{post.title}}" /></a></div>{% endif %}
+<div class="content">
+    {% if post.description %}
+      <p>{{post.description}}</p>
+    {% endif %}
+    <div class="external-link"> <a href="{{post.url}}">Read More</a> </div>
+</div>
+</article>
+{% endfor %}
