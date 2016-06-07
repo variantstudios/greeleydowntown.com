@@ -9,5 +9,3 @@ permalink: /district-map/
 ---
 
 Add text here...
-
-{% include district-map.html %}
