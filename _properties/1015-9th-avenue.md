@@ -14,9 +14,15 @@ real-estate-agent: Ben Emslie
 real-estate-email: propertybyben@live.com
 real-estate-phone: (970) 391-9331
 image-gallery:
-  - title: ""
-    small_image_path: ""
-    large_image_path: ""
+  - title: "one"
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"
+  - title: "two"
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"
+  - title: "three"
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"
 ---
 
 

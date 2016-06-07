@@ -27,7 +27,8 @@
 	<script src="/assets/js/prod/l.control.geosearch.js"></script>
 	<script src="/assets/js/prod/l.geosearch.provider.google.js"></script>
 	<link rel="stylesheet" href="/assets/css/l.geosearch.css" />
-	{% if page.path contains '_gallery' %}<link rel="stylesheet" href="/assets/css/colorbox.css" />{% endif %}
+
+	{% if page.path contains '_gallery' %}<link rel="stylesheet" href="/assets/css/colorbox.css" />{% elsif page.path contains '_properties' %}<link rel="stylesheet" href="/assets/css/colorbox.css" />{% endif %}
 
 	{% if site.typekit %}
 	<script type="text/javascript" src="https://use.typekit.net/{{ site.typekit }}.js"></script>
