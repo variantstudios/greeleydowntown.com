@@ -17,6 +17,17 @@ layout: default
             {% include contact-form.html %}
           {% elsif page.url == "/get-involved/" %}
             {% include get-involved-form.html %}
+          {% elsif page.url == "/events-at-a-glance/" %}  
+            {% include events-at-a-glance.html %}
+          {% elsif page.url == "/district-map/" %}  
+            {% include district-map.html %}
+          {% elsif page.url == "/parking-map/" %}  
+            {% include parking-map.html %}
+          {% elsif page.url == "/dda-board-directors/" %}  
+            {% include dda-meeting-minutes.html %}
+          {% elsif page.url == "/greeley-downtown-alliance/" %}  
+            {% include gda-meeting-minutes.html %}
+            
          {% endif %}
       </div>
       <div class="sidebar">
