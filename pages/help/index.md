@@ -23,6 +23,7 @@ sitemap:
 * [Signature Events](https://vimeopro.com/variantstudios/greeley-dda/video/169803057)
 * Front/Home page
 
+
 ### Images Sizs
 
 #### Directory Images
@@ -49,7 +50,8 @@ sitemap:
 * Gallery Large Image
   * **max** width: 800px
   * **max** height: 800px
- 
+
+
 ### Images Tools
 
 #### Free Image Editing Tools
@@ -68,3 +70,8 @@ sitemap:
   * Optimize your images (jpg and png) with a perfect balance in quality and file size.
 
 
+### Other Online Tools
+
+* [vs.yourbrowser.is](http://vs.yourbrowser.is/)
+  * Find out your exact browser version, IP address, operation system and version, screen resolution and more. Also if you click the "yes" button all of the info will be emailed to VS to help us debug.
+* &nbsp;
