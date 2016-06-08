@@ -23,25 +23,6 @@ sitemap:
 * [Signature Events](https://vimeopro.com/variantstudios/greeley-dda/video/169803057)
 * Front/Home page
 
-
-### Images Tools
-
-#### Free Image Editing Tools
-
-* [resizeimage.net](http://resizeimage.net/)
-  * A very basic image resizer and optimizer on the Web, crop, resize and optimize your images was never easier. It's lean on the UI, but gets the job done.
-* [aviary.com](https://www.aviary.com/)
-  * Not really geared for simple scale, cropping and compression, but more for the creative tools.
-
-
-#### Free Image Compression Tools
-
-* [jpegmini.com](http://www.jpegmini.com/)
-  * Jpg/jpeg only. Reduce image size by up to 80%, without compromising quality. A desktop app available too.
-* [https://tinypng.com](https://tinypng.com)
-  * Optimize your images (jpg and png) with a perfect balance in quality and file size.
-
-
 ### Images Sizs
 
 #### Directory Images
@@ -68,3 +49,22 @@ sitemap:
 * Gallery Large Image
   * **max** width: 800px
   * **max** height: 800px
+ 
+### Images Tools
+
+#### Free Image Editing Tools
+
+* [resizeimage.net](http://resizeimage.net/)
+  * A very basic image resizer and optimizer on the Web, crop, resize and optimize your images was never easier. It's lean on the UI, but gets the job done.
+* [aviary.com](https://www.aviary.com/)
+  * Not really geared for simple scale, cropping and compression, but more for the creative tools.
+
+
+#### Free Image Compression Tools
+
+* [jpegmini.com](http://www.jpegmini.com/)
+  * Jpg/jpeg only. Reduce image size by up to 80%, without compromising quality. A desktop app available too.
+* [https://tinypng.com](https://tinypng.com)
+  * Optimize your images (jpg and png) with a perfect balance in quality and file size.
+
+
