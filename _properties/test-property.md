@@ -1,20 +1,23 @@
 ---
 title: Test Property
-property-type:
-image_path: /assets/images/properties/properties-default.png
-sale-or-lease:
-square-footage:
-price:
-address:
+property-type: Commercial
+image_path: /assets/images/properties/thevineyard.jpg
+sale-or-lease: Sale
+square-footage: '1,400'
+price: '$12,000'
+address: 3822 West 11th Street
 city: Greeley
 state: CO
-zip: '80631'
-real-estate-agency:
-real-estate-agent:
-real-estate-email:
-real-estate-phone:
+zip: '80634'
+real-estate-agency: Variant Studios
+real-estate-agent: Brent Robbins
+real-estate-email: brent@variantstudios.com
+real-estate-phone: 970-405-2777
 image-gallery:
   - title:
     small_image_path:
     large_image_path:
 ---
+
+
+Add content here...
