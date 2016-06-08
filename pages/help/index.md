@@ -65,9 +65,9 @@ sitemap:
 #### Free Image Compression Tools
 
 * [jpegmini.com](http://www.jpegmini.com/)
-  * Jpg/jpeg only. Reduce image size by up to 80%, without compromising quality. A desktop app available too.
+  * Jpg/jpeg only. Reduce image size by up to 80%, without compromising quality. A desktop app and photoshop plugin available too.
 * [tinypng.com](https://tinypng.com)
-  * Optimize your images (jpg and png) with a perfect balance in quality and file size.
+  * Optimize your images (jpg and png) with a perfect balance in quality and file size. A&nbsp;photoshop plugin available.
 
 
 ### Other Online Tools
