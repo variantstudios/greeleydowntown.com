@@ -4,7 +4,6 @@ email: team@variantstudios.com
 description: 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://long-jay1.cloudvent.net" # the base hostname & protocol for your site
-timezone: America/Denver
 
 # Site Author(s)
 author:
