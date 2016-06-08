@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Groundbreaking ceremony starts Greeley's hotel and conference center project"
 date: 2016-04-13T10:00:00.000Z
 image_path: /assets/images/news/greeleys-hotel-conference-center.jpg
