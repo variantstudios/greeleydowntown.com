@@ -66,7 +66,7 @@ sitemap:
 
 * [jpegmini.com](http://www.jpegmini.com/)
   * Jpg/jpeg only. Reduce image size by up to 80%, without compromising quality. A desktop app available too.
-* [https://tinypng.com](https://tinypng.com)
+* [tinypng.com](https://tinypng.com)
   * Optimize your images (jpg and png) with a perfect balance in quality and file size.
 
 
