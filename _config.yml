@@ -72,7 +72,7 @@ defaults:
     scope:
       type: "signature_events"
     values:
-      layout: "post"
+      layout: "signature-events"
       sub-nav: "play"
       sitemap:
         exclude: "yes"
