@@ -5,6 +5,8 @@ description:
 sub-nav: more
 header_image_path: /assets/images/headers/armando-einstein-mural.jpg
 permalink: /help/
+sitemap:
+  exclude: "yes"
 ---
 
 
