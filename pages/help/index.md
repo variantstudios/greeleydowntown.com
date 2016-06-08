@@ -19,7 +19,7 @@ sitemap:
 * [Properties](https://vimeopro.com/variantstudios/greeley-dda/video/169799636)
 * Gallery
 * In the News
-* Signature Events
+* [Signature Events](https://vimeopro.com/variantstudios/greeley-dda/video/169803057)
 * Front/Home page
 
 
