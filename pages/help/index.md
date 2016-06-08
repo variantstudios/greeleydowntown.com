@@ -29,9 +29,9 @@ sitemap:
 #### Free Image Editing Tools
 
 * [resizeimage.net](http://resizeimage.net/)
-  * The best free online image resizer and optimizer on the Web, crop, resize and optimize your images was never easier. Crop and resize any image to the exact pixels or proportion you specified and reduce the file size significantly without losing quality for FREE, without Photoshop.
+  * A very basic image resizer and optimizer on the Web, crop, resize and optimize your images was never easier. It's lean on the UI, but gets the job done.
 * [aviary.com](https://www.aviary.com/)
-  * -
+  * Not really geared for simple scale, cropping and compression, but more for the creative tools.
 
 
 #### Free Image Compression Tools
