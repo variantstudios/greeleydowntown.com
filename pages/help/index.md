@@ -24,7 +24,7 @@ sitemap:
 * Front/Home page
 
 
-### Images Sizs
+### Images Sizes
 
 #### Directory Images
 
