@@ -1,23 +1,11 @@
-
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 <script type="text/javascript" src="/assets/js/prod/scripts.js"></script>
 
-
+{% if page.path contains '_gallery' %}
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js"></script>
-<script type="text/javascript">
-  
-$(".action--open").click(function() {
-  $(".menu").addClass("menu--open");
-});
-$(".action--close").click(function() {
-  $(".menu").removeClass("menu--open");
-});
-
-</script>
-
-<script type="text/javascript">
-$(".gallery-item").colorbox({rel:'gallery-item'});
-</script>
+{% elsif page.path contains '_properties' %}
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js"></script>
+{% endif %}
 
 {% if page.url == "/help/" %}
   <!-- http://projects.jga.me/toc/ -->
