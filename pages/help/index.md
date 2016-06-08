@@ -3,7 +3,7 @@ layout: page
 title: Help
 description:
 sub-nav: more
-header_image_path: /assets/images/headers/amanda-marie-mural-finished.jpg
+header_image_path: /assets/images/headers/armando-einstein-mural.jpg
 permalink: /help/
 ---
 
