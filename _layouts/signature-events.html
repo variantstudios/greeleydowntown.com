@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+{% if post.image_path %}<div class="image"><img src="{{post.image_path}}" alt="{{post.title}}" /></div>{% endif %}
  <div>{{ content }}</div>
  
 {% if page.url == "/news/" %}
