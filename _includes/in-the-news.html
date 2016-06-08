@@ -15,7 +15,7 @@
     {% if post.content %}
       <p>{{post.content}}</p>
     {% endif %}
-    <div class="external-link"> <a href="{{post.link}}">Read More</a> </div>
+    {% if post.link_path %}<div class="external-link"> <a href="{{post.link_path}}">Read More</a> </div> {% endif %}
 </div>
 </article>
 {% endfor %}
