@@ -6,7 +6,6 @@ sub-nav: explore
 permalink: /explore/live-directory/
 header_image_path: 'https://unsplash.it/1400/600/?random' 
 ---
-
 <div class="commercial-properties">
   {% for item in site.properties %}
   {% if item.property-type == 'Residential' %}
@@ -20,7 +19,27 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
       <div class="commercial-property-details">
         <a href="{{ item.url }}" title="{{ item.title }}"><h3>{{ item.title }}</h3></a>
         <p class="commercial-property-details-address">
+          {{ item.address }}<br>
         	{{ item.city }}, {{ item.state }} {{ item.zip }}
+        </p>
+      </div>
+    </div>
+  {% endif %}
+  {% endfor %}
+
+  {% for item2 in site.directory %}
+  {% if item2.lodging_and_event_centers_categories[0] == 'housing' %}
+    <div class="commercial-property-teaser">
+      <div class="commercial-property-teaser-image">
+        <a href="{{ item2.url }}" title="{{ item2.Business }}">
+          <img src="{{ item2.Logo_image_path }}" class="image-border" alt="{{ item2.Business }}" />
+        </a>
+         
+      </div>
+      <div class="commercial-property-details">
+        <a href="{{ item2.url }}" title="{{ item2.Business }}"><h3>{{ item2.Business }}</h3></a>
+        <p class="commercial-property-details-address">
+          {{ item2.City }}, {{ item2.State }} {{ item2.Zip }}
         </p>
       </div>
     </div>
