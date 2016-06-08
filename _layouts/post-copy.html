@@ -1,0 +1,8 @@
+---
+layout: page
+---
+ <div>{{ content }}</div>
+ 
+{% if page.url == "/news/" %}
+	{% include in-the-news.html %}
+{% endif %}
