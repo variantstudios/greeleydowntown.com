@@ -76,4 +76,4 @@ sitemap:
 
 * [vs.yourbrowser.is](http://vs.yourbrowser.is/)
   * Find out your exact browser version, IP address, operation system and version, screen resolution and more. Also if you click the "yes" button all of the info will be emailed to VS to help us debug.
-* &nbsp;
+* More coming soon...
