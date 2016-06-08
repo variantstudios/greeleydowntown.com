@@ -19,6 +19,14 @@ $(".action--close").click(function() {
 $(".gallery-item").colorbox({rel:'gallery-item'});
 </script>
 
+{% if page.url == "/help/" %}
+  <!-- http://projects.jga.me/toc/ -->
+	<script src="/assets/js/prod/toc.min.js"></script>
+  <!-- https://github.com/garand/sticky -->
+	<script src="/assets/js/prod/jquery.sticky.js"></script>
+	<script src="/assets/js/prod/dda.toc.js"></script>
+{% endif %}
+
 {% if site.google_analytics_tracking_id %}
 <!-- google analytics -->
 <script>
