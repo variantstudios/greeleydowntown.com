@@ -6,7 +6,7 @@ sub-nav: more
 header_image_path: /assets/images/headers/armando-einstein-mural.jpg
 permalink: /help/
 sitemap:
-  exclude: "yes"
+  exclude: 'yes'
 ---
 
 
@@ -16,7 +16,7 @@ sitemap:
 * [Photoshop Tutorial](https://vimeopro.com/variantstudios/greeley-dda/video/169191564) (scaling and cropping images for the header)
 * [Directory](https://vimeopro.com/variantstudios/greeley-dda/video/163328110)
 * [Directory Categories](https://vimeopro.com/variantstudios/greeley-dda/video/163319849)
-* Properties
+* [Properties](https://vimeopro.com/variantstudios/greeley-dda/video/169799636)
 * Gallery
 * In the News
 * Signature Events
