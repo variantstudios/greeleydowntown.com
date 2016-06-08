@@ -14,10 +14,10 @@ real-estate-agent: Brent Robbins
 real-estate-email: brent@variantstudios.com
 real-estate-phone: 970-405-2777
 image-gallery:
-  - title:
-    small_image_path:
-    large_image_path:
+  - title: Test image
+    small_image_path: /assets/images/properties/11037thavenue.jpg
+    large_image_path: /assets/images/properties/11037thavenue.jpg
 ---
 
 
-Add content here...
+Add content here…
