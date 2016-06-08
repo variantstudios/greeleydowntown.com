@@ -22,6 +22,12 @@ sitemap:
 * [Signature Events](https://vimeopro.com/variantstudios/greeley-dda/video/169803057)
 * Front/Home page
 
+```
+Code goes here..
+```
+
+` Inline code here `
+
 
 ### Images Dimensions
 
