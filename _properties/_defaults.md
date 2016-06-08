@@ -15,6 +15,6 @@ real-estate-email: ""
 real-estate-phone: ""
 image-gallery:
   - title: ""
-    small_image_path: "/assets/images/properties/properties-default.png"
-    large_image_path: "/assets/images/properties/properties-default.png"
+    small_image_path: ""
+    large_image_path: ""
 ---

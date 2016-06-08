@@ -62,6 +62,9 @@
     float: right;
     padding: 0 1em;
     @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      padding: 0 2.5em;
+    }
+    @include breakpoint($tablet, $no-query: '.no-mq') {
       padding: 0 3em;
     }
     &:before {
@@ -122,9 +125,12 @@ span.menu__link {
       background:#1F2021;
       padding:0;
       font-size: 0.6em;
-      width: 217px;
+      width: 180px;
       height: 0;
       opacity: 0;
+    }
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      width: 217px;
     }
     .menu__link {
       padding: .4em 0;
@@ -434,6 +440,10 @@ span.menu__link {
   }
 }
 
+.main-nav ul li:hover, .main-nav ul li {
+  -webkit-transition: all 400ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 400ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
 @include breakpoint($phone-lg2) {
   .main-nav ul li:hover, .main-nav ul li:hover li:hover
   {

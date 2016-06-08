@@ -1,23 +1,29 @@
 .sub-nav {
-  background: #EAEAEA;
-  padding: 1em;
-  border-radius: 3px;
-  li {
-    display: block;
-    border-bottom: 1px solid #ccc;
-    &:last-child {
-      border-bottom: 0;
+    background: #EAEAEA;
+    padding: 1em;
+    border-radius: 3px;
+    li {
+        display: block;
+        border-bottom: 1px solid #ccc;
+        &:last-child {
+            border-bottom: 0;
+        }
+        a {
+            -webkit-transition: all 400ms cubic-bezier(0.645, 0.045, 0.355, 1);
+            transition: all 400ms cubic-bezier(0.645, 0.045, 0.355, 1);
+            color: #4A4A4A;
+            font-weight: 700;
+            display: block;
+            padding: .75em 1em;
+            text-decoration: none;
+            &.active {
+                background: #4699d1;
+                color: #fff;
+            }
+            &:hover {
+                background: #4699d1;
+                color: #fff;
+            }
+        }
     }
-    a {
-      color: #4A4A4A;
-      font-weight: 700;
-      display: block;
-      padding: .75em 1em;
-      text-decoration: none;
-      &.active {
-        background: #4699d1;
-        color: #fff;
-      }
-    }
-  }
 }

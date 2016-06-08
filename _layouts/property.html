@@ -1,4 +1,4 @@
----
+--- 
 layout: default 
 ---
 <div class="page-header">
@@ -53,19 +53,18 @@ layout: default
                     <span>{{page.real-estate-phone}}</span>
                 </div>{% endif %}
             </div>
-
-
             <section>
-    <ul class="gallery-grid">
-        {% for item in page.image-gallery %}
-        <li itemscope class="grid-item">
-            <a class="gallery-item" href="{{ item.large_image_path }}"><img class="gallery-img lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
-        </li>
-        {% endfor %}
-    </ul>
-</section>
-
-
+                {% if page.image-gallery[0].small_image_path != "" %}
+                <ul class="gallery-grid">
+                    {% for item in page.image-gallery %}
+                    <li itemscope class="grid-item">
+                        <a class="gallery-item" href="{{ item.large_image_path }}"><img class="gallery-img lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                
+            </section>
         </div>
         <div class="directory-sidebar">
             {% if page.Website != null %}<a href="{{page.Website}}">{% endif %}
