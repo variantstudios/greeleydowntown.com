@@ -23,6 +23,9 @@ image-gallery:
   - title: "three"
     small_image_path: "/assets/images/properties/properties-default.png"
     large_image_path: "/assets/images/properties/properties-default.png"
+  - title: "four"
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"  
 ---
 
 

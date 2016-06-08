@@ -440,6 +440,10 @@ span.menu__link {
   }
 }
 
+.main-nav ul li:hover, .main-nav ul li {
+  -webkit-transition: all 400ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 400ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
 @include breakpoint($phone-lg2) {
   .main-nav ul li:hover, .main-nav ul li:hover li:hover
   {
