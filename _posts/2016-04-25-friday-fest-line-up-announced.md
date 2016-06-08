@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Friday Fest line-up announced
 date: 2016-04-25T10:00:00.000Z
 image_path: '/assets/images/news/Don-Cudney.jpg'
