@@ -40,6 +40,8 @@ layout: default
           {% include sub-nav.html nav=site.data.work-menu  %}
         {% elsif page.sub-nav == "more" %}
           {% include sub-nav.html nav=site.data.more-menu  %}
+        {% elsif page.sub-nav == "help" %}
+          {% include toc.html %}
         {% else %}
         {% endif %}
 
