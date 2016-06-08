@@ -68,6 +68,8 @@ sitemap:
   * Jpg/jpeg only. Reduce image size by up to 80%, without compromising quality. A desktop app and photoshop plugin available too.
 * [tinypng.com](https://tinypng.com)
   * Optimize your images (jpg and png) with a perfect balance in quality and file size. A&nbsp;photoshop plugin available.
+* [imageoptim.com/mac](https://imageoptim.com/mac)
+  * Mac only desktop app to helps Save disk space & bandwidth by compressing images (jpg and png) without losing quality.
 
 
 ### Other Online Tools
