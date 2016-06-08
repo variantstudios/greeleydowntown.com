@@ -23,14 +23,26 @@ sitemap:
 * [Signature Events](https://vimeopro.com/variantstudios/greeley-dda/video/169803057)
 * Front/Home page
 
-```
-Code goes here..
-```
 
-` Inline code here `
+### Images Tools
+
+#### Free Image Editing Tools
+
+* [resizeimage.net](http://resizeimage.net/)
+  * The best free online image resizer and optimizer on the Web, crop, resize and optimize your images was never easier. Crop and resize any image to the exact pixels or proportion you specified and reduce the file size significantly without losing quality for FREE, without Photoshop.
+* [aviary.com](https://www.aviary.com/)
+  * -
 
 
-### Images Dimensions
+#### Free Image Compression Tools
+
+* [jpegmini.com](http://www.jpegmini.com/)
+  * -
+* [https://tinypng.com](https://tinypng.com)
+  * -
+
+
+### Images Sizs
 
 #### Directory Images
 
@@ -45,7 +57,7 @@ Code goes here..
   * **max** height: 800px
 
 
-#### Property Images
+#### Property Images Sizes
 
 * Main Image
   * width: 315px
