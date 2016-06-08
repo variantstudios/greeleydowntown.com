@@ -17,6 +17,9 @@ image-gallery:
   - title: Test image
     small_image_path: /assets/images/properties/11037thavenue.jpg
     large_image_path: /assets/images/properties/11037thavenue.jpg
+  - title: Test image two
+    small_image_path: /assets/images/properties/1220-11th-avenue.jpg
+    large_image_path: /assets/images/properties/1220-11th-avenue.jpg
 ---
 
 
