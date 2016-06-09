@@ -1,7 +1,7 @@
 ---
 title: 1015 9th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/1015 9th ave.png
 sale-or-lease: Sale
 square-footage: '9,520 SF'
 price: '$749,000'
