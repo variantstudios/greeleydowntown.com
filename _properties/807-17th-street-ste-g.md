@@ -1,7 +1,7 @@
 ---
 title: '807 17th Street, Ste G'
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/807 17th st.png
 sale-or-lease: Lease
 square-footage: '1,348 SF'
 price: $8.50/SF
