@@ -1,7 +1,7 @@
 ---
 title: 517 13th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/517 13th st.png
 sale-or-lease: Sale
 square-footage: '9,500 SF'
 price:
