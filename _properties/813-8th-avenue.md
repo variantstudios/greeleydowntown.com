@@ -1,7 +1,7 @@
 ---
 title: 813 8th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/813 8th ave.png
 sale-or-lease: Lease
 square-footage: '7,800 SF'
 price: $8/SF
@@ -20,4 +20,4 @@ image-gallery:
 ---
 
 
-Great office, industrial or retail space! &nbsp;
+Great office, industrial or retail space!
