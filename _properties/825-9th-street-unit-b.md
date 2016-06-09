@@ -1,7 +1,7 @@
 ---
 title: '825 9th Street, Unit B'
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/825 9th st.png
 sale-or-lease: Lease
 square-footage: '4,375 SF'
 price: $5.50/SF
