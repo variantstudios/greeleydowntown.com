@@ -1,7 +1,7 @@
 ---
 title: 800 8th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/800 8th ave.png
 sale-or-lease: Lease
 square-footage: Varies
 price: $10-$22/SF
