@@ -1,7 +1,7 @@
 ---
 title: 919 16th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/919 16th st.png
 sale-or-lease: Lease
 square-footage: 550 SF
 price: $895/mo
@@ -24,4 +24,4 @@ image-gallery:
 * High traffic 16th Street location between 9th & 10th Avenue directly across the street from the University of Northern Colorado Music School. Surrounded by other successful businesses like the 16th St. Tavern, Farmer's Pantry, Jenny's Malt Shop, and DP Dough.
 * 500 SF basement storage available upon request and 230 SF office space also available for additional rent.
 * Available : Now
-* Term : Flexible, but prefer 3 year lease.&nbsp;
+* Term : Flexible, but prefer 3 year lease.
