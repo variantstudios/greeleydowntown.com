@@ -1,7 +1,7 @@
 ---
 title: 618 N 6th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/618 6th ave.png
 sale-or-lease: Sale
 square-footage: '4,000 SF'
 price: '$285,000'
