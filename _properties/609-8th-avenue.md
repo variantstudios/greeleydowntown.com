@@ -1,7 +1,7 @@
 ---
 title: 609 8th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/609 8th ave.png
 sale-or-lease: Lease
 square-footage: '6,500 SF'
 price: $12.50/SF
