@@ -2,7 +2,7 @@
 title: 800 8th Avenue
 property-type: Commercial
 image_path: /assets/images/properties/properties-default.png
-sale-or-lease: Sale
+sale-or-lease: Lease
 square-footage: Varies
 price: $10-$22/SF
 address: 800 8th Avenue
@@ -28,5 +28,4 @@ Be the first to see the vision for the new downtown Greeley. Located in the hear
 * Basement health club/large open space for multiple uses
 
 
-&nbsp;
 <br>Contact us today to reserve your spot in what will become one of downtown Greeley’s most inspired properties.
