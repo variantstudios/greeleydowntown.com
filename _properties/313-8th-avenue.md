@@ -1,7 +1,7 @@
 ---
 title: 313 8th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/3138thavenue.jpg
 sale-or-lease: Sale
 square-footage: '6,000 SF'
 price: '$45,000'
