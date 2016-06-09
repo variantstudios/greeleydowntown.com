@@ -1,7 +1,7 @@
 ---
 title: 719 7th Street B
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/719 7th st.png
 sale-or-lease: Lease
 square-footage: '5,000 SF'
 price: $5.00/SF
