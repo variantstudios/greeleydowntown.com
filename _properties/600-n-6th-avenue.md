@@ -1,7 +1,7 @@
 ---
 title: 600 N 6th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/600 6th ave.png
 sale-or-lease: Sale
 square-footage: '7,168 SF'
 price: '$235,000'
