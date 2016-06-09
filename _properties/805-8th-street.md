@@ -1,7 +1,7 @@
 ---
 title: 805 8th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/805 8th st.png
 sale-or-lease: Lease
 square-footage: '1,750 SF Main; 1,525 SF Second Floor'
 price: 'Main: $12/SF + utilities; Second Floor: $10/SF + utilities'
