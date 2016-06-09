@@ -1,7 +1,7 @@
 ---
 title: 801 8th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/801 8th st.png
 sale-or-lease: Lease
 square-footage: 209 SF
 price: $260-$300
