@@ -1,7 +1,7 @@
 ---
 title: 810 9th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/images/properties/810 9th st.png
 sale-or-lease: Lease
 square-footage: '2,325 SF'
 price: $8/SF
