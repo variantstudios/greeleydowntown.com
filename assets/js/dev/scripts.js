@@ -16,7 +16,9 @@ $(document).ready(function() {
     });
 
     // COLORBOX
-    $(".gallery-item").colorbox({rel:'gallery-item'});
+    if ($('.gallery-item').length > 0) { 
+        $(".gallery-item").colorbox({rel:'gallery-item'});
+    }
 
     if (Modernizr.mq('only all')) {
         $('html').addClass('mq');

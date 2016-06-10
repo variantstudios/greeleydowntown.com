@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-  <div class="page-header">
+<div class="page-header">
     <div class="wrap">
-      <h1>{{ page.title }}</h1>
+        <h1>{{ page.title }}</h1>
     </div>
-  </div>
-
-	<main >
-		<div class="wrap">
-			<div class="main-content clearfix">
-			    <div>
-			        {{ content }} 
-			    </div>
-         {% if page.url == "/contact/" %}
+</div>
+<main>
+    <div class="wrap">
+        <div class="main-content clearfix">
+            <div>
+                {{ content }}
+            </div>
+            <div>
+            {% if page.url == "/contact/" %}
             {% include contact-form.html %}
           {% elsif page.url == "/get-involved/" %}
             {% include get-involved-form.html %}
@@ -30,6 +30,8 @@ layout: default
           {% elsif page.url == "/play/signature-events/" %}
             {% include signature-events.html %}
          {% endif %}
+          </div>
+         
       </div>
       <div class="sidebar">
         {% if page.sub-nav == "explore" %}
@@ -49,12 +51,11 @@ layout: default
           {% include directory-filter.html  %}
         {% endif %}
 
-      </div>
-    </div>
-	</main> 
-
-  <script type="text/javascript">
-  $(document).ready(function() {
+  </div>
+</div>
+</main>
+<script type="text/javascript">
+$(document).ready(function() {
     $(".page-header").backstretch("{{ page.header_image_path }}");
-  });
+});
 </script>
