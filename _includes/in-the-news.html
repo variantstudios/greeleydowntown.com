@@ -1,4 +1,8 @@
-{% assign counter=0 %} {% for post in site.in_the_news %} {% assign counter=counter | plus:1 %}
+{% assign counter=0 %} 
+
+{% assign items = site.in_the_news | sort: 'date' | reverse %}
+
+{% for post in items %} {% assign counter=counter | plus:1 %}
 <article class="style{{counter}} post">
 
 <!-- Editor Link -->
