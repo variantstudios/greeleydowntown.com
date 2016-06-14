@@ -31,6 +31,9 @@ collections:
   directory:
     output: true
     permalink: /directory/:title/
+  in_the_news:
+    output: true
+    permalink: /in-the-news/:title/  
   service_categories:
     output: false
     permalink: /service-categories/:title/
@@ -62,12 +65,12 @@ collections:
 defaults:
   -
     scope:
-      type: "posts"
+      type: "in_the_news"
     values:
-      layout: "post"
+      layout: "in-the-news"
       sub-nav: "more"
       sitemap:
-        exclude: "yes"
+        exclude: "no"
   -
     scope:
       type: "signature_events"
