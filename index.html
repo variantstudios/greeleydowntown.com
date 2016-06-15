@@ -4,9 +4,24 @@ title: Greeley Downtown Development Authority
 description:
 class: front
 header_image_path: assets/images/home-bg.jpg
-explore_image_path: assets/images/explore-bg.jpg
-play_image_path: assets/images/play-bg.jpg
-work_image_path: assets/images/work-bg.jpg
+explore_section:
+  - image_path: assets/images/explore-bg.jpg
+    title: "See what's Downtown"
+    text: "Truly the heart of the City, downtown is where art, entertainment, dining, and shopping abound! Enjoy a stroll through historic Lincoln Park, discover sculptures, murals and art galleries, and visit the many unique local businesses. Downtown Greeley is truly a thriving, urban neighborhood that is a vibrant place to live, work and play."
+    button_text: "View Directory"
+    button_path: "/explore/business-directory/"
+play_section:
+  - image_path: assets/images/play-bg.jpg
+    title: "Upcoming Events"
+    text: "There’s always something to do in downtown! Whether it’s enjoying live music, catching a show at the Union Colony Civic Center, visiting a museum or going ice skating, you won’t find a shortage of fun things to do. We’ve got you covered for every age and every season! Be sure to check out our Signature Events which are larger events that occur throughout the year, including Blarney on the Block, Friday Fest, Oktobrewfest and more."
+    button_text: "Calendar of Events"
+    button_path: "/play/our-calendar/"
+work_image_path:
+  - image_path: assets/images/work-bg.jpg
+    title: 
+    text:
+    button_text:
+    button_path:
 ---
 <div id="explore"></div>
 <div class="front-blocks front-blocks-odd explore">
@@ -21,7 +36,7 @@ work_image_path: assets/images/work-bg.jpg
     
   </div>
   <div class="front-block-details">
-    <div class="front-block-content editable"><h2>See what's Downtown</h2><p>Truly the heart of the City, downtown is where art, entertainment, dining, and shopping abound! Enjoy a stroll through historic Lincoln Park, discover sculptures, murals and art galleries, and visit the many unique local businesses. Downtown Greeley is truly a thriving, urban neighborhood that is a vibrant place to live, work and play.</p><p><a class="btn-large btn" href="/explore/business-directory/">View Directory</a></p></div>
+    <div class="front-block-content"><h2>{{explore_section.title}}</h2><p>{{explore_section.text}}</p></p><p><a class="btn-large btn" href="{{explore_section.text}}">{{explore_section.text}}</a></p></div>
   </div>
 </div>
 
@@ -37,7 +52,7 @@ work_image_path: assets/images/work-bg.jpg
     
   </div>
   <div class="front-block-details">
-    <div class="front-block-content editable"><h2>Upcoming Events</h2><p>There&rsquo;s always something to do in downtown! Whether it&rsquo;s enjoying live music, catching a show at the Union Colony Civic Center, visiting a museum or going ice skating, you won&rsquo;t find a shortage of fun things to do. We&rsquo;ve got you covered for every age and every season! Be sure to check out our Signature Events which are larger events that occur throughout the year, including Blarney on the Block, Friday Fest, Oktobrewfest and more.</p><p><a class="btn-large btn" href="/play/our-calendar/">Calendar of Events</a></p></div>
+    <div class="front-block-content editable"><h2>{{play_section.title}}</h2><p>{{play_section.text}}</p></p><p><a class="btn-large btn" href="{{play_section.text}}">{{play_section.text}}</a></p></div>
   </div>
 </div>
 
