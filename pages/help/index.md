@@ -33,6 +33,16 @@ The header images used on all of the pages, but the home/front.
   * width: 1600px
   * height: 300px
 
+#### Home/Front Page Images
+The header images used on all of the pages, but the home/front.
+
+* Header Image
+  * width: 1440px
+  * height: 830px
+* Explore, Play &amp; Work Images
+  * width: 805px
+  * height: 500px
+
 #### Directory Images
 
 * Main Image
