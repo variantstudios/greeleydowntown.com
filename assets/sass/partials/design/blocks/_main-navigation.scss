@@ -176,7 +176,11 @@ span.menu__link {
     }
   }
 }
-
+.menu__item.top-level ul.menu__level{
+  .menu__link {
+    width: 100%;
+  }
+}
 .menu__link {
   font-weight: 600;
   position: relative;
