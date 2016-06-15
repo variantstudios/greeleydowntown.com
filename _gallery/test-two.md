@@ -19,7 +19,7 @@ images:
   - title: Test Image
     small_image_path: /assets/images/gallery/250x250.png
     large_image_path: /assets/images/gallery/900x675.png
-  - title:
+  - title: Test Image
     small_image_path: /assets/images/gallery/250x250.png
     large_image_path: /assets/images/gallery/900x675.png
 ---
