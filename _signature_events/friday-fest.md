@@ -15,7 +15,7 @@ Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, 
 
 Go Cup 5-10 pm / Bands generally play 6- 9 pm
 
-![](/uploads/versions/fridayfestsponsors---x----1519-629x---.png)
+&nbsp;
 
 ### May 6th – Mayplay Festival
 
@@ -99,4 +99,6 @@ Two bands will be cover their favorite bands. Rumor has it that this you you’l
 
 ### Sponsors:
 
-High Country -Coors, Corona, Blue Moon, Linenkugle / All Purpose Rentals iheart radio / Greeley Tribune
+High Country Beverage -Coors, Corona, Blue Moon, Linenkugle / All Purpose Rentals/ iheart radio / The Tribune/ City of Greeley/ Mosquito Joe
+
+![](/uploads/versions/fridayfestsponsors---x----1519-629x---.png)
