@@ -17,7 +17,7 @@ Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, 
 
 Go Cup 5 to 10 / Bands generally play 6 to 9
 
-!!! Title Sponsors - IMAGE GOES HERE !!! friday-fest-2016-season-sponsor-thank-you.jpg
+![](/uploads/versions/fridayfestsponsors---x----1519-629x---.png)
 
 ### May 6th – Mayplay Festival
 
