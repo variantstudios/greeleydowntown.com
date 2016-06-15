@@ -7,15 +7,13 @@ weight: 1
 ---
 
 
-HERE IT IS!!!
-
 2016 Line-up
 
 Fridays on the 9th St Plaza, downtown Greeley
 
 Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, Greeley’s famous and unique “Go-Cup” service, street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids.
 
-Go Cup 5 to 10 / Bands generally play 6 to 9
+Go Cup 5-10 pm / Bands generally play 6- 9 pm
 
 ![](/uploads/versions/fridayfestsponsors---x----1519-629x---.png)
 
