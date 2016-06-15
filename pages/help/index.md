@@ -55,7 +55,6 @@ The header images used on all of the pages, but the home/front.
   * **max** width: 900px
   * **max** height: 900px
 
-
 #### Property Images Sizes
 
 * Main Image
@@ -68,6 +67,11 @@ The header images used on all of the pages, but the home/front.
   * **max** width: 900px
   * **max** height: 900px
 
+#### In the News Images
+
+* Main Image
+  * **max** width: 740px
+  * **max** height: 480px
 
 #### Gallery Images Sizes
 
