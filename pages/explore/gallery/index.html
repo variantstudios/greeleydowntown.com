@@ -11,7 +11,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
   <ul class="gallery-grid">
     {% assign items = (site.gallery | sort:"weight")  %}
     {% for item in items  %}
-		<a class="gallery-group" href="{{ item.permalink }}">
+		<a class="gallery-group" href="{{ item.url }}">
 			<li itemscope class="">
 				<img class="gallery-img lrg" src="{{ item.images.first.small_image_path }}" alt="{{ item.title }}" itemprop="image">
         <h5 class="gallery-group-name">{{ item.title }}</h5>

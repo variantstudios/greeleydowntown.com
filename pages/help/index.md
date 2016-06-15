@@ -26,6 +26,13 @@ sitemap:
 
 ### Images Sizes
 
+#### Header Images
+The header images used on all of the pages, but the home/front.
+
+* Header Images
+  * width: 1600px
+  * height: 300px
+
 #### Directory Images
 
 * Main Image
@@ -35,8 +42,8 @@ sitemap:
   * width: 250px
   * height: 250px
 * Gallery Large Image
-  * **max** width: 800px
-  * **max** height: 800px
+  * **max** width: 900px
+  * **max** height: 900px
 
 
 #### Property Images Sizes
@@ -48,8 +55,18 @@ sitemap:
   * width: 250px
   * height: 250px
 * Gallery Large Image
-  * **max** width: 800px
-  * **max** height: 800px
+  * **max** width: 900px
+  * **max** height: 900px
+
+
+#### Gallery Images Sizes
+
+* Gallery Small Image
+  * width: 250px
+  * height: 250px
+* Gallery Large Image
+  * **max** width: 900px
+  * **max** height: 900px
 
 
 ### Images Tools
@@ -72,8 +89,38 @@ sitemap:
   * Mac only desktop app to helps Save disk space & bandwidth by compressing images (jpg and png) without losing quality.
 
 
-### Other Online Tools
+### SEO / Content Optimization
 
+#### SEO Education &amp; Guides
+* [Beginners Guide to SEO](https://moz.com/beginners-guide-to-seo)
+* [Google's - Search Engine Optimization Starter Guide PDF](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+* [Search Engine Land’s Guide To SEO](http://searchengineland.com/guide/seo)
+* [kissmetrics - SEO: A Comprehensive Guide for Beginners](https://blog.kissmetrics.com/seo-guide/)
+
+#### Meta Tags
+* [Google's - Meta tags that Google understands](https://support.google.com/webmasters/answer/79812?hl=en)
+* [How Google Meta Tags Impact SEO - WordStream](http://www.wordstream.com/meta-tags)
+* [Meta Description Tag - Learn SEO - Moz](https://moz.com/learn/seo/meta-description)
+
+#### SEO Blogs
+* [The Moz Blog](https://moz.com/blog)
+* [Yoast SEO Blog](https://yoast.com/seo-blog/)
+* [Search Engine Land](http://searchengineland.com/)
+* [Search Engine Watch](https://searchenginewatch.com/)
+* [kissmetrics](https://blog.kissmetrics.com/)
+
+#### Keyword Tools
+* [Keyword Explorer](https://moz.com/products/pro/keyword-explorer)
+* [Google Keyword Planner](http://adwords.google.com/keywordplanner)
+* [SemRush](https://www.semrush.com/)
+* [SERPs Keyword Research Database](https://serps.com/tools/keyword-research/)
+* [soovle](http://soovle.com/)
+* [SEO Book Keyword Tool](http://tools.seobook.com/keyword-tools/seobook/)
+* [KeywordTool.io](http://keywordtool.io/)
+* [WordStream Keyword Tool](http://www.wordstream.com/keywords)
+
+
+### Other Online Tools
 * [vs.yourbrowser.is](http://vs.yourbrowser.is/)
   * Find out your exact browser version, IP address, operation system and version, screen resolution and more. Also if you click the "yes" button all of the info will be emailed to VS to help us debug.
 * More coming soon...
