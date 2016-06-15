@@ -94,6 +94,14 @@ defaults:
       layout: "property"
       sitemap:
         exclude: "no"
+  -
+    scope:
+      type: "gallery"
+    values:
+      layout: "gallery"
+      sub-nav: "explore"
+      sitemap:
+        exclude: "no"
 
 sale-or-leases:
   - Sale
