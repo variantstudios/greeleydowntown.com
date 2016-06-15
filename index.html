@@ -16,12 +16,12 @@ play_section:
     text: "There’s always something to do in downtown! Whether it’s enjoying live music, catching a show at the Union Colony Civic Center, visiting a museum or going ice skating, you won’t find a shortage of fun things to do. We’ve got you covered for every age and every season! Be sure to check out our Signature Events which are larger events that occur throughout the year, including Blarney on the Block, Friday Fest, Oktobrewfest and more."
     button_text: "Calendar of Events"
     button_path: "/play/our-calendar/"
-work_image_path:
+work_section:
   - image_path: assets/images/work-bg.jpg
-    title: 
-    text:
-    button_text:
-    button_path:
+    title: "Business Downtown"
+    text: "Now is the time to invest in Downtown Greeley! With a variety of tax credits, the DDA Facade Grant program, attractive loan rates, and competitive lease rates, Downtown Greeley is a great place to do business. Not to mention that downtown offers a supportive and active business community."
+    button_text: "Available Commercial Properties"
+    button_path: "/work/commercial-properties/"
 ---
 <div id="explore"></div>
 <div class="front-blocks front-blocks-odd explore">
@@ -52,7 +52,7 @@ work_image_path:
     
   </div>
   <div class="front-block-details">
-    <div class="front-block-content editable"><h2>{{play_section.title}}</h2><p>{{play_section.text}}</p></p><p><a class="btn-large btn" href="{{play_section.text}}">{{play_section.text}}</a></p></div>
+    <div class="front-block-content"><h2>{{play_section.title}}</h2><p>{{play_section.text}}</p></p><p><a class="btn-large btn" href="{{play_section.text}}">{{play_section.text}}</a></p></div>
   </div>
 </div>
 
@@ -68,15 +68,15 @@ work_image_path:
     
   </div>
   <div class="front-block-details">
-    <div class="front-block-content editable"><h2>Business Downtown</h2><p>Now is the time to invest in Downtown Greeley! With a variety of tax credits, the DDA Facade Grant program, attractive loan rates, and competitive lease rates, Downtown Greeley is a great place to do business. Not to mention that downtown offers a supportive and active business community.</p><p><a class="btn-large btn" href="/work/commercial-properties/">Available Commercial Properties</a></p></div>
+    <div class="front-block-content"><h2>{{work_section.title}}</h2><p>{{work_section.text}}</p></p><p><a class="btn-large btn" href="{{work_section.text}}">{{work_section.text}}</a></p></div>
   </div>
 </div>
 
 <script type="text/javascript">
   $(document).ready(function() {
     //$(".explore .front-block-image").backstretch("{{ page.explore_image_path }}");
-    $(".play .front-block-image").backstretch("{{ page.play_image_path }}");
-    $(".work .front-block-image").backstretch("{{ page.work_image_path }}");
-    $(".explore .front-block-image").backstretch("{{ page.explore_image_path }}");
+    $(".play .front-block-image").backstretch("{{ page.play_section.play_image_path }}");
+    $(".work .front-block-image").backstretch("{{ page.work_section.image_path }}");
+    $(".explore .front-block-image").backstretch("{{ page.explore_section.image_path }}");
   });
 </script>
