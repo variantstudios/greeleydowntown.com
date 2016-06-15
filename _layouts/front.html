@@ -11,7 +11,56 @@ layout: default
 
 	<main>
 		<div class="wrap">
-			 {{ content }}
+			 <div>{{ content }}</div>
+			 <div id="explore"></div>
+<div class="front-blocks front-blocks-odd explore">
+  <img class="curve-right" src="assets/images/curve-right.png" />
+  <div class="front-block-image">
+    <div class="icons">
+      <div class="icons-bg"></div>
+      <img class="icon-front" src="assets/images/explore-icon.png" />
+      <img class="icon-text" src="assets/images/explore.svg" />
+      <div class="line"></div>
+    </div>
+    
+  </div>
+  <div class="front-block-details">
+    <div class="front-block-content"><h2>{{page.explore_section.title}}</h2><p>{{page.explore_section.text}}</p></p><p><a class="btn-large btn" href="{{page.explore_section.text}}">{{page.explore_section.text}}</a></p></div>
+  </div>
+</div>
+
+<div class="front-blocks front-blocks-even play">
+  <img class="curve-left" src="assets/images/curve-left.png" />
+  <div class="front-block-image">
+    <div class="icons">
+      <div class="icons-bg"></div>
+      <img class="icon-front" src="assets/images/icons/play.svg" />
+      <img class="icon-text" src="assets/images/play.svg" />
+      <!--<div class="line"></div>-->
+    </div>
+    
+  </div>
+  <div class="front-block-details">
+    <div class="front-block-content"><h2>{{page.play_section.title}}</h2><p>{{page.play_section.text}}</p></p><p><a class="btn-large btn" href="{{page.play_section.text}}">{{page.play_section.text}}</a></p></div>
+  </div>
+</div>
+
+<div class="front-blocks front-blocks-odd work">
+  <img class="curve-right" src="assets/images/curve-right.png" />
+  <div class="front-block-image">
+    <div class="icons">
+      <div class="icons-bg"></div>
+      <img class="icon-front" src="assets/images/icons/work.svg" />
+      <img class="icon-text" src="assets/images/work.svg" />
+      <div class="line"></div>
+    </div>
+    
+  </div>
+  <div class="front-block-details">
+    <div class="front-block-content"><h2>{{page.work_section.title}}</h2><p>{{page.work_section.text}}</p></p><p><a class="btn-large btn" href="{{page.work_section.text}}">{{page.work_section.text}}</a></p></div>
+  </div>
+</div>
+
         </div>
 	</main>
 
@@ -19,6 +68,9 @@ layout: default
   <script type="text/javascript">
   $(document).ready(function() {
     $(".page-header").backstretch(" {{page.header_image_path}} ", {fade: 600});
+     $(".play .front-block-image").backstretch("{{ page.play_section.play_image_path }}");
+    $(".work .front-block-image").backstretch("{{ page.work_section.image_path }}");
+    $(".explore .front-block-image").backstretch("{{ page.explore_section.image_path }}");
   });
 </script>
 
