@@ -1,7 +1,7 @@
 ---
 title: Third Test Gallery
 description:
-weight: -1
+weight: 3
 header_image_path: 'https://unsplash.it/1400/600/?random'
 images:
   - title: Replace Me
