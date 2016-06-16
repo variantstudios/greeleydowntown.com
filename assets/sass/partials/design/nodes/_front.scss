@@ -259,6 +259,24 @@
     vertical-align: middle;
   }
 }
+.ie9 {
+  .icon-text {
+    margin-top: 20px;
+  }
+  .line {
+    margin-top: 100px;
+  }
+  .play {
+    .icon-front {
+      margin: -100px auto 0;
+    }
+    .icon-text {
+      margin-top: 150px;
+    }
+  }
+}
+
+
 @keyframes spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

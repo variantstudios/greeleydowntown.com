@@ -98,6 +98,7 @@ span.menu__link {
   left: 0;
   //visibility: hidden;
   overflow: hidden;
+  -webkit-overflow-scrolling: touch;
   overflow-y: scroll;
   width: calc(100% - 50px);
   height: 100%;
