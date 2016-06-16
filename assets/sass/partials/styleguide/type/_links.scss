@@ -7,15 +7,11 @@ a {
     color: $visited;
   }
 }
-
 h1, h2, h3, h4, h5, h6 {
   a {
     text-decoration: none;
   }
 }
-
-
-  
 a.btn {
   display: inline-block;
   text-decoration: none;
@@ -26,18 +22,15 @@ a.btn {
   background: #EC6060;
   color: #fff;
   padding: .5em 1em;
-  box-shadow: 5px 6px 0px 0px #DEDEDE;
+  box-shadow: 5px 6px #DEDEDE;
   border-radius: 2px;
-  @include trans(all, linear, .1s);
+  transform: all .1s;
   &:hover {
-    margin: .15em 0 0.15em;
-    box-shadow: 3px 3px 0px 0px #DEDEDE;
+    margin: .15em 0;
+    box-shadow: 3px 3px #DEDEDE;
   }
 }
-
-
 a.btn-large {
   font-size: 120%;
   padding: .75em 2em;
 }
-

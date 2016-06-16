@@ -1,20 +1,18 @@
 html {
-    font: $font-weight #{$font-size + "%"}/#{$line-height} $font-family;
-    -webkit-text-size-adjust: 100%;
-    /* Prevent font scaling in landscape while allowing user zoom */
+  font: $font-weight #{$font-size + "%"}/#{$line-height} $font-family;
+  -webkit-text-size-adjust: 100%;
+  /* Prevent font scaling in landscape while allowing user zoom */
 }
-
 body {
-    color: $body-copy-color;
+  color: $body-copy-color;
 }
-
 p {
-    margin: auto auto $indent-val;
-    // Conditonal Check For Paragraph Styling
-    @if $paragraph-vertical-whitespace==false {
-        & + p {
-            //siblings indentation
-            margin-top: -0.5em;
-        }
+  margin: auto auto $indent-val;
+  // Conditonal Check For Paragraph Styling
+  @if $paragraph-vertical-whitespace==false {
+    & + p {
+      //siblings indentation
+      margin-top: -0.5em;
     }
+  }
 }

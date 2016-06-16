@@ -1,13 +1,14 @@
 .front {
   h1 {
-    span {font-weight: 700;}
+    span {
+      font-weight: 700;
+    }
   }
   .page-header {
     margin-bottom: 0;
     .wrap img {
       display: block;
       margin: 0 auto;
-      //padding: 7em 0;
     }
     .home-intro-img {
       padding: 8em 0 0;
@@ -26,20 +27,38 @@
       left: 0;
       right: 0;
       -webkit-filter: blur(50px);
-      -moz-filter: blur(50px);
-      -o-filter: blur(50px);
-      -ms-filter: blur(50px);
       filter: blur(50px);
       z-index: -1;
       border-radius: 50%;
       @include breakpoint($tablet, $no-query: '.no-mq') {
-        width:400px;
+        width: 400px;
       }
     }
   }
-
 }
-
+// .ie-modern .intro-bg {
+//   background: transparent;
+// }
+.front-blocks {
+  @include clearfix;
+  margin-bottom: 4em;
+  position: relative;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    margin-bottom: 0;
+  }
+  .bg {
+    width: 100%;
+  }
+  p {
+    font-size: 110%;
+  }
+  .backstretch {
+    background: #000;
+    img {
+      opacity: .6;
+    }
+  }
+}
 .explore {
   .btn {
     background: $explore;
@@ -67,62 +86,23 @@
     max-width: 230px;
   }
 }
-
-
-.front-blocks {
-  @include clearfix;
-  margin-bottom: 4em;
-  position: relative;
-  @include breakpoint($tablet, $no-query: '.no-mq') {
-    margin-bottom: 0;
-  }
-  .bg {
-    width: 100%;
-  }
-  h2 {
-    //margin: 0;
-  }
-  p {
-    font-size: 110%;
-  }
-  .backstretch {
-    background: #000;
-    img {
-      opacity: 0.6;
-    }
-  }
-}
-.front-block-details,.front-block-image {
+.front-block-details, .front-block-image {
   position: relative;
 }
-
 .front-block-details {
   position: relative;
   z-index: 999;
 }
-
 .front-block-image {
-  line-height: 0;
   @include clearfix;
+  line-height: 0;
   height: 500px;
   overflow: hidden;
-      //border-radius: 0 40% 40% 0;
-}
-.front-blocks-even {
-  .front-block-image {
-    //border-radius: 40% 0 0 40%;
-  }
-}
-
-
-.backstretch {
- // height: 500px !important;
 }
 .front-block-header {
   padding: 1em 2em;
   margin-bottom: 2em;
   position: relative;
-  //overflow: hidden;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     padding: 2em 0;
   }
@@ -130,7 +110,7 @@
     content: '';
     width: 1000%;
     height: 100%;
-    background: url(../images/front-block-header.png);
+    background: url("../images/front-block-header.png");
     position: absolute;
     top: 0;
     right: -100px;
@@ -143,13 +123,13 @@
   right: calc(50% - 200px);
   z-index: 999;
   @include breakpoint($phone) {
-   display: none;
+    display: none;
   }
   &:before {
     content: '';
     width: 1000%;
     height: 100%;
-    background: url(../images/front-block-header.png);
+    background: url("../images/front-block-header.png");
     position: absolute;
     top: 0;
     right: -100px;
@@ -162,10 +142,9 @@
   left: calc(50% - 200px);
   z-index: 99;
   @include breakpoint($phone) {
-   display: none;
+    display: none;
   }
 }
-
 .front-blocks-odd {
   .front-block-details {
     background: #fff;
@@ -177,14 +156,13 @@
   }
   .front-block-image {
     @include breakpoint($tablet, $no-query: '.no-mq') {
-      @include grid-span(7,1,$gutter:0);
+       @include grid-span(7,1,$gutter:0);
     }
     @include breakpoint($lg-desktop) {
-      @include grid-span(6.85,1,$gutter:0);
+       @include grid-span(6.85,1,$gutter:0);
     }
   }
 }
-
 .front-blocks-even {
   .front-block-details {
     background: #fff;
@@ -196,158 +174,70 @@
   }
   .front-block-image {
     @include breakpoint($tablet, $no-query: '.no-mq') {
-      @include grid-span(7,6,$gutter:0);
+       @include grid-span(7,6,$gutter:0);
     }
     @include breakpoint($lg-desktop) {
-      @include grid-span(6.85,6.15,$gutter:0);
+       @include grid-span(6.85,6.15,$gutter:0);
     }
   }
 }
-
 .front-block-content {
   padding: 2em 2em 1em;
 }
 .icons {
-  //height:440px;
-  //max-width:75%;
   position: absolute;
-  margin: 0em auto 0;
+  margin: 0 auto;
   left: 0;
   right: 0;
   padding: 3em 2em;
   max-width: 400px;
-      top: 2em;
+  top: 2em;
   @include breakpoint($tablet, $no-query: '.no-mq') {
-    width:100%;
+    width: 100%;
     max-width: 325px;
     padding: 0;
   }
-
 }
 .icons-bg {
-  height:80%;
-  width:425px;
-  background: url(../images/icon-lines.png) no-repeat center center;
+  height: 80%;
+  width: 425px;
+  background: url("../images/icon-lines.png") no-repeat center center;
   opacity: 0;
+    position: absolute;
+    animation: spin 90s infinite;
+    right: 0;
+    margin: 0 auto;
   @include breakpoint($tablet, $no-query: '.no-mq') {
-    width:400px;
+    width: 400px;
     height: 425px;
     opacity: 1;
     left: -11%;
     top: 0;
   }
 }
-
-.icons-bg {
-  position: absolute;
-  -webkit-animation-name: rotate;
-  -webkit-animation-duration:90s;
-  -webkit-animation-iteration-count:infinite;
-  -webkit-animation-timing-function:linear;
-  -moz-animation-name: rotate;
-  -moz-animation-duration:50s;
-  -moz-animation-iteration-count:infinite;
-  -moz-animation-timing-function:linear;
-  right: 0;
-  margin: 0 auto;
-}
-
-@-webkit-keyframes rotate {
-  from {-webkit-transform:rotate(0deg);}
-  to {  -webkit-transform:rotate(360deg);}
-}
-@-moz-keyframes rotate {
-  from {-moz-transform:rotate(0deg);}
-  to {  -moz-transform:rotate(360deg);}
-}
-
-
-@-webkit-keyframes rotate-light {
-  0% {top:155px; -webkit-transform:rotate(-1deg); }
-  50% {  top: 165px; -webkit-transform:rotate(1deg); }
-  100% { top: 155px;  -webkit-transform:rotate(-1deg); }
-}
-
-@-moz-keyframes rotate-light {
-  0% {top:155px; -moz-transform:rotate(-1deg);
-  }
-  50% {  top: 165px; -moz-transform:rotate(1deg)}
-  100% { top: 155px;-moz-transform:rotate(-1deg)}
-}
-
-
-@-webkit-keyframes icon-move {
-  0% {top:58px; transform: scale(0.7); }
-  50% { top: 65px; transform: scale(0.8); }
-  100% { top: 58px;  transform: scale(0.7); }
-}
-
-@-moz-keyframes icon-move {
-  0% {top:58px;transform: scale(0.7);}
-  50% {top: 65px; transform: scale(0.8);}
-  100% { top: 58px; transform: scale(0.7);}
-}
-
-
-
 .icon-text {
-   position: relative;
+  position: relative;
+  text-align: center;
+  display: block;
+  margin: -70px auto 0;
+  animation: spin-light 1s infinite alternate;
+}
+.icon-front {
+  position: relative;
   text-align: center;
   display: block;
   margin: 0 auto;
-  margin-top: -70px;
+  animation: icon-move 1s infinite alternate;
 }
-
-.icon-front {
-   position: relative;
-  text-align: center;
-  display: block;
-  margin: 0 auto;
-
-}
-
-.icon-text {
-  display: block;
-  -webkit-animation-name: rotate-light;
-  -webkit-animation-duration:2s;
-  -webkit-animation-iteration-count:infinite;
-  -webkit-animation-timing-function:linear;
-  -moz-animation-name: rotate-light;
-  -moz-animation-duration:2s;
-  -moz-animation-iteration-count:infinite;
-  -moz-animation-timing-function:linear;
-}
-
-.icon-front {
-  display: block;
-  -webkit-animation-name: icon-move;
-  -webkit-animation-duration:2s;
-  -webkit-animation-iteration-count:infinite;
-  -webkit-animation-timing-function:linear;
-  -moz-animation-name: icon-move;
-  -moz-animation-duration:2s;
-  -moz-animation-iteration-count:infinite;
-  -moz-animation-timing-function:linear;
-}
-
 .line {
   background: #fff;
   width: 40px;
   height: 4px;
   border-radius: 5px;
-  //position:absolute;
   text-align: center;
   margin: 200px auto 0;
-  -webkit-animation-name: line-width;
-  -webkit-animation-duration:2s;
-  -webkit-animation-iteration-count:infinite;
-  -webkit-animation-timing-function:linear;
-  -moz-animation-name: line-width;
-  -moz-animation-duration:2s;
-  -moz-animation-iteration-count:infinite;
-  -moz-animation-timing-function:linear;
+  animation: line-width 1s infinite alternate;
 }
-
 .play {
   .icons {
     text-align: center;
@@ -363,21 +253,37 @@
     }
   }
   .icon-text {
-    margin: 0 auto 0;
+    margin: 0 auto;
     display: inline-block;
-        width: 50%;
-
+    width: 50%;
     vertical-align: middle;
   }
 }
-@-webkit-keyframes line-width {
-  0% {width: 80px;}
-  50% {width: 40px;}
-  100% {width: 80px;}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
-@-moz-keyframes line-width {
-  0% {width: 80px;}
-  50% {width: 40px;}
-  100% {width: 80px;}
+@keyframes spin-light {
+  from {
+    top: 155px;
+    transform: rotate(-1deg);
+  }
+  to {
+    top: 165px;
+    transform: rotate(1deg);
+  }
 }
-
+@keyframes icon-move {
+  from {
+    top: 58px;
+    transform: scale(0.7);
+  }
+  to {
+    top: 65px;
+    transform: scale(0.8);
+  }
+}
+@keyframes line-width {
+  from { width: 80px; }
+  to { width: 40px; }
+}

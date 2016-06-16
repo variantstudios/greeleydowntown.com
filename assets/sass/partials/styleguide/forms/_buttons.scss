@@ -7,9 +7,10 @@ input[type="submit"], button {
   color: #fff;
   background: $play;
   border: 0;
-  box-shadow: 7px 8px 0px 0px #DEDEDE;
+  box-shadow: 7px 8px #DEDEDE;
   margin-bottom: 2em;
   cursor: pointer;
+  -webkit-appearance: none;
   &:active, &:focus {
     box-shadow: none;
     outline: none;

@@ -42,3 +42,12 @@
     }
   }
 }
+.ie9, .lt-ie9 {
+  .gallery-grid {
+    display: block;
+    .gallery-group, .grid-item {
+      display: inline-block;
+      vertical-align: top;
+    }
+  }
+}
