@@ -18,9 +18,9 @@ select {
   font-size: 80%;
   font-family: $font-family;
   border-radius: 3px;
-  background: #FFFFFF;
+  background: #FFF;
   border: 0;
-  box-shadow: 7px 8px 0px 0px #DEDEDE;
+  box-shadow: 7px 8px #DEDEDE;
   width: 100%;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -29,5 +29,8 @@ select {
   &:active, &:focus {
     box-shadow: none;
     outline: none;
+  }
+  &::-ms-expand {
+    display: none;
   }
 }

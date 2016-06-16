@@ -1,21 +1,20 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
-	{% include head.html %}
-	<body class="{{ page.class }}" >
+<!--[if (lte IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js ie-modern" lang="en"><!--<![endif]-->
+{% include head.html %}
+<body class="{{ page.class }}" >
 
-  	{% include browserupgrade.html %}
-  	{% include header.html %}
-    
-    {{ content }}
+	{% include browserupgrade.html %}
+	{% include header.html %}
 
-  	{% include footer.html %}
-  	{% include scripts.html %}
-    
-  	{% if page.url == "/index.html" %}
-  	{% endif %}
+  {{ content }}
 
-  </body>
+	{% include footer.html %}
+	{% include scripts.html %}
+
+	{% if page.url == "/index.html" %}
+	{% endif %}
+
+</body>
 </html>

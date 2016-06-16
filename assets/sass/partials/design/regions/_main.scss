@@ -3,4 +3,10 @@ main {
   padding: 0;
   position: relative;
   display: block;
+  object {
+    display: none;
+    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+      display: inherit;
+    }
+  }
 }

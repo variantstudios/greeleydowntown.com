@@ -1,89 +1,74 @@
 .front {
-    .front-page-content {
-        color: white;
-        @include text-shadow(1px, 0px, 3px, rgba(black, .4));
-        padding: 16em 1em 2em;
-        @include grad(rgba(black, 0), rgba(black, .7));
-        @include breakpoint($tablet, $no-query: '.no-mq') {
-            position: fixed;
-            width: -webkit-calc(100% - 350px);
-            width: calc(100% - 350px);
-            bottom: 0;
-            right: 0;
-            padding: 5em 2em 2em;
-        }
-        h1,
-        p {
-            max-width: 1000px;
-        }
-        h1 {
-            margin: 0 0 .1em;
-            font-size: 2.35em;
-            font-weight: 700;
-            color: #fff;
-        }
-        p {
-            font-size: 1.2em;
-            margin: 0;
-        }
-        a,
-        a:visited,
-        a:active {
-            display: block;
-            font-size: 1.1em;
-            color: $color-four;
-            text-decoration: none;
-            img {
-                margin-top: 20px;
-                display: inline-block;
-                margin-bottom: -10px;
-                padding-left: .5em;
-            }
-        }
-        .services {
-            clear: both;
-            @include clearfix;
-            margin: 3em 0 1em;
-        }
+  .front-page-content {
+    color: white;
+    text-shadow: 1px 0 3px rgba(black, .4);
+    padding: 16em 1em 2em;
+    @include grad(rgba(black, 0), rgba(black, .7));
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      position: fixed;
+      width: -webkit-calc(100% - 350px);
+      width: calc(100% - 350px);
+      bottom: 0;
+      right: 0;
+      padding: 5em 2em 2em;
     }
+    h1, p {
+      max-width: 1000px;
+    }
+    h1 {
+      margin: 0 0 .1em;
+      font-size: 2.35em;
+      font-weight: 700;
+      color: #fff;
+    }
+    p {
+      font-size: 1.2em;
+      margin: 0;
+    }
+    a, a:active, a:visited {
+      display: block;
+      font-size: 1.1em;
+      color: $color-four;
+      text-decoration: none;
+      img {
+        margin-top: 20px;
+        display: inline-block;
+        margin-bottom: -10px;
+        padding-left: .5em;
+      }
+    }
+    .services {
+      @include clearfix;
+      clear: both;
+      margin: 3em 0 1em;
+    }
+  }
 }
-
 @keyframes fadein {
-    from {
-        opacity: 0;
-        margin-top: -50px;
-    }
-    to {
-        opacity: 1;
-        margin-top: 0;
-    }
+  from {
+    opacity: 0;
+    margin-top: -50px;
+  }
+  to {
+    opacity: 1;
+    margin-top: 0;
+  }
 }
-
 @keyframes Zoomin {
-    from {
-        margin-top: -100px;
-        @include transform-origin(50% 50%);
-        @include transform(scale(.95));
-        opacity: 0;
-        box-shadow: rgba(0, 0, 0, .8) 0px 0px 50px inset;
-    }
-    to {
-        margin-top: 0;
-        opacity: 1;
-        @include transform(scale(1));
-        box-shadow: rgba(0, 0, 0, 0) 0 0 0 inset;
-    }
+  from {
+    margin-top: -100px;
+    transform-origi: 50% 50%;
+    transform: scale(.95);
+    opacity: 0;
+    box-shadow: 0 0 50px rgba($black, .8);
+  }
+  to {
+    margin-top: 0;
+    opacity: 1;
+    transform: scale(1);
+    box-shadow: 0 0 transparent;
+  }
 }
-
-.front {
-    /* animation: fadein .3s;
-    animation-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
-    //animation-timing-function: ease-out;*/
-    /*    animation: Zoomin .4s;
-  animation-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
-  @include transform-style(preserve-3d);*/
-}
-
 body.front {
-    background-color: #111;
+  background-color: #111;
 }
