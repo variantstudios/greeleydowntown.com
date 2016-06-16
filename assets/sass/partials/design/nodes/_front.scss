@@ -6,6 +6,7 @@
   }
   .page-header {
     margin-bottom: 0;
+    overflow: hidden;
     .wrap img {
       display: block;
       margin: 0 auto;
@@ -13,6 +14,7 @@
     .home-intro-img {
       padding: 8em 0 0;
       max-width: 350px;
+      width: 80%;
     }
     .down-arrow img {
       padding-bottom: 5em;
@@ -20,18 +22,19 @@
     .intro-bg {
       content: '';
       background: rgba(0,0,0,0.65);
-      width: 80%;
-      height: 400px;
+      width: 645px;
+      height: 645px;
       position: absolute;
       margin: 0 auto;
       left: 0;
       right: 0;
-      -webkit-filter: blur(50px);
-      filter: blur(50px);
+      // -webkit-filter: blur(50px);
+      // filter: blur(50px);
       z-index: -1;
       border-radius: 50%;
+      background: url('../images/front-blur-bg.png') no-repeat;
       @include breakpoint($tablet, $no-query: '.no-mq') {
-        width: 400px;
+        width: 645px;
       }
     }
   }
@@ -187,7 +190,7 @@
   left: 0;
   right: 0;
   padding: 3em 2em;
-  max-width: 400px;
+  max-width: 320px;
   top: 2em;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     width: 100%;
