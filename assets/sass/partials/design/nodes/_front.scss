@@ -36,9 +36,6 @@
     }
   }
 }
-// .ie-modern .intro-bg {
-//   background: transparent;
-// }
 .front-blocks {
   @include clearfix;
   margin-bottom: 4em;
@@ -203,10 +200,10 @@
   width: 425px;
   background: url("../images/icon-lines.png") no-repeat center center;
   opacity: 0;
-    position: absolute;
-    animation: spin 90s infinite;
-    right: 0;
-    margin: 0 auto;
+  position: absolute;
+  animation: spin 90s infinite;
+  right: 0;
+  margin: 0 auto;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     width: 400px;
     height: 425px;
@@ -274,6 +271,9 @@
       margin-top: 150px;
     }
   }
+}
+.lt-ie9 .intro-bg, .ie9 .intro-bg, .ie-modern .intro-bg {
+  background: transparent;
 }
 
 
