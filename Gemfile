@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", '2.5.3'
+gem "jekyll", '3.0.3'
 gem 'toolkit', '2.3.0'
 gem 'singularitygs', '1.4'
 gem 'breakpoint', '2.5.0'
