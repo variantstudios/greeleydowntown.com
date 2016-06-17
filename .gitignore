@@ -5,3 +5,4 @@ Gemfile.lock
 .bundle
 node_modules
 _mdwriter.cson
+.jekyll-metadata

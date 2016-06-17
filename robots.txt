@@ -1,5 +1,4 @@
 ---
-sitemap:
-  exclude: 'yes'
+sitemap: false
 ---
 Disallow: *

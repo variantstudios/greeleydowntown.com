@@ -1,4 +1,4 @@
-'use strict';
+//'use strict';
 
 require('es6-promise').polyfill();
 var gulp = require('gulp'),

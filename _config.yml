@@ -2,19 +2,15 @@
 title: Greeley Downtown Development Authority
 email: team@variantstudios.com
 description:
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://long-jay1.cloudvent.net" # the base hostname & protocol for your site
 
 # Version of Jekyll
 version: 3.0.3
 
-# Site Author(s)
-author:
-  name: Brent Robbins
-  email: brent@variantstudios.com
-  name: Michael McQueen
-  email: michael@variantstudios.com
-
+# Jekyll Plugins
+gems:
+  - jekyll-sitemap
 
 # Build settings
 highlighter: pygments
@@ -22,10 +18,6 @@ markdown: kramdown
 kramdown:
   auto_ids: true
   toc_levels: 1..6
-
-
-# Permalinks
-permalink: /news/:year-:month-:day/:title/
 
 #Collections
 collections:
