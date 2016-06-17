@@ -64,39 +64,30 @@ defaults:
     values:
       layout: "in-the-news"
       sub-nav: "more"
-      sitemap:
-        exclude: "no"
   -
     scope:
       type: "signature_events"
     values:
       layout: "signature-events"
       sub-nav: "play"
-      sitemap:
-        exclude: "yes"
+      sitemap: "yes"
   -
     scope:
       type: "directory"
     values:
       layout: "directory"
       sub-nav: "explore"
-      sitemap:
-        exclude: "no"
   -
     scope:
       type: "properties"
     values:
       layout: "property"
-      sitemap:
-        exclude: "no"
   -
     scope:
       type: "gallery"
     values:
       layout: "gallery"
       sub-nav: "explore"
-      sitemap:
-        exclude: "no"
 
 sale-or-leases:
   - Sale
