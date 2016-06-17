@@ -25,37 +25,37 @@ collections:
     output: false
   directory:
     output: true
-    permalink: /directory/:title/
+    permalink: /directory/:title
   in_the_news:
     output: true
-    permalink: /in-the-news/:title/
+    permalink: /in-the-news/:title
   service_categories:
     output: false
-    permalink: /service-categories/:title/
+    permalink: /service-categories/:title
   signature_events:
     output: true
-    permalink: /play/signature-events/:title/
+    permalink: /play/signature-events/:title
   retail_categories:
     output: false
-    permalink: /retail-categories/:title/
+    permalink: /retail-categories/:title
   nightlife_categories:
     output: false
-    permalink: /nightlife-categories/:title/
+    permalink: /nightlife-categories/:title
   entertainment_and_recreation_categories:
     output: false
-    permalink: /entertainment-and-recreation-categories/:title/
+    permalink: /entertainment-and-recreation-categories/:title
   dining_categories:
     output: false
-    permalink: /dining_categories/:title/
+    permalink: /dining_categories/:title
   lodging_and_event_centers_categories:
     output: false
-    permalink: /lodging-and-event-centers-categories/:title/
+    permalink: /lodging-and-event-centers-categories/:title
   properties:
     output: true
-    permalink: /properties/:title/
+    permalink: /properties/:title
   gallery:
     output: true
-    permalink: /gallery/:title/
+    permalink: /gallery/:title
 #Defaults
 defaults:
   -
