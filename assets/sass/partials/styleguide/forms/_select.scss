@@ -34,3 +34,12 @@ select {
     display: none;
   }
 }
+.ie9 .select-wrap {
+  padding: 0;
+    select {
+      padding: .75em 1em;
+    }
+  &:after {
+    display: none;
+  }
+}
