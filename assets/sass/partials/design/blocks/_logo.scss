@@ -1,18 +1,21 @@
 .logo {
-  text-align: center;
-  margin: 0 auto;
-  padding: 1.5em 1em .5em 4em;
-  @include clearfix;
-  vertical-align: middle;
-  background: #1F2021;
-  img {
-    max-width: 300px;
-    width: 100%;
-  }
-  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    display: block;
-    padding: 1.5em 2em .25em;
-    img {
-    }
-  }
+ text-align: center;
+ margin: 0 auto;
+ padding: 1.5em 1em .5em 4em;
+ @include clearfix;
+ vertical-align: middle;
+ background: #1F2021;
+ img {
+   max-width: 235px;
+   width: 100%;
+   @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+     max-width: 300px;
+   }
+ }
+ @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+   display: block;
+   padding: 1.5em 2em .25em;
+   img {
+   }
+ }
 }

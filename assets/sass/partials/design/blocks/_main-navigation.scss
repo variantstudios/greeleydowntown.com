@@ -32,35 +32,37 @@
 }
 /* Menu styles */
 .main-nav.menu {
-  position: fixed;
-  top: 85px;
-  left: 0;
-  width: 100%;
-  height: calc(100vh - 120px);
-  background: #000;
-  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-    position: relative;
-    top: auto;
-    height: auto;
-    background: none;
-  }
-  li.top-level:last-child {
-    float: right;
-    padding: 0 1em;
-    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
-      padding: 0 2.5em;
-    }
-    @include breakpoint($tablet, $no-query: '.no-mq') {
-      padding: 0 3em;
-    }
-    &:before {
-      content: '+';
-      color: #fff;
-      display: inline-block;
-      font-size: 2em;
-      vertical-align: middle;
-    }
-  }
+ position: fixed;
+ top: 75px;
+ left: 0;
+ width: 100%;
+ height: calc(100vh - 120px);
+ background: #000;
+ @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+   position: relative;
+   top: auto;
+   height: auto;
+   background: none;
+ }
+ li.top-level:last-child {
+   float: right;
+   padding: 0 1em;
+   @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+     padding: 0 2.5em;
+   }
+   @include breakpoint($tablet, $no-query: '.no-mq') {
+     padding: 0 3em;
+   }
+   &:before {
+     @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+       content: '+';
+       color: #fff;
+       display: inline-block;
+       font-size: 1.9em;
+       vertical-align: middle;
+     }
+   }
+ }
 }
 .menu__wrap {
   position: absolute;
