@@ -1,20 +1,16 @@
 ---
 layout: default
 ---
-  <div class="page-header">
-    <div class="wrap">
-      <h1>Explore Downtown</h1>
-    </div>
+<div class="page-header">
+  <div class="wrap">
+    <h1>Explore Downtown</h1>
   </div>
-
+</div>
 <main>
   <div class="wrap">
-
     <div class="back-to-directory"><a href="{% if page.dining_categories != null %}/explore/dining-directory/{% else %}/explore/business-directory/{% endif %}">Back to Directory</a></div>
-
     <div class="directory-fn-content">
       <h1>{{page.Business}}</h1>
-
       <div class="directory-address">
         <p><span class="street">{{page.Street}}</span><br>
         <span class="city">{{page.City}}</span>,
@@ -54,7 +50,7 @@ layout: default
 
     <div class="directory-sidebar">
       {% if page.Website != null %}<a href="{{page.Website}}">{% endif %}
-     <img src="{{page.Logo_image_path}}" alt="{{page.Business}}" title="{{page.Business}}" />
+      <img src="{{page.Logo_image_path}}" alt="{{page.Business}}" title="{{page.Business}}">
      {% if page.Website != null %}</a>{% endif %}
      <div id="leaflet-map"></div>
 
@@ -64,7 +60,6 @@ layout: default
            L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
               attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
            }).addTo(map);
-
        var googleGeocodeProvider = new L.GeoSearch.Provider.Google(),
         addressText = address;
         googleGeocodeProvider.GetLocations( addressText, function (data) {
@@ -77,11 +72,8 @@ layout: default
           marker.openPopup();
           map.setView( latlng, 15, {animate:true, duration:0.75, noMoveStart:true, easeLinearity: 0.05});
         });
-
       </script>
-
     </div>
-
   </div>
 </main>
 

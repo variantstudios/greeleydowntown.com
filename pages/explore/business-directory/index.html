@@ -53,10 +53,10 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
     <ul class="listings-view main-content" ng-cloak>
       <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
         <div class="listing-logo">
-          <a class="listing-link" href="{{ business.path }}"><img data-ng-bind="business.Logo" ng-src="{% raw %}{{business.Logo}}{% endraw %}" alt="{% raw %}{{business.Business}}{% endraw %}"></a>
+          <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}"><img data-ng-bind="business.Logo" ng-src="{% raw %}{{business.Logo}}{% endraw %}" alt="{% raw %}{{business.Business}}{% endraw %}"></a>
         </div>
         <div class="listing-content">
-          <a class="listing-link" href="{{ business.path }}">
+          <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}">
             <!-- Might need an if statement, businesses that don't have names are returning an error in the validator -->
             <h3 data-ng-bind="business.Business" class="business"></h3>
           </a>
