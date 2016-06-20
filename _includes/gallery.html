@@ -1,11 +1,11 @@
 <div class="back-to-directory"><a href="/explore/gallery/">Back to the Gallery</a></div>
 <section>
-    <div>{{ content }}</div>
-    <ul class="gallery-grid">
-        {% for item in page.images %}
-        <li itemscope class="grid-item">
-            <a class="gallery-item" href="{{ item.large_image_path }}" title="{{ item.title }}"><img class="gallery-img lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
-        </li>
-        {% endfor %}
-    </ul>
+  <div>{{ content }}</div>
+  <ul class="gallery-grid">
+    {% for item in page.images %}
+      <li itemscope class="grid-item">
+        <a class="gallery-item" href="{{ item.large_image_path }}" title="{{ item.title }}"><img class="gallery-img lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
+      </li>
+    {% endfor %}
+  </ul>
 </section>

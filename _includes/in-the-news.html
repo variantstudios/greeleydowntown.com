@@ -1,25 +1,22 @@
-{% assign counter=0 %} 
-
+{% assign counter=0 %}
 {% assign items = site.in_the_news | sort: 'date' | reverse %}
-
-{% for post in items %} {% assign counter=counter | plus:1 %}
-<article class="style{{counter}} post">
-
-<!-- Editor Link -->
-<div class="edit-link">
-    <a href="cloudcannon:collections/{{ post.relative_path }}">
-    <img src="/assets/images/icons/settings.svg" />
-    <span>Edit</span>
-    </a>
-</div>
-
-<h2>{{post.title}}</h2> <span class="post-date">{{post.date | date: '%B %d, %Y'}}</span>
-{% if post.image_path %}<div class="image"><img src="{{post.image_path}}" alt="{{post.title}}" /></div>{% endif %}
-<div class="content">
-    {% if post.content %}
+{% for post in items %}
+  {% assign counter=counter | plus:1 %}
+  <article class="style{{counter}} post">
+    <!-- Editor Link -->
+    <div class="edit-link">
+      <a href="cloudcannon:collections/{{ post.relative_path }}">
+        <img src="/assets/images/icons/settings.svg" />
+        <span>Edit</span>
+      </a>
+    </div>
+    <h2>{{post.title}}</h2> <span class="post-date">{{post.date | date: '%B %d, %Y'}}</span> {% if post.image_path %}
+    <div class="image"><img src="{{post.image_path}}" alt="{{post.title}}" /></div>{% endif %}
+    <div class="content">
+      {% if post.content %}
       <p>{{post.content}}</p>
-    {% endif %}
-    {% if post.link_path %}<div class="external-link"> <a href="{{post.link_path}}">Read More</a> </div> {% endif %}
-</div>
-</article>
+      {% endif %} {% if post.link_path %}
+      <div class="external-link"> <a href="{{post.link_path}}">Read More</a> </div> {% endif %}
+    </div>
+  </article>
 {% endfor %}

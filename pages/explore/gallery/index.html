@@ -1,27 +1,27 @@
 ---
 layout: page
 title: "Gallery"
-description: 
+description:
 sub-nav: explore
 permalink: /explore/gallery/
-header_image_path: 'https://unsplash.it/1400/600/?random' 
+header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
 
 <section class="clearfix">
   <ul class="gallery-grid">
     {% assign items = (site.gallery | sort:"weight")  %}
     {% for item in items  %}
-		<a class="gallery-group" href="{{ item.url }}">
-			<li itemscope class="">
-				<img class="gallery-img lrg" src="{{ item.images.first.small_image_path }}" alt="{{ item.title }}" itemprop="image">
-        <h5 class="gallery-group-name">{{ item.title }}</h5>
-			</li>
-		</a>
-    {% endfor %}   
+  		<li itemscope>
+    		<a class="gallery-group" href="{{ item.url }}">
+    			<img class="gallery-img lrg" src="{{ item.images.first.small_image_path }}" alt="{{ item.title }}" itemprop="image">
+          <h5 class="gallery-group-name">{{ item.title }}</h5>
+    		</a>
+  		</li>
+    {% endfor %}
   </ul>
 </section>
 
-<script type="text/javascript">
+<script>
   $(document).ready(function() {
     $(".page-header").backstretch("{{ page.header_image_path }}");
   });

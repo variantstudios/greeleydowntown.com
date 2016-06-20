@@ -4,17 +4,10 @@
 <!--[if gt IE 9]><!--><html class="no-js ie-modern" lang="en"><!--<![endif]-->
 {% include head.html %}
 <body class="{{ page.class }}" >
-
 	{% include browserupgrade.html %}
 	{% include header.html %}
-
   {{ content }}
-
 	{% include footer.html %}
 	{% include scripts.html %}
-
-	{% if page.url == "/index.html" %}
-	{% endif %}
-
 </body>
 </html>
