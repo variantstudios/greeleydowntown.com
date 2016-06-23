@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/images/properties/1544 10th ave.png
 sale-or-lease: Lease
 square-footage: '2,300 SF'
-price: '$2,500/m'
+price: '$2,500/mo'
 address: 1544 10th Avenue
 city: Greeley
 state: CO
