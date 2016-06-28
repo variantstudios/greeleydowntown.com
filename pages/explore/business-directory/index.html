@@ -11,35 +11,36 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
   <div class="directory-listings" data-ng-controller="DirectoryCtrl">
     <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" alt="Loading"></div>
     <div class="view-filters sidebar">
-      <h3>Filter Listings</h3>
+      {% include sub-nav.html nav=site.data.explore-menu %}
+      <h3>Filter Non-Dining Businesses</h3>
       <form name="directoryFilter" novalidate>
         <div class="select-wrap">
           <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
-            <option value="">Any Entertainment &amp; Recreation Category</option>
+            <option value="">Entertainment &amp; Recreation</option>
             <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
-            <option value="">Any Lodging &amp; Event Centers Category</option>
+            <option value="">Lodging &amp; Event Centers</option>
             <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
-            <option value="">Any Nightlife Category</option>
+            <option value="">Nightlife</option>
             <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
-            <option value="">Any Retail Category</option>
+            <option value="">Retail</option>
             <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
-            <option value="">Any Service Category</option>
+            <option value="">Service</option>
             <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
@@ -48,7 +49,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
         </div>
         <button type="button" onclick="location.href='/explore/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
       </form>
-      {% include sub-nav.html nav=site.data.explore-menu %}
+
     </div>
     <ul class="listings-view main-content" ng-cloak>
       <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">

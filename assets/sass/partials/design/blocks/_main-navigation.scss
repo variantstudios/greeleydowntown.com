@@ -112,7 +112,7 @@ span.menu__link:hover {
       opacity: 0;
     }
     @include breakpoint($tablet, $no-query: '.no-mq') {
-      width: 217px;
+      width: 216px;
     }
     .menu__link {
       padding: .4em 0;
