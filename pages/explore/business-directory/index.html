@@ -15,31 +15,31 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
       <form name="directoryFilter" novalidate>
         <div class="select-wrap">
           <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
-            <option value="">Any Entertainment &amp; Recreation Category</option>
+            <option value="">Entertainment &amp; Recreation Category</option>
             <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
-            <option value="">Any Lodging &amp; Event Centers Category</option>
+            <option value="">Lodging &amp; Event Centers Category</option>
             <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
-            <option value="">Any Nightlife Category</option>
+            <option value="">Nightlife Category</option>
             <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
-            <option value="">Any Retail Category</option>
+            <option value="">Retail Category</option>
             <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
         <div class="select-wrap">
           <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
-            <option value="">Any Service Category</option>
+            <option value="">Service Category</option>
             <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
           </select>
         </div>
