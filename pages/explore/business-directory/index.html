@@ -6,72 +6,79 @@ sub-nav: explore
 permalink: /explore/business-directory/
 header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
-
 <div ng-app="mainApp">
-  <div class="directory-listings" data-ng-controller="DirectoryCtrl">
-    <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" alt="Loading"></div>
-    <div class="view-filters sidebar">
-      {% include sub-nav.html nav=site.data.explore-menu %}
-      <h3>Filter Non-Dining Businesses</h3>
-      <form name="directoryFilter" novalidate>
-        <div class="select-wrap">
-          <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
-            <option value="">Entertainment &amp; Recreation</option>
-            <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-          </select>
-        </div>
-        <div class="select-wrap">
-          <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
-            <option value="">Lodging &amp; Event Centers</option>
-            <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-          </select>
-        </div>
-        <div class="select-wrap">
-          <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
-            <option value="">Nightlife</option>
-            <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-          </select>
-        </div>
-        <div class="select-wrap">
-          <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
-            <option value="">Retail</option>
-            <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-          </select>
-        </div>
-        <div class="select-wrap">
-          <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
-            <option value="">Service</option>
-            <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-          </select>
-        </div>
-        <div class="search-wrap">
-          <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
-        </div>
-        <button type="button" onclick="location.href='/explore/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
-      </form>
+    <div class="directory-listings" data-ng-controller="DirectoryCtrl">
+        <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" alt="Loading"></div>
+        <div class="view-filters sidebar">
+            <h3>Filter Downtown Businesses</h3>
+            <form name="directoryFilter" novalidate>
+                <div class="select-wrap">
+                    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
+                        <option value="">-- Dining Cuisine --</option>
+                        <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
+                <div class="select-wrap">
+                    <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
+                        <option value="">-- Entertainment &amp; Recreation --</option>
+                        <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
+                <div class="select-wrap">
+                    <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
+                        <option value="">-- Lodging &amp; Event Centers --</option>
+                        <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
+                <div class="select-wrap">
+                    <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
+                        <option value="">-- Nightlife --</option>
+                        <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
+                <div class="select-wrap">
+                    <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
+                        <option value="">-- Retail --</option>
+                        <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
+                <div class="select-wrap">
+                    <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
+                        <option value="">-- Service --</option>
+                        <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
 
-    </div>
-    <ul class="listings-view main-content" ng-cloak>
-      <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
-        <div class="listing-logo">
-          <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}"><img data-ng-bind="business.Logo" ng-src="{% raw %}{{business.Logo}}{% endraw %}" alt="{% raw %}{{business.Business}}{% endraw %}"></a>
+
+
+                <div class="search-wrap">
+                    <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
+                </div>
+                <button type="button" onclick="location.href='/explore/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
+            </form>
+            {% include sub-nav.html nav=site.data.explore-menu %}
         </div>
-        <div class="listing-content">
-          <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}">
+        <ul class="listings-view main-content" ng-cloak>
+            <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
+                <div class="listing-logo">
+                    <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}"><img data-ng-bind="business.Logo" ng-src="{% raw %}{{business.Logo}}{% endraw %}" alt="{% raw %}{{business.Business}}{% endraw %}"></a>
+                </div>
+                <div class="listing-content">
+                    <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}">
             <!-- Might need an if statement, businesses that don't have names are returning an error in the validator -->
             <h3 data-ng-bind="business.Business" class="business"></h3>
           </a>
-          <div class="location-details">
-            <p><span data-ng-bind="business.Street" class="street"></span></p>
-          </div>
-        </div>
-      </li>
-      <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak>
-        <h4>Sorry!</h4> There's nothing to see here. Try <a href="/explore/business-directory/">resetting</a> your search or try a different spelling.</li>
-    </ul>
-    <dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false" on-page-change="pageChanged()">
-    </dir-pagination-controls>
-  </div>
+                    <div class="location-details">
+                        <p><span data-ng-bind="business.Street" class="street"></span></p>
+                    </div>
+                </div>
+            </li>
+            <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak>
+                <h4>Sorry!</h4> There's nothing to see here. Try <a href="/explore/business-directory/">resetting</a> your search or try a different spelling.</li>
+        </ul>
+        <dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false" on-page-change="pageChanged()">
+        </dir-pagination-controls>
+    </div>
 </div>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
 <script src="/assets/js/prod/controller.js"></script>

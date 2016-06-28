@@ -21,7 +21,7 @@ $(document).ready(function() {
     $('html').addClass('mq');
   } else {
     $('html').addClass('no-mq');
-  };
+  }
   // PNG LOGO FALLBACK FOR OLD BROWSERS
   if (!Modernizr.svg) {
     $(".logo img").attr("src", "/assets/images/logos/logo.png");
@@ -38,7 +38,7 @@ $(document).ready(function() {
         });
       }
     });
-  };
+  }
   // SMOOTH ANCHOR SCROLL
   $('a[href^="#"]').on('click', function(e) {
     e.preventDefault();

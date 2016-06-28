@@ -13,10 +13,8 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
         <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" /></div>
 
         <div class="view-filters sidebar">
-            {% include sub-nav.html nav=site.data.explore-menu %}
             <h3>Filter Dining Businesses</h3>
             <form name="directoryFilter" novalidate>
-
 
                 <div class="select-wrap">
                     <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
@@ -30,7 +28,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
                 </div>
                 <button type="button" onclick="location.href='/explore/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
             </form>
-
+                {% include sub-nav.html nav=site.data.explore-menu %}
         </div>
 
         <ul class="listings-view main-content" ng-cloak>
