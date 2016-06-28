@@ -7,15 +7,7 @@ weight: 1
 ---
 
 
-2016 Line-up
-
-Fridays on the 9th St Plaza, downtown Greeley
-
-Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, Greeley’s famous and unique “Go-Cup” service, street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids.
-
-Go Cup 5-10 pm / Bands generally play 6- 9 pm
-
-&nbsp;
+Every Friday all summer long enjoy free live music on the 9th Street Plaza in downtown Greeley. Music typically plays from 6 to 9 pm and Greeley’s famously unique “Go-Cup” service runs 5 to 10 pm. There are also street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids!
 
 ### May 6th – Mayplay Festival
 
