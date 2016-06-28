@@ -4,17 +4,17 @@ sitemap:
   exclude: 'yes'
 ---
 {
-  "records":    
+  "records":
   [
   {% assign first_item = true %}
   {% for business in site.directory %}
-    {% if business.dining_categories  != null  %}
-    {% if business.retail_categories != null || business.lodging_and_event_centers_categories != null || business.nightlife_categories != null || business.retail_categories != null || business.service_categories != null %}
+    {% if business.dining_categories  != null  &&  business.retail_categories != null || business.lodging_and_event_centers_categories != null || business.nightlife_categories != null || business.retail_categories != null || business.service_categories != null || business.entertainment_and_recreation_categories !=null %}
+
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {    
+      {
         "Business": {{ business.Business | jsonify }},
         "Street": {{ business.Street | jsonify }},
         "City": {{ business.City | jsonify }},
@@ -36,14 +36,14 @@ sitemap:
         "path": "{{ business.url }}"
       }
     {% endif %}
-    {% endif %}
+
     {% if business.dining_categories  == null  %}
-   
+
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {    
+      {
         "Business": {{ business.Business | jsonify }},
         "Street": {{ business.Street | jsonify }},
         "City": {{ business.City | jsonify }},
@@ -64,7 +64,7 @@ sitemap:
         "Logo": {{ business.Logo_image_path | jsonify }},
         "path": "{{ business.url }}"
       }
-   
+
     {% endif %}
   {% endfor %}
   ]
