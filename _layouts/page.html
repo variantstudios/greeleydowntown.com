@@ -39,6 +39,7 @@ layout: default
         {% assign url_parts_size = url_parts | size %}
         {% if page.url contains "/play/signature-events/" and url_parts_size > 3 %}
           <ul class="sub-nav hide">
+            <li><h4>Signature Events</h4></li>
             {% assign items = site.signature_events | sort: 'weight' %}
           	{% for post in items limit:5 %}
         	    <li>
