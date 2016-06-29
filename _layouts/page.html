@@ -9,7 +9,7 @@ layout: default
 <main>
   <div class="wrap">
     <div class="main-content clearfix">
-      <div>{{ content }}</div>
+      <div class="editable">{{ content }}</div>
       <div>
         {% if page.url == "/contact/" %}
           {% include contact-form.html %}
@@ -35,6 +35,20 @@ layout: default
         {% include sub-nav.html nav=site.data.explore-menu %}
       {% elsif page.sub-nav == "play" %}
         {% include sub-nav.html nav=site.data.play-menu %}
+        {% if page.url != "/play/signature-events/" %}
+          <section class="sidebar-events">
+            <header><h3>Other Events</h3></header>
+            {% assign items = site.signature_events | sort: 'weight' %}
+            {% for post in items limit:5 %}
+              <article class="post">
+                <h5><a href="{{post.url}}">{{post.title}}</a></h5>
+                {% if post.image_path %}
+                  <div class="image"><a href="{{post.url}}" title="{{post.title}}"><img src="{{post.image_path}}" alt="{{post.title}}"></a></div>
+                {% endif %}
+              </article>
+            {% endfor %}
+          </section>
+        {% endif %}
       {% elsif page.sub-nav == "work" %}
         {% include sub-nav.html nav=site.data.work-menu %}
       {% elsif page.sub-nav == "more" %}
