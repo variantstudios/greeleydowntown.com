@@ -35,7 +35,9 @@ layout: default
         {% include sub-nav.html nav=site.data.explore-menu %}
       {% elsif page.sub-nav == "play" %}
         {% include sub-nav.html nav=site.data.play-menu %}
-        {% if page.url != "/play/signature-events/" %}
+        {% assign url_parts = page.url | split: '/' %}
+        {% assign url_parts_size = url_parts | size %}
+        {% if page.url contains "/play/signature-events/" and url_parts_size > 3 %}
           <section class="sidebar-events">
             <header><h3>Other Events</h3></header>
             {% assign items = site.signature_events | sort: 'weight' %}

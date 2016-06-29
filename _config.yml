@@ -1,7 +1,7 @@
 # Site settings
 title: Greeley Downtown Development Authority
 email: team@variantstudios.com
-description: 
+description:
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://long-jay1.cloudvent.net" # the base hostname & protocol for your site
 
@@ -33,7 +33,7 @@ collections:
     permalink: /directory/:title/
   in_the_news:
     output: true
-    permalink: /in-the-news/:title/  
+    permalink: /in-the-news/:title/
   service_categories:
     output: false
     permalink: /service-categories/:title/
@@ -48,7 +48,7 @@ collections:
     permalink: /nightlife-categories/:title/
   entertainment_and_recreation_categories:
     output: false
-    permalink: /entertainment-and-recreation-categories/:title/ 
+    permalink: /entertainment-and-recreation-categories/:title/
   dining_categories:
     output: false
     permalink: /dining_categories/:title/
@@ -119,18 +119,18 @@ sub-navs:
   - more
 
 # Disqus Comments
-disqus_short_name: 
-disqus_show_comment_count: 
+disqus_short_name:
+disqus_show_comment_count:
 
 # typekit
 typekit: fza1iaf
 
 # Social Media
-facebook: 
+facebook:
 
 # Google Analytics - UA-22056399-2
-google_analytics_tracking_id: 
+google_analytics_tracking_id:
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
 
-header_fallback_image_path: 'https://unsplash.it/1400/500'  
+header_fallback_image_path: 'https://unsplash.it/1400/500'
