@@ -5,7 +5,7 @@ description:
 header_image_path: 'https://unsplash.it/1400/600/?random'
 sub-nav: more
 permalink: /community-links-web-sites/
-class: "community"
+class: community
 ---
 
 
@@ -16,6 +16,8 @@ class: "community"
 [![](/uploads/versions/colorado-sbdc---x----200-90x---.gif)](http://www.eastcoloradosbdc.com/)
 
 [![](/uploads/versions/wclogovector---x----198-200x---.jpg)](http://www.co.weld.co.us/)
+
+[![](/uploads/versions/get-logo---x----200-109x---.png)](http://greeleygov.com/services/greeley-evans-transit)
 
 [![](/uploads/versions/colorado---x----200-133x---.gif)](http://www.colorado.com/)
 
