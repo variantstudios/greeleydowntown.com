@@ -84,6 +84,14 @@ defaults:
         exclude: "yes"
   -
     scope:
+      type: "business-incentives"
+    values:
+      layout: "business-incentives"
+      sub-nav: "work"
+      sitemap:
+        exclude: "yes"
+  -
+    scope:
       type: "directory"
     values:
       layout: "directory"

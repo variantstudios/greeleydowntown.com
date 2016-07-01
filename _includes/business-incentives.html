@@ -1,8 +1,9 @@
 {% for item in site.business_incentives %}
-  <article class="post">
+  <article class="post business-incentive">
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
     <div class="content">
       <p>{{ item.description }}</p>
+      <div class="business-incentives-category-marker">{{ item.business_incentives_categories }}</div>
       <div class="external-link"><a href="{{ item.url }}">Read More</a></div>
     </div>
   </article>
