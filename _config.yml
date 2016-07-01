@@ -55,7 +55,7 @@ collections:
   lodging_and_event_centers_categories:
     output: false
     permalink: /lodging-and-event-centers-categories/:title/
-  business_incentives_categories:
+  business_incentives:
     output: true
     permalink: /work/business-incentives/:title/
   properties:
@@ -120,6 +120,12 @@ sub-navs:
   - play
   - work
   - more
+
+business_incentives_categories:
+    - City Incentives
+    - State Incentives
+    - DDA Incentives
+    - Federal Incentives
 
 # Disqus Comments
 disqus_short_name:

@@ -1,7 +1,7 @@
 ---
 title: "Facade Grant Program"
 description: "The program offers grants to businesses and/or property owners in the Downtown Development Authority Tax Increment Funding (DDA TIF) district to renovate and rehabilitate building facades.  This program is offered by the DDA to leverage private improvements that contribute to the overall aesthetics of the district while making revitalization efforts affordable, creative and community-based."
-Business Incentives Categories:
+business_incentives_categories:
 ---
 
 The program offers grants to businesses and/or property owners in the Downtown Development Authority Tax Increment Funding (DDA TIF) district to renovate and rehabilitate building facades.  This program is offered by the DDA to leverage private improvements that contribute to the overall aesthetics of the district while making revitalization efforts affordable, creative and community-based.
