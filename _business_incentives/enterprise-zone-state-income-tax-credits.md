@@ -3,6 +3,7 @@ title: Enterprise Zone State Income Tax Credits
 description: 'If your business is locating or expanding within the boundaries of the Greeley/Weld Enterprise Zone you may be eligible to earn a variety of state income tax credits, which can substantially reduce your Colorado income tax liability.'
 business_incentives_categories:
   - State Incentives
+header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
 

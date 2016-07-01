@@ -84,7 +84,7 @@ defaults:
         exclude: "yes"
   -
     scope:
-      type: "business-incentives"
+      type: "business_incentives"
     values:
       layout: "business-incentives"
       sub-nav: "work"

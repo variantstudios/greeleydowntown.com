@@ -3,6 +3,7 @@ title: Federal Historic Preservation Tax Credit
 description: 'The Federal Historic Preservation Tax Incentives Program–the 20% tax credit–began in 1976. Since that time, the National Park Service (NPS) has administered it in partnership with the Internal Revenue Service (IRS) and with State Historic Preservation Offices (SHPOs). To date tens of thousands of rehabilitation projects have been approved, representing billions of dollars in private investment.'
 business_incentives_categories:
   - Federal Incentives
+header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
 

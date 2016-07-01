@@ -3,6 +3,7 @@ title: Historic Structures Assessment Grants
 description: Historic Structure Assessment grants are awarded for the sole purpose of preparing a report of the physical condition of a historic building or structure in accordance with a mandatory State Historical Fund assessment outline (scope of work). An architect or a structural engineer working under the direct guidance of an architect must prepare the Historic Structure Assessment.
 business_incentives_categories:
   - State Incentives
+header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
 
