@@ -1,0 +1,10 @@
+.supporters-and-sponsors .main-content ul {
+  @include breakpoint($phone-lg2, $no-query: '.no-mq') {
+    column-count: 2;
+    column-gap: 1em;
+    // padding: 0;
+    li {
+      margin-left: 22px;
+    }
+  }
+}
