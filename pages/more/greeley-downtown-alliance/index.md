@@ -3,18 +3,19 @@ layout: page
 title: Greeley Downtown Alliance
 description: The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district.
 meeting_minutes:
-  - title: "GDA Members 2015"
-    pdf_path: "/assets/pdfs/gdamembers2015.pdf"
-  - title: "GDA April 2016 Minutes"
-    pdf_path: "/assets/pdfs/gdameetingminutes4-15-16.pdf"
-  - title: "GDA March 2016 Minutes"
-    pdf_path: "/assets/pdfs/ddameetingminutes-3-17-16.pdf"
-  - title: "GDA Feb 2016 Minutes"
-    pdf_path: "/assets/pdfs/ddameetingminutes-2-18-16.pdf"
+  - title: GDA Members 2015
+    pdf_path: /assets/pdfs/gdamembers2015.pdf
+  - title: GDA April 2016 Minutes
+    pdf_path: /assets/pdfs/gdameetingminutes4-15-16.pdf
+  - title: GDA March 2016 Minutes
+    pdf_path: /assets/pdfs/ddameetingminutes-3-17-16.pdf
+  - title: GDA Feb 2016 Minutes
+    pdf_path: /assets/pdfs/ddameetingminutes-2-18-16.pdf
 header_image_path: 'https://unsplash.it/1400/600/?random'
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
+
 
 The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district. The GDA meets the third Friday of every month at 8 a.m. The location changes to different businesses monthly and will be posted on the calendar.
 
@@ -26,4 +27,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, April 15th, 2016 for our next monthly meeting. The meeting will be held at Steamway Floor To Ceiling located at 602 8th Avenue.
+> Please join us at 8 am on Friday, July 15th, 2016 for our next monthly meeting. The meeting will be held at Syntax Spirits located at 625 3rd Street.
