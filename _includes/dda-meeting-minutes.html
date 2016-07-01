@@ -1,6 +1,6 @@
 <h3>Meeting Minutes</h3>
 <ul>
-    {% for item in page.meeting_minutes %}
+  {% for item in page.meeting_minutes %}
     <li><a href="{{item.pdf_path}}" target="_blank">{{item.title}}</a></li>
-    {% endfor %}
+  {% endfor %}
 </ul>
