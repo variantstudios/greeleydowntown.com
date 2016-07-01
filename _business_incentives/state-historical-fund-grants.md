@@ -1,8 +1,10 @@
 ---
-title: "State Historical Fund Grants"
+title: State Historical Fund Grants
 description: "History Colorado has two areas that provide grants for archaeology and historic preservation projects. The Office of Archaeology and Historic Preservation administers the U.S. Department of Interior's Historic Preservation Fund Program in cooperation with the U.S. Department of the Interior, National Park Service."
 business_incentives_categories:
+  - State Incentives
 ---
+
 
 History Colorado has two areas that provide grants for archaeology and historic preservation projects. The Office of Archaeology and Historic Preservation administers the U.S. Department of Interior's Historic Preservation Fund Program in cooperation with the U.S. Department of the Interior, National Park Service.
 
