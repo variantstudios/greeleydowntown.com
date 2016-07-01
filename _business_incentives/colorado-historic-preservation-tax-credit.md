@@ -1,7 +1,7 @@
 ---
 title: "Colorado Historic Preservation Tax Credit"
 description: "Federal and state tax laws provide tax incentives for historic preservation projects that follow the Secretary of the Interior's Standards for Rehabilitation.  The federal government offers a 20% investment tax credit for the approved rehabilitation of certified historic buildings used for income-producing purposes as well as a 10% credit for certain other older buildings."
-Business Incentives Categories:
+business_incentives_categories:
 ---
 
 Federal and state tax laws provide tax incentives for historic preservation projects that follow the Secretary of the Interior's Standards for Rehabilitation.  The federal government offers a 20% investment tax credit for the approved rehabilitation of certified historic buildings used for income-producing purposes as well as a 10% credit for certain other older buildings.
