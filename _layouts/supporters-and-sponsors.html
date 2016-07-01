@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="page-header">
+  <div class="wrap">
+    <h1>{{ page.title }}</h1>
+  </div>
+</div>
+<main>
+  <div class="wrap supporters-and-sponsors">
+    <div class="main-content clearfix">
+      <div class="editable">{{ content }}</div>
+    </div>
+    <div class="sidebar">
+      {% include sub-nav.html nav=site.data.more-menu %}
+    </div>
+  </div>
+</main>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".page-header").backstretch("{{ page.header_image_path }}");
+  });
+</script>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: supporters-and-sponsors
 title: Supporters and Sponsors
 description:
 header_image_path: 'https://unsplash.it/1400/600/?random'
