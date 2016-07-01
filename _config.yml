@@ -55,6 +55,9 @@ collections:
   lodging_and_event_centers_categories:
     output: false
     permalink: /lodging-and-event-centers-categories/:title/
+  business_incentives_categories:
+    output: true
+    permalink: /work/business-incentives/:title/
   properties:
     output: true
     permalink: /properties/:title/
