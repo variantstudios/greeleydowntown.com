@@ -8,9 +8,8 @@ layout: default
 </div>
 <main>
   <div class="wrap">
+    <div>{{ content }}</div>
     <div class="main-content clearfix">
-      <div class="editable" data-cms-content-wrapper="/_layouts/page.html"><p>Now is the time to invest in Downtown Greeley! With a variety of tax credits, the DDA Facade Grant program, attractive loan rates, and competitive lease rates, Downtown Greeley is a great place to do business. Not to mention that downtown offers a supportive and active business community. Check out some of the incentives to doing business in Downtown Greeley below.</p></div>
-      <div>
         {% if page.url == "/contact/" %}
           {% include contact-form.html %}
         {% elsif page.url == "/get-involved/" %}
