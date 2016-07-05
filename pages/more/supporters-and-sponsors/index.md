@@ -40,8 +40,10 @@ permalink: /supporters-and-sponsors/
 * [Accessories with a Flair & Hair](http://accessoriesfashionsandhair.com/)
 * [Batter Up Cakes](http://www.greeleybakery.com/)
 * [Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)
+* [Cornerstone Home Lending](https://www.houseloan.com/)
 * [Cranford Cove Tea Tavern](http://www.cranfordcove.com/)
 * Florio’s Shoes
+* [Guaranty Bank](https://www.guarantybankco.com/)
 * [Lincoln Park Emporium](http://www.lincolnparkemporium.com/home.php)
 * [Mariposa Plants & Flowers](http://www.mariposaflowers.com/)
 * [NCMC Inc.](https://www.bannerhealth.com/Locations/Colorado/North+Colorado+Medical+Center/About+Us/NCMC+Inc+Board.htm)
