@@ -71,9 +71,6 @@
   overflow: hidden;
   width: 100%;
 }
-span.menu__link:hover {
-  cursor: default;
-}
 .menu__level {
   position: absolute;
   top: 0;
@@ -162,6 +159,7 @@ span.menu__link:hover {
   color: #fff !important;
   transition: color .1s;
   text-decoration: none;
+  cursor: pointer;
   @include breakpoint($phone-lg2) {
     padding: 1.5em 1em;
     font-size: 1.1em;

@@ -2,7 +2,11 @@
 <ul class="menu__level">
 	{% for item in include.nav %}
 	    <li class="menu__item top-level">
-	      <a href="{{ item.url }}" class="menu__link {% if item.url == navurl %}active{% endif %}">{{ item.text }}</a>
+				{% if item.url %}
+	      	<a href="{{ item.url }}" class="menu__link{% if item.url == navurl %} active{% endif %}">{{ item.text }}</a>
+				{% else %}
+					<span class="menu__link">{{ item.text }}</span>
+				{% endif %}
 	      {% if item.subitems %}
 					{% include subitems.html nav=item.subitems %}
 				{% endif %}
