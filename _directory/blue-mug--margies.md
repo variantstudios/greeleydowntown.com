@@ -1,5 +1,5 @@
 ---
-Business: "Blue Mug @ Margie's"
+Business: "Margie's Cafe @ The Farmer's Pantry"
 Street: 931 16th Street
 City: Greeley
 State: Colorado
@@ -14,9 +14,9 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Contact_Name: Karla Long
-Contact_Email: thebluemugcoffee@gmail.com
-Logo_image_path: /assets/images/directory/bluemug.png
+Contact_Name:
+Contact_Email:
+Logo_image_path: /assets/images/directory/margies.png
 ---
 
 
