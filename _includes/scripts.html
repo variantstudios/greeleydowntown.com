@@ -7,10 +7,26 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js"></script>
 {% endif %}
 
+{% if page.url == "/listing-claim/" %}
+	<script>
+	// GET URL VALUE FOR CLAIM FORM
+	function querySt(name) {
+		hu = window.location.search.substring(1);
+		gy = hu.split("&");
+		for (i=0;i<gy.length;i++) {
+			ft = gy[i].split("=");
+			if (ft[0] == name) {
+				return ft[1];
+			}
+		}
+	}
+	var urlName = querySt("name").replace(/%20/g, " ").replace(/%27/g, "'");
+	document.getElementById('business-name').value = urlName;
+	</script>
+{% endif %}
+
 {% if page.url == "/help/" %}
-  <!-- http://projects.jga.me/toc/ -->
 	<script src="/assets/js/prod/toc.min.js"></script>
-  <!-- https://github.com/garand/sticky -->
 	<script src="/assets/js/prod/jquery.sticky.js"></script>
 	<script src="/assets/js/prod/dda.toc.js"></script>
 {% endif %}
