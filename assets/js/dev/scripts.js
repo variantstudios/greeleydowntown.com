@@ -39,6 +39,20 @@ $(document).ready(function() {
       }
     });
   }
+  // GET URL VALUE FOR CLAIM FORM
+  function querySt(name) {
+      hu = window.location.search.substring(1);
+      gy = hu.split("&");
+      for (i=0;i<gy.length;i++) {
+          ft = gy[i].split("=");
+          if (ft[0] == name) {
+              return ft[1];
+          }
+      }
+  }
+  var urlName = querySt("name").replace(/%20/g, " ").replace(/%27/g, "'");
+  document.getElementById('business-name').value = urlName;
+
   // SMOOTH ANCHOR SCROLL
   $('a[href^="#"]').on('click', function(e) {
     e.preventDefault();

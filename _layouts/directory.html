@@ -32,7 +32,15 @@ layout: default
         </div>{% endif %}
       </div>
       <div class="directory-desc">
+        {% if content.size > 2 %}
         {{content}}
+        {% else %}
+       <strong>Is this your business?</strong>
+       <p>
+           Claim your listing on the Greeley DDA site by sending a brief write-up and logo through our <a href="/listing-claim?name={{page.Business}}">Claims Form</a>!
+       </p>
+        {% endif %}
+
       </div>
       <div class="listing-contact">
         {% if page.Contact_Name != null %}
