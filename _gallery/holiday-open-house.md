@@ -1,5 +1,5 @@
 ---
-title: Holiday Open House 2015
+title: Holiday Open House
 description:
 weight: 0
 header_image_path: 'https://unsplash.it/1400/600/?random'
@@ -8,3 +8,5 @@ images:
     small_image_path: /assets/images/gallery/250x250.png
     large_image_path: /assets/images/gallery/900x675.png
 ---
+
+
