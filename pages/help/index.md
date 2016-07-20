@@ -35,9 +35,8 @@ sitemap:
 The header images used on all of the pages, but the home/front.
 
 * Header Images
-  * width: 1600px
-  * height: 300px
-
+  * width: 1400px
+  * height: 200px
 
 
 
