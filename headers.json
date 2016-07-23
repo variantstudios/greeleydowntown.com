@@ -1,0 +1,18 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+{
+
+    "data":
+    [
+    {% for header in site.headers %}
+        {
+        "title": {{ header.title | jsonify }},
+        "header": {{ header.header_path | jsonify }}
+        }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+}

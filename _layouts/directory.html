@@ -85,8 +85,4 @@ layout: default
   </div>
 </main>
 
-<script type="text/javascript">
-  $(document).ready(function() {
-    $(".page-header").backstretch("{{ site.header_fallback_image_path }}");
-  });
-</script>
+{% include header-image.html %}

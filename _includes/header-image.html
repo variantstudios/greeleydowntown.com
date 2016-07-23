@@ -1,0 +1,9 @@
+<script type="text/javascript">
+// SUB PAGE HEADER API
+  $(document).ready(function() {
+      $.getJSON('/headers.json').done(function(data){
+          var random = data.data[Math.floor(Math.random() * data.data.length)];
+          $(".page-header").backstretch(random.header);
+      });
+  });
+</script>
