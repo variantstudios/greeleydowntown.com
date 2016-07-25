@@ -30,7 +30,7 @@ sitemap:
 
 
 
-#### Header Images
+#### 'Headers' Collection
 
 The header images used on all of the pages, but the home/front.
 
