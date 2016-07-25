@@ -61,6 +61,24 @@ images:
   - title:
     small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-3.jpg
     large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-3.jpg
+  - title:
+    small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-4.jpg
+    large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-4.jpg
+  - title:
+    small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-5.jpg
+    large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-5.jpg
+  - title:
+    small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-6.jpg
+    large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-6.jpg
+  - title:
+    small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-7.jpg
+    large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-7.jpg
+  - title:
+    small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-8.jpg
+    large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-8.jpg
+  - title:
+    small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-9.jpg
+    large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-9.jpg
 ---
 
 
