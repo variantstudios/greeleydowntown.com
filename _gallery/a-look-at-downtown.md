@@ -37,6 +37,27 @@ images:
   - title: Gallery Furniture
     small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/gallery-furniture-downtown-greeley.jpg
     large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/gallery-furniture-downtown-greeley.jpg
+  - title: "George's Repair Shop"
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/georges-repair-shop-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/georges-repair-shop-downtown-greeley.jpg
+  - title: "Grabo's Bar"
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/grabos-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/grabos-downtown-greeley.jpg
+  - title: Greeley History Museum
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/greeley-history-museum-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/greeley-history-museum-downtown-greeley.jpg
+  - title: "King's Clocks"
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/kings-clocks-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/kings-clocks-downtown-greeley.jpg
+  - title: Kress Cinema
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/kress-cinema-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/kress-cinema-downtown-greeley.jpg
+  - title: 'Madison & Main Gallery'
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/madison-and-main-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/madison-and-main-downtown-greeley.jpg
+  - title: "Margie's Cafe"
+    small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/margies-cafe-downtown-greeley.jpg
+    large_image_path: /assets/images/gallery/a-look-at-downtown-greeley/lg/margies-cafe-downtown-greeley.jpg
 ---
 
 
