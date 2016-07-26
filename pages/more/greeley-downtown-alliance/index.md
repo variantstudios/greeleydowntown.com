@@ -25,4 +25,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8 am on Friday, July 15th, 2016 for our next monthly meeting. The meeting will be held at Syntax Spirits located at 625 3rd Street.
+> Please join us at 8 am on Friday, August 19th, 2016 for our next monthly meeting. The meeting will be held at Joe Molina Gallery located at 930 8th Avenue.
