@@ -1,32 +1,26 @@
 ---
 title: Enterprise Zone State Income Tax Credits
-description: 'If your business is locating or expanding within the boundaries of the Greeley/Weld Enterprise Zone you may be eligible to earn a variety of state income tax credits, which can substantially reduce your Colorado income tax liability.'
+description: 'Companies that locate or expand within the physical boundaries of the EZ are eligible to earn a variety of state income tax credits based on each company’s specific activities primarily related to equipment investment, job creation/training, research, and development activities.'
 business_incentives_categories:
   - State Incentives
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
 
-If your business is locating or expanding within the boundaries of the Greeley/Weld Enterprise Zone you may be eligible to earn a variety of state income tax credits, which can substantially reduce your Colorado income tax liability.
+Companies that locate or expand within the physical boundaries of the EZ are eligible to earn a variety of state income tax credits based on each company’s specific activities primarily related to equipment investment, job creation/training, research, and development activities.
 
-State income tax credits are earned based on a company’s investment in new equipment, job creation/training, research and development activities, etc. Each of these credits is listed below:
+EZ State Income Tax Credit Summary:
 
-* 3% Investment Tax Credit
-* $500 New Business Facility Job Tax Credit
-* $500 Agricultural Processing Job Tax Credit
-* $200 Employer Sponsored Health Insurance Tax Credit
-* 3% Research & Development Tax Credit
-* 25% Vacant Building Rehabilitation Tax Credit
-* 10% Qualified Job Training Investment Tax Credit
-* 1.5% Commercial Vehicle Investment Tax Credit
-* State Sales/Use Tax Exemption for Manufacturing & Mining Equipment
+* Investment Tax Credit- 3% of Eligible Equipment Purchases
+* Commercial Vehicle Investment Tax Credit- 1.5% of Eligible Commercial Vehicle Purchases
+* Job Training Tax Credit- 12% of Qualified Training Expenses
+* New Jobs Tax Credit- $1,100 per Eligible New Job Created
+* Ag Processing Jobs Credit- $500 additional per Eligible New Job Created
+* Health Insurance Credit- $1,000 additional per Eligible New Job Created (first 2 years)
+* Research & Development Tax Credit- 3% of Increased R&D Expenditures
+* Vacant Building Rehabilitation Tax Credit- 25% of Rehab Expenditures (hard costs)
+* Manufacturing & Mining Sales/Use Tax- Expanded S&U Tax Exemption in EZ
 * 25% Tax Credit for Private Contributions to Enterprise Zone Contribution Projects
 
 
-For more information about these specific incentives, click [here](http://www.upstatecolorado.org/doc_library/content/enterprise_zones/Weld%20EZ%20Brochure.pdf).  Other questions can be answered by contacting:
-
-Cathy Schulte
-
-Sr. Vice President & EZ AdministratorUpstate Colorado Economic Development822 7th Street, Suite 550Greeley, CO 80631
-
-Ph: [970-356-4565](tel:+19703564565) Fax: [970-352-2436](+19703522436)E-mail: [&#099;&#115;&#099;&#104;&#117;&#108;&#116;&#101;&#064;&#117;&#112;&#115;&#116;&#097;&#116;&#101;&#099;&#111;&#108;&#111;&#114;&#097;&#100;&#111;&#046;&#111;&#114;&#103;](&#109;&#097;&#105;&#108;&#116;&#111;:&#099;&#115;&#099;&#104;&#117;&#108;&#116;&#101;&#064;&#117;&#112;&#115;&#116;&#097;&#116;&#101;&#099;&#111;&#108;&#111;&#114;&#097;&#100;&#111;&#046;&#111;&#114;&#103;)[www.upstatecolorado.org](www.upstatecolorado.org)
+For more information about these specific incentives, click [here](http://upstatecolorado.org/wp-content/uploads/2016/02/Weld-EZ-Brochure.pdf). Other questions can be answered by contacting Cathy Schulte, Senior Vice President & EZ Administrator, at 970-356-4565 or by emailing her at cschulte@upstatecolorado.org
