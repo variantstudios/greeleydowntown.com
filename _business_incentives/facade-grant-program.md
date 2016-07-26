@@ -19,6 +19,6 @@ This grant will be offered on an ongoing basis as funding permits. The award amo
 
 For more information, please reference the following:
 
-[Facade Grant Guidelines](http://www.greeleydowntown.com/sites/default/files/docs/facadegrantguidelines_1.pdf)
+[Facade Grant Guidelines](/assets/pdfs/facadegrantguidelines.pdf)
 
-[Facade Grant Application](http://www.greeleydowntown.com/sites/default/files/docs/facadegrantapplication_0.pdf)
+[Facade Grant Application](/assets/pdfs/facadegrantapplication.pdf)
