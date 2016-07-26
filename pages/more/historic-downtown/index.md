@@ -18,12 +18,4 @@ John F. Sanborn platted Greeley in 1870 in a grid, with Lincoln Park surrounded 
 
 ### Links to more Historic Information
 
-For more information about the history of Downtown Greeley, as well as for Weld County, please check the&nbsp;[City of Greeley’s Museum’s website](http://greeleymuseums.com/).
-
-[See Greeley’s Historic Registry](http://greeleygov.com/services/historic-preservation/inventoried-properties)
-
-Betsy Kellums
-<br>Historic Preservation Specialist
-<br>City of Greeley
-<br>(970) 350-9222
-<br>[http://greeleygov.com/services/historic-preservation](http://greeleygov.com/services/historic-preservation)
+For more information about the history of Downtown Greeley, please check the&nbsp;[City of Greeley’s Museum’s website](http://greeleymuseums.com/)&nbsp;or contact Betsy Kellums, Historic Preservation Specialist at (970) 350-9222.
