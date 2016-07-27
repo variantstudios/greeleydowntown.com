@@ -1,8 +1,6 @@
 ---
 title: Enterprise Zone State Income Tax Credits
 description: 'Companies that locate or expand within the physical boundaries of the EZ are eligible to earn a variety of state income tax credits based on each company’s specific activities primarily related to equipment investment, job creation/training, research, and development activities.'
-business_incentives_categories:
-  - State Incentives
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
