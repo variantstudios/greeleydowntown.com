@@ -2,8 +2,6 @@
 title: State Historical Fund Grants
 description: >-
   The History Colorado State Historical Fund is a program established by the 1990 constitutional amendment that legalized gambling in Central City, Black Hawk, and Cripple Creek. The amendment mandates that a portion of gaming tax revenue goes to the History Colorado State Historical Fund to fund historic preservation projects throughout the state.
-business_incentives_categories:
-  - State Incentives
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
