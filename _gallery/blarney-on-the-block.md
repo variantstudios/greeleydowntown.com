@@ -4,9 +4,76 @@ description:
 weight: 0
 header_image_path: 'https://unsplash.it/1400/600/?random'
 images:
-  - title: Replace Me
-    small_image_path: /assets/images/gallery/250x250.png
-    large_image_path: /assets/images/gallery/900x675.png
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-1.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-1.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-2.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-2.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-3.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-3.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-4.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley4.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-5.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-5.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-6.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-6.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-7.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-7.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-8.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-8.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-9.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-9.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-10.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-10.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-11.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-11.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-12.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-12.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-13.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-13.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-14.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-14.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-15.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-15.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-16.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-16.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-17.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-17.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-18.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-18.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-19.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-19.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-20.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-20.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-21.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-21.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-22.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-22.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-23.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-23.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-24.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-24.jpg
 ---
-
-

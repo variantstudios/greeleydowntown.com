@@ -4,9 +4,79 @@ description:
 weight: 0
 header_image_path: 'https://unsplash.it/1400/600/?random'
 images:
-  - title: Replace Me
-    small_image_path: /assets/images/gallery/250x250.png
-    large_image_path: /assets/images/gallery/900x675.png
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-1.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-1.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-2.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-2.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-3.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-3.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-4.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night4.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-5.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-5.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-6.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-6.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-7.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-7.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-8.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-8.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-9.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-9.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-10.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-10.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-11.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-11.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-12.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-12.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-13.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-13.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-14.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-14.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-15.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-15.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-16.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-16.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-17.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-17.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-18.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-18.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-19.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-19.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-20.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-20.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-21.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-21.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-22.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-22.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-23.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-23.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-24.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-24.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-25.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-25.jpg
 ---
-
-

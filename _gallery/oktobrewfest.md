@@ -4,9 +4,79 @@ description:
 weight: 0
 header_image_path: 'https://unsplash.it/1400/600/?random'
 images:
-  - title: Replace Me
-    small_image_path: /assets/images/gallery/250x250.png
-    large_image_path: /assets/images/gallery/900x675.png
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-1.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-1.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-2.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-2.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-3.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-3.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-4.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley4.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-5.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-5.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-6.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-6.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-7.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-7.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-8.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-8.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-9.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-9.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-10.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-10.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-11.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-11.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-12.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-12.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-13.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-13.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-14.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-14.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-15.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-15.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-16.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-16.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-17.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-17.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-18.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-18.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-19.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-19.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-20.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-20.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-21.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-21.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-22.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-22.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-23.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-23.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-24.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-24.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-25.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-25.jpg
 ---
-
-
