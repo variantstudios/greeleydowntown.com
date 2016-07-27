@@ -4,9 +4,70 @@ description:
 weight: 0
 header_image_path: 'https://unsplash.it/1400/600/?random'
 images:
-  - title: Replace Me
-    small_image_path: /assets/images/gallery/250x250.png
-    large_image_path: /assets/images/gallery/900x675.png
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-1.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-1.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-2.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-2.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-3.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-3.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-4.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley4.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-5.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-5.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-6.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-6.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-7.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-7.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-8.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-8.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-9.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-9.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-10.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-10.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-11.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-11.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-12.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-12.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-13.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-13.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-14.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-14.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-15.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-15.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-16.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-16.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-17.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-17.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-18.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-18.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-19.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-19.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-20.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-20.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-21.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-21.jpg
+  - title:
+    small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-22.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-22.jpg
 ---
-
-
