@@ -1,8 +1,6 @@
 ---
 title: Greeley Community Development Fund
 description: 'The Greeley Community Development Fund assists with the financial needs of companies expanding in or locating to the City of Greeley. The Weld/Larimer Revolving Loan Fund, the City of Greeley, commercial banks in Greeley and the Hispanic Loan Program have joined together to provide the initial funding for this loan program.'
-business_incentives_categories:
-  - City Incentives
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
