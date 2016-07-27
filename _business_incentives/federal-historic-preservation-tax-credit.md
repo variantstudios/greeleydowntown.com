@@ -1,8 +1,6 @@
 ---
 title: Federal Historic Preservation Tax Credit
 description: "The Federal Historic Preservation Tax Incentives program encourages private sector investment in the rehabilitation and re-use of historic buildings. It creates jobs and is one of the nation's most successful and cost-effective community revitalization programs."
-business_incentives_categories:
-  - Federal Incentives
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
