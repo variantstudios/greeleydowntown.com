@@ -131,12 +131,6 @@ sub-navs:
   - work
   - more
 
-business_incentives_categories:
-    - City Incentives
-    - State Incentives
-    - DDA Incentives
-    - Federal Incentives
-
 # Disqus Comments
 disqus_short_name:
 disqus_show_comment_count:
