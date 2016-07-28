@@ -14,7 +14,7 @@ retail_categories:
   - food-and-grocery
 service_categories:
 Contact_Name: Todd Doleshall
-Contact_Email:
+Contact_Email: todd@farmerspantrymarket.com
 Logo_image_path: /assets/images/directory/farmerspantry.png
 ---
 
