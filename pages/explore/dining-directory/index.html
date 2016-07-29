@@ -3,7 +3,7 @@ layout: explore-list
 title: "Explore the Downtown Dining"
 description:
 sub-nav: explore
-permalink: /explore/dining-directory/
+permalink: /dining-directory/
 header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
 <div ng-app="mainApp">
@@ -26,7 +26,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
                 <div class="search-wrap">
                     <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
                 </div>
-                <button type="button" onclick="location.href='/explore/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
+                <button type="button" onclick="location.href='/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
             </form>
                 {% include sub-nav.html nav=site.data.explore-menu %}
         </div>
@@ -51,7 +51,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
 
             </li>
             <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak>
-                <h4>Sorry!</h4> There's nothing to see here. Try <a href="/explore/dining-directory/">resetting</a> your search or try a different spelling.</li>
+                <h4>Sorry!</h4> There's nothing to see here. Try <a href="/dining-directory/">resetting</a> your search or try a different spelling.</li>
         </ul>
 
         </ul>

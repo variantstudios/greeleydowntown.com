@@ -30,7 +30,7 @@ collections:
     output: false
   directory:
     output: true
-    permalink: /directory/:title/
+    permalink: /business-directory/:title/
   in_the_news:
     output: true
     permalink: /in-the-news/:title/
@@ -39,7 +39,7 @@ collections:
     permalink: /service-categories/:title/
   signature_events:
     output: true
-    permalink: /play/signature-events/:title/
+    permalink: /signature-events/:title/
   retail_categories:
     output: false
     permalink: /retail-categories/:title/
@@ -57,7 +57,7 @@ collections:
     permalink: /lodging-and-event-centers-categories/:title/
   business_incentives:
     output: true
-    permalink: /work/business-incentives/:title/
+    permalink: /business-incentives/:title/
   properties:
     output: true
     permalink: /properties/:title/

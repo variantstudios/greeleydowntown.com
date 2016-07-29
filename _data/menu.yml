@@ -1,29 +1,29 @@
 - text: Explore
   subitems:
     - text: Business Directory
-      url: /explore/business-directory/
+      url: /business-directory/
     - text: Dining Directory
-      url: /explore/dining-directory/
+      url: /dining-directory/
     - text: Creative District
       url: http://www.discovergreeleycreativedistrict.com/
     - text: Live Directory
-      url: /explore/live-directory/
+      url: /live-directory/
     - text: Gallery
-      url: /explore/gallery/      
+      url: /gallery/
 - text: Play
   subitems:
     - text: Signature Events
-      url: /play/signature-events/
+      url: /signature-events/
     - text: Calendar of Events
-      url: /play/our-calendar/
+      url: /our-calendar/
     - text: Events At-A-Glance
       url: /events-at-a-glance/
 - text: Work
   subitems:
     - text: Available Commercial Properties
-      url: /work/commercial-properties/
+      url: /commercial-properties/
     - text: Business Incentives
-      url: /work/business-incentives/
+      url: /business-incentives/
 - text: More
   subitems:
     - text: About the DDA
@@ -48,4 +48,3 @@
       url: /get-involved/
     - text: Contact
       url: /contact/
-
