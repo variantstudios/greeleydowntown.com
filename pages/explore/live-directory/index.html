@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Explore the Residential Property Listings"
-description: 
+description:
 sub-nav: explore
-permalink: /explore/live-directory/
-header_image_path: 'https://unsplash.it/1400/600/?random' 
+permalink: /live-directory/
+header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
 <div class="commercial-properties">
   {% for item in site.properties %}
@@ -14,7 +14,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
         <a href="{{ item.url }}" title="{{ item.title }}">
           <img src="{{ item.image_path }}" class="image-border" alt="{{ item.title }}" />
         </a>
-         
+
       </div>
       <div class="commercial-property-details">
         <a href="{{ item.url }}" title="{{ item.title }}"><h3>{{ item.title }}</h3></a>
@@ -34,7 +34,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
         <a href="{{ item2.url }}" title="{{ item2.Business }}">
           <img src="{{ item2.Logo_image_path }}" class="image-border" alt="{{ item2.Business }}" />
         </a>
-         
+
       </div>
       <div class="commercial-property-details">
         <a href="{{ item2.url }}" title="{{ item2.Business }}"><h3>{{ item2.Business }}</h3></a>

@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "Commercial Properties"
-description: 
+description:
 sub-nav: work
-permalink: /work/commercial-properties/
-header_image_path: 'https://unsplash.it/1400/600/?random' 
+permalink: /commercial-properties/
+header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
-
 <div class="commercial-properties">
   {% for item in site.properties %}
   {% if item.property-type == 'Commercial' %}
@@ -15,7 +14,7 @@ header_image_path: 'https://unsplash.it/1400/600/?random'
         <a href="{{ item.url }}" title="{{ item.title }}">
           <img src="{{ item.image_path }}" class="image-border" alt="{{ item.title }}" />
         </a>
-         
+
       </div>
       <div class="commercial-property-details">
         <a href="{{ item.url }}" title="{{ item.title }}"><h3>{{ item.title }}</h3></a>

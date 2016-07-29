@@ -3,7 +3,7 @@ layout: page
 title: "Business Incentives"
 description:
 sub-nav: work
-permalink: "/work/business-incentives/"
+permalink: "/business-incentives/"
 header_image_path: 'https://unsplash.it/1400/600/?random'
 ---
 Now is the time to invest in Downtown Greeley! With job, investment and historic preservation credits, several grant programs, attractive loan rates, venture capital opportunities, and low lease rates, Downtown Greeley really is the place to be.
