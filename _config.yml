@@ -64,8 +64,6 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:title/
-  headers:
-    output: false
 #Defaults
 defaults:
   -
