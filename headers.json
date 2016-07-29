@@ -7,7 +7,7 @@ sitemap:
 
     "data":
     [
-    {% for header in site.headers %}
+    {% for header in site.data.headers %}
         {
         "title": {{ header.title | jsonify }},
         "header": {{ header.header_path | jsonify }}
