@@ -2,7 +2,7 @@
 title: Holiday Open House
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title:
     small_image_path:	/assets/images/gallery/holiday-open-house-greeley/sm/holiday-open-house-greeley-1.jpg

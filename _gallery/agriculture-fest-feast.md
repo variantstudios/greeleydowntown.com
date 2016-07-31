@@ -2,7 +2,7 @@
 title: 'AgriCulture Fest & Feast'
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title: Replace Me
     small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-1.jpg

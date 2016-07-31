@@ -2,7 +2,7 @@
 title: Greeley Downtown Development Authority
 email: team@variantstudios.com
 description:
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://long-jay1.cloudvent.net" # the base hostname & protocol for your site
 
 # Site Author(s)
@@ -72,47 +72,41 @@ defaults:
     values:
       layout: "in-the-news"
       sub-nav: "more"
-      sitemap:
-        exclude: "no"
+      sitemap: false false
   -
     scope:
       type: "signature_events"
     values:
       layout: "signature-events"
       sub-nav: "play"
-      sitemap:
-        exclude: "yes"
+      sitemap: false false
   -
     scope:
       type: "business_incentives"
     values:
       layout: "business-incentives"
       sub-nav: "work"
-      sitemap:
-        exclude: "yes"
+      sitemap: false false
   -
     scope:
       type: "directory"
     values:
       layout: "directory"
       sub-nav: "explore"
-      sitemap:
-        exclude: "no"
+      sitemap: false false
   -
     scope:
       type: "properties"
     values:
       layout: "property"
-      sitemap:
-        exclude: "no"
+      sitemap: false false
   -
     scope:
       type: "gallery"
     values:
       layout: "gallery"
       sub-nav: "explore"
-      sitemap:
-        exclude: "no"
+      sitemap: false false
 
 sale-or-leases:
   - Sale

@@ -2,7 +2,7 @@
 title: Oktobrewfest
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title:
     small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-1.jpg

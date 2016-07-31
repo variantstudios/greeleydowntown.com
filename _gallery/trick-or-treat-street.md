@@ -2,7 +2,7 @@
 title: Trick or Treat Street
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title:
     small_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/sm/trick-or-treat-street-greeley-1.jpg

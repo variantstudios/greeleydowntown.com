@@ -2,7 +2,7 @@
 title: Blarney on the Block
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title:
     small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-1.jpg

@@ -2,9 +2,10 @@
 layout: page
 title: Listing Claim
 description:
-header_image_path: 'https://unsplash.it/1400/600/?random'
+form_response_message: "Thanks for your message. The DDA will be in touch soon."
 sub-nav: more
 permalink: /listing-claim/
+class: "form"
 ---
 
 

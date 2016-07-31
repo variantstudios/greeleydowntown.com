@@ -6,8 +6,8 @@ sub-nav: help
 header_image_path: /assets/images/headers/armando-einstein-mural.jpg
 permalink: /help/
 class: help
-sitemap:
-  exclude: 'yes'
+sitemap: false
+
 ---
 
 
