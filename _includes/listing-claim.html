@@ -1,4 +1,5 @@
-<form action="#" method="post" class="contact-form">
+<div id="form-message">{{page.form_response_message}}</div>
+<form action="/listing-claim/?sent=true" method="post" class="contact-form">
     <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
     <input type="hidden" name="_to" value="pam@greeleydowntown.com,bianca@greeleydowntown.com,karen@greeleydowntown.com">
     <input type="hidden" name="_subject" value="Greeley DDA - Listing Claim">
