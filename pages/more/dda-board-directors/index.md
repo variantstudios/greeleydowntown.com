@@ -9,7 +9,7 @@ meeting_minutes:
     pdf_path: /assets/pdfs/ddaminutes5-19-16.pdf
   - title: April 2016 DDA Minutes
     pdf_path: /assets/pdfs/ddameetingminutes-4-21-16.pdf
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 sub-nav: more
 permalink: /dda-board-directors/
 ---

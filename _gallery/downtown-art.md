@@ -2,7 +2,7 @@
 title: Downtown Art
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title:
     small_image_path:	/assets/images/gallery/downtown-greeley-art/sm/downtown-greeley-art-1.jpg

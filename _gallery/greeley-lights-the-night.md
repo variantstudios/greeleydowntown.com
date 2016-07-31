@@ -2,7 +2,7 @@
 title: Greeley Lights the Night
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title:
     small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-1.jpg

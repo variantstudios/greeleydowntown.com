@@ -2,7 +2,7 @@
 title: A Look at Downtown
 description:
 weight: 0
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 images:
   - title: ArtWerx
     small_image_path: /assets/images/gallery/a-look-at-downtown-greeley/sm/artwerx-downtown-greeley.jpg

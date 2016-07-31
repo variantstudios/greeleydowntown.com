@@ -9,7 +9,7 @@ meeting_minutes:
     pdf_path: /assets/pdfs/gdaminutes5-20-16.pdf
   - title: GDA April 2016 Minutes
     pdf_path: /assets/pdfs/gdaminutes4-15-16.pdf
-header_image_path: 'https://unsplash.it/1400/600/?random'
+
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
