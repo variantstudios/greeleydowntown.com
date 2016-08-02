@@ -12,7 +12,6 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-  - banks
   - financial
 Contact_Name: Drew Giffin
 Contact_Email: dgiffin@collegecu.org
@@ -20,4 +19,4 @@ Logo_image_path: /assets/images/directory/northerncoloradocredit.png
 ---
 
 
-Community-Minded. Member-Focused. Northern Colorado Credit Union Serves ALL of Weld County with Great Loan Rates. Our mission is to provide YOU with quality financial products and services. We're member-owned and that means our focus is on YOU. Do you live in Weld County? YOU can join! Visit our full service branch at 2901 S 27th Avenue to help you take control of your financial future with great Auto Loans, Mortgages, Home Loans, Checking Accounts, CDs, Money Market Accounts and more.&nbsp;
+Community-Minded. Member-Focused. Northern Colorado Credit Union Serves ALL of Weld County with Great Loan Rates. Our mission is to provide YOU with quality financial products and services. We're member-owned and that means our focus is on YOU. Do you live in Weld County? YOU can join! Visit our full service branch at 2901 S 27th Avenue to help you take control of your financial future with great Auto Loans, Mortgages, Home Loans, Checking Accounts, CDs, Money Market Accounts and more.
