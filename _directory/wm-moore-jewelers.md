@@ -11,7 +11,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
-  - jewlery
+  - jewelry
 service_categories:
 Contact_Name: Carl Moore
 Contact_Email: wmmore1@aol.com
