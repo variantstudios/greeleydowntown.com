@@ -4,7 +4,7 @@ Street: 915 16th Street
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 584-3551
+Phone: (970) 352-9198
 Website: 'https://www.facebook.com/GLB16/info?tab=overview'
 dining_categories:
   - american
