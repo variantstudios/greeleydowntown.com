@@ -1,5 +1,5 @@
 ---
-Business: 'Sassy Bagz & Flirtitude'
+Business: Sassy Bagz
 Street: 908 9th Avenue
 City: Greeley
 State: Colorado
@@ -12,11 +12,11 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
   - apparel-and-shoes
-  - jewlery
+  - jewelry
 service_categories:
 Contact_Name: Raquel Jandreau
 Contact_Email: nrdzf@comcast.net
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
