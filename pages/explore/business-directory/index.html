@@ -5,6 +5,8 @@ description:
 sub-nav: explore
 permalink: /business-directory/
 header_image_path: /assets/images/headers/downtown-greeley-banner-1.jpg
+no_results_title: "Sorry"
+no_results_message: "Please click <a href='/business-directory/'>RESET</a> to view full, accurate list of results."
 ---
 <div ng-app="mainApp">
     <div class="directory-listings" data-ng-controller="DirectoryCtrl">
@@ -74,7 +76,7 @@ header_image_path: /assets/images/headers/downtown-greeley-banner-1.jpg
                 </div>
             </li>
             <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak>
-                <h4>Sorry!</h4> Please click <a href="/business-directory/">RESET</a> to view full, accurate list of results.</li>
+                <h4>{{page.no_results_title}}</h4>{{page.no_results_message}}</li>
         </ul>
         <dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false" on-page-change="pageChanged()">
         </dir-pagination-controls>
