@@ -20,8 +20,4 @@ permalink: /photo-gallery/
   </ul>
 </section>
 
-<script>
-  $(document).ready(function() {
-    $(".page-header").backstretch("{{ page.header_image_path }}");
-  });
-</script>
+{% include header-image.html %}

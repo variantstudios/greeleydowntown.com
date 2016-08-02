@@ -34,14 +34,18 @@ layout: default
     </div>
     <div class="sidebar">
       {% if page.sub-nav == "explore" %}
+      <h3>Explore</h3>
         {% include sub-nav.html nav=site.data.explore-menu %}
       {% elsif page.sub-nav == "work" %}
+      <h3>Work</h3>
         {% include sub-nav.html nav=site.data.work-menu %}
       {% elsif page.sub-nav == "more" %}
+      <h3>More</h3>
         {% include sub-nav.html nav=site.data.more-menu %}
       {% elsif page.sub-nav == "help" %}
         {% include toc.html %}
       {% elsif page.sub-nav == "play" %}
+      <h3>Play</h3>
         {% include sub-nav.html nav=site.data.play-menu %}
         {% assign url_parts = page.url | split: '/' %}
         {% assign url_parts_size = url_parts | size %}
