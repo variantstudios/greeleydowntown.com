@@ -11,8 +11,9 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
-  - gifts-and-hobbies
   - apparel-and-shoes
+  - gifts-and-hobbies
+  - jewelry
 service_categories:
 Contact_Name: Suzanne Sereff
 Contact_Email: suzanne@warmhugsmixes.com
