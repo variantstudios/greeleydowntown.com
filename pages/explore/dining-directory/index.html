@@ -4,7 +4,8 @@ title: "Explore the Downtown Dining"
 description:
 sub-nav: explore
 permalink: /dining-directory/
-
+no_results_title: "Sorry"
+no_results_message: "Please click <a href='/dining-directory/'>RESET</a> to view full, accurate list of results."
 ---
 <div ng-app="mainApp">
 
@@ -51,7 +52,7 @@ permalink: /dining-directory/
 
             </li>
             <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak>
-                <h4>Sorry!</h4> Please click <a href="/dining-directory/">RESET</a> to view full, accurate list of results.</li>
+                <h4>{{page.no_results_title}}</h4>{{page.no_results_message}}</li>
         </ul>
 
         </ul>
