@@ -6,7 +6,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
   - apparel-and-shoes
-  - jewlery
+  - jewelry
 service_categories:
   - salons-and-spas
 Street: 801 8th Avenue
@@ -17,7 +17,7 @@ Phone: (970) 351-6448
 Fax: (970) 356-4341
 Website: 'http://AccessoriesFashionsandHair.com'
 Contact_Name: Linda Winter
-Contact_Email:  lindaw.accessorieswithaflair@gmail.com
+Contact_Email: lindaw.accessorieswithaflair@gmail.com
 Logo_image_path: /assets/images/directory/accessories.png
 ---
 
