@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Gallery"
+title: "Photo Gallery"
 description:
 sub-nav: explore
-permalink: /gallery/
-
+permalink: /photo-gallery/
 ---
 
 <section class="clearfix">
@@ -21,8 +20,4 @@ permalink: /gallery/
   </ul>
 </section>
 
-<script>
-  $(document).ready(function() {
-    $(".page-header").backstretch("{{ page.header_image_path }}");
-  });
-</script>
+{% include header-image.html %}
