@@ -1,8 +1,0 @@
----
-sitemap: false
----
-User-agent: *
-{% for page in site.pages %}{% if page.noindex %}{% assign isset = true %}Disallow: {{ page.url }}
-{% endif %}{% endfor %}{% if isset != true %}Disallow:
-{% endif %}
-sitemap: false {{ site.url }}/sitemap.xml

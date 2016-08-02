@@ -3,14 +3,7 @@ title: Greeley Downtown Development Authority
 email: team@variantstudios.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://long-jay1.cloudvent.net" # the base hostname & protocol for your site
-
-# Site Author(s)
-author:
-  name: Brent Robbins
-  email: brent@variantstudios.com
-  name: Michael McQueen
-  email: michael@variantstudios.com
+url: "http://www.greeleydowntown.com/" # the base hostname & protocol for your site
 
 
 # Build settings
@@ -134,7 +127,7 @@ typekit: fza1iaf
 facebook:
 
 # Google Analytics - UA-22056399-2
-google_analytics_tracking_id:
+google_analytics_tracking_id: "UA-22056399-2"
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
 
