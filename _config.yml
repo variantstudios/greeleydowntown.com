@@ -56,7 +56,7 @@ collections:
     permalink: /properties/:title/
   gallery:
     output: true
-    permalink: /gallery/:title/
+    permalink: /photo-gallery/:title/
 #Defaults
 defaults:
   -
