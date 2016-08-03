@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/bike-to-work-greeley/lg/bike-to-work-greeley-3.jpg
   - title: 
     small_image_path:	/assets/images/gallery/bike-to-work-greeley/sm/bike-to-work-greeley-4.jpg
-    large_image_path:	/assets/images/gallery/bike-to-work-greeley/lg/bike-to-work-greeley4.jpg
+    large_image_path:	/assets/images/gallery/bike-to-work-greeley/lg/bike-to-work-greeley-4.jpg
   - title: 
     small_image_path:	/assets/images/gallery/bike-to-work-greeley/sm/bike-to-work-greeley-5.jpg
     large_image_path:	/assets/images/gallery/bike-to-work-greeley/lg/bike-to-work-greeley-5.jpg
