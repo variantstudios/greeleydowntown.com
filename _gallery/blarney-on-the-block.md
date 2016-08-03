@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-4.jpg
-    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley4.jpg
+    large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/sm/blarney-on-the-block-greeley-5.jpg
     large_image_path:	/assets/images/gallery/blarney-on-the-block-greeley/lg/blarney-on-the-block-greeley-5.jpg
