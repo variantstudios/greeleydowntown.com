@@ -2,9 +2,8 @@
 title: 'AgriCulture Fest & Feast'
 description:
 weight: 0
-
 images:
-  - title: Replace Me
+  - title:
     small_image_path: /assets/images/gallery/agfest-greeley/sm/agfest-greeley-1.jpg
     large_image_path: /assets/images/gallery/agfest-greeley/lg/agfest-greeley-1.jpg
   - title:
