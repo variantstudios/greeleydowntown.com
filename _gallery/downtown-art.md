@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/downtown-greeley-art/lg/downtown-greeley-art-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/downtown-greeley-art/sm/downtown-greeley-art-4.jpg
-    large_image_path:	/assets/images/gallery/downtown-greeley-art/lg/downtown-greeley-art4.jpg
+    large_image_path:	/assets/images/gallery/downtown-greeley-art/lg/downtown-greeley-art-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/downtown-greeley-art/sm/downtown-greeley-art-5.jpg
     large_image_path:	/assets/images/gallery/downtown-greeley-art/lg/downtown-greeley-art-5.jpg
