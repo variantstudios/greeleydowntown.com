@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-4.jpg
-    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night4.jpg
+    large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/greeley-lights-the-night/sm/greeley-lights-the-night-5.jpg
     large_image_path:	/assets/images/gallery/greeley-lights-the-night/lg/greeley-lights-the-night-5.jpg
