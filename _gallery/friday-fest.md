@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-4.jpg
-    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley4.jpg
+    large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/friday-fest-greeley/sm/friday-fest-greeley-5.jpg
     large_image_path:	/assets/images/gallery/friday-fest-greeley/lg/friday-fest-greeley-5.jpg
