@@ -45,17 +45,13 @@ No information provided
 
 No information provided
 
-!!! INSERT IMAGES !!!
-
 ### Cranford Cove Tea Tavern
 
 823 10th Street
 
 Cranford Cove will feature the concert photography of 16 year old Talia Lezama whose goal is to capture the unique and special moments between the musicians and the crowd; the message and the emotions that the artists are trying to express through their music and what the audience wants to see up close.
 
-!!! INSERT IMAGES !!!
-
-### Grand Lake's 16th Street Tavern
+### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
@@ -66,8 +62,6 @@ Grand Lake’s 16th Street Tavern features the work of recent college graduate, 
 714 8th Street
 
 Beer, having a local historical and modern day importance, is on tap as the featured topic at the Greeley History Museum, 714 8th St., during its August First Friday Presentation. &nbsp;Michael D. Mosher presents on the history of brewing as well as the basic processes and science involved in preparing beer on Friday, August 5, at 6 p.m. Mosher is the program director for the Brewing Laboratory Science Program and Chemistry and Biochemistry Department Chair at the University of Northern Colorado. Admission to the presentation is free and doors open at 5:30pm. Visit [www.greeleymuseums.com](http://www.greeleymuseums.com) for details.
-
-!!! INSERT IMAGE !!!
 
 ### Joe Molina Gallery & Studios
 
@@ -81,27 +75,23 @@ No information provided
 
 The current show at the Madison and Main Gallery is Bicycle Art Show. The show features work from guest artists Kelly Cook, Nancy Condit, Benjamin Wright, Sherise Talbott, Felisha Brower, Susan Todd, Suzette McIntyre. Aaron Best, Keith Clements and Steve Opp. First Friday will feature an artist demonstration from 5-8pm. In conjunction with the bicycle show, Ann Sherley will be painting something bicycle related. Hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com.
 
-!!! INSERT IMAGES !!!
-
-### Margie's Cafe @ The Farmer's Pantry
+### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
 
-Stop by for Margie's Caf&eacute; Alumni Art Show -- Since its opening more than two decades ago, many of Margie's baristas and friends have been among Greeley's most talented visual artists. Enjoy works spanning twenty years from artists who spent time behind and in front of the counter at Greeley's Coolest Coffee House!
+Stop by for Margie’s Caf&eacute; Alumni Art Show – Since its opening more than two decades ago, many of Margie’s baristas and friends have been among Greeley’s most talented visual artists. Enjoy works spanning twenty years from artists who spent time behind and in front of the counter at Greeley’s Coolest Coffee House!
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-Stop by for the First Friday Sip & Sculpt...Polar Bears, Penguins, and Popsicles…at the Showcase Art Center with Colette Pitcher from 6:30-8:30pm. All materials and treats included. Cost is $25 per person or $40 for tow. RSVP to 970-356-8593.
+Stop by for the First Friday Sip & Sculpt…Polar Bears, Penguins, and Popsicles…at the Showcase Art Center with Colette Pitcher from 6:30-8:30pm. All materials and treats included. Cost is $25 per person or $40 for tow. RSVP to 970-356-8593.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
 No information provided
-
-!!! INSERT IMAGES !!!
 
 ### The Bean Plant Studio
 
@@ -115,18 +105,14 @@ The Bean Plant Studio will be closed during the August First Friday&nbsp;
 
 The Dragon’s Cache will feature Majestic Images from Water Erosion by John Blake. Refreshments will be served.
 
-!!! INSERT IMAGE !!!
-
 ### The Eden Gallery @ Virtually Yours
 
 725 10th Street…Next to Zoe’s & Across from Carl’s Jr.
 
-Stop by the Eden Gallery for their Summer Clearance Sale! Save some dollars on local art. "Friends & Family" Rewards Apply!&nbsp;
+Stop by the Eden Gallery for their Summer Clearance Sale! Save some dollars on local art. “Friends & Family” Rewards Apply!&nbsp;
 
 ### Tointon Gallery
 
 651 10th Avenue
 
 The Arts Picnic Fine Art Exhibit provides Weld County artists the opportunity to display their creations for family, friends and the community. Artists of all ages are on display in the Tointon Gallery, 651 10th Avenue, from July 29th through August 27th. Cash awards are generously provided by the Greeley Art Association. &nbsp;The Tointon Gallery for Visual Arts presents twelve changing shows throughout the year to provide enjoyment, education and to encourage dialogue around art and is open Monday through Saturday from 9am-5pm and on First Friday nights from 5-7pm. Admission to the gallery is free.
-
-!!! INSERT IMAGE !!!
