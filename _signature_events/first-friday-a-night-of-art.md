@@ -1,13 +1,13 @@
 ---
 title: 'First Friday: A Night of Art'
-description: 'Be sure to join us this Friday (August 5th) for First Friday: A Night Of Art in Downtown Greeley! Look below for information on what is happening and remember that a lot of these shows are up all month!'
+description: 'First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.'
 image_path: /assets/images/signature-events/first-friday-a-night-of-art.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. &nbsp;Join us on August 5 for the next one and check out the information below to see what is happening at each location.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.  Join us on August 5 for the next one and check out the information below to see what is happening at each location.
 
 ### Atlas Gallery and John Galt Coffee
 
@@ -19,7 +19,7 @@ Atlas Gallery and John Galt Coffee will host a group show called “antecedent�
 
 821 10th Street
 
-Caf&eacute; Panache will feature new art from Johnny Fonseth, M.C.Zimmer and Roger Brindisi hosted by both Caf&eacute; Panache and Cranford Cove.
+Café Panache will feature new art from Johnny Fonseth, M.C.Zimmer and Roger Brindisi hosted by both Café Panache and Cranford Cove.
 
 !!! INSERT IMAGES !!!
 
@@ -27,7 +27,7 @@ Caf&eacute; Panache will feature new art from Johnny Fonseth, M.C.Zimmer and Rog
 
 823 10th Street
 
-Cranford Cove will feature a fresh show from Artist Johnny Fonseth, hosted by both Cranford Cove and Caf&eacute; Panache.
+Cranford Cove will feature a fresh show from Artist Johnny Fonseth, hosted by both Cranford Cove and Café Panache.
 
 !!! INSERT IMAGES !!!
 
@@ -43,7 +43,7 @@ Join the Greeley History Museum from 6-7pm for their First Friday Presentation, 
 
 930 8th Avenue
 
-First Friday: A Night Of Art Will feature Live Acoustic Guitarist Israel Jacobson. FREE & FAMILY FRIENDLY! Gallery Caf&eacute; Open for First Friday from 2pm - 8pm. Featured coffee is Caramel Chai Latte.
+First Friday: A Night Of Art Will feature Live Acoustic Guitarist Israel Jacobson. FREE & FAMILY FRIENDLY! Gallery Café Open for First Friday from 2pm - 8pm. Featured coffee is Caramel Chai Latte.
 
 ### Madison & Main Gallery
 
@@ -85,6 +85,6 @@ Drop by to view the Eden Gallery with a wide variety of watercolor and abstract 
 
 651 10th Avenue
 
-“Coraz&oacute;n” Exhibit Featured at the Tointon Gallery. Art. Man. Do. Enjoy the work of nationally-known artist and Greeley resident Armando Silva, also known as Artmando, during his new exhibit “Coraz&oacute;n.” See with heart. Do with heart. ART MAN DO with heart at the Tointon Gallery through June 11th. The Tointon Gallery is open Monday through Saturday 9am-5pm and from 5-7pm during First Friday Events. Admission is free.
+“Corazón” Exhibit Featured at the Tointon Gallery. Art. Man. Do. Enjoy the work of nationally-known artist and Greeley resident Armando Silva, also known as Artmando, during his new exhibit “Corazón.” See with heart. Do with heart. ART MAN DO with heart at the Tointon Gallery through June 11th. The Tointon Gallery is open Monday through Saturday 9am-5pm and from 5-7pm during First Friday Events. Admission is free.
 
 !!! INSERT IMAGE !!!
