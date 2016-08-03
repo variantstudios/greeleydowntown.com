@@ -1,6 +1,6 @@
 ---
 title: Friday Fest 2016
-description: "Every Friday all summer long! Free live music on the 9th St. Stage from 6 to 9, Greeley's famous and unique Go-Cup service, street performers, fire spinners, facepainting, balloon artistry, sidewalk chalk and more for the kids."
+description: 'Every Friday all summer long enjoy free live music on the 9th Street Plaza in downtown Greeley. Music typically plays from 6 to 9 pm and Greeley’s famously unique “Go-Cup” service runs 5 to 10 pm. There are also street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids!'
 image_path: /assets/images/signature-events/fridayfest.png
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 1
