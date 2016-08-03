@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/holiday-open-house-greeley/lg/holiday-open-house-greeley-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/holiday-open-house-greeley/sm/holiday-open-house-greeley-4.jpg
-    large_image_path:	/assets/images/gallery/holiday-open-house-greeley/lg/holiday-open-house-greeley4.jpg
+    large_image_path:	/assets/images/gallery/holiday-open-house-greeley/lg/holiday-open-house-greeley-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/holiday-open-house-greeley/sm/holiday-open-house-greeley-5.jpg
     large_image_path:	/assets/images/gallery/holiday-open-house-greeley/lg/holiday-open-house-greeley-5.jpg
