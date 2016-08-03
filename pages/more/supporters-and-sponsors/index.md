@@ -2,7 +2,6 @@
 layout: supporters-and-sponsors
 title: Supporters and Sponsors
 description:
-
 sub-nav: more
 permalink: /supporters-and-sponsors/
 ---
