@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/lg/trick-or-treat-street-greeley-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/sm/trick-or-treat-street-greeley-4.jpg
-    large_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/lg/trick-or-treat-street-greeley4.jpg
+    large_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/lg/trick-or-treat-street-greeley-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/sm/trick-or-treat-street-greeley-5.jpg
     large_image_path:	/assets/images/gallery/trick-or-treat-street-greeley/lg/trick-or-treat-street-greeley-5.jpg
