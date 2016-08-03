@@ -2,6 +2,6 @@
 layout: null
 sitemap: false
 ---
-"Business", "Dining Categories", "Entertainment and Recreation Categories", "Entertainment and Recreation Categories", "Lodging and Event Centers Categories", "Nightlife Categories", "Retail Categories", "Service Categories", "Street", "City", "State", "Zip", "Phone", "Website", "Contact Name", "Contact Email", "Logo","content"
-{% for business in site.directory %}{{ business.Business | jsonify  }}, {{ business.dining_categories }}, {{ business.entertainment_and_recreation_categories }}, {{ business.entertainment_and_recreation_categories }}, {{ business.lodging_and_event_centers_categories }}, {{ business.nightlife_categories }}, {{ business.retail_categories }}, {{ business.service_categories }}, {{ business.Street | jsonify }}, {{ business.City | jsonify }}, {{ business.State | jsonify }}, {{ business.Zip | jsonify }}, {{ business.Phone | jsonify }}, {{ business.Website  | jsonify }}, {{ business.Contact_Name | jsonify }}, {{ business.Contact_Email  | jsonify}}, {{ business.Logo_image_path }}, {{ business.content | jsonify }}
+Business, Street, City, State, Zip, Phone, Contact Name, Contact Email
+{% for business in site.directory %}{{ business.Business | strip_html | replace: ',' , '' }}, {{ business.Street | strip_html | replace: ',' , '' }}, {{ business.City  }}, {{ business.State  }}, {{ business.Zip  }}, {{ business.Phone  }}, {{ business.Contact_Name | strip_html | replace: ',' , '' }}, {{ business.Contact_Email }}
 {% endfor %}
