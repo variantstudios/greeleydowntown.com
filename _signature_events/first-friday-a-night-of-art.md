@@ -7,7 +7,25 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.  Join us on August 5 for the next one and check out the information below to see what is happening at each location.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. &nbsp;Join us on August 5 for the next one and check out the information below to see what is happening at each location.
+
+### Academy Of Natural Therapy
+
+625 8th Avenue
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
+
+### ART MAN DO.Studio
+
+802 9th Street, Lower
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
+
+### ArtWerx Studio/Gallery
+
+924 8th Avenue
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
 
 ### Atlas Gallery and John Galt Coffee
 
@@ -15,11 +33,17 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
 
+### Brix Taphouse & Brewery
+
+813 8th Street
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
+
 ### Cafe Panache
 
 821 10th Street
 
-Café Panache will feature new art from Johnny Fonseth, M.C.Zimmer and Roger Brindisi hosted by both Café Panache and Cranford Cove.
+Caf&eacute; Panache will feature new art from Johnny Fonseth, M.C.Zimmer and Roger Brindisi hosted by both Caf&eacute; Panache and Cranford Cove.
 
 !!! INSERT IMAGES !!!
 
@@ -27,9 +51,15 @@ Café Panache will feature new art from Johnny Fonseth, M.C.Zimmer and Roger Bri
 
 823 10th Street
 
-Cranford Cove will feature a fresh show from Artist Johnny Fonseth, hosted by both Cranford Cove and Café Panache.
+Cranford Cove will feature a fresh show from Artist Johnny Fonseth, hosted by both Cranford Cove and Caf&eacute; Panache.
 
 !!! INSERT IMAGES !!!
+
+### Grand Lake's 16th Street Tavern
+
+915 16th Street
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
 
 ### Greeley History Museum
 
@@ -43,7 +73,7 @@ Join the Greeley History Museum from 6-7pm for their First Friday Presentation, 
 
 930 8th Avenue
 
-First Friday: A Night Of Art Will feature Live Acoustic Guitarist Israel Jacobson. FREE & FAMILY FRIENDLY! Gallery Café Open for First Friday from 2pm - 8pm. Featured coffee is Caramel Chai Latte.
+First Friday: A Night Of Art Will feature Live Acoustic Guitarist Israel Jacobson. FREE & FAMILY FRIENDLY! Gallery Caf&eacute; Open for First Friday from 2pm - 8pm. Featured coffee is Caramel Chai Latte.
 
 ### Madison & Main Gallery
 
@@ -52,6 +82,12 @@ First Friday: A Night Of Art Will feature Live Acoustic Guitarist Israel Jacobso
 The current show at the Madison and Main Gallery is A to Z in the Garden. It is open to the public and runs through June 24th. The members of the gallery invite you to join them for an artist’s demonstration with guest artist Jared Butler on First Friday, June 3rd, from 5-8pm. He will be demonstrating wheel thrown pottery and answering questions about his techniques. Madison & Main is an artists-owned gallery. In addition to the work of member artists, fifteen guest artists have their work on exhibit. The slate of guest artists are Sarah Burnett, Jared Butler, Jesse Caswell, Neil Celani-Morrell, Delilah Fiechter, Bill Fritz, Travis Krause, Susan Lyle, Tony Park, Russell Rickart, Conrad Schaefer, Diana Wade, Ken Weaver, Lindsey Weaver, and Julie Wilson. To make the Garden Show 2016 a memorable event, each artist has been assigned to one letter of the alphabet. Gallery visitors will be given the opportunity to wander around the gallery in search of all 26 of the letters! The garden works will be interspaced with all of the other works in the gallery! Hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
 
 !!! INSERT IMAGES !!!
+
+### Margie's Cafe @ The Farmer's Pantry
+
+931 16th Street
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
 
 ### Showcase Art Center
 
@@ -66,6 +102,12 @@ The Showcase Art Center will not have a First Friday Event in June since Colette
 Syntax’s First Friday June artist will be Lauren Thurman from 6-8pm on Friday, June 3rd. Lauren enjoys pencil drawings, abstract paintings, photography and sculpture using recycled and found materials. For the last five years she has taught art in Texas and in Colorado to all grades, kindergarten up to 9th grade. View more artwork for sale on Etsy: https://www.etsy.com/shop/LaurenEThurmanArt and check out her art booth at the upcoming Greeley Arts Picnic, July 30-31st.”
 
 !!! INSERT IMAGES !!!
+
+### The Bean Plant Studio
+
+701 7th Street
+
+Atlas Gallery and John Galt Coffee will host a group show called “antecedent”.
 
 ### The Dragon’s Cache
 
@@ -85,6 +127,6 @@ Drop by to view the Eden Gallery with a wide variety of watercolor and abstract 
 
 651 10th Avenue
 
-“Corazón” Exhibit Featured at the Tointon Gallery. Art. Man. Do. Enjoy the work of nationally-known artist and Greeley resident Armando Silva, also known as Artmando, during his new exhibit “Corazón.” See with heart. Do with heart. ART MAN DO with heart at the Tointon Gallery through June 11th. The Tointon Gallery is open Monday through Saturday 9am-5pm and from 5-7pm during First Friday Events. Admission is free.
+“Coraz&oacute;n” Exhibit Featured at the Tointon Gallery. Art. Man. Do. Enjoy the work of nationally-known artist and Greeley resident Armando Silva, also known as Artmando, during his new exhibit “Coraz&oacute;n.” See with heart. Do with heart. ART MAN DO with heart at the Tointon Gallery through June 11th. The Tointon Gallery is open Monday through Saturday 9am-5pm and from 5-7pm during First Friday Events. Admission is free.
 
 !!! INSERT IMAGE !!!
