@@ -1,6 +1,6 @@
 ---
 title: 'First Friday: A Night of Art'
-description: 'Be sure to join us this Friday (June 3rd) for First Friday: A Night Of Art in Downtown Greeley! Look below for information on what is happening and remember that a lot of these shows are up all month!'
+description: 'Be sure to join us this Friday (August 5th) for First Friday: A Night Of Art in Downtown Greeley! Look below for information on what is happening and remember that a lot of these shows are up all month!'
 image_path: /assets/images/signature-events/first-friday-a-night-of-art.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 2
