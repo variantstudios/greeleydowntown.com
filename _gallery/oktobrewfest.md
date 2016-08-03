@@ -15,7 +15,7 @@ images:
     large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-3.jpg
   - title:
     small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-4.jpg
-    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley4.jpg
+    large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-4.jpg
   - title:
     small_image_path:	/assets/images/gallery/oktobrewfest-greeley/sm/oktobrewfest-greeley-5.jpg
     large_image_path:	/assets/images/gallery/oktobrewfest-greeley/lg/oktobrewfest-greeley-5.jpg
