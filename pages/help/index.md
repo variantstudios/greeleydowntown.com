@@ -7,7 +7,6 @@ header_image_path: /assets/images/headers/armando-einstein-mural.jpg
 permalink: /help/
 class: help
 sitemap: false
-
 ---
 
 
@@ -30,13 +29,14 @@ sitemap: false
 
 
 
-#### 'Headers' Collection
+#### ‘Headers’ Collection
 
 The header images used on all of the pages, but the home/front.
 
 * Header Images
   * width: 1400px
   * height: 200px
+
 
 
 
@@ -56,15 +56,9 @@ The header images used on all of the pages, but the home/front.
 
 #### Directory Images
 
-* Main Image
-  * width: 315px
-  * height: 250px
-* Gallery Small Image
-  * width: 250px
-  * height: 250px
-* Gallery Large Image
-  * **max** width: 900px
-  * **max** height: 900px
+* Main Image (business logo)
+  * width: 200px
+  * height: 200px
 
 
 
