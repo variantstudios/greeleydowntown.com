@@ -1,13 +1,13 @@
 ---
 title: OktoBREWfest
 description: 'Stay tuned for our 2016 updates! In the meantime, recap 2015 here!'
-image_path: /assets/images/signature-events/oktobrewfest-2016-greeley logo.png
+image_path: /assets/images/signature-events/oktobrewfest-2016-greeley.png
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 3
 ---
 
 
-Greeley’s Oktobrewfest is planned for Friday, September 23 and Saturday, September 24, 2016!&nbsp;
+Greeley’s Oktobrewfest is planned for Friday, September 23 and Saturday, September 24, 2016!
 
 STAY TUNED FOR MORE UPDATES! But in the meantime, here’s a recap from 2015!
 
