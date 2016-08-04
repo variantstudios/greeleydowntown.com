@@ -84,7 +84,11 @@ The header images used on all of the pages, but the home/front.
   * **max** width: 740px
   * **max** height: 480px
 
+#### Signature Events Images
 
+* Main Image
+  * **max** width: 740px
+  * **max** height: 550px
 
 
 #### Gallery Images Sizes
