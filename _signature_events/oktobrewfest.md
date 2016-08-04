@@ -1,15 +1,15 @@
 ---
 title: OktoBREWfest
 description: 'Stay tuned for our 2016 updates! In the meantime, recap 2015 here!'
-image_path: /assets/images/signature-events/oktobrewfest-2016-greeley.jpg
+image_path: /assets/images/signature-events/oktobrewfest-2016-greeley logo.png
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 3
 ---
 
 
-Greeley's Oktobrewfest is planned for Friday, September 23 and Saturday, September 24, 2016!&nbsp;
+Greeley’s Oktobrewfest is planned for Friday, September 23 and Saturday, September 24, 2016!&nbsp;
 
-STAY TUNED FOR MORE UPDATES! But in the meantime, here's a recap from 2015!
+STAY TUNED FOR MORE UPDATES! But in the meantime, here’s a recap from 2015!
 
 ### VIP Tasting Tent
 
@@ -36,5 +36,3 @@ Contest & Games 11:00 am-9:00 pm Life-size Beer Pong 2:00, 4:15 & 5:15 pm Pie Ea
 Other Entertainment 1:00—1:30 Blades of Moria Celtic Theater 2:00—2:30 Blades of Moria Celtic Theater After Dark Fahrenheit 360 Fire Spinners
 
 Oktobrewfest is an annual fundraiser for the DDA and helps provide for the revitalization of Greeley’s downtown district. Thank you to the many **sponsors** that make this event possible!
-
-!!! INSERT IMAGE !!!
