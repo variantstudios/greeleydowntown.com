@@ -1,6 +1,6 @@
 ---
 Business: Keynote Coffee
-Street: 1100 8th Avenue
+Street: 802 9th Street
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -14,7 +14,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
 Contact_Name: Dan Cobble
-Contact_Email:
+Contact_Email: keynotecoffeeco@gmail.com
 Logo_image_path: /assets/images/directory/keynotecoffee.png
 ---
 
