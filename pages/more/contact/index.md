@@ -21,8 +21,8 @@ The Downtown Development Authority is dedicated to the revitalization of Downtow
 
 ### Address
 
-802 9th Street, Suite 100 Greeley, CO 80631
+[802 9th Street, Suite 100 Greeley, CO 80631](https://www.google.com/maps/place/802+9th+St,+Greeley,+CO+80631/@40.4236311,-104.6933619,17z/data=!3m1!4b1!4m5!3m4!1s0x876ea2267f473935:0x8499a7ecf0363825!8m2!3d40.4236311!4d-104.6911732)
 
 **Phone:** [(970) 356-6775](tel:9703566775)
 
-**Fax:** [(970) 304-1851](tel:9703041851)
+**Fax:** (970) 304-1851
