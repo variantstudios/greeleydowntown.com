@@ -37,7 +37,7 @@ No information provided
 
 813 8th Street
 
-No information provided
+Brix Taphouse and Brewery will feature the work of local fine art photographer, Cody DeVries. The title of Cody's series is "South on 85" and his work is on display through the month of August.
 
 ### Cafe Panache
 
