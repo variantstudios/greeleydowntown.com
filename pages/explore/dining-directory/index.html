@@ -13,25 +13,6 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
     <div class="directory-listings" data-ng-controller="DirectoryCtrl">
         <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" /></div>
 
-        <div class="view-filters sidebar">
-            <h3>Filter Dining Businesses</h3>
-            <form name="directoryFilter" novalidate>
-
-                <div class="select-wrap">
-                    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
-                        <option value="">-- Select Dining Cuisine --</option>
-                        <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-
-                <div class="search-wrap">
-                    <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
-                </div>
-                <button type="button" onclick="location.href='/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
-            </form>
-                {% include sub-nav.html nav=site.data.explore-menu %}
-        </div>
-
         <ul class="listings-view main-content" ng-cloak>
             <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
 
@@ -56,6 +37,26 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
         </ul>
 
         </ul>
+
+        <div class="view-filters sidebar">
+            <h3>Filter Dining Businesses</h3>
+            <form name="directoryFilter" novalidate>
+
+                <div class="select-wrap">
+                    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
+                        <option value="">-- Select Dining Cuisine --</option>
+                        <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                    </select>
+                </div>
+
+                <div class="search-wrap">
+                    <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
+                </div>
+                <button type="button" onclick="location.href='/dining-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
+            </form>
+                {% include sub-nav.html nav=site.data.explore-menu %}
+        </div>
+
 
         <dir-pagination-controls max-size="1000" direction-links="true" boundary-links="false" on-page-change="pageChanged()">
         </dir-pagination-controls>

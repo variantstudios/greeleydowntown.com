@@ -44,8 +44,10 @@
     display: flex;
     flex-wrap: wrap;
     .listing {
-      width: 100%;
-      margin: 1em 0;
+      /*width: 100%;
+      margin: 1em 0;*/
+      width: 48%;
+      margin: 1em 1%;
       position: relative;
       @include transition (all .1s ease-out);
       //cursor: pointer;
