@@ -87,7 +87,7 @@ Kizumba is one of Colorado’s longest performing and best Salsa bands. Formed i
 
 ### September 16th – My favorite Bands Festival
 
-Two bands will be cover their favorite bands. Rumor has it that this you you’ll be treated to The Talking Heads and Aretha Franklin!!
+Two bands will be covering their favorite bands. Rumor has it that you’ll be treated to The Talking Heads and Aretha Franklin!!
 
 ### Sponsors:
 
