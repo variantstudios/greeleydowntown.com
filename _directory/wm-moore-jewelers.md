@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
 Contact_Name: Carl Moore
 Contact_Email: wmmore1@aol.com
-Logo_image_path: /assets/images/directory/wmmoorejewelers.png
+Logo_image_path: /assets/images/directory/wmmoore.png
 ---
 
 
