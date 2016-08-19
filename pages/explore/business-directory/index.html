@@ -10,6 +10,63 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
 ---
 <div ng-app="mainApp">
     <div class="directory-listings" data-ng-controller="DirectoryCtrl">
+
+    <div class="view-filters sidebar">
+
+        <h3>Filter Downtown Businesses</h3>
+        <div class="sidebar-filter" data-collapse="persist" id="filter">
+                <!-- <p class="expander close">open</p> -->
+
+        <form name="directoryFilter" novalidate>
+            <div class="select-wrap">
+                <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
+                    <option value="">-- Dining Cuisine --</option>
+                    <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                </select>
+            </div>
+            <div class="select-wrap">
+                <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
+                    <option value="">-- Entertainment &amp; Recreation --</option>
+                    <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                </select>
+            </div>
+            <div class="select-wrap">
+                <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
+                    <option value="">-- Lodging &amp; Event Centers --</option>
+                    <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                </select>
+            </div>
+            <div class="select-wrap">
+                <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
+                    <option value="">-- Nightlife --</option>
+                    <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                </select>
+            </div>
+            <div class="select-wrap">
+                <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
+                    <option value="">-- Retail --</option>
+                    <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                </select>
+            </div>
+            <div class="select-wrap">
+                <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
+                    <option value="">-- Service --</option>
+                    <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
+                </select>
+            </div>
+
+            <div class="search-wrap">
+                <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
+            </div>
+            <button type="button" onclick="location.href='/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
+        </form>
+    </div>
+</div>
+
+
+
+
+
         <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" alt="Loading"></div>
         <ul class="listings-view main-content" ng-cloak>
             <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
@@ -29,59 +86,14 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
             <li data-ng-show="(businesses | filter:searchBox).length == 0" class="no-results" ng-cloak>
                 <h4>{{page.no_results_title}}</h4>{{page.no_results_message}}</li>
         </ul>
+
+
+
+
+
+
+
         <div class="view-filters sidebar">
-
-            <h3>Filter Downtown Businesses</h3>
-            <div class="sidebar-filter" data-collapse="persist" id="filter">
-                    <!-- <p class="expander close">open</p> -->
-
-            <form name="directoryFilter" novalidate>
-                <div class="select-wrap">
-                    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
-                        <option value="">-- Dining Cuisine --</option>
-                        <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-                <div class="select-wrap">
-                    <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
-                        <option value="">-- Entertainment &amp; Recreation --</option>
-                        <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-                <div class="select-wrap">
-                    <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
-                        <option value="">-- Lodging &amp; Event Centers --</option>
-                        <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-                <div class="select-wrap">
-                    <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
-                        <option value="">-- Nightlife --</option>
-                        <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-                <div class="select-wrap">
-                    <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
-                        <option value="">-- Retail --</option>
-                        <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-                <div class="select-wrap">
-                    <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
-                        <option value="">-- Service --</option>
-                        <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
-                    </select>
-                </div>
-
-
-
-                <div class="search-wrap">
-                    <input type="text" ng-model="searchBox.Business" placeholder="Search Businesses">
-                </div>
-                <button type="button" onclick="location.href='/business-directory/';" ng-show="directoryFilter.$dirty">Reset</button>
-            </form>
-        </div>
-
             {% include sub-nav.html nav=site.data.explore-menu %}
         </div>
 
