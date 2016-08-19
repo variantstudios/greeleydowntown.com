@@ -19,4 +19,4 @@ Logo_image_path: /assets/images/directory/highplainslibrary.png
 ---
 
 
-Located in historic downtown Greeley, the Lincoln Park Library serves the neighborhood and business district. The 14,000 square foot facility has a wide selection of audiobooks, movies, and books. There are forty computers and free wi-fi. The library offers free computers classes and a small meeting room for the public to use with a reservation.
+Located in downtown Greeley, the Lincoln Park Library serves the neighborhood and business district. The 6,000 square foot facility has a wide selection of audiobooks, movies, and books. There are twenty adult computers along with computers dedicated to children’s and teens and free wi-fi. The library offers free computers classes and a meeting room for the public that seats 40. The meeting room requires a reservation.
