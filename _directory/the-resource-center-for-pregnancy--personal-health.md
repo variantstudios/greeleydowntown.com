@@ -5,7 +5,7 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 353-2673
-Website: 'http://pregnancygreeley.com/'
+Website: tests4greeley.com
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -15,7 +15,7 @@ service_categories:
   - health
 Contact_Name: Kim Klady
 Contact_Email: clientservices@pregnancygreeley.com
-Logo_image_path: /assets/images/directory/theresourcecenter.png
+Logo_image_path: /assets/images/directory/resource-center.png
 ---
 
 
