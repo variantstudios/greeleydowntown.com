@@ -1,6 +1,6 @@
 ---
 Business: Right to Read of Weld County
-Street: 717 6th Street
+Street: 917 10th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -12,8 +12,8 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-  - non-profit
   - educational
+  - non-profit
 Contact_Name: Lisa Peterson
 Contact_Email: lisa@r2rweldcounty.org
 Logo_image_path: /assets/images/directory/righttoread.png
