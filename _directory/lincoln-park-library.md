@@ -1,10 +1,10 @@
 ---
 Business: Lincoln Park Library
-Street: 1012 11th Street
+Street: '1012 11th Street, Ste. B'
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 506-8460
+Phone: 1-888-861-7323
 Website: 'http://www.mylibrary.us'
 dining_categories:
 entertainment_and_recreation_categories:
