@@ -1,6 +1,6 @@
 ---
 Business: RMOMS
-Street: '800 8th Avenue, Ste. 230'
+Street: '800 8th Avenue, Ste. 100'
 City: Greeley
 State: Colorado
 Zip: 80631
