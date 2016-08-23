@@ -28,4 +28,4 @@ Be the first to see the vision for the new downtown Greeley. Located in the hear
 * Basement health club/large open space for multiple uses
 
 
-<br>Check out http://moklerrealty.swiftcom.com/ for more information! Contact us today to reserve your spot in what will become one of downtown Greeley’s most inspired properties.&nbsp;
+<br>Check out [http://moklerrealty.swiftcom.com/](http://moklerrealty.swiftcom.com/) for more information! Contact us today to reserve your spot in what will become one of downtown Greeley’s most inspired properties.&nbsp;
