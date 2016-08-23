@@ -13,9 +13,9 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Contact_Name:
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Name: Kim Overholt
+Contact_Email: Kim.Overholt@Greeleygov.com
+Logo_image_path: /assets/images/directory/meeker-home-museum.jpg
 ---
 
 
