@@ -13,7 +13,12 @@ real-estate-agency: ""
 real-estate-agent: ""
 real-estate-email: ""
 real-estate-phone: ""
-  - image-gallery:
-      small_image_path: "/assets/images/properties/properties-default.png"
-      large_image_path: "/assets/images/properties/properties-default.png"
+image-gallery:
+  - title:
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"
+
+  - title: ""
+    small_image_path: "/assets/images/properties/properties-default.png"
+    large_image_path: "/assets/images/properties/properties-default.png"
 ---
