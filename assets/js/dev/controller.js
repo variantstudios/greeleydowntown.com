@@ -7,12 +7,15 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 	$http.get('/directory.json')
 	.success(function(response) {
 		$scope.businesses = response.records;
+		//console.log("success");
 	})
     .catch(function (err) {
       // Log error somehow.
+	  //console.log("error");
     })
     .finally(function () {
       // Hide loading spinner whether our call succeeded or failed.
+	  //console.log("finally");
       $scope.loading = false;
     });
 
@@ -42,5 +45,38 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 	});
 	$scope.pageChanged = function() {
    		// $('html,body').animate({scrollTop: 310}, 500);
+		//console.log("page change");
 	};
+
+$filterScroll = function() {
+	$('html,body').animate({
+	  scrollTop: $(".listings-view.main-content").offset().top
+	});
+};
+
+  $scope.retailfilterFunction = function(){
+      //console.log("change");
+	  $filterScroll();
+  };
+  $scope.servicefilterFunction = function(){
+      //console.log("change");
+	  $filterScroll();
+  };
+  $scope.nightlifefilterFunction = function(){
+      //console.log("change");
+	  $filterScroll();
+  };
+  $scope.lodgingfilterFunction = function(){
+	  //console.log("change");
+	  $filterScroll();
+  };
+  $scope.entertainmentfilterFunction = function(){
+      //console.log("change");
+	  $filterScroll();
+  };
+  $scope.diningfilterFunction = function(){
+      //console.log("change");
+	  $filterScroll();
+  };
+
 }]);

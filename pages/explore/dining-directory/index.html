@@ -17,7 +17,7 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
             <form name="directoryFilter" novalidate>
 
                 <div class="select-wrap">
-                    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
+                    <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories" ng-change="diningfilterFunction()">
                         <option value="">-- Select Dining Cuisine --</option>
                         <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                     </select>

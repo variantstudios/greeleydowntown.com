@@ -19,37 +19,37 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
 
         <form name="directoryFilter" novalidate>
             <div class="select-wrap">
-                <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories">
+                <select name="diningSelect" id="servicesSelect" ng-model="searchBox.dining_categories"  ng-change="diningfilterFunction()">
                     <option value="">-- Dining Cuisine --</option>
                     <option ng-repeat="option in dining" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                 </select>
             </div>
             <div class="select-wrap">
-                <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories">
+                <select name="entertainmentSelect" id="entertainmentSelect" ng-model="searchBox.entertainment_and_recreation_categories" ng-change="entertainmentfilterFunction()">
                     <option value="">-- Entertainment &amp; Recreation --</option>
                     <option ng-repeat="option in entertainment" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                 </select>
             </div>
             <div class="select-wrap">
-                <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories">
+                <select name="lodgingSelect" id="lodgingSelect" ng-model="searchBox.lodging_and_event_centers_categories" ng-change="lodgingfilterFunction()">
                     <option value="">-- Lodging &amp; Event Centers --</option>
                     <option ng-repeat="option in lodging" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                 </select>
             </div>
             <div class="select-wrap">
-                <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories">
+                <select name="nightlifeSelect" id="nightlifeSelect" ng-model="searchBox.nightlife_categories" ng-change="nightlifefilterFunction()">
                     <option value="">-- Nightlife --</option>
                     <option ng-repeat="option in nightlife" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                 </select>
             </div>
             <div class="select-wrap">
-                <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories">
+                <select name="retailSelect" id="retailSelect" ng-model="searchBox.retail_categories" ng-change="retailfilterFunction()">
                     <option value="">-- Retail --</option>
                     <option ng-repeat="option in retail" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                 </select>
             </div>
             <div class="select-wrap">
-                <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories">
+                <select name="serviceSelect" id="serviceSelect" ng-model="searchBox.service_categories" ng-change="servicefilterFunction()">
                     <option value="">-- Service --</option>
                     <option ng-repeat="option in service" value="{% raw %}{{option.value}}{% endraw %}">{% raw %}{{option.Title}}{% endraw %}</option>
                 </select>
