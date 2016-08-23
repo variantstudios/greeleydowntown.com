@@ -7,7 +7,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - construction-and-home-improvement
-Street:
+Street: '800 8th Avenue, Ste. 326'
 City: Greeley
 State: Colorado
 Zip: '80631'
