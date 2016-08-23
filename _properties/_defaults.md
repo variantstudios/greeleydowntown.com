@@ -21,4 +21,13 @@ image-gallery:
   - title: ""
     small_image_path: "/assets/images/properties/properties-default.png"
     large_image_path: "/assets/images/properties/properties-default.png"
+_defaults:
+  image_path: /images/placeholder.png
+images:
+  - image_path: /images/sunset.png
+    title: Sunset
+
+  # Adding an item to the array is prepopulated as:
+  - image_path: /images/placeholder.png
+    title:
 ---
