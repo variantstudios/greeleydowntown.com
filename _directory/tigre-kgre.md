@@ -1,5 +1,5 @@
 ---
-Business: Greeley Broadcasting Corp.
+Business: Tigre KGRE
 Street: '800 8th Avenue, Ste. 302, 304'
 City: Greeley
 State: Colorado
