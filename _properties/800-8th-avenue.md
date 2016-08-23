@@ -1,7 +1,7 @@
 ---
 title: 800 8th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/800 8th ave.png
+image_path: /assets/images/properties/800-8th-ave.jpg
 sale-or-lease: Lease
 square-footage: Varies
 price: $10-$22/SF
@@ -28,4 +28,4 @@ Be the first to see the vision for the new downtown Greeley. Located in the hear
 * Basement health club/large open space for multiple uses
 
 
-<br>Contact us today to reserve your spot in what will become one of downtown Greeley’s most inspired properties.
+<br>Check out http://moklerrealty.swiftcom.com/ for more information! Contact us today to reserve your spot in what will become one of downtown Greeley’s most inspired properties.&nbsp;
