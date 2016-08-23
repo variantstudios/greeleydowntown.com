@@ -18,6 +18,7 @@ image-gallery:
     small_image_path: "/assets/images/properties/properties-default.png"
     large_image_path: "/assets/images/properties/properties-default.png"
 
+  # Adding an item to the array is prepopulated as:
   - title:
     small_image_path: "/assets/images/properties/properties-default.png"
     large_image_path: "/assets/images/properties/properties-default.png"
