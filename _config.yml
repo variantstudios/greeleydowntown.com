@@ -93,6 +93,9 @@ defaults:
     values:
       layout: "property"
       sitemap: false false
+      _defaults:
+        small_image_path: "/assets/images/properties/properties-default.png"
+        large_image_path: "/assets/images/properties/properties-default.png"
   -
     scope:
       type: "gallery"
