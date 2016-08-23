@@ -16,7 +16,7 @@ service_categories:
   - educational
 Contact_Name: Linda McSwain
 Contact_Email: lindasattitude@gmail.com
-Logo_image_path: /assets/images/directory/theconservatorydance.png
+Logo_image_path: /assets/images/directory/conservatory-dance-studio.png
 ---
 
 
