@@ -21,4 +21,16 @@ var app = angular.module('mainApp', ['angularUtils.directives.dirPagination'])
 	$scope.pageChanged = function() {
    		// $('html,body').animate({scrollTop: 300}, 900);
 	};
+
+
+	$filterScroll = function() {
+		$('html,body').animate({
+		  scrollTop: $(".listings-view.main-content").offset().top
+		});
+	};
+	  $scope.diningfilterFunction = function(){
+	      //console.log("change");
+		  $filterScroll();
+	  };
+
 }]);
