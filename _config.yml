@@ -54,10 +54,6 @@ collections:
   properties:
     output: true
     permalink: /properties/:title/
-    image-gallery:
-    - title: ""
-      small_image_path: "/assets/images/properties/properties-default.png"
-      large_image_path: "/assets/images/properties/properties-default.png"
   gallery:
     output: true
     permalink: /photo-gallery/:title/
@@ -97,6 +93,10 @@ defaults:
     values:
       layout: "property"
       sitemap: false false
+      image-gallery:
+      - title: ""
+        small_image_path: "/assets/images/properties/properties-default.png"
+        large_image_path: "/assets/images/properties/properties-default.png"
   -
     scope:
       type: "gallery"
