@@ -1,6 +1,6 @@
 ---
 Business: Lutheran Family Services
-Street: 1502 9th Avenue
+Street: '800 8th Avenue, Ste. 225'
 City: Greeley
 State: Colorado
 Zip: 80631
