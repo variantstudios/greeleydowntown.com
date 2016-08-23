@@ -20,3 +20,4 @@ Logo_image_path: /assets/images/directory/brixtaphouse.png
 ---
 
 
+BRIX is a new taphouse and brewery in historic downtown Greeley. On tap is 60 rotating craft beers from Colorado's finest breweries, along with a selection of original BRIX brews.
