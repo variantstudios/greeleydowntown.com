@@ -3,6 +3,7 @@ layout: page
 title: Listing Claim
 description:
 form_response_message: "Thanks for your message. The DDA will be in touch soon."
+form_failed: 'Your submission has failed. Please try again.'
 sub-nav: more
 permalink: /listing-claim/
 class: "form"

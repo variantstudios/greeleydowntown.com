@@ -1,7 +1,8 @@
 <div id="form-message">{{page.form_response_message}}</div>
-<form action="/contact/?sent=true" method="post" class="contact-form">
+<form id="form" method="post" class="contact-form">
     <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-    <input type="hidden" name="_to" value="pam@greeleydowntown.com, bianca@greeleydowntown.com, alison@greeleydowntown.com, karen@greeleydowntown.com">
+    <!-- <input type="hidden" name="_to" value="pam@greeleydowntown.com, bianca@greeleydowntown.com, alison@greeleydowntown.com, karen@greeleydowntown.com"> -->
+    <input type="hidden" name="_to" value="brent@variantstudios.com">
     <input type="hidden" name="_subject" value="Contact form submitted on DDA website">
     <input type="text" name="_gotcha" style="display: none;">
     <!-- all your input fields here.... -->
@@ -17,5 +18,11 @@
         <label for="message">Message</label>
         <textarea id="message" name="message" rows="6" cols="25"></textarea>
     </div>
-    <input class="sendButton" type="submit" name="Submit" value="Send">
+    <div class="webform-component">
+        <div class="g-recaptcha" data-sitekey="6LelkCgTAAAAAG60tgYNf792DqX3ot6a4esI9pF0"></div>
+        <div id="fail"><p>{{page.form_failed}}</p></div>
+    </div>
+    <div class="webform-component">
+        <input class="sendButton" type="submit" name="Submit" value="Send">
+    </div>
 </form>
