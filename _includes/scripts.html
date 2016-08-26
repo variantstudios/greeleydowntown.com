@@ -1,6 +1,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
 
+{% if page.url == "/contact/" or page.url == "/listing-claim/" or page.url == "/get-involved/"%}
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	<script src="/assets/js/prod/staticformapp.js"></script>
+{% endif %}
 {% if page.path contains '_gallery' %}
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js"></script>
 {% elsif page.path contains '_properties' %}
