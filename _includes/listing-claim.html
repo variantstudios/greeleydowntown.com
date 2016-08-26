@@ -3,7 +3,6 @@
     <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
     <input type="hidden" name="_to" value="pam@greeleydowntown.com,bianca@greeleydowntown.com,karen@greeleydowntown.com">
     <input type="hidden" name="_subject" value="Greeley DDA - Listing Claim">
-    <input type="text" name="_gotcha" style="display: none;">
     <!-- all your input fields here.... -->
     <div class="webform-component">
         <label for="business-name">Business Name</label>
@@ -39,6 +38,7 @@
     </div>
     <div class="webform-component">
         <div class="g-recaptcha" data-sitekey="6LelkCgTAAAAAG60tgYNf792DqX3ot6a4esI9pF0"></div>
+        <input type="text" name="_gotcha" style="display: none;">
         <div id="fail"><p>{{page.form_failed}}</p></div>
     </div>
     <div class="webform-component">
