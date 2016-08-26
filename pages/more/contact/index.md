@@ -3,6 +3,7 @@ layout: page
 title: Contact
 description: 'The Downtown Development Authority is dedicated to the revitalization of Downtown Greeley. If you need to get ahold of us, feel free to give us a call, swing by our office during business hours or fill out and submit the form below.'
 form_response_message: 'Thanks for your message! The DDA will be in touch soon.'
+form_failed: 'Your submission has failed. Please try again.'
 sub-nav: more
 permalink: /contact/
 class: form

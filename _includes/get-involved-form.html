@@ -1,41 +1,44 @@
-<div id="form-message">{{page.form_response_message}}</div>
-<form action="/get-involved/?sent=true" method="post" class="contact-form">
-    <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+    <div id="form-message">{{page.form_response_message}}</div>
+    <form id="form" method="post" class="contact-form">
     <input type="hidden" name="_to" value="pam@greeleydowntown.com, bianca@greeleydowntown.com, alison@greeleydowntown.com, karen@greeleydowntown.com">
     <input type="hidden" name="_subject" value="Greeley DDA - Get Involved">
     <input type="text" name="_gotcha" style="display: none;">
     <!-- all your input fields here.... -->
     <div class="webform-component">
         <label for="name">Name</label>
-        <input type="text" name="Name" id="name" required="">
+        <input type="text" name="name" id="name" required="">
     </div>
     <div class="webform-component">
         <label for="email">Email</label>
-        <input type="text" name="Email" id="email" required="">
+        <input type="text" name="email" id="email" required="">
     </div>
     <div class="webform-component">
         <label for="phone">Phone</label>
-        <input type="text" name="Phone" id="phone">
+        <input type="text" name="phone" id="phone">
     </div>
     <div class="webform-component">
         <label>Get Involved with</label>
         <div class="form-checkboxes">
             <div class="form-item" id="edit-submitted-get-involved-1-wrapper">
                 <label class="option" for="edit-submitted-get-involved-1">
-                    <input type="checkbox" name="Volunteers" id="edit-submitted-get-involved-1" value="yes" class="form-checkbox">Volunteers</label>
+                    <input type="checkbox" name="volunteers" id="edit-submitted-get-involved-1" value="yes" class="form-checkbox">Volunteers</label>
             </div>
             <div class="form-item" id="edit-submitted-get-involved-2-wrapper">
                 <label class="option" for="edit-submitted-get-involved-2">
-                    <input type="checkbox" name="Internships" id="edit-submitted-get-involved-2" value="yes" class="form-checkbox">Internships</label>
+                    <input type="checkbox" name="internships" id="edit-submitted-get-involved-2" value="yes" class="form-checkbox">Internships</label>
             </div>
             <div class="form-item" id="edit-submitted-get-involved-3-wrapper">
                 <label class="option" for="edit-submitted-get-involved-3">
-                    <input type="checkbox" name="Performers" id="edit-submitted-get-involved-3" value="yes" class="form-checkbox">Performers</label>
+                    <input type="checkbox" name="performers" id="edit-submitted-get-involved-3" value="yes" class="form-checkbox">Performers</label>
             </div>
             <div class="form-item" id="edit-submitted-get-involved-4-wrapper">
                 <label class="option" for="edit-submitted-get-involved-4">
-                    <input type="checkbox" name="Sponsors" id="edit-submitted-get-involved-4" value="yes" class="form-checkbox">Sponsors</label>
+                    <input type="checkbox" name="sponsors" id="edit-submitted-get-involved-4" value="yes" class="form-checkbox">Sponsors</label>
             </div>
+        </div>
+        <div class="webform-component">
+            <div class="g-recaptcha" data-sitekey="6LelkCgTAAAAAG60tgYNf792DqX3ot6a4esI9pF0"></div>
+            <div id="fail"><p>{{page.form_failed}}</p></div>
         </div>
         <input class="sendButton" type="submit" name="Submit" value="Send">
     </div>
