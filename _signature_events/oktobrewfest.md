@@ -1,6 +1,6 @@
 ---
 title: OktoBREWfest
-description: 'Stay tuned for our 2016 updates! In the meantime, recap 2015 here!'
+description:
 image_path: /assets/images/signature-events/oktobrewfest-2016-greeley.png
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 3
