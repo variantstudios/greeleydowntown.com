@@ -77,9 +77,9 @@ The Blues DoGS have been entertaining audiences at clubs, festivals, fundraisers
 
 The Groove Nation Orchestra brings over 25 years of performing experience to Weddings, Private Parties, Corporate Events and Conventions throughout the USA. They are sure to make music lovers of all ages get up to groove!
 
-### September 2nd - Block Party
+### September 2nd - Nevermind The 90's
 
-Stay tuned for news about this annual event that rocks 2 stages and multiple bands.
+Nevermind the 90s is a tribute to all the great music of the 90s with classic hits from all decades mixed in to keep the party rocking all night long! They provide a high energy, dynamic performance for any occasion. They've been performing in venues all across Colorado for years earning new fans everywhere they go.
 
 ### September 9th – Kizumba
 
@@ -88,6 +88,37 @@ Kizumba is one of Colorado’s longest performing and best Salsa bands. Formed i
 ### September 16th – My favorite Bands Festival
 
 Two bands will be covering their favorite bands. Rumor has it that you’ll be treated to The Talking Heads and Aretha Franklin!!
+
+### September 30th – Block Party
+
+The Block Party is back on Friday September 30th, 2016 in Downtown Greeley! Year 10 is bigger and better than ever and features Live Performances from:
+
+The Burroughs
+<br>888
+<br>The Unlikely Candidates
+<br>Silver & Gold
+<br>Slow Caves
+<br>One Flew West
+<br>Valienta
+<br>Ben Pu Music
+<br>The Panoramic
+<br>Guillermo "Gii" Astorga Music
+<br>Draghoria
+<br>Overslept
+<br>Quentin
+<br>The Caveat
+<br>Infinite Conscious
+<br>DiViiNE
+<br>TYJA3
+<br>Devin Scheer Music
+<br>Soul Brothers Music
+<br>Drunken Boxing Club
+<br>Type One1
+<br>Esai Sanchez Music
+<br>Igaus Davis
+<br>Bryce Merritt
+<br>Dorothy Marie
+<br>and more...
 
 ### Sponsors:
 
