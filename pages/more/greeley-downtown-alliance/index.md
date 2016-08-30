@@ -9,7 +9,6 @@ meeting_minutes:
     pdf_path: /assets/pdfs/gdaminutes5-20-16.pdf
   - title: GDA April 2016 Minutes
     pdf_path: /assets/pdfs/gdaminutes4-15-16.pdf
-
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
@@ -25,4 +24,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8 am on Friday, August 19th, 2016 for our next monthly meeting. The meeting will be held at Joe Molina Gallery located at 930 8th Avenue.
+> Please join us at 8am on Friday, September 16th, 2016 for our next monthly meeting. The meeting will be held at Brix Taphouse & Brewery located at 813 8th Street.
