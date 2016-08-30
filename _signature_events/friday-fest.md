@@ -89,6 +89,10 @@ Kizumba is one of Colorado’s longest performing and best Salsa bands. Formed i
 
 Two bands will be covering their favorite bands. Rumor has it that you’ll be treated to The Talking Heads and Aretha Franklin!!
 
+### September 23rd-24th – OktoBREWfest
+
+Takes place in Historic Lincoln Park in Downtown Greeley.
+
 ### September 30th – Block Party
 
 The Block Party is back on Friday September 30th, 2016 in Downtown Greeley! Year 10 is bigger and better than ever and features Live Performances from:
