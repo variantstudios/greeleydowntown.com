@@ -19,46 +19,10 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 
 #### Event Schedule:
 
-Friday, September 23rd 5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Twirling Zucchinis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+**Friday, September 23rd**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[&nbsp;***The Twirling Zucchini Trio&nbsp;***](http://www.drewsblues.com/twirling_zucchini_trio/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7:30-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***[Ponder The Albatross](https://www.facebook.com/ponderthealbatross/)&nbsp; &nbsp;***
 
-7:30-10:00 pm &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Ponder The Albatross &nbsp;&nbsp;
+**Saturday, September 24th**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11:00-11:10 am: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;***Introduction and Toast&nbsp;*****&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**11:10-11:45 am &nbsp; &nbsp; &nbsp; ***&nbsp; [&nbsp;Greeley Children’s Chorale](https://www.facebook.com/greeleychildrenschorale/?fref=ts)***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;12:00-1:15 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***[UNC Jazz Lab Band 1](http://arts.unco.edu/music/jazz-ensembles/)***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1:30-4:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**&nbsp;*Jim Ehrlich and the Polka Mates***](https://www.youtube.com/watch?v=NfRBvtR_4s4)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Randy Eckhart and the Dutch Hop Makers***](https://www.youtube.com/watch?v=ciekFoBZ4pM)&nbsp;&nbsp; &nbsp;7:30-9:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[***The Brian Hornbuckle Band***](https://www.facebook.com/brian.hornbuckle.9)
 
-Contest & Games
-
-5:00-10:00 pm Life-size Beer Pong
-
-7:00 & 7:15pm Iron Stein Contest
-
-Other Entertainment
-
-After Dark Fahrenheit 360 Fire Spinners
-
-Saturday, September 24th
-
-Gazebo Main Stage Schedule
-
-11:00-11:10 am Introduction and Toast
-
-11:10-11:45 am Greeley Children’s Chorale
-
-12:00-1:15 pm UNC Jazz Band
-
-1:30-4:00pm Jim Ehrlich and the Polka Mates
-
-5:30-7:00 pm Randy Eckhart and the Dutch Hop Makers
-
-7:30-9:00pm The Brian Hornbuckle Band
-
-Contest & Games
-
-11:00 am- 9:00 pm Life-size Beer Pong
-
-4:00, 4:30 & 5:00pm Pie Eating Contests
-
-7:00 & 7:15pm Iron Stein Contests
-
-Other Entertainment
-
-After Dark Fahrenheit 360 Fire Spinners
+**Other Entertainment**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;After Dark - &nbsp;[***Fahrenheit 360 Fire Spinners***](https://www.facebook.com/groups/Fahrenheit360Rockies/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Time TBA - &nbsp;[***Blades of Moria Celtic Theater***](https://www.facebook.com/CelticMoonTheater/?fref=ts)
 
 Oktobrewfest is an annual fundraiser for the DDA and helps provide for the revitalization of Greeley’s downtown district. Thank you to the many **sponsors** that make this event possible!
