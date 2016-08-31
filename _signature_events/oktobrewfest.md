@@ -15,7 +15,7 @@ You can also compete in pie eating contests, stein lifting contests, life-size b
 
 ### VIP Tasting Tent
 
-Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in the General Area, a complimentary tasting glass, samples of reserve and specialty beers from local breweries EXCLUSIVE to the VIP tent, meet and greet time with the brewers and food. All proceeds from Greeley Oktobrewfest and the VIP Beer Tasting benefit the Greeley Downtown Development Authority, which helps foster economic development and revitalization of downtown Greeley.
+Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in the General Area, a complimentary tasting glass, samples of reserve and specialty beers from local breweries EXCLUSIVE to the VIP tent, meet and greet time with the brewers and food. All proceeds from Greeley Oktobrewfest and the VIP Beer Tasting benefit the Greeley Downtown Development Authority, which helps foster economic development and revitalization of downtown Greeley. Tickets are $30 and can be purchased here:&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072](https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072)
 
 #### Event Schedule:
 
