@@ -19,6 +19,46 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 
 #### Event Schedule:
 
-TBA
+Friday, September 23rd 5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Twirling Zucchinis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+7:30-10:00 pm &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Ponder The Albatross &nbsp;&nbsp;
+
+Contest & Games
+
+5:00-10:00 pm Life-size Beer Pong
+
+7:00 & 7:15pm Iron Stein Contest
+
+Other Entertainment
+
+After Dark Fahrenheit 360 Fire Spinners
+
+Saturday, September 24th
+
+Gazebo Main Stage Schedule
+
+11:00-11:10 am Introduction and Toast
+
+11:10-11:45 am Greeley Children’s Chorale
+
+12:00-1:15 pm UNC Jazz Band
+
+1:30-4:00pm Jim Ehrlich and the Polka Mates
+
+5:30-7:00 pm Randy Eckhart and the Dutch Hop Makers
+
+7:30-9:00pm The Brian Hornbuckle Band
+
+Contest & Games
+
+11:00 am- 9:00 pm Life-size Beer Pong
+
+4:00, 4:30 & 5:00pm Pie Eating Contests
+
+7:00 & 7:15pm Iron Stein Contests
+
+Other Entertainment
+
+After Dark Fahrenheit 360 Fire Spinners
 
 Oktobrewfest is an annual fundraiser for the DDA and helps provide for the revitalization of Greeley’s downtown district. Thank you to the many **sponsors** that make this event possible!
