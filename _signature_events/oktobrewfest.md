@@ -25,4 +25,6 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 
 **Other Entertainment**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;After Dark - &nbsp;[***Fahrenheit 360 Fire Spinners***](https://www.facebook.com/groups/Fahrenheit360Rockies/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Time TBA - &nbsp;[***Blades of Moria Celtic Theater***](https://www.facebook.com/CelticMoonTheater/?fref=ts)
 
+**Contests and Games***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Life Size Beer Pong*, *Pie Eating Contests, Stein Hoisting Contests*
+
 Oktobrewfest is an annual fundraiser for the DDA and helps provide for the revitalization of Greeley’s downtown district. Thank you to the many **sponsors** that make this event possible!
