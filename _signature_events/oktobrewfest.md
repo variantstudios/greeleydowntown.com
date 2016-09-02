@@ -56,3 +56,5 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 <div>&nbsp;</div>
 
 Oktobrewfest is an annual fundraiser for the DDA and helps provide for the revitalization of Greeley’s downtown district. Thank you to the many **sponsors** that make this event possible!
+
+![](/uploads/versions/okt2016-sponsors--for-website---x----1650-1350x---.jpg)
