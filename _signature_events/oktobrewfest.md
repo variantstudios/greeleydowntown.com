@@ -19,12 +19,40 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 
 #### Event Schedule:
 
-**Friday, September 23rd**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[&nbsp;***The Twirling Zucchini Trio&nbsp;***](http://www.drewsblues.com/twirling_zucchini_trio/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7:30-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***[Ponder The Albatross](https://www.facebook.com/ponderthealbatross/)&nbsp; &nbsp;***
+<div><strong>Friday, September 23rd</strong></div>
 
-**Saturday, September 24th**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11:00-11:10 am: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;***Introduction and Toast&nbsp;*****&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**11:10-11:45 am &nbsp; &nbsp; &nbsp; ***&nbsp; [&nbsp;Greeley Children’s Chorale](https://www.facebook.com/greeleychildrenschorale/?fref=ts)***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;12:00-1:15 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***[UNC Jazz Lab Band 1](http://arts.unco.edu/music/jazz-ensembles/)***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1:30-4:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**&nbsp;*Jim Ehrlich and the Polka Mates***](https://www.youtube.com/watch?v=NfRBvtR_4s4)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Randy Eckhart and the Dutch Hop Makers***](https://www.youtube.com/watch?v=ciekFoBZ4pM)&nbsp;&nbsp; &nbsp;7:30-9:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[***The Brian Hornbuckle Band***](https://www.facebook.com/brian.hornbuckle.9)
+<div>5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.drewsblues.com/twirling_zucchini_trio/">&nbsp;<strong><em>The Twirling Zucchini Trio</em></strong></a></div>
 
-**Other Entertainment**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;After Dark - &nbsp;[***Fahrenheit 360 Fire Spinners***](https://www.facebook.com/groups/Fahrenheit360Rockies/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Time TBA - &nbsp;[***Blades of Moria Celtic Theater***](https://www.facebook.com/CelticMoonTheater/?fref=ts)
+[](http://www.drewsblues.com/twirling_zucchini_trio/)7:30-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***[Ponder The Albatross](https://www.facebook.com/ponderthealbatross/)&nbsp; &nbsp;***
 
-**Contests and Games***&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Life Size Beer Pong*, *Pie Eating Contests, Stein Hoisting Contests*
+<div><strong>Saturday, September 24th</strong></div>
+
+<div>11:00-11:10 am: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><em>Introduction and Toast</em></strong></div>
+
+<div>11:10-11:45 am &nbsp; &nbsp; &nbsp; <strong><em>&nbsp; <a href="https://www.facebook.com/greeleychildrenschorale/?fref=ts">&nbsp;Greeley Children&rsquo;s Chorale</a></em></strong></div>
+
+<div>12:00-1:15 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><em><a href="http://arts.unco.edu/music/jazz-ensembles/">UNC Jazz Lab Band 1</a></em></strong></div>
+
+<div>1:30-4:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=NfRBvtR_4s4"><strong>&nbsp;<em>Jim Ehrlich and the Polka Mates</em></strong></a>&nbsp;&nbsp;</div>
+
+<div>5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=ciekFoBZ4pM"><strong><em>Randy Eckhart and the Dutch Hop Makers</em></strong></a></div>
+
+<div>7:30-9:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/brian.hornbuckle.9"><strong><em>The Brian Hornbuckle Band</em></strong></a></div>
+
+<div>&nbsp;</div>
+
+<div><strong>Other Entertainment</strong>&nbsp;</div>
+
+<div>After Dark - &nbsp;<a href="https://www.facebook.com/groups/Fahrenheit360Rockies/"><strong><em>Fahrenheit 360 Fire Spinners</em></strong></a></div>
+
+<div>Time TBA - &nbsp;<a href="https://www.facebook.com/CelticMoonTheater/?fref=ts"><strong><em>Blades of Moria Celtic Theater</em></strong></a></div>
+
+<div>&nbsp;</div>
+
+<div><strong>Contests and Games</strong><em>&nbsp; </em></div>
+
+<div><em>Life Size Beer Pong</em>, <em>Pie Eating Contests, Stein Hoisting Contests</em></div>
+
+<div>&nbsp;</div>
 
 Oktobrewfest is an annual fundraiser for the DDA and helps provide for the revitalization of Greeley’s downtown district. Thank you to the many **sponsors** that make this event possible!
