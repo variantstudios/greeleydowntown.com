@@ -27,7 +27,7 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 
 <div><strong>Saturday, September 24th</strong></div>
 
-<div>11:00-11:10 am: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><em>Introduction and Toast</em></strong></div>
+<div>11:00-11:10 am&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><em>Introduction and Toast</em></strong></div>
 
 <div>11:10-11:45 am &nbsp; &nbsp; &nbsp; <strong><em>&nbsp; <a href="https://www.facebook.com/greeleychildrenschorale/?fref=ts">&nbsp;Greeley Children&rsquo;s Chorale</a></em></strong></div>
 
