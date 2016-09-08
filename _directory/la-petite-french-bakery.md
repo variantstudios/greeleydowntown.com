@@ -15,7 +15,7 @@ Phone: (970) 815-6060
 Website: 'https://www.facebook.com/La-Petite-French-Bakery-2082082055351291/'
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /uploads/la-petite-french-bakery.png
 ---
 
 
