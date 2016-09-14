@@ -13,6 +13,8 @@ Then prepare for a full day of fun on **Saturday from 11AM-9PM**. Enjoy a whole 
 
 You can also compete in pie eating contests, stein lifting contests, life-size beer pong and more. Shop the craft area, peruse the delicious food selections and enjoy the music.
 
+Volunteer!!! We need lots of volunteers, ... children's area, contests, and especially tear-down Saturday night. If you have an organization that can work for a donation we can arrange that too! Call us at (970) 356-6775 or sign up here: http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2&nbsp;
+
 ### VIP Tasting Tent
 
 Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in the General Area, a complimentary tasting glass, samples of reserve and specialty beers from local breweries EXCLUSIVE to the VIP tent, meet and greet time with the brewers and food. All proceeds from Greeley Oktobrewfest and the VIP Beer Tasting benefit the Greeley Downtown Development Authority, which helps foster economic development and revitalization of downtown Greeley. Tickets are $30 and can be purchased here:&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072](https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072)
