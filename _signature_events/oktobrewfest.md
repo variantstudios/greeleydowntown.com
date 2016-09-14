@@ -13,7 +13,7 @@ Then prepare for a full day of fun on **Saturday from 11AM-9PM**. Enjoy a whole 
 
 You can also compete in pie eating contests, stein lifting contests, life-size beer pong and more. Shop the craft area, peruse the delicious food selections and enjoy the music.
 
-Volunteer!!! We need lots of volunteers, ... children's area, contests, and especially tear-down Saturday night. If you have an organization that can work for a donation we can arrange that too! Call us at (970) 356-6775 or sign up here: http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2&nbsp;
+Volunteer!!! We need lots of volunteers, … children's area, contests, and especially tear-down Saturday night. If you have an organization that can work for a donation we can arrange that too! Call us at (970) 356-6775 or sign up here: [http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2&nbsp;](http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2)
 
 ### VIP Tasting Tent
 
