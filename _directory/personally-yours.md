@@ -11,6 +11,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
+  - apparel-and-shoes
 service_categories:
   - mail-and-print
 Contact_Name: Donna Harr
