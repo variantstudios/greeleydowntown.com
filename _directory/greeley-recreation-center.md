@@ -5,7 +5,7 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 350-9400
-Website: 'http://www.greeleygov.com/Recreation/default.aspx'
+Website: 'http://GreeleyRecreationCenter.com'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
