@@ -5,7 +5,7 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 350-9440
-Website: 'http://greeleygov.com/activities/recreation/greeley-senior-activity-center'
+Website: 'http://GreeleySeniorActivityCenter.com'
 dining_categories:
 entertainment_and_recreation_categories:
   - recreation
@@ -19,3 +19,4 @@ Logo_image_path: /assets/images/directory/greeleysenioractivitycenter.png
 ---
 
 
+Adults aged 50 and above can socialize at the Center, whether through trips or while participating in one of our many programs. Staying healthy is easy with our wide variety of 50+ fitness programs and sports.&nbsp;
