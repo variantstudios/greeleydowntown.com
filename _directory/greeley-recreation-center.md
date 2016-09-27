@@ -8,6 +8,7 @@ Phone: (970) 350-9400
 Website: 'http://GreeleyRecreationCenter.com'
 dining_categories:
 entertainment_and_recreation_categories:
+  - recreation
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
