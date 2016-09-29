@@ -4,7 +4,7 @@ email: team@variantstudios.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.greeleydowntown.com" # the base hostname & protocol for your site
-
+uploads_dir: "/assets/"
 
 # Build settings
 highlighter: pygments

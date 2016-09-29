@@ -1,7 +1,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
 
-{% if page.url == "/contact/" or page.url == "/listing-claim/" or page.url == "/get-involved/"%}
+{% if page.url == "/contact/"%}
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	<script src="/assets/js/prod/form.js"></script>
+{% endif %}
+{% if page.url == "/listing-claim/" or page.url == "/get-involved/"%}
 	<script src='https://www.google.com/recaptcha/api.js'></script>
 	<script src="/assets/js/prod/staticformapp.js"></script>
 {% endif %}
