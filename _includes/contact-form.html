@@ -1,8 +1,9 @@
 <div id="form-message">{{page.form_response_message}}</div>
 <form id="form" method="post" class="contact-form">
-    <input type="hidden" name="_to" value="pam@greeleydowntown.com,bianca@greeleydowntown.com,alison@greeleydowntown.com,karen@greeleydowntown.com">
+    <!-- <input type="hidden" name="_to" value="pam@greeleydowntown.com,bianca@greeleydowntown.com,alison@greeleydowntown.com,karen@greeleydowntown.com"> -->
+    <input type="hidden" name="_to" value="brent@variantstudios.com">
     <input type="hidden" name="_subject" value="Contact form submitted on DDA website">
-    
+
     <!-- all your input fields here.... -->
     <div class="webform-component">
         <label for="name">Name</label>
@@ -17,7 +18,7 @@
         <textarea id="message" name="message" rows="6" cols="25"></textarea>
     </div>
     <div class="webform-component">
-        <div class="g-recaptcha" data-sitekey="6LelkCgTAAAAAG60tgYNf792DqX3ot6a4esI9pF0"></div>
+        <div class="g-recaptcha" data-sitekey="6LcfAAgUAAAAAHa4hua839vpLM4BubtgJ58MOuhY"></div>
         <input type="text" name="_gotcha" style="display: none;">
         <div id="fail"><p>{{page.form_failed}}</p></div>
     </div>

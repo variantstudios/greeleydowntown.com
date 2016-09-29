@@ -63,7 +63,7 @@ function queryString() {
   var varArray = queryString.split("&");
   for (var i = 0; i < varArray.length; i++) {
     var param = varArray[i].split("=");
-    console.log('param', param[1]);
+    //console.log('param', param[1]);
     return param[1];
   }
 }
