@@ -12,6 +12,8 @@ layout: default
       <div>{{ content }}</div>
       {% if page.url == "/contact/" %}
         {% include contact-form.html %}
+        {% elsif page.url == "/contact-test/" %}
+          {% include contact-form-test.html %}
       {% elsif page.url == "/get-involved/" %}
         {% include get-involved-form.html %}
         {% elsif page.url == "/listing-claim/" %}
