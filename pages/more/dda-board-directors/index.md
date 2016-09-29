@@ -3,14 +3,12 @@ layout: page
 title: DDA Board of Directors
 description: 'Downtown Development Authority (DDA) Board of Directors meetings take place the 3rd Thursday of each month at 7:30 am. These meetings are held in the conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are open to the public.'
 meeting_minutes:
+  - title: September 2016 Meeting Minutes
+    pdf_path: /assets/pdfs/dda meeting minutes - 9-14-16.pdf
+  - title: August 2016 Meeting Minutes
+    pdf_path: /assets/pdfs/dda meeting minutes - 8-18-16.pdf
   - title: July 2016 DDA Minutes
     pdf_path: /assets/pdfs/dda-minutes-downtown-greeley-7-21-16.pdf
-  - title: June 2016 DDA Minutes
-    pdf_path: /assets/pdfs/ddaminutes6-16-16.pdf
-  - title: May 2016 DDA Minutes
-    pdf_path: /assets/pdfs/ddaminutes5-19-16.pdf
-  - title:
-    pdf_path:
 sub-nav: more
 permalink: /dda-board-directors/
 ---
