@@ -5,10 +5,10 @@ $(document).ready(function() {
         var formData = new FormData(formEl),
             data = [];
 
-        //for (var keyValue of formData) {
-        formData.each(function(keyValue){
+
+    for (var keyValue in formData) {
             data.push(encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1]));
-        });
+    }
 
         return data.join("&");
     }
