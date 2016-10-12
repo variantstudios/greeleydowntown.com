@@ -24,4 +24,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, September 16th, 2016 for our next monthly meeting. The meeting will be held at Brix Taphouse & Brewery located at 813 8th Street.
+> Please join us at 8am on Friday, October 21st, 2016 for our next monthly meeting. The meeting will be held at the Cranford Cove Tea Tavern located at 823 10th Street.
