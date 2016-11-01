@@ -7,37 +7,37 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on October 7th for the next one and check out the information below to see what is happening at each location.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on November 4th for the next one and check out the information below to see what is happening at each location.
 
 ### Academy Of Natural Therapy
 
 625 8th Avenue
 
-The Fred Tjardes School of Innovation) will be doing a "Trashion Show” at the Academy of Natural Therapy on Friday October 7th as a part of First Friday. There will be musicians, chair massages, and and and art display that night in the same space, hosted by the ANT. The "Trashion Show" will be at 6:30 with refreshments to follow.
+No information provided.
 
 ### ART MAN DO.Studio
 
 802 9th Street, Lower
 
-Will feature the JUNTOS art exhbit. An art showing celebrating Hispanic Heritage Month. Artists participating in this show are: IVAN DIAZ, FELISHA BROWER, LINA SANCHEZ, JON RIOS, RODNEY BARNES, ABRAHAM TORRES, GEORGIE EURESTI, ARMANDO SILVA
+No information provided.
 
 ### ArtWerx Studio/Gallery
 
 924 8th Avenue
 
-Envision's annual H'Art of Envision Art Show Opening Reception 5:30-7:30pm Friday in the gallery. Admission is free and light refreshments served. &nbsp;All the pieces in the show are created by people with intellectual and developmental disabilities that participate in Envision's Art Program. Art will be on display and for sale the entire month of October during gallery hours. Also this Friday, in the studio from 5-7pm, meet new Yoga instructor Tandra Kirkpatrick. Get some free advice to help with stress reduction through breathing techniques. Learn how yoga can release areas of tightness in your body that cause discomfort or limit your range of motion.
+No information provided.
 
 ### Atlas Gallery and John Galt Coffee
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will feature paintings and illustrations by Ryan Napier
+No information provided.
 
 ### Brix Taphouse & Brewery
 
 813 8th Street
 
-Brix Taphouse & Brewery will feature the artwork of Nicole Flesch
+No information provided.
 
 ### Cafe Panache
 
@@ -49,72 +49,67 @@ No information provided.
 
 823 10th Street
 
-No information provided.
+Local Artists Eryn Thompson and Rebecca Jerahian unveil their newest show at the Cranford Cove Tea Tavern starting at 5pm on Friday night. Eryn’s current focus is on my photography, and her eye has been drawn to the natural landscape of Colorado. Rebecca is a self-taught watercolor, acrylic and mix media artist with a whimcal, abstract, and colorful style
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-No information provided.
+Grand Lake’s 16th Street Tavern will feature the work of Ivan Grey.
 
 ### Greeley History Museum
 
 714 8th Street
 
-Weld on the Web: A Look at Greeley History Museum’s Latest Researching Tool First Friday Presentation at 6pm. In 2013, City of Greeley Museums and the High Plains Library District received an IMLS grant to digitize and make accessible thousands of important photographs of people, places, and events in Weld County circa 1870 through 1950. The grant proved to be a major collaborative effort involving scanning, cataloging, and the creation of a public access, searchable database. To celebrate the completion of this project and its accessibility to the public, join the museum for an introduction to this new public resource. Learn how to navigate the database and explore ways in which this tool might come in handy for a multitude of projects and queries. Presented by Katie Ross, assistant curator of collections, and Sarah Saxe, curator of collections. Admission is free.&nbsp;
+No information provided.
 
 ### Joe Molina Gallery & Studios
 
 930 8th Avenue
 
-No information provided.
+From 5-8 pm on November 4th, the Joe Molina Gallery & Studios will have materials available for you to make a free personalized Dia de Los Muertos (Day of the Dead) paper mask. &nbsp;
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The 29th annual Art to Wear Show at the Madison & Main Gallery features work by guest artists that are new to the gallery. The pieces in this show encompass an array of vegetable parchment jewelry, lake stone and fine silver jewelry, hand dyed and painted silk scarves, sweaters and coats from repurposed wool, and knitted ponchos, hats, and mitts. All are meant to adorn the body. The slate of guest artists include –Sherry DeFazio, Margaret Dorfman, Kate Gesick, Julie Jerman-Melka, Barbara Johnson, Heather Myers, Ann-Marie Phalen-Hartman, and Marsha Ring. The Madison and Main Gallery is having an artist demonstration on October 7th from 5-8pm. In conjunction with the Art to Wear show, Ann-Marie Phalen Hartman will be demonstrating her use of repurposed clothing to make vests and coats. The Madison & Main Gallery is artist-owned. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items are for sale. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
+"Winter Lights," Madison & Main Gallery's 30<sup>th</sup> annual holiday show will feature original art, unique gifts, and one-of-a-kind ornaments. 20 guest artists have been invited to join the gallery’s member artists in this fabulous new show that runs through December 29. Meet the artists during the **public opening reception**planned for** First Friday on November 4th** **from 5-8 p.m**. The slate of guest artists includes: **Barb Amador** - silver jewelry, **Anna Ashford** – beadwork, R**osslyn Bernard**- collage, small books and angels, **Mary Crone** – clay whimsical faces, animals and birds, **Dan Daggett** - glass ornaments, bowls, vases, and paperweights, **Dianka** - butterfly jewelry, **Margaret Dorfman** – vegetable parchment jewelry and dishes, **Julie Jerman-Melka** – fine silver jewelry, **Barbara Johnson** - wool and silk scarves, **Deb Kessler** - art glass, ornaments, frames, coasters, **Carrie Lambert** - crocheted wire jewelry, **Ann Leahy** - acrylic collage, **Cindy Morger** - beaded jewelry, **Vivian Perry** - art quilt with longstitch quilting, **Damian Salinas** - carved Santas, **Diane Smith** – hand-painted fabric ornaments, **Anne Sneary** - painted gourds, **Heather Stone** - stained glass boxes, **Rick Winkler** - photographs of common fruits and veggies as they hit the water and splash, **Cortney Boyd** **and Nate Steinbrink** - blown glass pumpkins, vases, and ornaments. Our new gallery artists are: **Cate Austin** – pottery, **Katie Caro** - acrylic, **Peggy&nbsp; Lynn -**acrylic paintings and ornaments, **Doreen Vroman** – watercolor and acrylic, and **Stacey Waldfogel** - stained glass. All items are for sale. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com)
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
 
-No information provided.
+Margie's Caf&eacute; at the Farmer’s Pantry will host a First Friday reception beginning at 5pm for The Savig Family Art Show. In 1968 the Savigs moved to Greeley and through nearly fifty years have been some of Greeley’s most prolific and creative artists. The exhibit includes paintings, drawings, photos, glass, and fibers of Ruth, Norm, Gundar, Vanora, and Berndt Savig from the family's collection .
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-Join the Showcase Art Center for October's pARTy during First Friday from 6-8pm and enjoy live music from 6-7pm. As usual, all supplies, treats and drinks plus instruction to paint several small watercolor greeting cards will be provided for $25 each or $40/couple. Colette Pitcher has several FUN fall flavored techniques to share that will ensure successful miniature paintings that could be used as greeting cards to send to special recipients. Beginners to advanced will find these projects fun. Please RSVP to the Showcase Art Center.
+Take an Oil Painting workshop with J.R. Monks on Friday, November 4th from 9am-4pm at the Showcase Art Center. Cost is $100. Call 970-356-8593 to register for the class. “The emphasis will be on seeing the landscape properly, simplifying and attaining correct values.&nbsp; I will emphasize a simple palette and discuss the necessity for warm and cool color relations and a variety of edges. The building blocks of good painting,” says Monks. J.R. Monks is a painter of the American West. He works both directly in the field and in his studio, and strives to be honest and bold in his approach.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
-Syntax's First Friday artist for October is Greeley painter Jamie Keil. Come say hello at her opening from 5-6pm. You can also watch some of UNC's great musicians for the UNC Day of Music. Here's the evening's schedule:
-<br>4-5pm Blue Note Combo
-<br>5-6pm Jamie Keil Art Opening
-<br>6-7pm UNC Symphony
-<br>7:30-8:30pm UNC Composition Studio
-<br>9-10pm Megan Ugarte and Josh Bell, Duo Jazz
+Syntax Spirits Distillery will have a collaborative art show feature the work of Lauren Gray & Kim Gray. It's a Smorgasbord of art, finger foods, and drinks.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-No information provided.
+The Bean Plant Studio First Friday show “Calisia” will feature the artwork of Catalina Sanchez.
 
 ### The Blue Mug Coffee & Roastery
 
 807 17th Street
 
-The Blue Mug Coffee and Roastery will feature photography by David Dougherty
+No information provided.
 
 ### The Dragon’s Cache
 
 1109 7th Street
 
-The Dragon’s Cache will feature the photography of Marj Zink. Refreshments will be served. They also have new works from Alan Adler and Ann Sherley. &nbsp;
+The Dragon’s Cache will feature a collection of Gallery Artists during First Friday on November 24th. Homemade refreshments will be served and they will also have new suncatchers on display.
 
 ### The Eden Gallery @ Virtually Yours
 
@@ -126,4 +121,4 @@ No information provided.
 
 651 10th Avenue
 
-The Tointon Gallery will feature "Late August Yarrow" by Greeley transplant Wes Sam Bruce. The exhibit features over 40 pieces of new art ranging from illustrations of plants, paintings on geometric wood panels, and its culmination, a poetry cabin built onsite in the gallery space that visitors can literally enter. The exhibit runs through October 8th and is open Monday through Saturday from 9am-5pm. Admission to the gallery is free.
+The Tointon Gallery for Visual Arts presents “MultiThreading” from through Saturday, November 12. The exhibit features the acrylic painting and cast paperwork of Denver-based artist Roxanne Rossi. The Tointon Gallery is open Monday through Saturday, 9am-5pm. Admission to the gallery is free.
