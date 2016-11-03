@@ -24,4 +24,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, October 21st, 2016 for our next monthly meeting. The meeting will be held at the Cranford Cove Tea Tavern located at 823 10th Street.
+> Please join us at 8am on Friday, November 18th, 2016 for our next monthly meeting. The meeting will be held at Miss Mary's Kitchen located at 822 8th Street.
