@@ -3,16 +3,16 @@ title: 800 8th Avenue
 property-type: Commercial
 image_path: /assets/images/properties/800-8th-ave.jpg
 sale-or-lease: Lease
-square-footage: Varies
-price: $10-$22/SF
+square-footage: '397-24,000'
+price: $12-$22/SF
 address: 800 8th Avenue
 city: Greeley
 state: CO
 zip: '80631'
-real-estate-agency: Mokler Realty
-real-estate-agent: Jim Mokler
-real-estate-email: jim@moklerrealty.com
-real-estate-phone: (970) 217-9892
+real-estate-agency: Realtec Commercial Real Estate
+real-estate-agent: Gage Osthoff
+real-estate-email: gosthoff@realtec.com
+real-estate-phone: 970-346-9900
 image-gallery:
   - title:
     small_image_path:
@@ -20,12 +20,8 @@ image-gallery:
 ---
 
 
-Be the first to see the vision for the new downtown Greeley. Located in the heart of downtown, 800 8th Avenue is undergoing an exciting renovation to include:
-
-* First floor coffee/retail/restaurant opportunities
-* Second floor professional office suites - Flexible sizes and lease terms
-* Top floor larger/long-term office suites
-* Basement health club/large open space for multiple uses
-
-
-<br>Check out [http://moklerrealty.swiftcom.com/](http://moklerrealty.swiftcom.com/) for more information! Contact us today to reserve your spot in what will become one of downtown Greeley’s most inspired properties.&nbsp;
+* Building renovations underway including: flooring, paint, artwork in common area, restrooms, new skylights, updated lighting, new fa&ccedil;ade, high speed internet, construction of first floor retail space
+* Prominent downtown Greeley location
+* Flexible lease terms and space sizes
+* Close proximity to restaurants, breweries, entertainment, new DoubleTree convention center/hotel, and City and County Buildings, including courthouse
+* 20,000 SF basement space also available
