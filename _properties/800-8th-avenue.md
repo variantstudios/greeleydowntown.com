@@ -25,3 +25,4 @@ image-gallery:
 * Flexible lease terms and space sizes
 * Close proximity to restaurants, breweries, entertainment, new DoubleTree convention center/hotel, and City and County Buildings, including courthouse
 * 20,000 SF basement space also available
+* More info: [BROCHURE](/uploads/800 8th Ave.pdf)
