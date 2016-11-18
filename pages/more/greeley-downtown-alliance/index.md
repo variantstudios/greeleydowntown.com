@@ -24,4 +24,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, November 18th, 2016 for our next monthly meeting. The meeting will be held at Miss Mary's Kitchen located at 822 8th Street.
+> There will be no meeting in December. Please join us at 8am on Friday, January 20th, 2017 for our next monthly meeting. The meeting will be held at Joe Molina Gallery and Studios located at 930 8th Avenue.
