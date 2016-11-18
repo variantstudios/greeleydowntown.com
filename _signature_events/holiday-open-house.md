@@ -1,6 +1,6 @@
 ---
 title: Holiday Open House
-description: 'Shop during the Holiday Open House, enjoy the Holiday Spirit with activities and specials, dine Downtown and stay for the Greeley Lights the Night Parade at 5:30p, and the Lincoln Park Lighting Ceremony!'
+description: 'Shop during the Holiday Open House, enjoy the Holiday Spirit with activities and specials, dine Downtown and stay for the Greeley Lights the Night Parade at 5:30pm, and the Lincoln Park Lighting Ceremony!'
 image_path: /assets/images/signature-events/2016-holiday-open-jouse.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 5
@@ -23,11 +23,11 @@ Colorado Model Railroad Museum- 680 10th Street
 
 Cranford Cove Tea Tavern- 823 10th Street
 
-Farmer’s Pantry/Margie's Cafe- 931 16th Street
+Farmer’s Pantry/Margie’s Cafe- 931 16th Street
 
 Greeley History Museum- 714 8th Street
 
-Lincoln Park Emporium/Miss Mary's Kitchen- 822 8th Street
+Lincoln Park Emporium/Miss Mary’s Kitchen- 822 8th Street
 
 Madison and Main Gallery- 927 16th Street
 
@@ -51,7 +51,7 @@ Syntax Spirits Distillery- 625 3rd Street, Unit C
 
 The Bean Plant Studio- 701 7th Street
 
-The Currier Inn- (at Accessories with a Flair!...and Hair- 801 8th Avenue
+The Currier Inn- (at Accessories with a Flair!…and Hair- 801 8th Avenue
 
 The Dragon’s Cache- 1109 7th Street
 
