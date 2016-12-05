@@ -2,7 +2,7 @@
 layout: page
 title: Greeley Downtown Parking Map
 description:
-pdf_path: /assets/pdfs/dt parking map  8.9.16.pdf
+pdf_path: /assets/pdfs/dt-parking-map-8-17.pdf
 sub-nav: more
 permalink: /parking-map/
 ---
