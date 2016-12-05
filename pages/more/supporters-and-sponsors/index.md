@@ -30,45 +30,70 @@ permalink: /supporters-and-sponsors/
 * [Thomas & Tyler](http://www.thomasandtyler.com/)
 * [Weiss Jewelers](http://www.weissjewelers.com/)
 
-
 ## 2016 Event Sponsors
 
 ### Oktobrewfest
 
 * [Academy of Natural Therapy](http://www.natural-therapy.com/)
 * [Accessories with a Flair & Hair](http://accessoriesfashionsandhair.com/)
+* [All Purpose Rental](http://www.allpurposerental.com/)
+* [BandWagon Magazine](http://www.bandwagmag.com/)
 * [Batter Up Cakes](http://www.greeleybakery.com/)
+* [Black Bottle Brewery](https://blackbottlebrewery.com/)
 * [Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)
+* [City of Greeley](http://greeleygov.com/)
+* [Consider it There](http://consideritthere.com/)
 * [Cornerstone Home Lending](https://www.houseloan.com/)
+* [Crabtree Brewery](http://crabtreebrewing.com/)
 * [Cranford Cove Tea Tavern](http://www.cranfordcove.com/)
+* [Ehrlich Toyota](http://www.ehrlichtoyota.com/)
 * Florio’s Shoes
+* [Grand Lake Brewing](http://www.grandlakebrewing.com/)
+* [Greeley Tribune](http://www.greeleytribune.com/)
+* [Grimm Brothers Brewhouse](http://grimmbrosbrewhouse.com/)
 * [Guaranty Bank](https://www.guarantybankco.com/)
+* [High Hops Brewery](http://www.highhopsbrewery.com/)
+* [Lamar](http://www.lamar.com/)
 * [Lincoln Park Emporium](http://www.lincolnparkemporium.com/home.php)
 * [Mariposa Plants & Flowers](http://www.mariposaflowers.com/)
+* [Mineral Resources](http://mineralresourcesinc.com/)
+* [MouCo Cheese](http://www.mouco.com/)
 * [NCMC Inc.](https://www.bannerhealth.com/Locations/Colorado/North+Colorado+Medical+Center/About+Us/NCMC+Inc+Board.htm)
+* [Noble Energy](http://www.nobleenergyinc.com/)
+* [Northern Colorado Credit Union](https://nococu.org/)
+* [Northern Colorado Disposal](http://www.northerncoloradodisposal.com/)
+* [Oskar Blues Brewery](https://www.oskarblues.com/)
+* [Renewal By Andersen of Colorado](http://www.loveyourwindows.com/)
 * [Right Coast Pizza](http://www.rightcoastpizza.com/)
-* Royal Nepal Restaurant
+* [Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
+* [Roche Constructors](http://www.rocheconstructors.com/)
+* [Royal Nepal Restaurant](https://www.facebook.com/royalnepalrestaurant/)
+* [Sears Real Estate](http://www.searsrealestate.com/)
+* [Snowbank Brewery](http://www.snowbank.beer/)
 * [SteamWay Floor to Ceiling](http://www.steamwayftc.com/)
 * [Stuft Burger](http://www.stuftburgerbar.com/)
 * [Syntax Spirits Distillery](http://www.syntaxspirits.com/)
 * [The Nerd Store](http://the-nerd-store.com/)
 * [The Resource Center](http://tests4greeley.com/)
-* [The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
+* [Townsquare Media](http://www.townsquaremedia.com/)
+* [Triple S Rental](http://www.triplesrental.com/)
+* [Weld Food Bank](https://weldfoodbank.org/)
+* [WeldWerks Brewing](https://www.weldwerksbrewing.com/)
 * [Wheeler Management Group](http://www.wheelermgt.com/)
-
+* [Wiley Roots Brewing](http://www.wileyroots.com/)
 
 ### Friday Fest
 
 * [High Country Beverage](http://highcountrybeverage.com/)
 * [All Purpose Rental & Sales](http://www.allpurposerental.com/)
-* [iheart radio](http://www.iheart.com/)
+* [City of Greeley](http://greeleygov.com/)
+* [First National Bank](https://www.1stnationalbank.com/)
 * [Greeley Tribune](http://www.greeleytribune.com/)
+* [iheart radio](http://www.iheart.com/)
+* [Melissa McDonald](https://www.statefarm.com/agent/US/CO/Greeley/Melissa-Mcdonald-ZB0KX2VV000)
+* [Nicolas Lezama](https://www.statefarm.com/agent/US/CO/Greeley/Nicolas-Lezama-FZ3XL423000)
+* Pres Montoya
+* [Sears Real Estate](http://www.searsrealestate.com/)
 * [Startek](http://www.startek.com/)
 * [Teletech](http://www.teletech.com/)
-* [City of Greeley](http://greeleygov.com/)
-* [Sears Real Estate](http://www.searsrealestate.com/)
-* [First National Bank](https://www.1stnationalbank.com/)
 * [Tri-City Cyle](http://www.tricitycycle.com/)
-* [Melissa McDonald](https://www.statefarm.com/agent/US/CO/Greeley/Melissa-Mcdonald-ZB0KX2VV000)
-* Pres Montoya
-* Nic Lezama

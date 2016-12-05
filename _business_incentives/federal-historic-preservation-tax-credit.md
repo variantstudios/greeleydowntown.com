@@ -13,7 +13,4 @@ The following are available through the Federal Historic Preservation Tax Incent
 * The 10% tax credit is available for the rehabilitation of non-historic buildings placed in service before 1936. The building must be rehabilitated for non-residential use.&nbsp;
 * Tax Benefits for Historic Preservation Easements
 
-
-For more information, visit: [https://www.nps.gov/tps/tax-incentives.ht](https://www.nps.gov/tps/tax-incentives.ht)[m](https://www.nps.gov/tps/tax-incentives.htm)
-
-&nbsp;
+For more information, visit: [https://www.nps.gov/tps/tax-incentives.htm](https://www.nps.gov/tps/tax-incentives.htm)

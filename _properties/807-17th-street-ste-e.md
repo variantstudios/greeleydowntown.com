@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/images/properties/807 17th st.png
 sale-or-lease: Lease
 square-footage: '3,383 SF'
-price: $10.25/SF
+price: $9.25/SF
 address: '807 17th Street, Ste E'
 city: Greeley
 state: CO
@@ -24,4 +24,13 @@ image-gallery:
 * Less than a mile from Northern Colorado Medical Center
 * Four blocks from Greeley Central High School
 * Major employment center
-  <br>
+* Great use for:
+  * Microbrewery
+  * Consignment Store
+  * Grow Supplies Store
+  * Clothing / Thrift Shop&nbsp;
+  * Small Market
+  * Liquor store
+  * Open office use
+  * University overflow use
+  * Tech Startup
