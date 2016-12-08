@@ -9,10 +9,10 @@ address: 801 8th Street
 city: Greeley
 state: CO
 zip: '80631'
-real-estate-agency: Sears Real Estate
-real-estate-agent: Shelley Costigan
-real-estate-email: shelleyc@searsrealestate.com
-real-estate-phone: (970) 330-7700
+real-estate-agency:
+real-estate-agent: Travis Gillmore
+real-estate-email: twg@phelpstointoninc.com
+real-estate-phone: (970) 353-7000
 image-gallery:
   - title:
     small_image_path:
