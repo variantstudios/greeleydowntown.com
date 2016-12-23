@@ -2,6 +2,6 @@
 layout: null
 sitemap: false
 ---
-Business, Street, City, State, Zip, Phone, Contact Name, Contact Email
-{% for business in site.directory %}{{ business.Business | strip_html | replace: ',' , '' }}, {{ business.Street | strip_html | replace: ',' , '' }}, {{ business.City  }}, {{ business.State  }}, {{ business.Zip  }}, {{ business.Phone  }}, {{ business.Contact_Name | strip_html | replace: ',' , '' }}, {{ business.Contact_Email }}
+Business, Street, City, State, Zip, Phone, Contact Name, Contact Email, Entertainment and Recreation Categories, Lodging and Event Centers Categories, Nightlife Categories, Retail Categories, Service Categories, Dining Categories
+{% for business in site.directory %}{{ business.Business | strip_html | replace: ',' , '' }}, {{ business.Street | strip_html | replace: ',' , '' }}, {{ business.City  }}, {{ business.State  }}, {{ business.Zip  }}, {{ business.Phone  }}, {{ business.Contact_Name | strip_html | replace: ',' , '' }}, {{ business.Contact_Email }}, {{ business.entertainment_and_recreation_categories | strip_html | replace: ',' , '' }}, {{ business.lodging_and_event_centers_categories | strip_html | replace: ',' , '' }}, {{ business.nightlife_categories | strip_html | replace: ',' , '' }}, {{ business.retail_categories | strip_html | replace: ',' , '' }}, {{ business.service_categories | strip_html | replace: ',' , '' }}, {{ business.dining_categories | strip_html | replace: ',' , '' }}
 {% endfor %}
