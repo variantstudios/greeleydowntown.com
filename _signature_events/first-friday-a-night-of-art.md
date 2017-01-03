@@ -7,25 +7,25 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on December 2nd for the next one and check out the information below to see what is happening at each location.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on January 6th for the next one and check out the information below to see what is happening at each location.
 
 ### Academy Of Natural Therapy
 
 625 8th Avenue
 
-The Academy Of Natural Therapy will be celebrating the Holidays with Santa and Elves, featured art from the Greeley Central High School Arts Magnet program, music including live Saxophone and String Quartets and free chair massages.
+No information provided.
 
 ### ART MAN DO. Studio
 
 802 9th Street, Lower
 
-ART MAN DO. Studio presents "The American Dream, Undocumented" featuring the work of Marisol Valenzuela on December 2nd from 5-7pm. This series of work depicts the life of an undocumented immigrant and the sacrifices he faces in search of the American Dream. &nbsp;Light refreshments will be served.
+No information provided.
 
 ### ArtWerx Studio/Gallery
 
 924 8th Avenue
 
-ArtWerx Studio/Gallery presents the 2nd Annual “Holiday Gifts of Art” show and sale. Opening and artist reception will be on Friday, December 2nd from 4-7 pm. The show features wood carvings, watercolors, jewelry, photography, Christmas ornaments and d&eacute;cor and runs through December.
+No information provided.
 
 ### Atlas Gallery and John Galt Coffee
 
@@ -37,25 +37,25 @@ No information provided.
 
 813 8th Street
 
-Brix Taphouse & Brewery’s featured artist for December is Chelsea Hinspeter.
+No information provided.
 
 ### Cafe Panache
 
 821 10th Street
 
-Caf&eacute; Panache will be featuring lamps and lighting by Roger Brindisi, Rick Destree and Patti Paiz.
+No information provided.
 
 ### Cranford Cove Tea Tavern
 
 823 10th Street
 
-Come celebrate the 3 year anniversary of The Cranford Cove Tea Tavern from 7am-Midnight. Drink and food specials all day, live music all day (beginning at noon), and a tap takeover by Left Hand and Wiley Roots Brewing Companies.
+The Cranford Cove Tea Tavern features Friday Night Live from 7-9pm with local singer-songwriter Ben Pu.
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-Grand Lake’s 16th Street Tavern will feature the photography of Bambi Tran, a UNC student graduating in 2 weeks.
+Grand Lake’s 16th Street Tavern will feature the work of Elijah Trujillo, a Greeley based artist who does abstract art with a graffiti influence.
 
 ### Greeley History Museum
 
@@ -67,37 +67,37 @@ No information provided.
 
 930 8th Avenue
 
-The Joe Molina Gallery & Studios welcomes local guest artist, Elaine Furister. “DaKoTA ChiLD ArT features original watercolors and is inspired from fantasy and the plains and the mountains of the Midwest!
+No information provided.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-Art … the ultimate gift. “Winter Lights,” Madison & Main Gallery’s 30th annual holiday show will feature original art, unique gifts, and one-of-a-kind ornaments. 20 guest artists have been invited to join the gallery’s member artists in this fabulous new show that runs through December 28th. There will also be new work by member artists. &nbsp;On First Friday, December 2, the gallery will be open from 10am-8pm with a sale of 10% off all items in the gallery. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
+The Madison and Main Gallery has been remodeled for a fresh new look and a fantastic new year. The show for January and February is “Totally Local” which features eleven guest artists. Their new work includes paintings in oil, acrylic, and watercolor; photography, illustrations, and mixed media pieces; jewelry of all kinds from fine silver to crocheted wire to hemp; glasswork, pottery, and paper. They are also featuring the work of 4 new member artists, Katie Caro, Peggy Lynn, Doreen Vroman, and Stacey Waldfogel. The members of the gallery invite you to join them for this show that opens January 4 and runs through February 24, 2017. Meet the artists during the public opening reception planned for Friday, January 6, from 5-8 p.m. at the Gallery. Gallery hours are 10am-6pm. Monday through Friday and 10am-4pm Saturday. The slate of guest artists include: Megan Adkins, Barb Amador, Phil Chalk, Betony Coons, Mary Crone, Kim Destree, Rick Destree, Carrie Lambert, Emi Sam-Bruce, Wes Sam-Bruce, and Conrad Schaefer. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com.
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
 
-Margie’s Caf&eacute; at the Farmer’s Pantry will present a Chappelow Art Show featuring student artwork. Refreshments will be served.
+No information provided.
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-No information provided.
+Join the Showcase Art Center from 6-8pm on Friday and make a work of art. This Friday will feature a Bead and Wire project. Bring your glass or silverware and use their wire and bead to design something shiny and fun $25 treats included. RSVP 970-356-8593.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
-Syntax Spirits Distillery will feature the work of Lauren and Kim Gray during First Friday on December 2nd.
+Syntax Spirits Distillery will feature the work of Zachary Thomas Heil. Heil is a painter, illustrator and cartoonist based out of the front range of Northern Colorado. His expressive work is a stream of consciousness that combines abstraction with representation, often using a mix of drawing and painting media. The emotive nature of his pictures comes from an interpretation of life experiences as well as a reflection on the internal dialogue that exits within all of us. His art has been shown (and sometimes created in front of live audiences) primarily in venues and publications around Colorado, where he also studied studio art at Colorado State University and has been involved in local programs for the visual arts.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio presents Art Haus Ceramics by Jared and Danyelle Butler on December 2nd from 5-8pm.
+The Bean Plant Studio presents Legacy of the Land featuring the work of Annie Surbeck.
 
 ### The Blue Mug Coffee & Roastery
 
@@ -109,16 +109,16 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache will feature the work of Mary Lynne McClain Pruitt on December 2nd from 5-8pm and seasonal refreshments will be served. Pruitt enjoys working in various media including oil, watercolor, and mixed media, often focusing on Southwest subjects, but not confined to that genre.&nbsp; It’s challenging to create new and different pieces, and that is why she is showing some of her work that is a little non-traditional.
+No information provided.
 
 ### The Eden Gallery @ Virtually Yours
 
 725 10th Street…Next to Zoe’s & Across from Carl’s Jr.
 
-The Eden Gallery @ Virtually yours will feature a “DaKoTA ChiLd ArT” Display. Elaine Furister will also be presenting a selection of her original artwork collection at the Joe Molina Art Gallery & Studios. Holiday prices apply!
+No information provided
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-The Tointon Gallery for Visual Arts, 651 10th Avenue, presents “Colony” through Saturday, December 17th. The exhibit features the ceramic work of artist and University of Northern Colorado Associate Professor Mike Lemke. The Tointon Gallery is open Monday through Saturday, 9am-5pm. Admission to the gallery is always free.
+No information provided.
