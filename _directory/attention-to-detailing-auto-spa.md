@@ -12,10 +12,11 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 673-6888
-Website:
+Website: 'http://attentiontodetaili1.wixsite.com/atdas'
 Contact_Name: Troy Brittingham
 Contact_Email: attentiontodetailingautospa@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
+Automobile detailing and hand-washing
