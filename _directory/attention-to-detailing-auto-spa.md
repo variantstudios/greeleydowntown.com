@@ -15,7 +15,7 @@ Phone: (970) 673-6888
 Website: 'http://attentiontodetaili1.wixsite.com/atdas'
 Contact_Name: Troy Brittingham
 Contact_Email: attentiontodetailingautospa@gmail.com
-Logo_image_path: /assets/attention-to-detailing.png
+Logo_image_path: /assets/images/directory/attention-to-detailing.png
 ---
 
 
