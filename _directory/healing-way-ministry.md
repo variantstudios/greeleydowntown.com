@@ -4,7 +4,7 @@ Street: 1535 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 301-7185
+Phone: (970) 412-5395
 Website: 'http://www.healingwayministry.org/'
 dining_categories:
 entertainment_and_recreation_categories:
@@ -15,7 +15,7 @@ service_categories:
   - churches-and-religious-organizations
 Contact_Name: 'Joe & Yvette Consonero'
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
