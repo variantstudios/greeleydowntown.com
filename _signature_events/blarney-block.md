@@ -7,4 +7,6 @@ weight: 6
 ---
 
 
-Saturday. March 11th. 2 to 7pm
+Saturday. March 11th 2017, &nbsp;From 2 to 7pm
+
+&nbsp;
