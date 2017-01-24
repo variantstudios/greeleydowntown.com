@@ -3,12 +3,12 @@ layout: page
 title: Greeley Downtown Alliance
 description: The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district.
 meeting_minutes:
-  - title: GDA June 2016 Minutes
-    pdf_path: /assets/pdfs/gdaminutes6-17-16.pdf
-  - title: GDA May 2016 Minutes
-    pdf_path: /assets/pdfs/gdaminutes5-20-16.pdf
-  - title: GDA April 2016 Minutes
-    pdf_path: /assets/pdfs/gdaminutes4-15-16.pdf
+  - title: GDA September 2016 Minutes
+    pdf_path: /assets/pdfs/GDA Meeting Minutes 9-17-6.pdf
+  - title:
+    pdf_path:
+  - title:
+    pdf_path:
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
