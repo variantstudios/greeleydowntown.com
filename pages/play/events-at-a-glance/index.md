@@ -2,7 +2,7 @@
 layout: page
 title: Events At-A-Glance
 description: 'Need a concise list of the major events that the DDA puts on in downtown Greeley? Check out and feel free to print a copy of our Events at a Glance!  If you’re looking for a more comprehensive, day-to-day list of what’s happening downtown, click on the Calendar of Events.'
-pdf_path: /assets/pdfs/downtown-greeley-events-2017.pdf
+pdf_path: /assets/2017 Events at a Glance.pdf
 sub-nav: play
 permalink: /events-at-a-glance/
 ---
