@@ -12,11 +12,10 @@ The program offers two grant options for applicants based on the needs of the bu
 1. Fa&ccedil;ade Matching Grant Program: The DDA will provide a 1/1 matching grant for the cost of eligible fa&ccedil;ade improvements. The matching grant shall not exceed $7,500.
 2. Fa&ccedil;ade Incentive Program: The DDA will provide an incentive of up to 10% of the total project redevelopment cost (interior improvement costs + fa&ccedil;ade improvement costs), up to 100% of the cost of eligible fa&ccedil;ade improvements.
 
-
 This grant will be offered on an ongoing basis as funding permits. The award amount is based on available funds, applicants, and other variables. The grant will be allocated to fa&ccedil;ade, signage, awning, and other eligible projects, and is available to tenants, business, and property owners. Larger grants may be considered at the discretion of the DDA Board only.
 
 For more information, please reference the following:
 
 [Facade Grant Guidelines](/assets/pdfs/facadegrantguidelines.pdf)
 
-[Facade Grant Application](/assets/pdfs/facadegrantapplication.pdf)
+[Facade Grant Application](/assets/pdfs/greeley-dda-facade-grant-guidelines.pdf)
