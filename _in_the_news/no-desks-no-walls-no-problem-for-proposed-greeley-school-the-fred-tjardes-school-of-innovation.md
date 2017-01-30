@@ -12,6 +12,6 @@ His son was born around that time, and as he watched the way his son learned, he
 
 “There was this big disconnect between that natural learning I was seeing at home, and this learning I was trying to get students to do in the classroom,” Edwards said.
 
-His son was learning. His students weren’t....
+His son was learning. His students weren’t…
 
 [Read More](http://www.greeleytribune.com/news/local/no-desks-no-walls-no-problem-for-proposed-greeley-school-the-fred-tjardes-school-of-innovation/)
