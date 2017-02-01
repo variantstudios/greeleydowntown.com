@@ -26,9 +26,8 @@ A few of the DDA’s project and services for downtown include:
 * Information about incentives for new businesses and property rehabilitation
 * Special events such as Oktoberfest and Friday Fest
 
-
 From entertainment venues to retail stores, professional services to residential spaces, the Greeley Downtown Development Authority is working to create a well-rounded, versatile, vibrant downtown.
 
-In the summer of 2011, Progressive Urban Management Associates (PUMA), a Denver-based real estate economics and planning firm, conducted a market-based investment strategy for Downtown Greeley. To review the final study, click here.
+In the summer of 2011, Progressive Urban Management Associates (PUMA), a Denver-based real estate economics and planning firm, conducted a market-based investment strategy for Downtown Greeley. To review the final study, click [here](/assets/pdfs/greeley-dda-puma-report-2011.pdf).
 
 To hear about what we were up to in 2015, check out our [ANNUAL REPORT](/assets/pdfs/2015annualreport.pdf).
