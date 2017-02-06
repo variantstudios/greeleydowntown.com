@@ -20,3 +20,5 @@ Logo_image_path: /assets/the-golden-tree.png
 
 
 Founder and owner of the company, Salah Eddine Mahdaoui, was born and raised in Morocco and has witnessed firsthand Morocco's incredible story. Having now moved to American, he wishes to share Morocco's uniqueness and beauty to all. The Golden Tree allows him to do so and Premium Moroccan Imports act as proof to his story telling. Argan Oil is the hear of the company due to its extraordinary elements, and he seeks to have it easily accessible to Coloradoans. How lucky are we! His contacts in Morocco allow him to import 100% Organic Argan Oil and that cannot be found elsewhere in the market. It is guaranteed that once Argan Oil is tried, satisfaction will arise. The Golden Tree, LLC also contains Moroccan roots by the selling of handmade, authentic Moroccan goods such as ceramics, lamps, backpacks, leather goods, jewelry, among others.
+
+Be sure to "Like" us on Facebook: https://www.facebook.com/thegoldentreellc/
