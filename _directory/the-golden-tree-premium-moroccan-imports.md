@@ -12,7 +12,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: 970-576-4280
-Website: 'https://www.facebook.com/thegoldentreellc/'
+Website: www.thegoldentreeimports.com
 Contact_Name: Salah Eddine Mahdaoui
 Contact_Email: salah@thegoldentreeimports.com
 Logo_image_path: /assets/the-golden-tree.png
