@@ -7,7 +7,11 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on February 3rd for the next one and check out the information below to see what is happening at each location.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on March 3rd for the next one which will feature and check out the information below to see what is happening at each location. [View the Arts Walk Map](https://greeleycreativedistrict.files.wordpress.com/2016/02/d6-art-walk-map-2017.pdf).
+
+![](/assets/versions/district-6-arts-walk---x----500-266x---.jpg)
+
+&nbsp;
 
 ### Academy Of Natural Therapy
 
@@ -79,7 +83,7 @@ The Madison and Main Gallery has been remodeled for a fresh new look and a fanta
 
 931 16th Street
 
-Margie's Caf&eacute; hosts "Windsplash" featuring paintings, drawings, and prints by Greeley artist Mary Martha Watters. There will be a reception from 6-8pm on Friday, February 3rd.
+Margie’s Caf&eacute; hosts “Windsplash” featuring paintings, drawings, and prints by Greeley artist Mary Martha Watters. There will be a reception from 6-8pm on Friday, February 3rd.
 
 ### Showcase Art Center
 
@@ -121,4 +125,4 @@ No information provided
 
 651 10th Avenue
 
-The Tointon Gallery for the Visual Arts features Kathryn Maxwell's "Nocturnal Structures" exhibit Monday-Saturday from 9am-5pm through Friday, February 10th. Maxwell's work with paper combines the techniques of relief, screen print, watercolor, ink and graphite. There will be a closing reception on Friday, February 10th from 5-7pm. The Tointon Gallery is a public art gallery that presents twelve changing shows throughout the year to provide enjoyment, education and to encourage dialogue around art. Admission to the gallery is free. To learn more about the public art gallery, visit [greeleyart.com](http://r20.rs6.net/tn.jsp?f=001owHelEZvQlXsvJHFfxaDGMBrbtwVTiEAvzl-d0fCwBufLk4Umvxf6ycvByQZ6eHXKOs_S9joaohTWdei7qQWZz1mK46MZHAL4Iu-ISLaTyCum0JgezUwL-kwo3YmyJJCOLn8w4cVEXEnYP9EcX-h_zuToojG9SEEGcXM4QH45smDK1Bka4NiRmqkYxODgMNINWSfny3glxotAUx39o91993zPrE7AsFieHdJC2ZwtQSW9fDCT8m8CCw8yXtXQhsDfuZVhwGTKmW4yOf1pf_biGaPRJWkoDSiHD7o3SgFrzyYK92k_lkt5WDpv9HT08TfJBfWx-HFD9Y1Vh-ROt9WOO8cXgvhhQGpULEKb8WE4j6ohVuSVWwg2w==&amp;c=&amp;ch=).
+The Tointon Gallery for the Visual Arts features Kathryn Maxwell’s “Nocturnal Structures” exhibit Monday-Saturday from 9am-5pm through Friday, February 10th. Maxwell’s work with paper combines the techniques of relief, screen print, watercolor, ink and graphite. There will be a closing reception on Friday, February 10th from 5-7pm. The Tointon Gallery is a public art gallery that presents twelve changing shows throughout the year to provide enjoyment, education and to encourage dialogue around art. Admission to the gallery is free. To learn more about the public art gallery, visit [greeleyart.com](http://r20.rs6.net/tn.jsp?f=001owHelEZvQlXsvJHFfxaDGMBrbtwVTiEAvzl-d0fCwBufLk4Umvxf6ycvByQZ6eHXKOs_S9joaohTWdei7qQWZz1mK46MZHAL4Iu-ISLaTyCum0JgezUwL-kwo3YmyJJCOLn8w4cVEXEnYP9EcX-h_zuToojG9SEEGcXM4QH45smDK1Bka4NiRmqkYxODgMNINWSfny3glxotAUx39o91993zPrE7AsFieHdJC2ZwtQSW9fDCT8m8CCw8yXtXQhsDfuZVhwGTKmW4yOf1pf_biGaPRJWkoDSiHD7o3SgFrzyYK92k_lkt5WDpv9HT08TfJBfWx-HFD9Y1Vh-ROt9WOO8cXgvhhQGpULEKb8WE4j6ohVuSVWwg2w==&amp;c=&amp;ch=).
