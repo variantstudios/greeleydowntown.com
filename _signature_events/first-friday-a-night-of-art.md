@@ -29,7 +29,7 @@ Art can make a World of Difference!
 
 School: K-12 show
 
-ART MAN DO. Studio
+### ART MAN DO. Studio
 
 802 9th Street, Lower
 
@@ -65,7 +65,7 @@ School: Winograd K-8
 
 School: Romero K-8
 
-### Doug's Hang Up
+### Doug’s Hang Up
 
 819 9th Street
 
@@ -167,7 +167,7 @@ School: UNC
 
 School: Franklin, McAullife
 
-### Woody's Newsstand
+### Woody’s Newsstand
 
 942 9th Avenue
 
