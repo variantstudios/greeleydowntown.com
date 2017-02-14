@@ -7,11 +7,21 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on March 3rd for the next one which will feature and check out the information below to see what is happening at each location. [View the Arts Walk Map](https://greeleycreativedistrict.files.wordpress.com/2016/02/d6-art-walk-map-2017.pdf).
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on March 3rd for the District 6 & Friends Arts Walk which showcases the talents of hundreds of District 6 and area charter schools from students in grades K-12.
+
+Located at 24 different downtown Greeley locations the Arts Walk features 25 schools with over 900 works of art on display and student music at sited locations.
+
+Several locations will also feature the work of UNC students.
+
+Be sure to stop by to see an artistic evolution of student art in the K-12 show, Putting Your Best Foot Forward, located at the Academy of Natural Therapy at 625 8th Ave. Enjoy live music and take part in our hands-on community art project! All ages and abilities welcome!
+
+Art can make a World of Difference!
 
 ![](/assets/versions/district-6-arts-walk---x----500-266x---.jpg)
 
-&nbsp;
+### [View the Arts Walk Map](https://greeleycreativedistrict.files.wordpress.com/2016/02/d6-art-walk-map-2017.pdf)
+
+###### *Participating locations, as well as what school’s artwork will be displayed are as follows:*
 
 ### Academy Of Natural Therapy
 
