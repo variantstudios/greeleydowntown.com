@@ -1,6 +1,6 @@
 ---
 title: OktoBREWfest
-description: 'Greeley’s OktoBREWfest 2016 will be September 23rd & 24th at historic Lincoln Park in Downtown Greeley at 8th Street & 9th Avenue.'
+description: 'Greeley’s OktoBREWfest 2017 will be September 29th & 30th at historic Lincoln Park in Downtown Greeley at 8th Street & 9th Avenue.'
 image_path: /assets/images/signature-events/oktobrewfest-2016-greeley.png
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 3
@@ -13,13 +13,13 @@ Then prepare for a full day of fun on **Saturday from 11AM-9PM**. Enjoy a whole 
 
 You can also compete in pie eating contests, stein lifting contests, life-size beer pong and more. Shop the craft area, peruse the delicious food selections and enjoy the music.
 
-## **Volunteer!!!&nbsp;**
+## **Volunteer!!!**
 
-We need lots of volunteers, … children’s area, contests, and especially tear-down Saturday night. If you have an organization that can work for a donation we can arrange that too! Call us at (970) 356-6775 or sign up here: [http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2&nbsp;](http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2)
+We need lots of volunteers, … children’s area, contests, and especially tear-down Saturday night. If you have an organization that can work for a donation we can arrange that too! Call us at (970) 356-6775 or sign up here: [http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2](http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys2)
 
 ### VIP Tasting Tent
 
-Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in the General Area, a complimentary tasting glass, samples of reserve and specialty beers from local breweries EXCLUSIVE to the VIP tent, meet and greet time with the brewers and food. All proceeds from Greeley Oktobrewfest and the VIP Beer Tasting benefit the Greeley Downtown Development Authority, which helps foster economic development and revitalization of downtown Greeley. Tickets are $30 and can be purchased here:&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072](https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072)
+Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in the General Area, a complimentary tasting glass, samples of reserve and specialty beers from local breweries EXCLUSIVE to the VIP tent, meet and greet time with the brewers and food. All proceeds from Greeley Oktobrewfest and the VIP Beer Tasting benefit the Greeley Downtown Development Authority, which helps foster economic development and revitalization of downtown Greeley. Tickets are $30 and can be purchased here: [https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072](https://www.eventbrite.com/e/greeley-oktobrewfest-2016-vip-beer-tasting-tickets-27439095072)
 
 ### Event Schedule:
 
@@ -27,7 +27,7 @@ Similar to last year, the VIP Beer Tasting will include 2 beer tokens for use in
 
 <div>5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.drewsblues.com/twirling_zucchini_trio/">&nbsp;<strong><em>The Twirling Zucchini Trio</em></strong></a></div>
 
-7:30-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***[Ponder The Albatross](https://www.facebook.com/ponderthealbatross/)&nbsp; &nbsp;***
+7:30-10:00 pm          ***[Ponder The Albatross](https://www.facebook.com/ponderthealbatross/)***
 
 <div><strong>Saturday, September 24th</strong></div>
 
