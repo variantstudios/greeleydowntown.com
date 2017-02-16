@@ -7,9 +7,11 @@ weight: 5
 ---
 
 
+### 2017 Holiday Open House will be Held Saturday, November 25th
+
 ### Small Business Saturday, Holiday Open House, Parade and Park Lighting Ceremony
 
-Celebrate Small Business Saturday and make it a downtown Greeley day November 26th. Twenty eight downtown Greeley businesses are hosting a bingo Holiday Open House. Pick up your bingo card at a participating business, get it stamped by at least 12 of the participants as instructed and you can enter to win $1,000, $300 or $200 in prizes and gift cards. No purchase necessary.
+Celebrate Small Business Saturday and make it a downtown Greeley day November 25th. Twenty eight downtown Greeley businesses are hosting a bingo Holiday Open House. Pick up your bingo card at a participating business, get it stamped by at least 12 of the participants as instructed and you can enter to win $1,000, $300 or $200 in prizes and gift cards. No purchase necessary.
 
 Most of the businesses are also hosting fun activities and the whole day promises to deliver wondrous holiday magic. Strolling carolers from the Greeley Chorale will delight the shoppers in the late afternoon. Here is a list of the participating businesses:
 
