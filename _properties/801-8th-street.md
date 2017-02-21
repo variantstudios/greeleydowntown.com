@@ -22,4 +22,4 @@ image-gallery:
 
 * Rent inclues all utilities and maintenance
 * Conference room available for use
-* Units #220F, #220G are available
+* Units #220D, #220F are available
