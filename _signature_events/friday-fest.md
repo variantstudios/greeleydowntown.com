@@ -7,4 +7,4 @@ weight: 1
 ---
 
 
-2017 Season To Be Announced!
+2017 Season &nbsp;- June 2nd through September 22nd - &nbsp;To Be Announced!&nbsp;
