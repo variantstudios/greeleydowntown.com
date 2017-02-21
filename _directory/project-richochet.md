@@ -16,7 +16,7 @@ Phone: (415) 992-6716
 Website: 'https://projectricochet.com/'
 Contact_Name:
 Contact_Email: info@projectricochet.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/Project Ricochet.png
 ---
 
 
