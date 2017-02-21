@@ -1,18 +1,22 @@
 ---
-Business:
+Business: Mystical Threads Costume Studio
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
+  - apparel-and-shoes
 service_categories:
-Street:
+  - alterations
+Street: 910 9th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
+Phone: (970) 702-2327
+Website: 'http://www.mystical-threads.com/'
 Contact_Name:
-Contact_Email:
+Contact_Email: info@mystical-threads.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
+
