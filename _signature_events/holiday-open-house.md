@@ -3,7 +3,7 @@ title: Holiday Open House
 description: 'Shop during the Holiday Open House, enjoy the Holiday Spirit with activities and specials, dine Downtown and stay for the Greeley Lights the Night Parade at 5:30pm, and the Lincoln Park Lighting Ceremony!'
 image_path: /assets/images/signature-events/2016-holiday-open-jouse.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
-weight: 5
+weight: 6
 ---
 
 
