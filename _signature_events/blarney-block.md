@@ -7,4 +7,4 @@ weight: 6
 ---
 
 
-Saturday. March 11th 2017,  From 2 to 7pm
+Saturday. March 11th 2017, &nbsp;From 2pm - 7pm![](/assets/versions/collage1---x----1000-700x---.jpg)
