@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/images/properties/801 8th st.png
 sale-or-lease: Lease
 square-footage: 209 SF
-price: $260-$300
+price: $260-$280
 address: 801 8th Street
 city: Greeley
 state: CO
@@ -23,3 +23,4 @@ image-gallery:
 * Rent inclues all utilities and maintenance
 * Conference room available for use
 * Units #220D, #220F are available
+* Additional $50 base monthly fee for shared receptionist
