@@ -15,7 +15,7 @@ service_categories:
   - construction-and-home-improvement
 Contact_Name: Mike Ketterling
 Contact_Email: mketterling@kbnengineers.com
-Logo_image_path:
+Logo_image_path: /assets/images/directory/northern-engineering.png
 ---
 
 
