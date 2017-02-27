@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: 'A. Bruce Johnson & Associates'
 dining_categories:
 entertainment_and_recreation_categories:
