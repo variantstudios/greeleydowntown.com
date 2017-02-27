@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Greeley Lock & Key'
 Street: 813 13th Street
 City: Greeley

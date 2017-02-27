@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Gallery Furniture
 Street: 1028 8th Avenue
 City: Greeley

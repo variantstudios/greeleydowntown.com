@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Downtown Subway
 Street: 1011 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: CORE Staff Services
 Street: '800 8th Avenue, Ste 131'
 City: Greeley

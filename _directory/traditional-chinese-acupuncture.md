@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Traditional Chinese Acupuncture
 Street: 1028 8th Street
 City: Greeley

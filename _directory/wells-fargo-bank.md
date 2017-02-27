@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Wells Fargo Bank
 Street: 1025 9th Avenue
 City: Greeley

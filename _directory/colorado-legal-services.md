@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Legal Services
 Street: 912 8th Avenue
 City: Greeley

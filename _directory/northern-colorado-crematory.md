@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Northern Colorado Crematory
 Street: 700 8th Street
 City: Greeley

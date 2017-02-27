@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Michael Kinney, Farmer's Insurance Agent"
 Street: 1017 15th Street
 City: Greeley

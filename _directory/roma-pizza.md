@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Roma Pizza
 dining_categories:
   - italian

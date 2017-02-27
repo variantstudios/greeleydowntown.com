@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Safe Solutions Treatment Opportunity Program (STOP)
 Street: 826 9th Street
 City: Greeley

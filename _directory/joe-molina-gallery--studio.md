@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Joe Molina Gallery & Studio'
 Street: 930 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: UNC BizHub
 Street: '807 17th St., Suite D'
 City: Greeley

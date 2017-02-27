@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Drexel Barrell & Co.'
 Street: '710 11th Avenue, Ste. L-45'
 City: Greeley

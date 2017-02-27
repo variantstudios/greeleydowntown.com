@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Morgan Law Office
 Street: 1007 9th Street
 City: Greeley

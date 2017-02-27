@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Bell 5 Land Company
 Street: 710 11th AvenueSte 107
 City: Greeley

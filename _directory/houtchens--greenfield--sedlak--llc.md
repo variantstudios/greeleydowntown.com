@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Houtchens, Greenfield & Sedlak, LLC'
 Street: 822 7th StreetSte 270
 City: Greeley

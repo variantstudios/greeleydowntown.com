@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Eden Gallery
 Street: 725 10th Street
 City: Greeley

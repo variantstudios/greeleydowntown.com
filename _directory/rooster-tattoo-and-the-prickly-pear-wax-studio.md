@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Rooster Tattoo and the Prickly Pear Wax Studio
 Street: 833 16th Street
 City: Greeley

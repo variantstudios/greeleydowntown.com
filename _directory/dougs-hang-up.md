@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Doug's Hang Up"
 Street: 818 9th Street
 City: Greeley

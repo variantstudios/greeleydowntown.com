@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Dog Grooming by Dames
 Street: 918 1/2 9th Avenue
 City: Greeley

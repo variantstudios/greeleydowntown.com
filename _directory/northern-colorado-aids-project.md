@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Northern Colorado Aids Project
 Street: 914 11th Avenue
 City: Greeley

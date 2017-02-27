@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: U-Pump It
 Street: 1225 7th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: CDI Head Start
 Street: 710 11th AvenueL-90
 City: Greeley

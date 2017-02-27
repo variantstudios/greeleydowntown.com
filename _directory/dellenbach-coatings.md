@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Dellenbach Coatings
 Street: 702 5th Street
 City: Greeley

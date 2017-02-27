@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Veteran Services
 Street: 1008 9th Street
 City: Greeley

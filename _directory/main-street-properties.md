@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Main-Street Properties
 Street: 1535 10th Avenue
 City: Greeley

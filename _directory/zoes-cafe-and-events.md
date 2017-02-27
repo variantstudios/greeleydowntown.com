@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Zoe's Café and Events"
 Street: 715 10th Street
 City: Greeley

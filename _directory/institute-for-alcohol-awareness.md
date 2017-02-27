@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Institute for Alcohol Awareness
 Street: 1424 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: La Tarahumara
 Street: 1101 8th Avenue
 City: Greeley

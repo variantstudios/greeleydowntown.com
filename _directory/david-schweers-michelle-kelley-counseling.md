@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: David Schweers/Michelle Kelley Counseling
 Street: 710 11th Avenue Ste 100
 City: Greeley

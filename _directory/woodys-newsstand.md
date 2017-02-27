@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Woody's Newsstand"
 Street: 942 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: U-Haul Neighborhood Dealer
 Street: 715 7th Street
 City: Greeley

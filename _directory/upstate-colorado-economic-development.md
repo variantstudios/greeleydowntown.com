@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Upstate Colorado Economic Development
 Street: 822 7th StreetSte 550
 City: Greeley

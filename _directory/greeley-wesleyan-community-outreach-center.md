@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Wesleyan Community Outreach Center
 Street: 908 11th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: McAdams Law Office
 Street: '822 7th Street, Ste. 530'
 City: Greeley

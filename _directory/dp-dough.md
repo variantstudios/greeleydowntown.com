@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: DP Dough
 Street: 911 16th Street
 City: Greeley

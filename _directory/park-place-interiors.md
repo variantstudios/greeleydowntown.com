@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Park Place Interiors
 Street: 1109 8th Avenue
 City: Greeley

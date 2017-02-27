@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Trinidad Benham Corporation
 Street: 615 5th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Probation Office
 Street: 934 9th Avenue
 City: Greeley

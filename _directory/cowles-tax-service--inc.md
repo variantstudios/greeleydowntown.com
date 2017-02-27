@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Cowles Tax Service, Inc.'
 Street: 1625 8th Avenue
 City: Greeley

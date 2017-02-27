@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Batter Up Cakes
 Street: '802 9th Street, lower'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Camfield Apartments
 Street: 627 ½  8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "A Dog's Life Professional Grooming"
 dining_categories:
 entertainment_and_recreation_categories:

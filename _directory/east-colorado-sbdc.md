@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: East Colorado SBDC
 Street: '807 17th Street, Suite D'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Tainted Hearts Creations
 Street: 1008 8th Avenue
 City: Greeley

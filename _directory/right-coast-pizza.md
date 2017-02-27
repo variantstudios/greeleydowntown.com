@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Right Coast Pizza
 Street: 811 8th Street
 City: Greeley

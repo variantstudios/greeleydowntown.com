@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'United Food & Commercial Workers'
 Street: 1006 9th Avenue
 City: Greeley

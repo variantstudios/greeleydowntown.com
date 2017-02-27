@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Steamway Floor to Ceiling
 Street: 602 8th Avenue
 City: Greeley

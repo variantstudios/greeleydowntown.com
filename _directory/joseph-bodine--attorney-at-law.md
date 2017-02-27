@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Joseph Bodine, Attorney at Law'
 Street: 912 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Taekwon-Do
 Street: 813 8th Street
 City: Greeley

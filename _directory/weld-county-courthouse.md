@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Courthouse
 Street: 901 9th Avenue
 City: Greeley

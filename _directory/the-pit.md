@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Pit
 Street: '807 17th Street, Ste. H'
 City: Greeley

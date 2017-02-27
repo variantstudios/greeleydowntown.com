@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'The Blue Mug Coffee & Roastery'
 dining_categories:
   - deli-and-cafe

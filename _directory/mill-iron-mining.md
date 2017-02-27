@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Mill Iron Mining
 Street: '801 8th Street, Ste 130'
 City: Greeley

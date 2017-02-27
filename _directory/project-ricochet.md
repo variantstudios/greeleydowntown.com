@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Project Ricochet
 dining_categories:
 entertainment_and_recreation_categories:

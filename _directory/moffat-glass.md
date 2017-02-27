@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Moffat Glass
 Street: 710 12th Street
 City: Greeley

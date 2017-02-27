@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Miss Mary's Kitchen Store at LPE"
 Street: 822 8th Street
 City: Greeley

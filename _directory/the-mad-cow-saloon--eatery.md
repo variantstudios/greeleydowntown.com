@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'The Mad Cow Saloon & Eatery'
 Street: 800 9th Street
 City: Greeley

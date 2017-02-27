@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Farmer's Pantry"
 Street: 931 16th Street
 City: Greeley

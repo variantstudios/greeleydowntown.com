@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Randy Premer Repair
 Street: 1300 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Goodwill Industries Career Connection Center
 Street: 1012 11th Street
 City: Greeley

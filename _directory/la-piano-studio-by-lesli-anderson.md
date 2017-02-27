@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: La Piano Studio by Lesli Anderson
 Street: 1335 8th Avenue
 City: Greeley

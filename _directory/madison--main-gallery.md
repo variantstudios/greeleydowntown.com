@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Madison & Main Gallery'
 Street: 927 16th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Hearne's Comfort Clothing & Footwear"
 dining_categories:
 entertainment_and_recreation_categories:

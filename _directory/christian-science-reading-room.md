@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Christian Science Reading Room
 Street: 826 9th Street
 City: Greeley

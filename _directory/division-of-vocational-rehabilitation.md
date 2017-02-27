@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Division of Vocational Rehabilitation
 Street: 822 7th StreetSte 350
 City: Greeley

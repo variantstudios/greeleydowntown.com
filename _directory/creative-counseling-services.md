@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Creative Counseling Services
 Street: '800 8th Avenue, Ste. 111, 135'
 City: Greeley

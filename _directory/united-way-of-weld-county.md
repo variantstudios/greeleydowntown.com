@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: United Way of Weld County
 Street: 814 9th Street
 City: Greeley

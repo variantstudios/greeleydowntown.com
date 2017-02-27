@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: WeldWerks Brewing Co.
 Street: 508 8th Avenue
 City: Greeley

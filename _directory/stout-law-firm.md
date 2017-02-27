@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Stout Law Firm
 Street: 719 7th Street
 City: Greeley

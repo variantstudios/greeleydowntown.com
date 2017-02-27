@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Gentry's"
 Street: 813 9th Street
 City: Greeley

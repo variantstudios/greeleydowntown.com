@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Studio Ten Sixteen
 Street: 1544 10th Avenue
 City: Greeley

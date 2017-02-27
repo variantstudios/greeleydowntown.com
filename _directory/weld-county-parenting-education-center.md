@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Parenting Education Center
 Street: '710 11th Avenue, Ste 202'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Lutheran Family Services
 Street: '800 8th Avenue, Ste. 225'
 City: Greeley

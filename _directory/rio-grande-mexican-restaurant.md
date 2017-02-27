@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Rio Grande Mexican Restaurant
 Street: 825 9th Street
 City: Greeley

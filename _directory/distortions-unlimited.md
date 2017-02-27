@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Distortions Unlimited
 Street: 571 13th Street
 City: Greeley

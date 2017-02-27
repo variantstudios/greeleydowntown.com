@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Inn
 Street: 721 13th Street
 City: Greeley

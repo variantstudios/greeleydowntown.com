@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Santeramo's Pizza House"
 Street: 1229 10th  Avenue
 City: Greeley

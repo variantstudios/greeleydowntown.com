@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Perklen Center for Psychotherapy
 Street: 1020 8th Street
 City: Greeley

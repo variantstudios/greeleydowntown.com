@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Salvation Army Thrift Store
 Street: 1215 8th Avenue
 City: Greeley

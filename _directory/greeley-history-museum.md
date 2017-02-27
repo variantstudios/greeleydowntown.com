@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley History Museum
 Street: 714 8th Street
 City: Greeley

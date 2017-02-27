@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Canton Garden Chinese Restaurant
 Street: 1330 8th Avenue
 City: Greeley

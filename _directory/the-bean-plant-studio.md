@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Bean Plant Studio
 Street: 701 7th Street
 City: Greeley

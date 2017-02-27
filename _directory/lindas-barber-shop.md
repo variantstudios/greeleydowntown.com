@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Linda's Barber Shop"
 Street: 817 16th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: North Range Behavioral Health Intensive Services
 Street: 928 12th Street
 City: Greeley

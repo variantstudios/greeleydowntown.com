@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Taste of Philly
 Street: 829 16th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Connections for Independent Living
 Street: 1331 8th Avenue
 City: Greeley

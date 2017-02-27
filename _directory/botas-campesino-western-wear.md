@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Botas Campesino Western Wear
 Street: 1100 8th Avenue
 City: Greeley

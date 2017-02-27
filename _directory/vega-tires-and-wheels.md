@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Vega Tires and Wheels
 Street: 401 8th Avenue
 City: Greeley

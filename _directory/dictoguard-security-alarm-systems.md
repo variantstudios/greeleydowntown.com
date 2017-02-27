@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: DictoGuard Security Alarm Systems
 Street: 914 14th Street
 City: Greeley

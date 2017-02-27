@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Everyday Station
 Street: 1025 13th Street
 City: Greeley

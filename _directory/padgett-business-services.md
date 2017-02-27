@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Padgett Business Services
 Street: '1221 8th Avenue, Ste. A'
 City: Greeley

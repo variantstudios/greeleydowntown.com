@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley-Evans Alternative Program (GAP)
 Street: 1113 10th Avenue
 City: Greeley

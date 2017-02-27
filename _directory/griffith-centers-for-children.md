@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Griffith Centers for Children
 Street: '710 11th Avenue, L-46'
 City: Greeley

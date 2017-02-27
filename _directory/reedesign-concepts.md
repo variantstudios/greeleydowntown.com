@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Reedesign Concepts
 Street: 1029 8th Avenue
 City: Greeley

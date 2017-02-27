@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Golden Tree Premium Moroccan Imports
 dining_categories:
 entertainment_and_recreation_categories:

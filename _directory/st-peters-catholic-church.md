@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "St. Peter's Catholic Church"
 Street: 915 12th Street
 City: Greeley

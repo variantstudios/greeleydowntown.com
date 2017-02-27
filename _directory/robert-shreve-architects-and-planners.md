@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Robert Shreve Architects and Planners
 Street: '801 8th Street, Ste 120'
 City: Greeley

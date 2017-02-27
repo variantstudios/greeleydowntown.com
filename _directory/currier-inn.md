@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Currier Inn
 Street: 1221 9th Avenue
 City: Greeley

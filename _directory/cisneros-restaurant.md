@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Cisneros Restaurant
 Street: 1619 8th Avenue
 City: Greeley

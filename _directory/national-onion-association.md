@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: National Onion Association
 Street: 822 7th StreetSte 510
 City: Greeley

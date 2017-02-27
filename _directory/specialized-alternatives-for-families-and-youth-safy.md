@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Specialized Alternatives for Families and Youth (SAFY)
 Street: '710 11th Avenue, Ste. 103'
 City: Greeley

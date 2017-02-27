@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Right to Read of Weld County
 Street: 917 10th Avenue
 City: Greeley

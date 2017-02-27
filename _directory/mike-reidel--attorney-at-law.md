@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Mike Reidel, Attorney at Law'
 Street: '801 8th Street, Ste. 220-B'
 City: Greeley

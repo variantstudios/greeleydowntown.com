@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Salzman's Shoe Repair"
 Street: 911 8th Avenue
 City: Greeley

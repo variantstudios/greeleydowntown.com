@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Automotive Machine Inc.
 Street: 404 8th Avenue
 City: Greeley

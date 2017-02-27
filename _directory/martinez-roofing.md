@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Martinez Roofing
 Street: 1030 7th Avenue
 City: Greeley

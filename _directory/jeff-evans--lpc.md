@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Jeff Evans, LPC'
 Street: '710 11th Avenue, Ste. 108'
 City: Greeley

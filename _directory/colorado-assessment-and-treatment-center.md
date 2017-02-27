@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Assessment and Treatment Center
 Street: '800 8th Avenue, Ste. 233'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Roasty's Steakhouse"
 Street: 920 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Lifestyle Ink
 Street: 817 9th Street
 City: Greeley

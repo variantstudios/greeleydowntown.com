@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Highlander Smoke Shop
 Street: 802 16th Street
 City: Greeley

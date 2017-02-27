@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Soco's Pizza"
 Street: 901 16th Street
 City: Greeley

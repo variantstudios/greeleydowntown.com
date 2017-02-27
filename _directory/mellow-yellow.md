@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Mellow Yellow
 Street: 837 16th Street
 City: Greeley

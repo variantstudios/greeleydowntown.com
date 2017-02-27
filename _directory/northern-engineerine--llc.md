@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Northern Engineering
 Street: 820 8th Street
 City: Greeley

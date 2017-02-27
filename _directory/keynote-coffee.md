@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Keynote Coffee
 Street: 802 9th Street
 City: Greeley

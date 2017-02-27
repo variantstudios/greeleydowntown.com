@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Walden Apartments
 Street: 908 13th Street
 City: Greeley

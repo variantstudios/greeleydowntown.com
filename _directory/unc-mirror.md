@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: UNC Mirror
 Street: 823 16th Street
 City: Greeley

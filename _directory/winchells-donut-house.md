@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Winchell's Donut House"
 Street: 1503 8th Avenue
 City: Greeley

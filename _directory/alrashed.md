@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Alrashed Auto Sales
 dining_categories:
 entertainment_and_recreation_categories:

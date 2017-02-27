@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Jean's Fine Art Studio"
 Street: 1335 8th Avenue
 City: Greeley

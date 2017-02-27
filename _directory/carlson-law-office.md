@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Carlson Law Office
 Street: 1109 13th Street
 City: Greeley

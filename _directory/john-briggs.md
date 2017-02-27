@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: John Briggs
 Street: 909 11th Avenue
 City: Greeley

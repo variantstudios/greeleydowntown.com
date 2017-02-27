@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Law Office of Monte Robbins
 Street: '710 11th Avenue, E309'
 City: Greeley

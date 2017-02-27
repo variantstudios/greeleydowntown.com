@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Maralyn Stallbaumer Accounting & Financial Services'
 Street: '710 11th Avenue, Ste. 215'
 City: Greeley

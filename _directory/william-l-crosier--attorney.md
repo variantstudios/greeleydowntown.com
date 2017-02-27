@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'William L. Crosier, Attorney'
 Street: 1010 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Brillard's Collision Repair"
 Street: 712 11th Street
 City: Greeley

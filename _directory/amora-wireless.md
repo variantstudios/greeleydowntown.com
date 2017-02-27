@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Amora Wireless
 dining_categories:
 entertainment_and_recreation_categories:

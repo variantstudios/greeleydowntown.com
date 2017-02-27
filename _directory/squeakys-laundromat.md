@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Squeaky's Laundromat"
 Street: 1605 8th Avenue
 City: Greeley

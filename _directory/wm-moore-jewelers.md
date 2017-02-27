@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Wm Moore Jewelers
 Street: 914 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Heruka Buddhist Center
 Street: '710 11th Avenue, L-30'
 City: Greeley

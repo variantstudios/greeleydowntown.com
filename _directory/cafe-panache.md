@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Cafe Panache
 Street: 821 10th Street
 City: Greeley

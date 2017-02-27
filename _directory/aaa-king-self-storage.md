@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: AAA King Self Storage
 dining_categories:
 entertainment_and_recreation_categories:

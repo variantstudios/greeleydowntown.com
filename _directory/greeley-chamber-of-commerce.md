@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Chamber of Commerce
 Street: 902 7th Avenue
 City: Greeley

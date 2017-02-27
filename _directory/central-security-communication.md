@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Central Security Communication
 Street: 1117 8th Avenue
 City: Greeley

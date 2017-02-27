@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Frontier House
 Street: 1407 8th Avenue
 City: Greeley

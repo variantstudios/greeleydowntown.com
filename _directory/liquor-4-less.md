@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Liquor 4 Less
 Street: 803 5th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Diane Johnson, Accountant Primerica'
 Street: '801 8th Street, Ste 220-E'
 City: Greeley

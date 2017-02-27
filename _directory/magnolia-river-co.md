@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Magnolia River Co.
 Street: 601 9th Street
 City: Greeley

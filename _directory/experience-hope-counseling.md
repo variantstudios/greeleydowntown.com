@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Experience Hope Counseling
 Street: 803 10th Avenue
 City: Greeley

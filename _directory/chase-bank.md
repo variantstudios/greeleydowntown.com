@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Chase Bank
 Street: 822 7th Street
 City: Greeley

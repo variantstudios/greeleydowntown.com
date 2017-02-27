@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Lincoln Park Library
 Street: '1012 11th Street, Ste. B'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Education Association
 Street: 1116 13th Street
 City: Greeley

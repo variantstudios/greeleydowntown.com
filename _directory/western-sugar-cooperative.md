@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Western Sugar Cooperative
 Street: 1221 8th Avenue
 City: Greeley

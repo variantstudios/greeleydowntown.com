@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 7-Eleven
 dining_categories:
   - fast-food

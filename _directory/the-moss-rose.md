@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Moss Rose Bridal Boutique
 dining_categories:
 entertainment_and_recreation_categories:

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Victoria's Salon"
 Street: 1229 8th Avenue
 City: Greeley

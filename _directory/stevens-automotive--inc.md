@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Stevens Automotive, Inc.'
 Street: 1014 8th Avenue
 City: Greeley

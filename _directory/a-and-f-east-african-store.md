@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: A and F East African Store
 dining_categories:
 entertainment_and_recreation_categories:

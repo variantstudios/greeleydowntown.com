@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Peek Law Firm
 Street: '822 7th Street, Ste 520'
 City: Greeley

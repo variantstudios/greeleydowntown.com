@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Peaceful Solutions
 Street: 710 11th Avenue Ste E305
 City: Greeley

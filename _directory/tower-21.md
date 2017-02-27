@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Tower 21
 Street: 614 8th Avenue
 City: Greeley

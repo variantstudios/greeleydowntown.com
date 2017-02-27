@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Security Service Federal Credit Union
 Street: 1220 9th Avenue
 City: Greeley

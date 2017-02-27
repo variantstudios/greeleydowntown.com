@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Warm Hugs Mixes & Gifts'
 Street: 809 10th Street
 City: Greeley

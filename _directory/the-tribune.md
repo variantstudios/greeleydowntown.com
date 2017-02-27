@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Tribune
 Street: 501 8th Avenue
 City: Greeley

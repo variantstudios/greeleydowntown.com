@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Coronado Barber Shop
 Street: 918 9th Avenue
 City: Greeley

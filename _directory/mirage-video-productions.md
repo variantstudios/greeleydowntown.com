@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Mirage Video Productions
 Street: 924 8th Avenue
 City: Greeley

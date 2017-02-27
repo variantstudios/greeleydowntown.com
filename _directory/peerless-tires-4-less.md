@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Peerless Tires 4 Less
 Street: 1105 11th Avenue
 City: Greeley

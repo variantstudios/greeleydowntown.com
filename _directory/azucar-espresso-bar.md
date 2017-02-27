@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Azucar Espresso Bar
 dining_categories:
   - coffee-shops
@@ -17,5 +18,3 @@ Contact_Name:
 Contact_Email: azucarespressobar@gmail.com
 Logo_image_path: /assets/azucar-espresso-bar.png
 ---
-
-

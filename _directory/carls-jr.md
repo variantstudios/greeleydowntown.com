@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Carl's Jr."
 Street: 720 10th Street
 City: Greeley

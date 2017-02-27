@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Najah African Restaurant
 Street: 811 10th Street
 City: Greeley

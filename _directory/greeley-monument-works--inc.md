@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Greeley Monument Works, Inc.'
 Street: 1015 7th Avenue
 City: Greeley

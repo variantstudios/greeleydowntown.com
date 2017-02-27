@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Spin Streak
 Street: '1221 8th Avenue, Ste. C'
 City: Greeley

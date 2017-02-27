@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Safari Tanning & Salon'
 Street: 805 16th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: LinReg Consulting
 Street: '710 11th Avenue, Ste. E-301'
 City: Greeley
