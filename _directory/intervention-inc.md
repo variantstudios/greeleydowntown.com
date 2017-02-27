@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Intervention Inc.
 Street: 920 11th Avenue
 City: Greeley

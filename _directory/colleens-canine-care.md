@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Colleen's Canine Care"
 Street: 720 13th Street
 City: Greeley

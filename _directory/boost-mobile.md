@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Boost Mobile
 Street: 820 16th Street
 City: Greeley

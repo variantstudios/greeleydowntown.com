@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Latoy Hill Massage Therapy
 Street: '710 11th Avenue, E-303'
 City: Greeley

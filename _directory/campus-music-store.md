@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Campus Music Store
 Street: 907 16th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Thomas & Tyler, LLC'
 Street: '710 11th Avenue, L-10'
 City: Greeley

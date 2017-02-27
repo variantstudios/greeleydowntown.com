@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Jeri D. Shepherd, Attorney'
 Street: 710 11th AvenueSte 203D
 City: Greeley

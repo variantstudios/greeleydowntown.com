@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Eternal Wellness Massage
 Street: 815 8th Avenue
 City: Greeley

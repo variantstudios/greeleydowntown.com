@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Swine Data
 Street: 1024 8th Street
 City: Greeley

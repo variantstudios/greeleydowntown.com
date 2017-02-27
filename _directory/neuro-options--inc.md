@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Neuro-Options, Inc'
 Street: '710 11th Avenue,'
 City: Greeley

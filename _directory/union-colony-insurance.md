@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Union Colony Insurance
 Street: 1218 8th Avenue
 City: Greeley

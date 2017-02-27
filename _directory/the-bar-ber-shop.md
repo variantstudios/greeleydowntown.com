@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Bar.Ber.Shop
 dining_categories:
 entertainment_and_recreation_categories:

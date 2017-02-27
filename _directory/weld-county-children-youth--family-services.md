@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Weld County Children, Youth & Family Services'
 dining_categories:
 entertainment_and_recreation_categories:

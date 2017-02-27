@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: RMOMS
 Street: '800 8th Avenue, Ste. 100'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Sugarbeet Growers Assoc.
 Street: 710 11th AvenueSte 111
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Firestone Complete Auto Care
 Street: 1130 8th Avenue
 City: Greeley

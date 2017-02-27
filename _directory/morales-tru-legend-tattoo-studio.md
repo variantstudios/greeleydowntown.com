@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Morales Tru Legend Tattoo Studio
 Street: 916 8th Avenue
 City: Greeley

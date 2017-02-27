@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Cornerstone Community Church
 Street: 1321 9th Avenue
 City: Greeley

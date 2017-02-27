@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Midnight Liquor
 Street: 1020 11th Street
 City: Greeley

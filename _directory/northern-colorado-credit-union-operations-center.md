@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Northern Colorado Credit Union Operations Center
 Street: 1503 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "David's Auto Sales"
 Street: 711 11th Street
 City: Greeley

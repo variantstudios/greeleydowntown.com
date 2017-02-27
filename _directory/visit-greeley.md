@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Visit Greeley
 Street: 902 7th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Florio's Shoes"
 Street: 820 9th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Rodriguez Law Firm
 Street: '710 11th Avenue, Ste. 200'
 City: Greeley

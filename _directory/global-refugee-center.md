@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Global Refugee Center
 Street: 917 10th Avenue
 City: Greeley

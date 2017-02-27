@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Bear Necessities
 Street: 1628 8th Avenue
 City: Greeley

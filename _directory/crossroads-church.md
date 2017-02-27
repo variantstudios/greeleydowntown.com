@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Crossroads Church
 Street: 1091 10th Avenue
 City: Greeley

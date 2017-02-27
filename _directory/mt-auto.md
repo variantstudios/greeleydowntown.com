@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: MT Auto
 Street: 1100 7th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Bratton's Office Equipment, Inc."
 Street: 1303 8th Avenue
 City: Greeley

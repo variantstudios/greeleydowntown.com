@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Jenny's Malt Shop & Diner"
 Street: 923 16th Street
 City: Greeley

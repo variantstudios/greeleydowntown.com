@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Robert Ray
 Street: 909 11th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Waypoints
 Street: 614 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Grand Lake's 16th St Tavern"
 Street: 915 16th Street
 City: Greeley

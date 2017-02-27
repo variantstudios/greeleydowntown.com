@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Cory Gardner, U.S. Senator'
 Street: '801 8th Street, Ste 140'
 City: Greeley

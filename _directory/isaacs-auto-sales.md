@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Isaac's Auto Sales"
 Street: 1114 8th Avenue
 City: Greeley

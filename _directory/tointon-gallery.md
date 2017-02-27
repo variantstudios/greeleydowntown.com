@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Tointon Gallery
 Street: 651 10th Avenue
 City: Greeley

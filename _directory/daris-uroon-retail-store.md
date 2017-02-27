@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Daris Uroon Retail Store
 Street: 817 10th Street
 City: Greeley

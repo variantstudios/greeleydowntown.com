@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Cranford Cove Tea Tavern
 Street: 823 10th Street
 City: Greeley

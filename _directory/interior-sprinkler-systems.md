@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Interior Sprinkler Systems
 Street: 1535 10th Avenue
 City: Greeley

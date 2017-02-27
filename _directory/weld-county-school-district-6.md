@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County School District 6
 Street: 1025 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Chris Lucio, Allstate Agent'
 Street: 1221 8th Avenue
 City: Greeley

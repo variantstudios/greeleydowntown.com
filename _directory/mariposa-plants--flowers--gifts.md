@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Mariposa Plants, Flowers & Gifts'
 Street: '801 8th Street, Ste. 110'
 City: Greeley

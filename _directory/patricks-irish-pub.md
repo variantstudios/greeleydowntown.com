@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Patrick's Irish Pub"
 Street: 907 8th Avenue
 City: Greeley

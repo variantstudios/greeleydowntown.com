@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 5 Star Industries
 dining_categories:
 entertainment_and_recreation_categories:

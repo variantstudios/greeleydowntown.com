@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Pupuseria Y Restaurante Salvadoreno
 dining_categories:
   - mexican

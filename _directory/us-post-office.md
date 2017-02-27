@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: US Post Office
 Street: 925 11th Avenue
 City: Greeley

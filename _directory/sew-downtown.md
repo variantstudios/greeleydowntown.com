@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Sew Downtown
 Street: '824 9th Street, Ste. A'
 City: Greeley

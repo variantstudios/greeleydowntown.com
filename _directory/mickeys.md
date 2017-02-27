@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Mickey's"
 Street: 1117 7th Avenue
 City: Greeley

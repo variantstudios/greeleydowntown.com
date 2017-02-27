@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Dollar General
 Street: 1412 8th Avenue
 City: Greeley

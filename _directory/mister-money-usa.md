@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Mister Money USA
 Street: 1525 8th Avenue
 City: Greeley

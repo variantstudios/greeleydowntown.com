@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'City of Greeley: City Hall Annex'
 Street: 1100 10th Street
 City: Greeley

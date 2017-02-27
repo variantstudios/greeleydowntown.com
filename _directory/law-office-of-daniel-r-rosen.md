@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Law Offices of Daniel R. Rosen
 Street: '710 11th Avenue, Ste L60'
 City: Greeley

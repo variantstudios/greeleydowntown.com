@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: MetroPCS
 Street: 1135 8th Avenue
 City: Greeley

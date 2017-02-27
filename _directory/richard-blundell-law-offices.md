@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Richard Blundell Law Offices
 Street: 1233 8th Avenue
 City: Greeley

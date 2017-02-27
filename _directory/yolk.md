@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Yolk
 dining_categories:
   - american

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Conoco Gas Station
 Street: 1539 8th Avenue
 City: Greeley

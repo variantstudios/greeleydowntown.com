@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Deborah Doiel- Mediation Services
 Street: '710 11th Avenue, E307'
 City: Greeley

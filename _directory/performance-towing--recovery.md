@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Performance Towing & Recovery'
 Street: 714 4th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Cheba Hut
 Street: 1645 8th Avenue
 City: Greeley

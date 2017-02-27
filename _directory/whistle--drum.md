@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Whistle & Drum'
 Street: 922 8th Avenue
 City: Greeley

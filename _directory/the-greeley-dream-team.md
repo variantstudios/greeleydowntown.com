@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Greeley Dream Team
 Street: '1025 9th Avenue#313'
 City: Greeley

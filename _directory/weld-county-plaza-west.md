@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Plaza West
 Street: 910 10th Avenue
 City: Greeley

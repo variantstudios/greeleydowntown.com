@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Meeker Home Museum
 Street: 1324 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: John Blake Photography
 Street: 1335 8th Avenue
 City: Greeley

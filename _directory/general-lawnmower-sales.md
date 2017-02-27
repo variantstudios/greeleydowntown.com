@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: General Lawnmower Sales
 Street: 1228 7th Avenue
 City: Greeley

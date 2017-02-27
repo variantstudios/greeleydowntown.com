@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado State Public Defenders Office
 Street: 822 7th StreetSte 300
 City: Greeley

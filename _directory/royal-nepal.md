@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Royal Nepal Restaurant
 dining_categories:
   - indian

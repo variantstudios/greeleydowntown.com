@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Tru Beauty Hair Salon & Barbershop'
 Street: 916 8th Avenue
 City: Greeley

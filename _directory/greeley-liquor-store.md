@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Liquor Store
 Street: 1102 9th Street
 City: Greeley

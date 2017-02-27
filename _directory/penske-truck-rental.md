@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Penske Truck Rental
 Street: 1028 8th Avenue
 City: Greeley

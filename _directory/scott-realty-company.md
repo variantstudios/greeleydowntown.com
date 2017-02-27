@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Scott Realty Company
 Street: 1212 8th Avenue
 City: Greeley

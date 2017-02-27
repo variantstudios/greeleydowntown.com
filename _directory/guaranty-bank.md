@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Guaranty Bank
 Street: 930 11th Avenue
 City: Greeley

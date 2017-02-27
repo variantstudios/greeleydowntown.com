@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Perfect Teeth
 Street: 902 14th Street
 City: Greeley

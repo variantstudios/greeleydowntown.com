@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Martin & Reed Law'
 Street: '800 8th Avenue, Ste. 202'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Collins, Liu & Associates'
 Street: 812 8th Street
 City: Greeley

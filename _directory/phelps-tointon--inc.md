@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Phelps-Tointon, Inc.'
 Street: '801 8th Street, Ste 200'
 City: Greeley

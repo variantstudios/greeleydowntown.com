@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Morrell & Associates'
 Street: 777 8th Avenue
 City: Greeley

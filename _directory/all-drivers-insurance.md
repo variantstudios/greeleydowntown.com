@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: All Drivers Insurance
 dining_categories:
 entertainment_and_recreation_categories:

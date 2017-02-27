@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Phil's Pro Auto"
 Street: 707 12th Street
 City: Greeley

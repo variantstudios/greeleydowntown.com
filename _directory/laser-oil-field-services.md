@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Laser Oil Field Services
 Street: 1011 11th Avenue
 City: Greeley

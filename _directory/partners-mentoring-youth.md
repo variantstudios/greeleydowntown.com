@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Partners Mentoring Youth
 Street: 710 11th AvenueSte 216
 City: Greeley

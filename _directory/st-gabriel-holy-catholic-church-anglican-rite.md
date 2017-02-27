@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: St. Gabriel Holy Catholic Church Anglican Rite
 Street: 1103 10th Avenue
 City: Greeley

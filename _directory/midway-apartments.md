@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Midway Apartments
 Street: 1650 8th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Accessories With A Flair!...and Hair'
 dining_categories:
 entertainment_and_recreation_categories:

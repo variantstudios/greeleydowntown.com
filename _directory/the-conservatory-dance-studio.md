@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Conservatory Dance Studio
 Street: 813 8th Street
 City: Greeley

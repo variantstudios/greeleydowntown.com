@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Grant & Hoffman Law Firm'
 Street: '821 9th Street, Ste 101'
 City: Greeley

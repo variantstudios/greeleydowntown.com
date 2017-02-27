@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: University Tower
 Street: 609 8th Avenue
 City: Greeley

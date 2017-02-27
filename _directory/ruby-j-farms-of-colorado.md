@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Ruby J Farms of Colorado
 Street: 608 9th Street
 City: Greeley

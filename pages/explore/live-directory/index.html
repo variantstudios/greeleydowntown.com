@@ -28,7 +28,7 @@ permalink: /live-directory/
   {% endfor %}
 
   {% for item2 in site.directory %}
-  {% if item2.lodging_and_event_centers_categories[0] == 'housing' or item2.service_categories[0] == 'real-estate-and-property-management' %}
+   {% if item2.live_directory == true %}
     <div class="commercial-property-teaser">
       <div class="commercial-property-teaser-image">
         <a href="{{ item2.url }}" title="{{ item2.Business }}">

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Personally Yours
 Street: '809 9th Street, Ste. 1-A'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "King's Clocks & Unique Gifts"
 Street: 827 10th Street
 City: Greeley

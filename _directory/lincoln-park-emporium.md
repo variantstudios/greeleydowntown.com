@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Lincoln Park Emporium
 Street: 822 8th Street
 City: Greeley

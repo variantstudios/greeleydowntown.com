@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Stuft Burger
 Street: 819 9th Street
 City: Greeley

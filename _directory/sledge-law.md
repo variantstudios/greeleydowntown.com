@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Sledge Law
 Street: '710 11th Avenue, Ste. 204'
 City: Greeley

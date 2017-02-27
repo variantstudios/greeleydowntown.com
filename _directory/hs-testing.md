@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: HS Testing
 Street: 1200 7th Avenue
 City: Greeley

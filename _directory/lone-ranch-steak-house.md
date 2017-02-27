@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Lone Ranch Steak House
 Street: 701 8th Street
 City: Greeley

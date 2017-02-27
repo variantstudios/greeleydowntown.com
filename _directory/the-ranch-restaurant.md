@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Ranch Restaurant
 Street: 714 6th Street
 City: Greeley

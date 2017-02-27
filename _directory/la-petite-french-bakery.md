@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: La Petite French Bakery
 dining_categories:
   - desserts

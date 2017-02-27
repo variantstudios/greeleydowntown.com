@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Sassy Bagz
 Street: 908 9th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Rite Aid
 Street: 1013 11th Street
 City: Greeley

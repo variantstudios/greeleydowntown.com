@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Nolan's Jewelry"
 Street: 819 10th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Centennial Center
 Street: 915 10th Street
 City: Greeley

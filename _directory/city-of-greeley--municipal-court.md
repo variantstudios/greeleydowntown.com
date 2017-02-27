@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'City of Greeley: Municipal Court'
 Street: 1122 11th Avenue
 City: Greeley

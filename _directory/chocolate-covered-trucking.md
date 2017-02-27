@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Chocolate Covered Trucking
 Street: 816 8th Street
 City: Greeley

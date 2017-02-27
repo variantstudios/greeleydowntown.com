@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Newco Inc.
 Street: 619 6th Avenue
 City: Greeley

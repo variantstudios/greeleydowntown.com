@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Fusion Ministries International
 Street: 815 14th Street
 City: Greeley

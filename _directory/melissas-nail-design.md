@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Melissa's Nail Design"
 Street: '809 9th Street,'
 City: Greeley

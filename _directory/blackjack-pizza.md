@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Blackjack Pizza
 Street: 814 16th Street
 City: Greeley

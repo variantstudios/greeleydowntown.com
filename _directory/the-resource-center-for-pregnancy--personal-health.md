@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'The Resource Center for Pregnancy & Personal Health'
 Street: 822 14th Street
 City: Greeley

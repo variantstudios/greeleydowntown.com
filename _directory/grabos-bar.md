@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Grabo's Bar"
 Street: 805 9th Street
 City: Greeley

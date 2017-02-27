@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Virtually Yours, LLC'
 Street: 725 10th Street
 City: Greeley

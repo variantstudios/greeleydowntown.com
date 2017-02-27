@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: HCI Communications
 Street: 1028 9th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'BDR Fire & Water Restoration'
 Street: 1108 8th Avenue
 City: Greeley

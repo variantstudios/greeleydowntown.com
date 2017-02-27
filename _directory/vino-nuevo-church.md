@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Vino Nuevo Church
 Street: 1100 11th Avenue
 City: Greeley

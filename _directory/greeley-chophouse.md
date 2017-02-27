@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Chophouse
 Street: 804 8th Street
 City: Greeley

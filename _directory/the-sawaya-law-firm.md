@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Sawaya Law Firm
 Street: '725 10th Street, Ste C'
 City: Greeley

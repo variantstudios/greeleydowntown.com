@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Keyser Coal & Trucking Inc.'
 Street: 601 11th Street
 City: Greeley

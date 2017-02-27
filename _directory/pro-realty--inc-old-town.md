@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Pro Realty, Inc Old Town'
 Street: '806 8th Street, Unit A'
 City: Greeley

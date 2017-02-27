@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Vineyard
 Street: 1015 9th Avenue
 City: Greeley

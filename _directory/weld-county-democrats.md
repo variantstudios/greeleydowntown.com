@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Weld County Democrats
 Street: 810 9th StreetSte 150
 City: Greeley

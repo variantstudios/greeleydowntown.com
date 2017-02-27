@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Samaritan Counseling Network
 Street: '710 11th Avenue, Ste 203B'
 City: Greeley

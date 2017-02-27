@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Bob Ruyle, Attorney at Law'
 Street: '801 8th Street, Ste 220-A'
 City: Greeley

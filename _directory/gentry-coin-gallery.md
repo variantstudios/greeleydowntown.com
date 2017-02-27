@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Gentry Coin Gallery
 Street: '802 9th Street, Ste. 102'
 City: Greeley

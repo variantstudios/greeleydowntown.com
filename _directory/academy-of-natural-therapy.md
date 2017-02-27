@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Academy of Natural Therapy
 dining_categories:
 entertainment_and_recreation_categories:

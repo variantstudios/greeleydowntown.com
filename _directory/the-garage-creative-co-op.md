@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Garage Creative Co-Op
 Street: 1100 8th Avenue
 City: Greeley

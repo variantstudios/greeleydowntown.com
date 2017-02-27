@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Russell Furniture, LLC'
 Street: 609 13th Street
 City: Greeley

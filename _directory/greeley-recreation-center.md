@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Recreation Center
 Street: 651 10th Avenue
 City: Greeley

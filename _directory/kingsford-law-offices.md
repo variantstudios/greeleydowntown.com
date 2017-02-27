@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Kingsford Law Offices
 Street: 825 10th Street
 City: Greeley

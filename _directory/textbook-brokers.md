@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Textbook Brokers
 Street: '807 17th Street, Ste. C'
 City: Greeley

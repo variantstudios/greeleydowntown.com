@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Behavioral Intervention (BI)
 Street: 810 9th StreetSte 100
 City: Greeley

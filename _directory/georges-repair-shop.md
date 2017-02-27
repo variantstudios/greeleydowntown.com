@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "George's Repair Shop"
 Street: 825 7th Street
 City: Greeley

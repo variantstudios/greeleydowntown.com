@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Alterations and Sewing Arts
 dining_categories:
 entertainment_and_recreation_categories:

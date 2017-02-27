@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Zip Mart Discount Liquor
 Street: 1500 8th Avenue
 City: Greeley

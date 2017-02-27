@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: GoodFellas Bail Bonds
 Street: '817 9th Street, Unit A'
 City: Greeley

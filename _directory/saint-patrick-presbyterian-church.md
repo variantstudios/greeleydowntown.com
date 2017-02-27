@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Saint Patrick Presbyterian Church
 Street: 803 10th Avenue
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Margie's Cafe @ The Farmer's Pantry"
 dining_categories:
   - coffee-shops

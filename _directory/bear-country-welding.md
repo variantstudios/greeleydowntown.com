@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Bear Country Welding
 Street: '700 11th Street, Ste. B'
 City: Greeley

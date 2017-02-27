@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Homeside Hair Design
 Street: 1014 12th Street
 City: Greeley

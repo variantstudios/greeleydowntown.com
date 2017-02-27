@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Hard Knocks Boxing Team, Inc.'
 Street: 700 11th StreetUnit A
 City: Greeley

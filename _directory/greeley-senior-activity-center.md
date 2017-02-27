@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Senior Activity Center
 Street: 1010 6th Street
 City: Greeley

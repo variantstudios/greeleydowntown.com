@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: UNC Foundation Hall
 Street: 1516 8th Avenue
 City: Greeley

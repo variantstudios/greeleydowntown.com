@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Jadoch Services
 Street: 818 12th Street
 City: Greeley

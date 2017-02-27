@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Professional Background Investigations
 Street: '801 8th Street, Ste 220-C'
 City: Greeley

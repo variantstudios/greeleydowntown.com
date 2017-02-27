@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Model Railroad Museum
 Street: 680 10th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Family Dollar
 Street: 430 8th Avenue
 City: Greeley

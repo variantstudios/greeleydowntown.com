@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Clarion Hotel and Conference Center
 Street: 701 8th Street
 City: Greeley

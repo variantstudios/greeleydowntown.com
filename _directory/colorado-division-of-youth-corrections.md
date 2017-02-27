@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Division of Youth Corrections
 Street: 710 11th AvenueSte 101
 City: Greeley

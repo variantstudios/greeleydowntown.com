@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Rivas Transmission
 Street: 321 8th Avenue
 City: Greeley

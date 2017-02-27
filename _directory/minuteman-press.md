@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Minuteman Press
 Street: '807 17th Street, Ste. F'
 City: Greeley

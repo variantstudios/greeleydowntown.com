@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Chipotle Mexican Grill
 Street: 807 17th StreetSuite A
 City: Greeley

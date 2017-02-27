@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Mary Lou Brigham, CMT'
 Street: '710 11th Avenue, E308'
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Meeker Commons Mutual Housing
 Street: 505 9th Avenue
 City: Greeley

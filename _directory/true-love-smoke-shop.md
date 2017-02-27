@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: True Love Smoke Shop
 Street: 921 16th Street
 City: Greeley

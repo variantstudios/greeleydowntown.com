@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Moxi Theater
 Street: '802 9th Street, upper'
 City: Greeley

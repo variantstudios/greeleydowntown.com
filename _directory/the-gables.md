@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Gables
 Street: 931 13th Street
 City: Greeley

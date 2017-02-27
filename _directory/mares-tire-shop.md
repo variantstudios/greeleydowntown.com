@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Mares Tire Shop
 Street: 1213 7th Avenue
 City: Greeley

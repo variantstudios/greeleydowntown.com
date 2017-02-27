@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Nerd Store
 Street: 807 8th Street
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Ice Haus
 Street: 900 8th Avenue
 City: Greeley

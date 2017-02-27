@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'The Kress Cinema & Lounge'
 Street: 817 8th Avenue
 City: Greeley

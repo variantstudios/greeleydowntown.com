@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Regent Apartments
 Street: 1632 9th Avenue
 City: Greeley

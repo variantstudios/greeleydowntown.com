@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Attention to Detailing Auto Spa
 dining_categories:
 entertainment_and_recreation_categories:

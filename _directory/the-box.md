@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: The Box
 Street: 822 9th Street
 City: Greeley

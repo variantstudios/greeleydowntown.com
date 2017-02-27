@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Healing Way Ministry
 Street: 1535 8th Avenue
 City: Greeley

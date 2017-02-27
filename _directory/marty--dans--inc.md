@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Marty & Dan's, Inc."
 Street: 329 8th Avenue
 City: Greeley

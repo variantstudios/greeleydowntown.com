@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: First United Methodist Church
 Street: 917 10th Avenue
 City: Greeley

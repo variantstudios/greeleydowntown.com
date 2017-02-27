@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Madison Avenue Apartments
 Street: 811 15th Street
 City: Greeley

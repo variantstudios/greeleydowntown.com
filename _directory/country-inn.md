@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Country Inn
 Street: 1415 8th Avenue
 City: Greeley

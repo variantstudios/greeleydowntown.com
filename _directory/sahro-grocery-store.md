@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Sahro Grocery Store
 Street: 720 14th Street
 City: Greeley

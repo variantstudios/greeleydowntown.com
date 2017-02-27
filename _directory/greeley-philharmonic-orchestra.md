@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Greeley Philharmonic Orchestra
 Street: '801 8th Street, Ste 230'
 City: Greeley

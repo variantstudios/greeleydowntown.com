@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Bentley Welding
 Street: '611 8th Street, Ste. 2'
 City: Greeley

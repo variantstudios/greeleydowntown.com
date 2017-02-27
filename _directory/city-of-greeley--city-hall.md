@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'City of Greeley: City Hall'
 Street: 1000 10th Street
 City: Greeley

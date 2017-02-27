@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Mander Automotive
 Street: 1214 9th Avenue
 City: Greeley

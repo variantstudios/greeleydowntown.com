@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 1908 Speakeasy
 dining_categories:
   - american

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Emerald Earth Lawn Service
 Street: 510 11th Street
 City: Greeley

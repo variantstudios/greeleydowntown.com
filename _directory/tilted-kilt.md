@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Tilted Kilt
 Street: 610 9th Avenue
 City: Greeley

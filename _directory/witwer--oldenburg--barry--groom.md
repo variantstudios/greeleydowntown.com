@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Witwer, Oldenburg, Barry & Groom'
 Street: 822 7th StreetSte 760
 City: Greeley

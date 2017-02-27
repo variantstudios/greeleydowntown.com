@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Fat Shack
 Street: 1635 8th Avenue
 City: Greeley

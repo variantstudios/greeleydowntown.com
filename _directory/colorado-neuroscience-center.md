@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Colorado Neuroscience Center
 Street: 1502 9th Avenue
 City: Greeley

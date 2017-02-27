@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Community Interventions Electronic Home Monitoring
 Street: 710 11th AvenueL-15
 City: Greeley

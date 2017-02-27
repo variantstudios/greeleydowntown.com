@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Union Colony Civic Center
 Street: 701 10th Avenue
 City: Greeley

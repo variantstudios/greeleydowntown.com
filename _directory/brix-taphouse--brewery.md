@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Brix Taphouse & Brewery'
 Street: 813 8th Street
 City: Greeley

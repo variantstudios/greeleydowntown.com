@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: 'Janklow, Peyton, Lazar & Scroggins'
 Street: 710 11th AvenueSte 205
 City: Greeley

@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Ancient Wisdom Healing Arts
 dining_categories:
 entertainment_and_recreation_categories:

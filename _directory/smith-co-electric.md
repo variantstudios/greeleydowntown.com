@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: Smith Co Electric
 Street: 530 11th Street
 City: Greeley

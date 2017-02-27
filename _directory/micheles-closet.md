@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Michele's Closet"
 Street: 916 9th Avenue
 City: Greeley

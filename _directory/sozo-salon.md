@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: SoZo Salon
 Street: 1644 8th Avenue
 City: Greeley

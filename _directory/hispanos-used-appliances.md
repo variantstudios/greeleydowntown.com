@@ -1,4 +1,5 @@
 ---
+live_directory: false
 Business: "Hispano's Used Appliances"
 Street: 815 10th Street
 City: Greeley
