@@ -1,7 +1,7 @@
 ---
-live_directory: false
+live_directory: true
 Business: 'Town & Country Real Estate'
-Street: 710 11th Avenue
+Street: '710 11th Avenue, Ste. 203A'
 City: Greeley
 State: Colorado
 Zip: 80631
