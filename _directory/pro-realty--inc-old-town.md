@@ -1,12 +1,12 @@
 ---
-live_directory: false
+live_directory: true
 Business: 'Pro Realty, Inc Old Town'
 Street: '806 8th Street, Unit A'
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 353-1117
-Website:
+Website: 'http://www.prorealtyhomes.com/'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
