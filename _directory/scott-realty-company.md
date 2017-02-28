@@ -1,12 +1,12 @@
 ---
-live_directory: false
+live_directory: true
 Business: Scott Realty Company
 Street: 1212 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 352-1212
-Website: 'http://www.coloradorealestatenorth.com'
+Website: 'http://scottrealtyco.propertyware.com/'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
