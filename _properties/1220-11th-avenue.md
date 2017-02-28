@@ -1,6 +1,6 @@
 ---
 title: 1220 11th Avenue
-property-type: Commercial
+property-type: Residential
 image_path: /assets/images/properties/1220 11th ave.png
 sale-or-lease: Lease
 square-footage: Varies
