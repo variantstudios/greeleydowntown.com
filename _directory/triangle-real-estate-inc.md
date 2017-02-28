@@ -1,7 +1,7 @@
 ---
 live_directory: true
 Business: Triangle Real Estate Inc.
-Street: 530 11th Street
+Street: 1021 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
