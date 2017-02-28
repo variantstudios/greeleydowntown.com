@@ -1,5 +1,5 @@
 ---
-live_directory: false
+live_directory: true
 Business: Triangle Real Estate Inc.
 Street: 530 11th Street
 City: Greeley
