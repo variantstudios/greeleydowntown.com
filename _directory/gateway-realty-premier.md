@@ -1,5 +1,5 @@
 ---
-live_directory: false
+live_directory: true
 Business: Gateway Realty Premier
 dining_categories:
 entertainment_and_recreation_categories:
