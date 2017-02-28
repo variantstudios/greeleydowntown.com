@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 768-0007
-Website: www.gatewayrealtypremier.com
+Website: 'http://www.gatewayrealtypremier.com/'
 Contact_Name: Kelley Babcock
 Contact_Email: gatewaykelley@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
