@@ -1,5 +1,5 @@
 ---
-live_directory: false
+live_directory: true
 Business: The Gables
 Street: 931 13th Street
 City: Greeley
@@ -16,7 +16,7 @@ retail_categories:
 service_categories:
 Contact_Name: Linde Thompson
 Contact_Email: linde@kresscinema.com
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
