@@ -1,5 +1,5 @@
 ---
-live_directory: false
+live_directory: true
 Business: Woody Investments
 Street: 815 16th Street
 City: Greeley
