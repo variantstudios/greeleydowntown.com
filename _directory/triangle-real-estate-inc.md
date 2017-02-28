@@ -14,7 +14,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - real-estate-and-property-management
-Contact_Name:
+Contact_Name: Ron Smith
 Contact_Email:
 Logo_image_path: /assets/images/directory/trianglerealestate.png
 ---
