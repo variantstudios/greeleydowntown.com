@@ -1,5 +1,5 @@
 ---
-live_directory: false
+live_directory: true
 Business: Main-Street Properties
 Street: 1535 10th Avenue
 City: Greeley
@@ -16,7 +16,7 @@ service_categories:
   - real-estate-and-property-management
 Contact_Name: Nate Buie
 Contact_Email: buieonline@gmail.com
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
