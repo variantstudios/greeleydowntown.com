@@ -24,4 +24,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, February 17, 2017 for our next monthly meeting. The meeting will be held at Warm Hugs Mixes & Gifts Boutique located at 809 10th Street.
+> Please join us at 8am on Friday, March 17, 2017 for our next monthly meeting. The meeting will be held at The Bean Plant Studio located at 701 7th Street.
