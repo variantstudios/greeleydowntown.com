@@ -1,12 +1,12 @@
 ---
 live_directory: false
-Business: The Pit
+Business: "Joe's Place @ The Pit"
 Street: '807 17th Street, Ste. H'
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 978-4895
-Website: 'http://thepitbar.wix.com/thepit'
+Website: 'https://www.facebook.com/JoesPlaceCO/'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -14,10 +14,10 @@ nightlife_categories:
   - bars-and-clubs
 retail_categories:
 service_categories:
-Contact_Name:
-Contact_Email: THE_PIT_BAR@yahoo.com
-Logo_image_path: /assets/images/directory/thepit.png
+Contact_Name: Amy Driver
+Contact_Email: amy.sketchdesign@gmail.com
+Logo_image_path:
 ---
 
 
-We are a bar and venue. We have live music every Friday and Saturday. Karaoke on Sunday and Tuesday. Ladies night on Thursday where ladies drink half off drinks from 8-11. Monday is Sports night so guys can watch the game and enjoy half off drinks from 8-11. Last but not least is Wednesday night open mic where you can show what you got from comedy to singing and more. We also do venue rental so you can have a special night from a birthday party to a college party, etc. Please come join us!
+This is the place you can take your mom to and have a drink. We welcome everyone. There is a dress code simply no cuts, no colors, no patches etc.. We offer Karaoke every Tuesday and Sunday with daily specials throughout the week. We also have live music every Friday and Saturday.
