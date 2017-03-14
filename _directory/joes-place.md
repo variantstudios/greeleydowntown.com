@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: "Joe's Place @ The Pit"
+Business: "Joe's Place"
 Street: '807 17th Street, Ste. H'
 City: Greeley
 State: Colorado
@@ -16,7 +16,7 @@ retail_categories:
 service_categories:
 Contact_Name: Amy Driver
 Contact_Email: amy.sketchdesign@gmail.com
-Logo_image_path:
+Logo_image_path: /assets/joes-place.png
 ---
 
 
