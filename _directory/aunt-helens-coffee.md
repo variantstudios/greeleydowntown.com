@@ -1,19 +1,22 @@
 ---
 live_directory: false
-Business:
+Business: "Aunt Helen's Coffee House"
 dining_categories:
+  - coffee-shops
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+Street: '800 8th Avenue, Ste. 101'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
+Phone: (970) 515-6542
+Website: 'https://www.facebook.com/aunthelenscoffeehouse/'
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/aunt-helens-coffee-house.png
 ---
+
+
