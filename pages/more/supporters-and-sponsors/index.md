@@ -9,11 +9,9 @@ permalink: /supporters-and-sponsors/
 
 ## 2017 DDA Sponsors:
 
-Lincoln Park Emporium
-
-Phelps-Tointon
-
-[Thomas & Tyler](http://www.thomasandtyler.com/)
+* Lincoln Park Emporium
+* Phelps-Tointon
+* [Thomas & Tyler](http://www.thomasandtyler.com/)
 
 &nbsp;
 
