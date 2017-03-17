@@ -30,4 +30,4 @@ From entertainment venues to retail stores, professional services to residential
 
 In the summer of 2011, Progressive Urban Management Associates (PUMA), a Denver-based real estate economics and planning firm, conducted a market-based investment strategy for Downtown Greeley. To review the final study, click [here](/assets/pdfs/greeley-dda-puma-report-2011.pdf).
 
-To hear about what we were up to in 2015, check out our [ANNUAL REPORT](/assets/pdfs/2015annualreport.pdf).
+To hear about what we were up to in 2016, check out our [ANNUAL REPORT](/assets/pdfs/greeley-dda-annual-report-2016.pdf).
