@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Eden Gallery
-Street: 725 10th Street
+Street: 926 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -20,4 +20,4 @@ Logo_image_path: /assets/images/directory/edengallery.png
 ---
 
 
-The Eden Gallery was originally named for those new to art, or those who have stepped away, & want to step back into their creative side. The gallery features the artwork of Elaine Furister, whose experiences have inspired a selection of original watercolor paintings. The gallery offers a number of art classes & workshops. The Eden Gallery is home to Pop-up Gallery, hosted by The Eden Gallery & Joe Molina Art & Studios.
+The Eden Gallery was originally named for those new to art, or those who have stepped away, & want to step back into their creative side. The gallery features the artwork of Elaine Furister, whose experiences have inspired a selection of original watercolor paintings. The gallery offers a number of art classes & workshops.&nbsp;
