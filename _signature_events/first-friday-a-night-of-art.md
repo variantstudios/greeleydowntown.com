@@ -1,5 +1,5 @@
 ---
-title: 'First Friday: A Night of Art'
+title: 'First Friday: A Night of Art 2017'
 description: 'First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.'
 image_path: /assets/images/signature-events/first-friday-a-night-of-art.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
@@ -89,7 +89,7 @@ School: Jackson, Monfort
 
 School: Scott
 
-Music: &nbsp;Ann K. Heiman Choir @ 5pm / Scott Choir @ 5:30pm / Salida del Sol Choir@6pm / Union Colony Choir @ 6:30pm
+Music:  Ann K. Heiman Choir @ 5pm / Scott Choir @ 5:30pm / Salida del Sol Choir@6pm / Union Colony Choir @ 6:30pm
 
 ### Joe Molina Gallery & Studios
 
