@@ -1,5 +1,5 @@
 ---
-title: 'Blarney on the Block & 1st National Bank Blarney Parade'
+title: 'Blarney on the Block & 1st National Bank Blarney Parade 2017'
 description: >-
   Enjoy a St. Patrick's Day celebration with "small-town" family -friendly fun!
   The event starts at 2pm with Irish Step Dancing from the Moriarty School of
@@ -19,6 +19,30 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   WE NEED VOLUNTEERS PLEASE!  Sign up HERE:
   http://www.signupgenius.com/go/10c094aaaaa2da13-5thannual
 image_path: /assets/Collage1.jpg
@@ -27,8 +51,8 @@ weight: 3
 ---
 
 
-Saturday. March 11th 2017, &nbsp;From 2pm - 7pm
+Saturday. March 11th 2017,  From 2pm - 7pm
 
-Sign up to volunteer Here:&nbsp;[http://www.signupgenius.com/go/10c094aaaaa2da13-5thannual](http://www.signupgenius.com/go/10c094aaaaa2da13-5thannual)
+Sign up to volunteer Here: [http://www.signupgenius.com/go/10c094aaaaa2da13-5thannual](http://www.signupgenius.com/go/10c094aaaaa2da13-5thannual)
 
 ![](/assets/versions/fnb1---x----274-64x---.jpg)
