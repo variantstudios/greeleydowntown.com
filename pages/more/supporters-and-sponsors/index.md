@@ -13,7 +13,7 @@ permalink: /supporters-and-sponsors/
 * Phelps-Tointon
 * [Thomas & Tyler](http://www.thomasandtyler.com/)
 
-## 2016 Event Sponsors
+## 2017 Event Sponsors
 
 ### Friday Fest
 
