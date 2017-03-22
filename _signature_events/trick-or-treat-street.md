@@ -1,6 +1,6 @@
 ---
 title: Trick Or Treat Street 2017
-description: 'Bring all your little goblins, ghouls, pirates and princesses to downtown Greeley Friday, October 28th from 4 to 6pm. Dozens of downtown businesses in and around the core downtown area will have treats for the little ones.'
+description: 'Bring all your little goblins, ghouls, pirates and princesses to downtown Greeley Friday, October 27th from 4 to 6pm. Dozens of downtown businesses in and around the core downtown area will have treats for the little ones.'
 image_path: /uploads/web slide.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 4
