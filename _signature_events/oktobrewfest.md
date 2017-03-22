@@ -1,7 +1,7 @@
 ---
 title: OktoBREWfest
 description: 'Greeley’s OktoBREWfest 2017 will be September 29th & 30th at historic Lincoln Park in Downtown Greeley at 8th Street & 9th Avenue.'
-image_path: /assets/images/signature-events/oktobrewfest-2016-greeley.png
+image_path: /assets/Okt 2017 Logo.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 6
 ---
