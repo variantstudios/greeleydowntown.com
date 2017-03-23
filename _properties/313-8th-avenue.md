@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/images/properties/313 8th ave.png
 sale-or-lease: Sale
 square-footage: '6,000 SF'
-price: '$45,000'
+price: '$34,900'
 address: 313 8th Avenue
 city: Greeley
 state: CO
