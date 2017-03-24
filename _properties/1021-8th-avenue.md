@@ -15,8 +15,20 @@ real-estate-email:
 real-estate-phone: (970) 590-2115
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
+    small_image_path: /assets/img-0980.png
+    large_image_path: /assets/img-0980.png
+  - title:
+    small_image_path: /assets/img-0983.png
+    large_image_path: /assets/img-0983.png
+  - title:
+    small_image_path: /assets/img-0986.png
+    large_image_path: /assets/img-0986.png
+  - title:
+    small_image_path: /assets/img-0989.png
+    large_image_path: /assets/img-0989.png
+  - title:
+    small_image_path: /assets/img-0990.png
+    large_image_path: /assets/img-0990.png
 ---
 
 
