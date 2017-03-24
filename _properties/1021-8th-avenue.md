@@ -1,6 +1,6 @@
 ---
 title: 1021 8th Ave
-property-type:
+property-type: Residential
 image_path: /assets/1021-8th-ave.png
 sale-or-lease: Lease
 square-footage: '1,250 SF'
