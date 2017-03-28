@@ -1,12 +1,12 @@
 ---
 live_directory: false
 Business: RMOMS
-Street: '800 8th Avenue, Ste. 100'
+Street: '800 8th Avenue, Ste. 160'
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 392-9400
-Website: 'http://www.rmoms.net/Greeley.html'
+Website: 'http://www.rmoms.net'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
