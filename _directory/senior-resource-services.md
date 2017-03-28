@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Senior Resource Services
-Street: '800 8th Ave, Suite 229 & 231'
+Street: '800 8th Ave, Suite 229'
 City: Greeley
 State: Colorado
 Zip: 80631
