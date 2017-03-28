@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - moving-and-storage
-Street: '800 8th Avenue, Ste. 230'
+Street: '800 8th Avenue, Ste. 235'
 City: Greeley
 State: Colorado
 Zip: '80631'
