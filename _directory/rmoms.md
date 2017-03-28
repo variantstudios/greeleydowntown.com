@@ -16,7 +16,7 @@ service_categories:
   - health
 Contact_Name: Claudia Villalobos
 Contact_Email: claudia.villalobos@nationaloms.com
-Logo_image_path: /assets/images/directory/rmoms.png
+Logo_image_path: /assets/1st-alliance.png
 ---
 
 
