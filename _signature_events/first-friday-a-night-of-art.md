@@ -15,7 +15,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-No information provided
+On Friday, April 7th from 5-7pm, the Academy Of Natural Therapy will feature the Greeley Central High School AP Studio Art Show. The evening will celebrate the works of 17 Greeley Central High School AP Studio Art Students who are showing their work as a mix of Drawings, Paintings, Photography, Sculpture, Mixed Media and Ceramic works. Please support these young artists as we celebrate their artistic discoveries and accomplishments. Show will run through April 18th.
 
 ### ART MAN DO. Studio
 
@@ -69,7 +69,7 @@ Join the Joe Molina Gallery & Studios on Friday, April 7th to support an evening
 
 927 16th Street
 
-The Madison & Main Gallery’s current show **“Faces and Figures”**features twelve guest artists. The guest artists’ work show Faces and Figures- whimsical and real, that come in all sizes and mediums. Self-portraits by gallery members are included. The slate of guest artists include: Betsy Anderson, Katee Barreras, Thom Bator, Susan Brownie, Kerri Ertman, **Jim Fronapfel**, Autumn Kegley, Tracy Murphy, Emily T. Nelson, Caron O'Neil, Michele Renaud Slavik, and Chuck Turner. On** Friday, April 7th** **from 5-8****pm** one of the guest artists, **Jim Fronapfel**, will explain his portrait during an artist’s demonstration. He will be working on several short pieces using colored pencil, charcoal, and pastel. **This is a demonstration not to miss!** For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
+The Madison & Main Gallery’s current show “Faces and Figures”features twelve guest artists. The guest artists’ work show Faces and Figures- whimsical and real, that come in all sizes and mediums. Self-portraits by gallery members are included. The slate of guest artists include: Betsy Anderson, Katee Barreras, Thom Bator, Susan Brownie, Kerri Ertman, Jim Fronapfel, Autumn Kegley, Tracy Murphy, Emily T. Nelson, Caron O’Neil, Michele Renaud Slavik, and Chuck Turner. On\*\* Friday, April 7th\*\* from 5-8pm one of the guest artists, Jim Fronapfel, will explain his portrait during an artist’s demonstration. He will be working on several short pieces using colored pencil, charcoal, and pastel. This is a demonstration not to miss! For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/).
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
@@ -87,7 +87,7 @@ The Showcase Art Center will feature a First Friday pARTy!&nbsp; Paint and sip a
 
 625 3rd Street, Unit C
 
-Local illustrator Sara Sarioglu will be Syntax Spirits Distillery’s April First Friday Artist. iamnotunique illustrations will be on display for the duration of the month and Sara will be available for meet and greet April 7.
+Local illustrator Sara Sarioglu will be Syntax Spirits Distillery’s April First Friday Artist. iamnotunique illustrations will be on display for the duration of the month and Sara will be available for meet and greet April 7th.
 
 ### The Bean Plant Studio
 
@@ -99,7 +99,7 @@ The Bean Plant Studio will be hosting SAVA Center Photographs and Julie Stratton
 
 1109 7th Street
 
-The Dragon’s Cache will host “Pieces of me” featuring the artwork of Filomena Lee
+The Dragon’s Cache will host “Pieces of Me” featuring the artwork of Filomena Lee
 
 ### The Eden Gallery @ Virtually Yours
 
@@ -111,4 +111,4 @@ The Eden Gallery will feature “A Young Man’s Journey”…Pen & Ink Exhibit
 
 651 10th Avenue
 
-The Sieger Hartgers exhibit called** “**Impressions of Campus**”**has opened at the Tointon Gallery for Visual Arts. The gallery presents up to twelve changing shows each year to provide enjoyment, education and to encourage dialogue around art. Admission to the gallery is free and the gallery is open Monday-Saturday from 8am-5pm. For more information about the Tointon Gallery and the Public Art Program, visit [greeleyart.com](http://r20.rs6.net/tn.jsp?f=001owHelEZvQlXsvJHFfxaDGMBrbtwVTiEAvzl-d0fCwBufLk4Umvxf6ycvByQZ6eHXKOs_S9joaohTWdei7qQWZz1mK46MZHAL4Iu-ISLaTyCum0JgezUwL-kwo3YmyJJCOLn8w4cVEXEnYP9EcX-h_zuToojG9SEEGcXM4QH45smDK1Bka4NiRmqkYxODgMNINWSfny3glxotAUx39o91993zPrE7AsFieHdJC2ZwtQSW9fDCT8m8CCw8yXtXQhsDfuZVhwGTKmW4yOf1pf_biGaPRJWkoDSiHD7o3SgFrzyYK92k_lkt5WDpv9HT08TfJBfWx-HFD9Y1Vh-ROt9WOO8cXgvhhQGpULEKb8WE4j6ohVuSVWwg2w==&amp;c=&amp;ch=).
+The Sieger Hartgers exhibit called “Impressions of Campus” has opened at the Tointon Gallery for Visual Arts. The gallery presents up to twelve changing shows each year to provide enjoyment, education and to encourage dialogue around art. Admission to the gallery is free and the gallery is open Monday-Saturday from 8am-5pm. For more information about the Tointon Gallery and the Public Art Program, visit [greeleyart.com](http://r20.rs6.net/tn.jsp?f=001owHelEZvQlXsvJHFfxaDGMBrbtwVTiEAvzl-d0fCwBufLk4Umvxf6ycvByQZ6eHXKOs_S9joaohTWdei7qQWZz1mK46MZHAL4Iu-ISLaTyCum0JgezUwL-kwo3YmyJJCOLn8w4cVEXEnYP9EcX-h_zuToojG9SEEGcXM4QH45smDK1Bka4NiRmqkYxODgMNINWSfny3glxotAUx39o91993zPrE7AsFieHdJC2ZwtQSW9fDCT8m8CCw8yXtXQhsDfuZVhwGTKmW4yOf1pf_biGaPRJWkoDSiHD7o3SgFrzyYK92k_lkt5WDpv9HT08TfJBfWx-HFD9Y1Vh-ROt9WOO8cXgvhhQGpULEKb8WE4j6ohVuSVWwg2w==&amp;c=&amp;ch=).
