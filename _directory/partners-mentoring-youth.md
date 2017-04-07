@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Partners Mentoring Youth
-Street: 710 11th AvenueSte 216
+Street: '710 11th Avenue, Ste. 106'
 City: Greeley
 State: Colorado
 Zip: 80631
