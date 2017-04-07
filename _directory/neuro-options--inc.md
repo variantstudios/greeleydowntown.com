@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: 'Neuro-Options, Inc'
-Street: '710 11th Avenue,'
+Street: '710 11th Avenue, Ste. 203C'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -16,7 +16,7 @@ service_categories:
   - health
 Contact_Name: Nora Martin
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
