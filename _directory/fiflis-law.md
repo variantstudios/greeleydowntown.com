@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Fiflis Law
-Street: 710 11th Avenue
+Street: '710 11th Avenue, E-302'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -16,7 +16,7 @@ service_categories:
   - legal
 Contact_Name:
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
