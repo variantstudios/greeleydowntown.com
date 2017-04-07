@@ -9,8 +9,6 @@ meeting_minutes:
     pdf_path: /assets/pdfs/GDA Meeting Minutes 2-17-17.pdf
   - title: GDA January 2017 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 1-20-17.pdf
-  - title:
-    pdf_path:
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
