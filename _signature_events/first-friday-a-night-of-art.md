@@ -1,8 +1,8 @@
 ---
 title: 'First Friday: A Night of Art 2017'
 description: 'First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.'
-image_path: /assets/images/signature-events/first-friday-a-night-of-art.jpg
-header_image_path: 'https://unsplash.it/1400/200/?random'
+image_path:
+header_image_path: /assets/first-friday-greeley.png
 weight: 2
 ---
 
@@ -81,7 +81,7 @@ No information provided
 
 1335 8th Avenue
 
-The Showcase Art Center will feature a First Friday pARTy!&nbsp; Paint and sip at the Showcase Art Center on Friday, April 7th from 5-7pm. All supplies, treats and instruction for $25. RSVP requested.
+The Showcase Art Center will feature a First Friday pARTy!  Paint and sip at the Showcase Art Center on Friday, April 7th from 5-7pm. All supplies, treats and instruction for $25. RSVP requested.
 
 ### Syntax Spirits Distillery
 
