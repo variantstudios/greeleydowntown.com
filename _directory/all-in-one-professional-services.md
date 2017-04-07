@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - professional-consulting
-Street: '710 11th Avenue, Ste. 109'
+Street: '710 11th Avenue, L-20'
 City: Greeley
 State: Colorado
 Zip: '80631'
@@ -16,7 +16,7 @@ Phone: (970) 673-8202
 Fax:
 Website: 'http://www.facebook.com/AllInOneProfessionalServices'
 Contact_Name:
-Contact_Email: 
+Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
