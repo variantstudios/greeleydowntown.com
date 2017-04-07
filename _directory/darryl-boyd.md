@@ -1,19 +1,22 @@
 ---
 live_directory: false
-Business:
+Business: 'Darryl Boyd, CPA'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+  - financial
+Street: '710 11th Avenue, Ste. 109'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
+Phone: (970) 330-9335
 Website:
-Contact_Name:
-Contact_Email:
+Contact_Name: Darryl Boyd
+Contact_Email: boydcpa@qwestoffice.net
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
+
