@@ -14,6 +14,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - non-profit
+  - educational
 Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/colorado-education-network.png
