@@ -28,11 +28,11 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Have you heard about Shop Around the Block?
 
-This fun night of shopping with take place on the 4th Thursday of every month from 5-8 pm, starting April 27th through December 28. Visit one of the following participating businesses and pick your Passport to Fun:
+This fun night of shopping with take place on the 4th Thursday of every month from 5-8 pm, starting April 27th through December 28. Visit one of the following participating businesses and pick up your Passport to Fun:
 
-Accessories With A Flair!...and Hair – 801 8th Avenue #4
+Accessories With A Flair!…and Hair – 801 8th Avenue #4
 <br>Hearne’s Footwear & Clothing – 801 8th Avenue
-<br>King's Clocks & Unique Gifts – 827 10th Street
+<br>King’s Clocks & Unique Gifts – 827 10th Street
 <br>Lincoln Park Emporium – 822 8th Street
 <br>Mariposa Plants & Flowers – 801 8th Street #110
 <br>Sassy Bagz – 908 9th Avenue
@@ -40,4 +40,4 @@ Accessories With A Flair!...and Hair – 801 8th Avenue #4
 <br>Warm Hugs Mixes & Gifts Boutique – 809 10th Street
 <br>Woody’s Newsstand – 942 9th Avenue
 
-Get 6 stamps from each business on Shop Around the Block nights and you'll be entered to win one of 10 prize packages valued at $50! No purchase necessary. Must be 18 or older to participate.
+Get 6 stamps from each business on Shop Around the Block nights and you’ll be entered to win one of 10 prize packages valued at $50! No purchase necessary. Must be 18 or older to participate.
