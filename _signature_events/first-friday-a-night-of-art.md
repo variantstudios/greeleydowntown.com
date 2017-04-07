@@ -1,8 +1,8 @@
 ---
 title: 'First Friday: A Night of Art 2017'
 description: 'First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.'
-image_path:
-header_image_path: /assets/images/signature-events/first-friday-greeley.png
+image_path: /assets/images/signature-events/first-friday-greeley.png
+header_image_path:
 weight: 2
 ---
 
