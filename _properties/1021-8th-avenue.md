@@ -1,6 +1,6 @@
 ---
 title: 1021 8th Ave
-property-type: Residential
+property-type: Commercial
 image_path: /assets/1021-8th-ave.png
 sale-or-lease: Lease
 square-footage: '1,250 SF'
@@ -32,4 +32,4 @@ image-gallery:
 ---
 
 
-Nice clean office space located on 8th Ave. in downtown. Bright open views with multiple office configurations. This is a 1908 2 br loft apartment that we are redirecting to office use only. Off street parking spaces. Phone seems to be working erratically, if I don't answer please try texting.
+Nice clean office space located on 8th Ave. in downtown. Bright open views with multiple office configurations. This is a 1908 2 br loft apartment that we are redirecting to office use only. Off street parking spaces.
