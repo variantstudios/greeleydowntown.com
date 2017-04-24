@@ -15,12 +15,18 @@ real-estate-email:
 real-estate-phone: (970) 381-3003
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
+    small_image_path: /assets/images/properties/small/shaw loft-2.jpg
+    large_image_path: /assets/images/properties/large/shaw loft-2.jpg
+  - title:
+    small_image_path: /assets/images/properties/small/shaw loft- 3.jpg
+    large_image_path: /assets/images/properties/large/shaw loft- 3.jpg
+  - title:
+    small_image_path: /assets/images/properties/small/shaw loft-4.jpg
+    large_image_path: /assets/images/properties/large/shaw loft-4.jpg
 ---
 
 
-1-bedroom loft availalbe for rent in Downtown Greeley! Conveniently located in the Shaw building, this studio was completely renovated in 2005 and features exposed brick/ductwork, high ceilings & custom built closet which separate sleeping space from living area, is within walking distance to the University, restaurants & breweries, and the Union Colony Civic Center. Parking permit available. Secure building and rooftop patio.&nbsp;
+1-bedroom loft availalbe for rent in Downtown Greeley! Conveniently located in the Shaw building, this studio was completely renovated in 2005 and features exposed brick/ductwork, high ceilings & custom built closet which separate sleeping space from living area, is within walking distance to the University, restaurants & breweries, and the Union Colony Civic Center. Parking permit available. Secure building and rooftop patio.
 
 $1,150 deposit required, application required, background check applicable. Pets are negotiable.
-<br>&nbsp;
+<br>
