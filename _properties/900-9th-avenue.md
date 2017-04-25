@@ -15,8 +15,9 @@ real-estate-email:
 real-estate-phone: (970) 576-6381
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
+    small_image_path: /assets/images/properties/small/900 9th Ave-2.jpg
+    large_image_path: /assets/images/properties/small/900 9th Ave-2.jpg
 ---
 
 
+Prime retail space on the corner of 9th Avenue and 9th Street, across from the Rio Grande Mexican Restaurant!
