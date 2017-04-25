@@ -1,20 +1,22 @@
 ---
 title: 900 9th Avenue
-property-type:
-image_path: /assets/images/properties/properties-default.png
-sale-or-lease:
-square-footage:
-price:
-address:
+property-type: Commercial
+image_path: /assets/images/properties/900 9th Ave.jpg
+sale-or-lease: Lease
+square-footage: '2,500 SF'
+price: '$3,000/mo'
+address: 900 9th Avenue
 city: Greeley
 state: CO
 zip: '80631'
 real-estate-agency:
-real-estate-agent:
+real-estate-agent: Jessie Jacobs
 real-estate-email:
-real-estate-phone:
+real-estate-phone: (970) 576-6381
 image-gallery:
   - title:
     small_image_path: /assets/images/properties/properties-default.png
     large_image_path: /assets/images/properties/properties-default.png
 ---
+
+
