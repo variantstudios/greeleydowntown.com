@@ -23,9 +23,6 @@ image-gallery:
   - title:
     small_image_path: /assets/images/properties/small/shaw loft-4.jpg
     large_image_path: /assets/images/properties/large/shaw loft-4.jpg
-  - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
 ---
 
 
