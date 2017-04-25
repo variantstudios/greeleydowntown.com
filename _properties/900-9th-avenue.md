@@ -16,7 +16,7 @@ real-estate-phone: (970) 576-6381
 image-gallery:
   - title:
     small_image_path: /assets/images/properties/small/900 9th Ave-2.jpg
-    large_image_path: /assets/images/properties/small/900 9th Ave-2.jpg
+    large_image_path: /assets/images/properties/large/900 9th Ave-2.jpg
 ---
 
 
