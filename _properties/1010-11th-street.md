@@ -1,7 +1,7 @@
 ---
 title: 1010 11th Street
 property-type: Commercial
-image_path: /assets/images/properties/1010-11th-avenue.jpg
+image_path: /assets/images/properties/1010-11th-street.jpg
 sale-or-lease: Sale
 square-footage: '7,084 SF'
 price: '$675,000'
@@ -26,6 +26,6 @@ image-gallery:
 * 10 off-street parking spaces as well as free public parking on the street
 * Shares access parking with liquor store
 * Area is in the Downtown Development Authority; The property qualifies for several governent programs to include:
-  * &nbsp;&nbsp; &nbsp;Enterprise Zone State Income Tax Credit
-  * &nbsp;&nbsp; &nbsp;Facade Grant Program
-  * &nbsp;&nbsp; &nbsp;Greeley Community Development Fund
+  * Enterprise Zone State Income Tax Credit
+  * Facade Grant Program
+  * Greeley Community Development Fund
