@@ -2,9 +2,9 @@
 title: 807 17th Street
 property-type: Commercial
 image_path: /assets/images/properties/807 17th St.jpg
-sale-or-lease: Sale
-square-footage: '20,252 SF'
-price: '$3,249,000'
+sale-or-lease: Sale and Lease
+square-footage: 'Lease- 3,383 SF; Sale- 20,252 SF'
+price: 'Lease- $9.25/SF; Sale- $3,249,000'
 address: 807 17th Street
 city: Greeley
 state: CO
