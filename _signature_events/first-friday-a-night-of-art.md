@@ -7,7 +7,7 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on April 7th, 2017 for our next First Friday
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on May 5th, 2017 for our next First Friday
 
 ###### *Participating locations:*
 
@@ -15,13 +15,13 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-On Friday, April 7th from 5-7pm, the Academy Of Natural Therapy will feature the Greeley Central High School AP Studio Art Show. The evening will celebrate the works of 17 Greeley Central High School AP Studio Art Students who are showing their work as a mix of Drawings, Paintings, Photography, Sculpture, Mixed Media and Ceramic works. Please support these young artists as we celebrate their artistic discoveries and accomplishments. Show will run through April 18th.
+The Academy of Natural Therapy will have “Flowers” artwork of all mediums for cash sale.&nbsp; April Showers bring May Flowers and what better flowers to get your mom for Mother's Day than original artwork that will brighten her day!
 
-### ART MAN DO. Studio
+### ART MAN DO. Studio and Keynote Coffee
 
 802 9th Street, Lower
 
-No information provided
+ArtManDo.Studio and Keynote Coffee present “Designed By Dysphoria” featuring the artwork of Alexandria DeJoy.
 
 ### ArtWerx Studio/Gallery
 
@@ -33,13 +33,13 @@ No information provided
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will feature the collaboration between a painter and a photographer…Tony Garza and David Dougherty.
+Atlas Gallery and John Galt Coffee will feature the artwork of Atlas is Wes Sam-Bruce.
 
 ### Brix Taphouse & Brewery
 
 813 8th Street
 
-No information provided
+Brix Taphouse & Brewery will feature the artwork of Lexi Penny.
 
 ### Cafe Panache
 
@@ -51,61 +51,67 @@ No information provided
 
 823 10th Street
 
-The Cranford Cove Tea Tavern will feature the work of Lana Yost, Morgan Schilling and Alex Duncan.
+No information provided
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-April is Autism Awareness Month and Grand Lake’s 16th Street Tavern will be hanging up the art from students in The Monfort Elementary Intensive Autism Classrooms.
+Grand Lake’s 16th Street Tavern will feature the artwork of Greeley Based Artist Elijah Trujillo. Elijah was Introduced to graffiti when he was 14. He does abstract art with a graffiti influence and he tries to be versatile with his technique while maintaining a similar medium.
 
 ### Joe Molina Gallery & Studios
 
 930 8th Avenue
 
-Join the Joe Molina Gallery & Studios on Friday, April 7th to support an evening of local art and music in Downtown Greeley! Their guest artist for the event will be Anthony Ocean and their guest musicians will be Josh Bell (on piano) Y Megan Ugarte (vocals). Carla at the Azucar Espresso Bar will also be open for beverage sales.
+No information provided
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The Madison & Main Gallery’s current show “Faces and Figures”features twelve guest artists. The guest artists’ work show Faces and Figures- whimsical and real, that come in all sizes and mediums. Self-portraits by gallery members are included. The slate of guest artists include: Betsy Anderson, Katee Barreras, Thom Bator, Susan Brownie, Kerri Ertman, Jim Fronapfel, Autumn Kegley, Tracy Murphy, Emily T. Nelson, Caron O’Neil, Michele Renaud Slavik, and Chuck Turner. On\*\* Friday, April 7th\*\* from 5-8pm one of the guest artists, Jim Fronapfel, will explain his portrait during an artist’s demonstration. He will be working on several short pieces using colored pencil, charcoal, and pastel. This is a demonstration not to miss! For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/).
+The Madison and Main Gallery will host a public opening reception for the 30th Annual Garden Show. The theme is “GROWTH IN ITS SEASON!”&nbsp; This lends to a more open-ended spectrum of subject matter possibilities!&nbsp; Additionally, they will be exhibiting the work of advanced art students from Aims and UNC in a feature called “Sprouting Artists!”&nbsp; This popular spring show begins May 1 and runs through June 30, 2017. Meet the guest artists and members at the opening reception on May 5, 2017 from 5–8 pm at the Gallery. Madison & Main is an artists-owned gallery and hours are 10am- 6pm Monday through Friday and 10am-4pm Saturday. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/).
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
 
-No information provided
+Margie’s Caf&eacute; at the Farmer’s Pantry will feature “The 8th Grade Showcase” which is an opportunity for Chappelow 8th graders to display their work to the community and sell that work in an auction to benefit arts integration at Chappelow.&nbsp; Every dollar from the sale of the artwork goes toward promoting artistic opportunities inside the school day and creating a climate and culture of arts at Chappelow. There will be paintings, photographs, sculptures, music, and many other displays of tremendous talent from Chappelow students. Please stop by to appreciate the work these artists have put in. The gallery will be up at Margie’s Thursday through Friday evening and the art will then be displayed in the lobby at Chappelow K-8 until the 22nd when the silent auction closes.
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-The Showcase Art Center will feature a First Friday pARTy!  Paint and sip at the Showcase Art Center on Friday, April 7th from 5-7pm. All supplies, treats and instruction for $25. RSVP requested.
+The Showcase Art Center will not have a First Friday event in May.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
-Local illustrator Sara Sarioglu will be Syntax Spirits Distillery’s April First Friday Artist. iamnotunique illustrations will be on display for the duration of the month and Sara will be available for meet and greet April 7th.
+Chelsea Hinspeter, Syntax's own bar manager, will be May's featured artist of the month. Chelsea will be available to chat from 6-8pm and her art will be available for viewing and purchase for the entire month. Chelsea dabbles in a variety of mediums and most of her pieces end up being a modge podge of mixed media.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will be hosting SAVA Center Photographs and Julie Stratton, musician/ songwriter, will be returning to share her music.
+The Bean Plant Studio is proud to present Artist Samantha Calderon. Musician Amaya Arevalo will also be performing from 6-7pm and Doug Wurz will be on-site with Cards and Gifts for Mother’s Day.
+
+### The Blue Mug Coffee and Roastery
+
+807 17th Street
+
+The Blue Mug Coffee and Roastery will feature the artwork of Kelsey Layton.
 
 ### The Dragon’s Cache
 
 1109 7th Street
 
-The Dragon’s Cache will host “Pieces of Me” featuring the artwork of Filomena Lee
+The Dragon’s Cache will feature Oils by Alan Adler.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-The Eden Gallery will feature “A Young Man’s Journey”…Pen & Ink Exhibit
+The Eden Gallery will host a reception for Quinnevere's Designs. Local artist, creative & designer Jennifer Dickey will be available from 5-8:30pm to answer questions & show her latest handcrafted silver jewelry designs & photography.
 
 ### Tointon Gallery
 
