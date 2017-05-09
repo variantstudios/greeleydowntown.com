@@ -31,7 +31,7 @@ permalink: /supporters-and-sponsors/
 
 * [All Purpose Rental](http://www.allpurposerental.com/)
   <br>[Greeley Tribune](http://www.greeleytribune.com/)
-* High Country Beverage
+* [High Country Beverage](http://highcountrybeverage.com/agegate/)
   <br>NCMC, Inc.
   <br>&nbsp;
 
@@ -46,8 +46,10 @@ permalink: /supporters-and-sponsors/
   <br>[Greeley Tribune](http://www.greeleytribune.com/)
   <br>[Mariposa Plants & Flowers](http://www.mariposaflowers.com/)
   <br>NCMC, Inc.
+* [Right Coast Pizza](http://www.rightcoastpizza.com/)
   <br>[Steamway Floor to Ceiling](http://www.steamwayftc.com/)
   <br>[The Bean Plant Studio](https://www.facebook.com/TheBeanPlantStudio/)
+* [The Original Roma](http://romagreeley.com/)
   <br>[The Resource Center](http://tests4greeley.com/)
   <br>[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
   <br>[Wm. Moore Jewelers](http://www.wmmoorejewelers.com/)
