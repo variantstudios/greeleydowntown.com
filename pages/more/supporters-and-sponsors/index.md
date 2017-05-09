@@ -29,6 +29,14 @@ permalink: /supporters-and-sponsors/
 
 ### Friday Fest
 
+* [All Purpose Rental](http://www.allpurposerental.com/)
+  <br>[Greeley Tribune](http://www.greeleytribune.com/)
+* High Country Beverage
+  <br>NCMC, Inc.
+  <br>&nbsp;
+
+### Oktobrewfest
+
 * [Academy of Natural Therapy](http://www.natural-therapy.com/)
   <br>[All Purpose Rental](http://www.allpurposerental.com/)
   <br>[Accessories with a Flair](http://accessoriesfashionsandhair.com/)
@@ -43,4 +51,3 @@ permalink: /supporters-and-sponsors/
   <br>[The Resource Center](http://tests4greeley.com/)
   <br>[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
   <br>[Wm. Moore Jewelers](http://www.wmmoorejewelers.com/)
-* &nbsp;
