@@ -16,7 +16,7 @@ Phone: (970) 573-5495
 Website: 'https://agents.farmers.com/co/eaton/kathie-wagner'
 Contact_Name: Kathie Wagner
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/farmers-insurance.png
 ---
 
 
