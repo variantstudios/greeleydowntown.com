@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Yolk
+Business: Eggonomics
 dining_categories:
   - american
 entertainment_and_recreation_categories:
@@ -16,7 +16,7 @@ Phone: (970) 515-5374
 Website: 'https://www.facebook.com/yolkcolorado/'
 Contact_Name: Tim Veldhuizen
 Contact_Email: tim.veldhuizen@yahoo.com
-Logo_image_path: /assets/images/directory/yolk.png
+Logo_image_path: /assets/images/directory/eggonomics.png
 ---
 
 
