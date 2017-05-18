@@ -3,7 +3,7 @@ title: 900 9th Avenue
 property-type: Commercial
 image_path: /assets/images/properties/900 9th Ave.jpg
 sale-or-lease: Lease
-square-footage: '2,500 SF'
+square-footage: '2,300 SF'
 price: '$3,000/mo'
 address: 900 9th Avenue
 city: Greeley
