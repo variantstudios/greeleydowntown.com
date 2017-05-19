@@ -28,7 +28,7 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Have you heard about Shop Around the Block?
 
-This fun night of shopping with take place on the 4th Thursday of every month from 5-8 pm, starting April 27th through December 28. Visit one of the following participating businesses and pick up your Passport to Fun:
+This fun night of shopping will take place on the 4th Thursday of every month from 5-8 pm, starting April 27th through December 28. Visit one of the following participating businesses and pick up your Passport to Fun:
 
 Accessories With A Flair!…and Hair – 801 8th Avenue #4
 
