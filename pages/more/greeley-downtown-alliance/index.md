@@ -24,7 +24,7 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, June 16, 2017 for our next monthly meeting. The meeting will be held at La Petite French Bakery located at 191 16th Street.
+> Please join us at 8am on Friday, June 16, 2017 for our next monthly meeting. The meeting will be held at La Petite French Bakery located at 919 16th Street.
 
 ### Have you heard about Shop Around the Block?
 
