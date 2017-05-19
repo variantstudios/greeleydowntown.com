@@ -3,12 +3,12 @@ layout: page
 title: Greeley Downtown Alliance
 description: The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district.
 meeting_minutes:
+  - title: GDA April 2017 Minutes
+    pdf_path: /assets/pdfs/GDA Meeting Minutes 4-21-17.pdf
   - title: GDA March 2017 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 3-17-17.pdf
   - title: GDA February 2017 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 2-17-17.pdf
-  - title: GDA January 2017 Minutes
-    pdf_path: /assets/pdfs/GDA Meeting Minutes 1-20-17.pdf
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
@@ -24,7 +24,7 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, May 19, 2017 for our next monthly meeting. The meeting will be held at United Way of Weld County located at 814 9th Street.
+> Please join us at 8am on Friday, June 16, 2017 for our next monthly meeting. The meeting will be held at La Petite French Bakery located at 191 16th Street.
 
 ### Have you heard about Shop Around the Block?
 
