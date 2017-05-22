@@ -16,7 +16,7 @@ Phone: (303) 505-7957
 Website:
 Contact_Name: Gerardo Luna
 Contact_Email: gluna0129@gmail.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/premier-group-insurance.png
 ---
 
 
