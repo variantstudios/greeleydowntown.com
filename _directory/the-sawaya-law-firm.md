@@ -1,12 +1,12 @@
 ---
 live_directory: false
 Business: The Sawaya Law Firm
-Street: '725 10th Street, Ste C'
+Street: 926 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 372-0834
-Website: 'http://www.sawayalaw.com/'
+Website: www.sawayalaw.com/locations/greeley/
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
