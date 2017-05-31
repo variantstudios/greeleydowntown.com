@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: 'Consider it There, Inc.'
-Street: '812 11th Street, Ste. 1'
+Street: '812 11th Street, Ste. 2'
 City: Greeley
 State: Colorado
 Zip: 80631
