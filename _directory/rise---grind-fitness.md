@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Rise + Grind Fitness
-Street: 1020 9th Avenue
+Street: 1021 9th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
