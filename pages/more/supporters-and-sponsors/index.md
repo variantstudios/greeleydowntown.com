@@ -15,6 +15,7 @@ permalink: /supporters-and-sponsors/
   <br>Evans Group
   <br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
 * [Flood & Peterson](http://floodpeterson.com/)
+* Great Northern Properties
   <br>[High Plains Library District](http://www.mylibrary.us/)
   <br>[Leprino Foods Company](http://www.leprinofoods.com/)
   <br>[Lincoln Park Emporium](http://www.lincolnparkemporium.com/home.php)
@@ -52,4 +53,5 @@ permalink: /supporters-and-sponsors/
 * [The Original Roma](http://romagreeley.com/)
   <br>[The Resource Center](http://tests4greeley.com/)
   <br>[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
+* [Wheeler Management Group](http://www.wheelermgt.com/)
   <br>[Wm. Moore Jewelers](http://www.wmmoorejewelers.com/)
