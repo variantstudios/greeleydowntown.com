@@ -16,7 +16,7 @@ Phone: (970) 378-7878
 Website: 'https://www.asapbail.net/greeley-bail-bonds/'
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/asap-bail-bonds.png
 ---
 
 
