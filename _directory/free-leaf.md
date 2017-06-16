@@ -9,14 +9,14 @@ retail_categories:
   - apparel-and-shoes
   - gifts-and-hobbies
 service_categories:
-Street: 918 9th Avenue
+Street: 918 1/2 9th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
+Phone: (303) 726-1390
 Website: 'https://www.facebook.com/shopfreeleaf/'
-Contact_Name:
-Contact_Email:
+Contact_Name: Ashley Olson
+Contact_Email: hello@freeleafshop.com
 Logo_image_path: /assets/images/directory/free-leaf.png
 ---
 
