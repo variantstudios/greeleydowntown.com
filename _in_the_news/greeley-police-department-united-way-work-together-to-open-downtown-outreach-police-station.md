@@ -1,7 +1,7 @@
 ---
 title: 'Greeley Police Department, United Way work together to open downtown outreach police station'
 date: 2017-05-11 00:00:00
-image_path: /assets/syntax-greeley-elevator.jpg
+image_path: /assets/downtown-greeley-police.jpg
 link_path:
 ---
 
