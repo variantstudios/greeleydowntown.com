@@ -13,7 +13,6 @@ Historic Structure Assessment grants are awarded for the sole purpose of prepari
 * Architect and structural engineer are required to attend an initial consultation with a State Historical Fund Historic Preservation Specialist at the commencement of the grant contract.
 * Other professionals including engineers, archaeologists, historic preservation consultants, contractors, historians and cost estimators may also be members of the assessment team.
 
-
 An assessment will serve as a useful tool to assist the owner in making appropriate and informed decisions regarding future restoration and maintenance efforts. If an assessment grant is awarded, the assessment should have final approval from State Historical Fund staff before a Competitive Grant application is submitted for physical work to the property. Submitting a Competitive Grant application prior to final approval of a Historic Structure Assessment can strongly impact the competitiveness of the application.
 
-For more information, visit: [www.historycolorado.org/grants/shf-historic-structure-assessment-grants](www.historycolorado.org/grants/shf-historic-structure-assessment-grants)
+For more information, visit: [http://www.historycolorado.org/grants/shf-historic-structure-assessment-grants](http://www.historycolorado.org/grants/shf-historic-structure-assessment-grants)
