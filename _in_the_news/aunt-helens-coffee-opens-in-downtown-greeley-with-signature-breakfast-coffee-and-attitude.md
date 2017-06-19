@@ -10,4 +10,4 @@ When Aimee Hutson brought her aunt Helen to her new downtown Greeley coffee shop
 
 "She was here for our opening and looked at me and said she thinks it's going to do well, and that she was surprised," Hutson said with a laugh. "You tend to look at her and say, 'I think I'll take that as a compliment.'"
 
-Read More
+[Read More](http://www.greeleytribune.com/news/business/aunt-helens-coffee-opens-in-downtown-greeley-with-signature-breakfast-coffee-and-attitude/)
