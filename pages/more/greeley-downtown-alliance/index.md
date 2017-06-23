@@ -3,12 +3,12 @@ layout: page
 title: Greeley Downtown Alliance
 description: The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district.
 meeting_minutes:
+  - title: GDA May 2017 Minutes
+    pdf_path: /assets/pdfs/GDA Meeting Minutes - 5-19-17.pdf
   - title: GDA April 2017 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 4-21-17.pdf
   - title: GDA March 2017 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 3-17-17.pdf
-  - title: GDA February 2017 Minutes
-    pdf_path: /assets/pdfs/GDA Meeting Minutes 2-17-17.pdf
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
@@ -24,7 +24,7 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, July 21st, 2017 for our next monthly meeting. The meeting will be held at the Greeley Farmers' Market location at the Historic Train Depot located at 902 7th Avenue.
+> Please join us at 8am on Friday, July 21st, 2017 for our next monthly meeting. The meeting will be held at the Greeley Farmers’ Market location at the Historic Train Depot located at 902 7th Avenue.
 
 ### Have you heard about Shop Around the Block?
 
