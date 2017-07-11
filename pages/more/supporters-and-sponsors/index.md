@@ -16,6 +16,7 @@ permalink: /supporters-and-sponsors/
   <br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
 * [Flood & Peterson](http://floodpeterson.com/)
 * Great Northern Properties
+* [Hensel Phelps](http://www.henselphelps.com/)
   <br>[High Plains Library District](http://www.mylibrary.us/)
   <br>[Leprino Foods Company](http://www.leprinofoods.com/)
   <br>[Lincoln Park Emporium](http://www.lincolnparkemporium.com/home.php)
