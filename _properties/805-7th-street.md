@@ -1,20 +1,35 @@
 ---
 title: 805 7th Street
-property-type:
-image_path: /assets/images/properties/properties-default.png
-sale-or-lease:
-square-footage:
-price:
-address:
+property-type: Commercial
+image_path: /assets/front.JPG
+sale-or-lease: Lease
+square-footage: '4,500 SF'
+price: '$2,000/mo'
+address: 805 7th Street
 city: Greeley
 state: CO
 zip: '80631'
 real-estate-agency:
-real-estate-agent:
-real-estate-email:
-real-estate-phone:
+real-estate-agent: James Mongan
+real-estate-email: director@natural-therapy.com
+real-estate-phone: (970) 352-1181
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
+    small_image_path: /assets/805-7th-st-1.jpg
+    large_image_path: /assets/805-7th-st-1.JPG
+  - title:
+    small_image_path: /assets/805-7th-st-2.jpg
+    large_image_path: /assets/805-7th-st-2.JPG
+  - title:
+    small_image_path: /assets/805-7th-st-3.jpg
+    large_image_path: /assets/805-7th-st-3.JPG
+  - title:
+    small_image_path: /assets/805-7th-st-4.jpg
+    large_image_path: /assets/805-7th-st-4.JPG
+  - title:
+    small_image_path: /assets/805-7th-st-5.jpg
+    large_image_path: /assets/805-7th-st-5.JPG
 ---
+
+
+Great retail space on 8th Avenue and 7th Street. Some rent exchange for improvements.
