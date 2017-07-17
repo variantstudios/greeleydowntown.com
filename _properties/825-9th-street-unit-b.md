@@ -3,8 +3,8 @@ title: '825 9th Street, Unit B'
 property-type: Commercial
 image_path: /assets/images/properties/825 9th st.png
 sale-or-lease: Lease
-square-footage: '4,375 SF'
-price: $5.50/SF
+square-footage: '3,750 SF (Divisible to 2,000 SF)'
+price: '$2,500/mo + Utilities'
 address: '825 9th Street, Unit B'
 city: Greeley
 state: CO
@@ -20,4 +20,9 @@ image-gallery:
 ---
 
 
-Located in the heart of Greeley's downtown commercial district. Next to well trafficked Rio Grande Mexican Restaurant. Across from Lincoln Park. Aggressively priced retail/office space with large lower level. Lower level well suited for hooka, club, gaming arcade, home furnishings, brewery or distillery.&nbsp;
+825 9th Street is located in the heart of Greeley's downtown commercial district. It's next to well trafficked Rio Grande Mexican Restaurant, across from Lincoln Park. Aggressively priced retail/office space. Great for many uses such as: hooka, club, gaming arcade, home furnishings, brewery or distillery.&nbsp;
+
+Property Highlights:
+
+* New storefront facade completed
+* High ceilings
