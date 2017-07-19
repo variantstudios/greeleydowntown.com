@@ -15,14 +15,14 @@ real-estate-email: drew@thomasandtyler.com
 real-estate-phone: (970) 351-8888
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/small/shaw loft-2.jpg
-    large_image_path: /assets/images/properties/large/shaw loft-2.jpg
+    small_image_path: /assets/804-8th-st-2.jpg
+    large_image_path: /assets/804-8th-st-2.jpg
   - title:
-    small_image_path: /assets/images/properties/small/shaw loft- 3.jpg
-    large_image_path: /assets/images/properties/large/shaw loft- 3.jpg
+    small_image_path: /assets/804-8th-st-3.jpg
+    large_image_path:
   - title:
-    small_image_path: /assets/images/properties/small/shaw loft-4.jpg
-    large_image_path: /assets/images/properties/large/shaw loft-4.jpg
+    small_image_path: /assets/804-8th-st-4.jpg
+    large_image_path:
 ---
 
 
