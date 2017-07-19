@@ -19,10 +19,10 @@ image-gallery:
     large_image_path: /assets/804-8th-st-2.jpg
   - title:
     small_image_path: /assets/804-8th-st-3.jpg
-    large_image_path:
+    large_image_path: /assets/804-8th-st-3.jpg
   - title:
     small_image_path: /assets/804-8th-st-4.jpg
-    large_image_path:
+    large_image_path: /assets/804-8th-st-4.jpg
 ---
 
 
