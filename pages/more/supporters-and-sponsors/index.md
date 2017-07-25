@@ -56,3 +56,4 @@ permalink: /supporters-and-sponsors/
   <br>[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
 * [Wheeler Management Group](http://www.wheelermgt.com/)
   <br>[Wm. Moore Jewelers](http://www.wmmoorejewelers.com/)
+* [Woody's Newsstand](https://www.facebook.com/woodysbookstore/)
