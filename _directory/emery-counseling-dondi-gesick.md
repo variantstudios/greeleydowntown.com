@@ -16,7 +16,7 @@ Phone: (970) 515-6434
 Website: www.emerycounseling.com
 Contact_Name: Dondi Gesick
 Contact_Email: dondi@emerycounseling.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/dondi-photo.jpg
 ---
 
 
