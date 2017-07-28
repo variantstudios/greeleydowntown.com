@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Emery Counseling
+Business: Emery Counseling- Dondi Gesick
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -20,3 +20,4 @@ Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
+Providing counseling for many life challenges: premarriage, marriage, anxiety, depression, grief and loss, divorce recovery, second marriages and blended families. Ages 13-99.
