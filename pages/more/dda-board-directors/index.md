@@ -7,8 +7,10 @@ meeting_minutes:
     pdf_path: /assets/pdfs/DDA Meeting Minutes - 6-15-17.pdf
   - title: May 2017 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes - 5-18-2017.pdf
-  - title: April 2017 DDA Minutes
-    pdf_path: /assets/pdfs/DDA Meeting Minutes - 4-20-17.pdf
+  - title: July 2017 Meeting Minutes
+    pdf_path:
+  - title:
+    pdf_path:
 sub-nav: more
 permalink: /dda-board-directors/
 ---
