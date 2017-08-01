@@ -7,7 +7,7 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on July 7th, 2017 for our next First Friday
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on August 4th, 2017 for our next First Friday
 
 ###### *Participating locations:*
 
@@ -15,7 +15,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-The Academy of Natural Therapy will be having their featured artist, Scott Chartier, demonstrating his painting techniques from 5:30-6:30 on this First Friday. As always ANT will be having an open viewing in the gallery Friday from 5-7pm with free chair massages by the students.
+No information provided
 
 ### ART MAN DO. Studio and Keynote Coffee
 
@@ -63,7 +63,7 @@ Join the Joe Molina Gallery and Studios in celebration of First Friday: A Night 
 
 927 16th Street
 
-The show “Bicycle Art” features fifteen guest artists and the members of the Madison and Main Gallery. These artists have produced new work reflecting how bicycles can be captured in their artwork. This fabulous show runs through August 25, 2017. **Meet the guest&nbsp;****artists and members during the *public opening reception* on *First Friday*, *July 7th, from 4-8pm.***In addition to the new work by member artists, the gallery is excited to have the work of guest artists: Felisha Brower, Nancy Condit, Brian Dunning, Mario Garcia, Michael Holdahl, Colleen Martin, Brinkley Messick, Emily Nelson, Jon Rios, Brittany Schmidt, Armando Silva, Annie Surbeck, Nicole Wilder, Benjamin Wright, and Tangier Wright. **On July 7th, in conjunction with the opening reception,****BIKE SHOW 7 – "Bikes On The Patio" will be the biggest yet.** There will be music on the "Patio" by Joe Lee Parker, bringing his Ambient Live presentation. Come and see the variety of bikes and what the hoopla is all about! The Madison & Main is an artists-owned gallery. Hours are 10am-6pm. Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
+The show “Bicycle Art” features fifteen guest artists and the members of the Madison and Main Gallery. These artists have produced new work reflecting how bicycles can be captured in their artwork. This fabulous show runs through August 25, 2017. **Meet the guest&nbsp;****artists and members during the *public opening reception* on *First Friday*, *July 7th, from 4-8pm.***In addition to the new work by member artists, the gallery is excited to have the work of guest artists: Felisha Brower, Nancy Condit, Brian Dunning, Mario Garcia, Michael Holdahl, Colleen Martin, Brinkley Messick, Emily Nelson, Jon Rios, Brittany Schmidt, Armando Silva, Annie Surbeck, Nicole Wilder, Benjamin Wright, and Tangier Wright. **On July 7th, in conjunction with the opening reception,****BIKE SHOW 7 – “Bikes On The Patio” will be the biggest yet.** There will be music on the “Patio” by Joe Lee Parker, bringing his Ambient Live presentation. Come and see the variety of bikes and what the hoopla is all about! The Madison & Main is an artists-owned gallery. Hours are 10am-6pm. Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
