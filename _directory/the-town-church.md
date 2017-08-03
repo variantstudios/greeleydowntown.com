@@ -16,7 +16,7 @@ Phone: (970) 515-3388
 Website: 'http://www.thetownchurchgreeley.org'
 Contact_Name: Sergei Yepishin
 Contact_Email: sergei@thetownchurch.org
-Logo_image_path: /assets/the-town-church.jpg
+Logo_image_path: /assets/the-town-church-1.jpg
 ---
 
 
