@@ -1,19 +1,22 @@
 ---
 live_directory: false
-Business:
+Business: The Town Church
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+  - churches-and-religious-organizations
+Street: 614 8th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
-Contact_Name:
-Contact_Email:
+Phone: (970) 515-3388
+Website: 'http://www.thetownchurchgreeley.org'
+Contact_Name: Sergei Yepishin
+Contact_Email: sergei@thetownchurch.org
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
+
