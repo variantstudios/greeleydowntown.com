@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 352-2307
-Website: www.farmersagent.com/ngesick
+Website: 'https://agents.farmers.com/co/greeley/nathanael-gesick'
 Contact_Name: Nate Gesick
 Contact_Email: ngesick@farmersagent.com
 Logo_image_path: /assets/nate-photo.jpg
