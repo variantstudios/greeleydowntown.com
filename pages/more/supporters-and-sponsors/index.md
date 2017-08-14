@@ -45,6 +45,7 @@ permalink: /supporters-and-sponsors/
   <br>[Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)
   <br>[City of Greeley](http://greeleygov.com/)
   <br>[Cranford Cove Tea Tavern](http://www.cranfordcove.com/)
+* [First National Bank](https://www.1stnationalbank.com/site/personal/)
   <br>[Greeley Tribune](http://www.greeleytribune.com/)
   <br>[Mariposa Plants & Flowers](http://www.mariposaflowers.com/)
   <br>NCMC, Inc.
@@ -56,4 +57,4 @@ permalink: /supporters-and-sponsors/
   <br>[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
 * [Wheeler Management Group](http://www.wheelermgt.com/)
   <br>[Wm. Moore Jewelers](http://www.wmmoorejewelers.com/)
-* [Woody's Newsstand](https://www.facebook.com/woodysbookstore/)
+* [Woody’s Newsstand](https://www.facebook.com/woodysbookstore/)
