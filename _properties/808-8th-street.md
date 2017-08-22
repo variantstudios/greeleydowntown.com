@@ -1,7 +1,7 @@
 ---
 title: 808 8th Street
 property-type: Commercial
-image_path: /assets/808-8th-st-2.jpg
+image_path: /assets/808-8th-st-2-1.jpg
 sale-or-lease: Lease
 square-footage:
 price: $12/SF
@@ -20,4 +20,4 @@ image-gallery:
 ---
 
 
-Classic Brick Professional Building in the Heart of Historic Downtown Greeley. Separately metered utilities, 15 foot ceilings, original exposed brick interior walls, original stamped tin ceiling tiles, ADA restroom, kitchenette, mezzanine, alley access. Suitable for Wine Bar, Deli, Retail, and Office Space. Near Courthouse, Right Coast Pizza, Brix Taphouse and Brewery, Chophouse, and much, much more. DOWNTOWN GREELEY.....WE GOT IT GOING ON!!!!!
+Classic Brick Professional Building in the Heart of Historic Downtown Greeley. Separately metered utilities, 15 foot ceilings, original exposed brick interior walls, original stamped tin ceiling tiles, ADA restroom, kitchenette, mezzanine, alley access. Suitable for Wine Bar, Deli, Retail, and Office Space. Near Courthouse, Right Coast Pizza, Brix Taphouse and Brewery, Chophouse, and much, much more. DOWNTOWN GREELEY…..WE GOT IT GOING ON!!!!!
