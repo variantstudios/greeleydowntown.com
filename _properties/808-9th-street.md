@@ -1,7 +1,7 @@
 ---
 title: 808 9th Street
 property-type: Commercial
-image_path: /assets/808-9th-st.jpg
+image_path: /assets/808-9th-st-1.jpg
 sale-or-lease: Lease
 square-footage: '3,200 SF'
 price: '$3,200/mo Gross + Utilities'
