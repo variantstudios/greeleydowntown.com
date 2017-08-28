@@ -42,6 +42,7 @@ permalink: /supporters-and-sponsors/
 * [Academy of Natural Therapy](http://www.natural-therapy.com/)
   <br>[All Purpose Rental](http://www.allpurposerental.com/)
   <br>[Accessories with a Flair](http://accessoriesfashionsandhair.com/)
+* [Bentley's Pet Stuff](https://www.petstuff.com/)
 * [Black Bottle Brewery](https://blackbottlebrewery.com/)
   <br>[Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)
   <br>[City of Greeley](http://greeleygov.com/)
