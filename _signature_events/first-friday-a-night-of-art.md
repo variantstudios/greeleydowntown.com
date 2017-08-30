@@ -1,13 +1,17 @@
 ---
 title: 'First Friday: A Night of Art 2017'
-description: 'First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries.'
+description: >-
+  First Friday: A Night of Art is a great opportunity to visit local galleries
+  and businesses featuring rotating artwork. Held the first Friday of each month
+  from 5-8 pm, it is a self-guided tour and maps are available at each of the
+  participating galleries.
 image_path: /assets/images/signature-events/first-friday-greeley.png
 header_image_path:
 weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on August 4th, 2017 for our next First Friday
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on September 1, 2017 for our next First Friday
 
 ###### *Participating locations:*
 
@@ -15,7 +19,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-No information provided
+The Academy of Natural Therapy will not being having a First Friday Event this week, but the current Artist at the ANT Gallery is Scott Chartier.
 
 ### ART MAN DO. Studio and Keynote Coffee
 
@@ -33,63 +37,83 @@ No information provided
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will feature the artwork of Jessica Deball.
+The Atlas Gallery and John Galt Coffee will feature the artwork of Rick Destree. Original art, prints, lamps and comic available for purchase.
 
 ### Brix Taphouse & Brewery
 
 813 8th Street
 
-The August Featured Artist at Brix Taphouse & Brewery will be Mike Harrington. Mike is a local artist who will be teaching “Bob Ross – Joy of Painting” class to home school students on Fridays at Frontier Academy Access.
+No information provided.
 
 ### Cranford Cove Tea Tavern
 
 823 10th Street
 
-No information provided
+The Cranford Cove Tea Tavern will feature “A Beautiful World Of Abstraction” by Johnny Fonseth *(a Fine Art graduate from CSU and active member of the Denver Art Society)* and “Colorful Minds And Colorful People” by Rochelle Peeler *(a recent CSU graduate)*
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-Grand Lake’s 16th Street Tavern will feature the artwork of Juliette Salter during the month of August.
+Grand Lake’s 16th Street Tavern will feature the artwork of Lexi Luna and will feature live music from Daryl Ray at 7pm.
 
 ### Joe Molina Gallery & Studios
 
 930 8th Avenue
 
-Join the Joe Molina Gallery and Studios in celebration of First Friday: A Night of Art on August 4th. The evening will celebrate two local artists, Elijah Trujillo a local Graffiti Artist and Joe Molina. Joe Molina will have his most popular pieces out of the vault and on display at drastic savings. Elijah will be performing a live art demonstration and will have several of his new works for sale on display in this show he is calling “Phases” because in preparation for the show he’s made some drastic changes, not in his style, but in his concentrated mediums. This is a family friendly event.
+No information provided.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The show “Bicycle Art” features fifteen guest artists and the members of the Madison and Main Gallery. These artists have produced new work reflecting how bicycles can be captured in their artwork. This fabulous show runs through August 25th, 2017. In addition to the new work by member artists, the gallery is excited to have the work of guest artists: Felisha Brower, Nancy Condit, Brian Dunning, Mario Garcia, Michael Holdahl, Colleen Martin, Brinkley Messick, Emily Nelson, Jon Rios, Brittany Schmidt, Armando Silva, Annie Surbeck, Nicole Wilder, Benjamin Wright, and Tangier Wright. **On First Friday, August 4, from 5-8 pm,** there will be an **artist demonstration by Tess Jones**. She will explain the process of pewter repousse. This technique can be used with other metals. The Madison & Main is an artists-owned gallery. Hours are 10am-6pm. Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/).
+The Madison and Main Gallery will host a public opening reception for the new show **past. present. future. on September 1st from 5-****8pm.**The members will show their progression as artists by featuring a trio of work -- one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
 
-&nbsp;
+Ruth Savig: **Susan Anderson**: Karen McPherson
+
+Ruth Savig: **Dan Augenstein**: Berndt Savig
+
+Erica Brus: **Cate Austin**: Ben Sherman
+
+Bob Ragland: **Rodney Barnes**: Peggy Barnes
+
+Jared Butler: **Danyelle Butler**: Abby Einer
+
+Ancient Ancestors: **Tony Clough**: Heather Degen
+
+Melanie Haas: **Susan Haskins**: Melanie Haskins
+
+Susan Safarik: **Tess Jones**: Future Nephews
+
+Sharon Jacobs: **Gin Leuchter**: Jane Leuchter
+
+Karen Vroman: **Doreen Vroman**: Shannon England
+
+The Madison & Main is an artists-owned gallery. Hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
 
-argie’s Caf&eacute; at the Farmer’s Pantry will showcase “Timelines” featuring acrylic and spray paint on canvas by Jared Butler.
+No information provided.
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-The Showcase Art Center will feature an Acrylic Collage class taught by Colette Pitcher from 5-7pm. $25 covers all supplies, step-by-step instruction and an adult beverage. Fun and laughter guaranteed. Reservations appreciated. Call 970-356-8593.
+Try a stay-cation this Labor Day weekend and enjoy a First Friday paint and wine pARTy at the Showcase Art Center from 5:30-7:30pm. Enjoy an evening of painting with step-by step instruction by Colette Pitcher. All supplies included for $25 and you will go home with an acrylic landscape fall scene. RSVP appreciated at 970-356-8593.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
-Bernard L. Howarth is Syntax's August artist! Bernard will be available for a meet and greet from 6-8pm on August 4th, but his art will be on the display for the duration of the month. Howarth says his art gives the viewer an uncomfortable swinging and tickles the bottoms of their toes with whispy tips of graphite grasses and splinters of special media, aka ANYTHING.
+Rachael-Ann Omps is a local photographer and Syntax's September artist! Rachael-Ann brings her unique perception and never-before-seen art to the tasting lounge on 9/1! She will be available for a meet and greet from 6-8pm on First Friday and her pieces will be on display for the duration of the month. For this show specifically she gathered photos of 'Soul’ and also started a second collection that you can only find at the Syntax show.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will not be hosting a First Friday event on August 4th.
+The Bean Plant Studio will feature the Private Collection of Susan Smallwood Herold.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -101,16 +125,16 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache will showcase Water Music Dance featuring Photographs by Michael Knisely. Michael's own photographic journey turned toward Dance and Music performance, this collection spanning the past thirty-seven years, from Bruce Springsteen’s “Born in the USA” tour (1984) to a 2016 concert by Nikki Hill. Michael's work in dance covers his time photographing the University of Arizona and the University of Nebraska dance programs from 1987-2003. These opportunities showcase the expertise of gifted lighting designers, choreographers, as well as the dancers themselves. Michael tries to convey the magic of this art to express the essential power of Life, from film, silver-coated paper, and darkroom alchemy to the “zeroes and ones” of digital photography. He believes that this visual art form communicates and speaks in a unique language beyond what words alone can provide, in this medium's use of equipment, light, movement, texture, and the artist's creative instinct, to anticipate, create, generate, and share what we can in the time we have while we are alive. Refreshments will be served.
+The Dragon’s Cache has had a long history of giving local artists that first start. 37 years ago, Francis and Nellie Denning began the journey to give local artists a place to show their art. Many of their artists had their first show at the gallery and the month of September 2017 is no exception. They are happy to continue this journey with Francis and introduce a new artist to the gallery and the Greeley Community - Tiffany Smith’s Spray Painting will open with a reception on September 1, 2017 from 5-8pm. Her artwork will remain through the month of September. Please help welcome her to the Greeley Downtown Creative District. As always refreshments will be served.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-It's time to celebrate "Friends and Family" during the August First Friday at the Eden Gallery from 5-8:30pm. The Gallery will be offering their Friends and Family discount to all who visit, The discount applies to purchases over $50 and can be used on up to three items per visit. The Eden Gallery strives to host a variety of local artists and the August First Friday celebrates each one of them as they welcome the addition of David Siebel (potter), Rudy Muniz (4 Times Sake Clocks), and George Kernan (oils). These are all unique presentations that will add a focus point to your home or office. And, of course, they will have light refreshments!
+No information provided.
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-The Tointon Gallery features The Arts Picnic Fine Art Exhibit which provides Weld County artists the opportunity to display their creations for family, friends and for the community to enjoy. The City of Greeley is proud of the magnitude of talented artists residing in Weld County and, as a sponsor, of our community art exhibit, The Arts Picnic strives to promote and encourage the arts while improving the quality of life in Greeley. Admission to the gallery is free and the gallery is open Monday-Saturday from 8am-5pm. For more information about the Tointon Gallery and the Public Art Program, visit greeleyart.com.
+The Tointon Gallery will feature Global Vanitas: My Many Coloured Daze by local Artist Sonya PauKune. PauKune plans to display 365 different pieces of her multi-media pottery for the public to view and enjoy. PauKune attended the University of Northern Colorado from 1989 to 1994. &nbsp;She received a Bachelor of Arts in fine art with an emphasis in ceramics and printmaking/book arts. After undergraduate school, she was a graduate research assistant in art history as well as a graduate teaching assistant at Kansas State University where she received a Master of Fine Arts in Ceramics. From 1998 to 2007, PauKune was an adjunct faculty member in ceramics and art appreciation at Front Range Community College. In 2006, she decided to try primary art education and received her K-12 professional Art Education license. She taught drawing, painting, and printmaking for one year at University High School in Greeley before she joined Aims Community College in 2008. In addition to teaching art and design at Aims, PauKune volunteers on several boards and committees in the community. She is also the faculty advisor for the Aims Art in Action student club. The public can attend the Global Vanitas: My Many Coloured Daze artist reception scheduled from 5-7pm on Friday, September 1st. Refreshments will be served. The exhibit ends Saturday, October 7. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm. Admission is free. To learn more about the City of Greeley’s public art programs, visit GreeleyArt.com.
