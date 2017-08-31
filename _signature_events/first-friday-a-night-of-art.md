@@ -67,7 +67,7 @@ No information provided.
 
 927 16th Street
 
-The Madison and Main Gallery will host a public opening reception for the new show **past. present. future. on September 1st from 5-****8pm.**The members will show their progression as artists by featuring a trio of work -- one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
+The Madison and Main Gallery will host a public opening reception for the new show **past. present. future. on September 1st from 5-****8pm.**The members will show their progression as artists by featuring a trio of work – one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
 
 Ruth Savig: **Susan Anderson**: Karen McPherson
 
@@ -95,7 +95,7 @@ The Madison & Main is an artists-owned gallery. Hours are 10am-6pm Monday throug
 
 931 16th Street
 
-No information provided.
+Margie’s Caf&eacute; at the Farmer’s Pantry will feature Photography by Gaylen Olander. Gaylen is a self-taught photographer working with a variety of subjects. His current exhibit features primarily landscape and nature images. He has worked for the US Postal Service for 30 years carrying mail in California, North Dakota, and now Colorado. His work will be on display through September.
 
 ### Showcase Art Center
 
@@ -107,7 +107,7 @@ Try a stay-cation this Labor Day weekend and enjoy a First Friday paint and wine
 
 625 3rd Street, Unit C
 
-Rachael-Ann Omps is a local photographer and Syntax's September artist! Rachael-Ann brings her unique perception and never-before-seen art to the tasting lounge on 9/1! She will be available for a meet and greet from 6-8pm on First Friday and her pieces will be on display for the duration of the month. For this show specifically she gathered photos of 'Soul’ and also started a second collection that you can only find at the Syntax show.
+Rachael-Ann Omps is a local photographer and Syntax’s September artist! Rachael-Ann brings her unique perception and never-before-seen art to the tasting lounge on 9/1! She will be available for a meet and greet from 6-8pm on First Friday and her pieces will be on display for the duration of the month. For this show specifically she gathered photos of ‘Soul’ and also started a second collection that you can only find at the Syntax show.
 
 ### The Bean Plant Studio
 
