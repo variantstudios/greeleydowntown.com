@@ -15,7 +15,9 @@ Then prepare for a full day of fun on **Saturday, September 30th &nbsp;from 11AM
 
 Tickets for the 6th Annual VIP Beer Tasting are on sale now! Don't delay-- they sell out every year. Get yours at:&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2017-vip-beer-tasting-tickets-37669302899?aff=ehomecard](https://www.eventbrite.com/e/greeley-oktobrewfest-2017-vip-beer-tasting-tickets-37669302899?aff=ehomecard)
 
-# **2017 Event Schedule To Be Announced**
+# **Entertainment Schedule To Be Announced Soon!**
+
+&nbsp;
 
 A big THANK YOU to our sponsors! This event would not be possible without them!!
 
