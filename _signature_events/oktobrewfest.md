@@ -15,6 +15,10 @@ Then prepare for a full day of fun on **Saturday, September 30th &nbsp;from 11AM
 
 Tickets for the 6th Annual VIP Beer Tasting are on sale now! Don’t delay– they sell out every year. Get yours at:&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2017-vip-beer-tasting-tickets-37669302899?aff=ehomecard](https://www.eventbrite.com/e/greeley-oktobrewfest-2017-vip-beer-tasting-tickets-37669302899?aff=ehomecard)
 
+Volunteers needed!!!!! Sign up here:&nbsp;
+
+[http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys4](http://www.signupgenius.com/go/10c094aaaaa2da13-greeleys4)
+
 # **Entertainment Schedule:**
 
 **Friday, September 29th<br>Gazebo Main Stage Schedu****le**<br>5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ken &nbsp;Levinson Polka Band &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>7:30-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Little Moses Jones Band
