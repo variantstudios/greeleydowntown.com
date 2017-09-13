@@ -35,4 +35,6 @@ Volunteers needed!!!!! Sign up here:&nbsp;
 
 A big THANK YOU to our sponsors! This event would not be possible without them!!
 
-![](/assets/versions/okt2017-sponsors--for-website---x----1056-864x---.jpg)
+![](/assets/versions/okt2017-sponsors--for-website-1---x----1650-1350x---.jpg)
+
+&nbsp;
