@@ -23,13 +23,13 @@ Volunteers needed!!!!! Sign up here:&nbsp;
 
 **Friday, September 29th<br>Gazebo Main Stage Schedu****le**<br>5:30-7:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ken &nbsp;Levinson Polka Band &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>7:30-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Little Moses Jones Band
 
-**Contest & Games**<br>5:00-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp;Life-Size Beer Pong & Gladiator Joust<br>7:00 & 7:15pm &nbsp; &nbsp; &nbsp; &nbsp;Stein Hoist Contest
+**Contest & Games**<br>5:00-10:00 pm &nbsp; &nbsp; &nbsp; &nbsp;Life-Size Beer Pong & Gladiator Joust<br>7:00 & 7:15 pm &nbsp; &nbsp; &nbsp; &nbsp;Stein Hoist Contest
 
 **Other Entertainment**<br>After Dark &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fahrenheit 360 Fire Spinners
 
 **Saturday, September 30th<br>Gazebo Main Stage Schedule**<br>11:00-11:10 am &nbsp; &nbsp; &nbsp; &nbsp;Introduction and Toast<br>11:10-11:45 am &nbsp; &nbsp; &nbsp; &nbsp;Greeley Children’s Chorale<br>12:00-1:15 pm &nbsp; &nbsp; &nbsp; &nbsp; UNC Jazz Band&nbsp;<br>1:30-3:30pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twirling Zucchinis&nbsp;<br>3:30—4:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Volkstanzgruppe Dancers<br>4:00-6:00 pm &nbsp; &nbsp; &nbsp; &nbsp; Randy Eckhart and the Dutch Hop Music Makers<br>6:00—6:30pm &nbsp; &nbsp; &nbsp; Volkstanzgruppe Dancers<br>6:30-9:00pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gumbo LeFunque &nbsp; &nbsp;<br>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-**Contest & Games**<br>11:00 am– 9:00 pm &nbsp; &nbsp; &nbsp; &nbsp;Life-Size Beer Pong & Gladiator Joust<br>4:00, 4:10 & 6:30&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pie Eating Contests &nbsp; &nbsp;<br>7:30 &7:45pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stein Hoist Contests &nbsp; &nbsp;
+**Contest & Games**<br>11:00 am– 9:00 pm &nbsp; &nbsp; &nbsp; &nbsp;Life-Size Beer Pong & Gladiator Joust<br>4:00, 4:10 & 6:30 pm&nbsp; &nbsp; &nbsp;Pie Eating Contests &nbsp; &nbsp;<br>7:30 & 7:45 pm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Stein Hoist Contests &nbsp; &nbsp;
 
 **Other Entertainment**<br>After Dark &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fahrenheit 360 Fire Spinners<br>&nbsp;
 
