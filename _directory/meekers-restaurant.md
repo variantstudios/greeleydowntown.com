@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Meeker's Restaurant
+Business: 'Meeker''s: A Colorado Kitchen & Bar'
 dining_categories:
   - american
 entertainment_and_recreation_categories:
