@@ -5,6 +5,7 @@ dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
   - hotels
+  - event-centers
 nightlife_categories:
 retail_categories:
 service_categories:
