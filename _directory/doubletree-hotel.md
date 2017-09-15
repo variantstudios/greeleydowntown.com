@@ -18,7 +18,7 @@ Website: >-
   http://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-greeley-at-lincoln-park-DENGCDT/index.html
 Contact_Name: Dave Kennedy
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/doubletree-logo.jpg
 ---
 
 
