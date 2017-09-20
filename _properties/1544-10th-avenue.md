@@ -1,11 +1,11 @@
 ---
-title: 931 16th Street
+title: 1544 10th Avenue
 property-type: Residential
 image_path: /assets/apt-1.jpg
 sale-or-lease: Lease
-square-footage:
+square-footage: 700 SF
 price: $975/mo
-address: 931 16th Street
+address: 1544 10th Avenue
 city: Greeley
 state: CO
 zip: '80631'
