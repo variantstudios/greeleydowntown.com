@@ -26,12 +26,17 @@ permalink: /supporters-and-sponsors/
 * [Academy of Natural Therapy](http://www.natural-therapy.com/)<br>[All Purpose Rental](http://www.allpurposerental.com/)<br>[Accessories with a Flair](http://accessoriesfashionsandhair.com/)
 * [Bentley’s Pet Stuff](https://www.petstuff.com/)
 * [Black Bottle Brewery](https://blackbottlebrewery.com/)<br>[Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)<br>[City of Greeley](http://greeleygov.com/)<br>[Cranford Cove Tea Tavern](http://www.cranfordcove.com/)
+* [Ehrlich Toyota](https://www.ehrlichtoyota.com/)
 * [First National Bank](https://www.1stnationalbank.com/site/personal/)
 * [Greeley Dental Care](http://www.greeleydentalcare.com/)<br>[Greeley Tribune](http://www.greeleytribune.com/)
 * [Guaranty Bank & Trust](https://www.guarantybankco.com/)<br>[Mariposa Plants & Flowers](http://www.mariposaflowers.com/)<br>NCMC, Inc.
 * [Noble Energy](https://www.nblenergy.com/)
 * [Northern Colorado Credit Union](https://nococu.org/)
 * [Oskar Blues Brewery](https://www.oskarblues.com/)
+* [PDC Energy](http://www.pdce.com/)
+* [Pepsi](https://www.pepsi.com/en-us/)
+* [Property Technica](http://www.propertytechnica.com/)
+* [Renewal by Andersen](https://www.renewalbyandersen.com/)
 * Richmark Holdings
 * [Right Coast Pizza](http://www.rightcoastpizza.com/)<br>[Steamway Floor to Ceiling](http://www.steamwayftc.com/)
 * [Steiner](http://www.steiner-optics.com/)<br>[The Bean Plant Studio](https://www.facebook.com/TheBeanPlantStudio/)
