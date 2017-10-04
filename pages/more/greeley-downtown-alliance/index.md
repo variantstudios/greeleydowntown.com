@@ -26,7 +26,7 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-> Please join us at 8am on Friday, September 15th, 2017 for our next monthly meeting. The meeting will be held at the Colorado Model Railroad Museum located at 680 10th Street.
+Please join us at 8am on Friday, October 20th, 2017 for our next monthly meeting. The meeting will be held at the The Dragon's Cache located at 1109 7th Street.
 
 ### Have you heard about Shop Around the Block?
 
