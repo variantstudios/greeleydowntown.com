@@ -19,7 +19,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-The Academy of Natural Therapy will not being having a First Friday Event this week, but the current Artist at the ANT Gallery is Scott Chartier.
+The Academy of Natural Therapy presents the artwork of Tobias Mustang Lee Moreno and Deirdre Myers.
 
 ### ART MAN DO. Studio and Keynote Coffee
 
@@ -37,37 +37,37 @@ No information provided
 
 709 16th Street
 
-The Atlas Gallery and John Galt Coffee will feature the artwork of Rick Destree. Original art, prints, lamps and comic available for purchase.
+The Atlas Gallery and John Galt Coffee will feature “Then Sings My Soul” – or – “Space: An Oddessay” by Lydia Cruz. This is a First Friday Show about (outer) space, not (abstract) space.
 
 ### Brix Taphouse & Brewery
 
 813 8th Street
 
-No information provided.
+Brix Taphouse & Brewery will feature the work of Mike Harrington, a local Greeley artist.
 
 ### Cranford Cove Tea Tavern
 
 823 10th Street
 
-The Cranford Cove Tea Tavern will feature “A Beautiful World Of Abstraction” by Johnny Fonseth *(a Fine Art graduate from CSU and active member of the Denver Art Society)* and “Colorful Minds And Colorful People” by Rochelle Peeler *(a recent CSU graduate)*
+The Cranford Cove Tea Tavern will feature “Faces of GRC” by Emily Nelson which will show some of the faces of Weld County, specifically within our refugee population.
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-Grand Lake’s 16th Street Tavern will feature the artwork of Lexi Luna and will feature live music from Daryl Ray at 7pm.
+Ethan Lofing will be showing his original paintings featuring super heroes and landscapes at Grand Lake’s 16th Street Tavern.
 
 ### Joe Molina Gallery & Studios
 
 930 8th Avenue
 
-No information provided.
+The Joe Molina Gallery & Studios will feature the H'Art of Envision Art Show and Opening Reception. Join Envision for an evening that celebrates artists with intellectual and developmental disabilities from all across Weld County. You will BECOME INSPIRED when you immerse yourself in the unique and expressive collection that is displayed at the annual H’Art of Envision Art Show during Greeley’s First Friday in October! Reception and Gallery admission are free, open to the public and is a family friendly event. Enjoy music, complimentary beer, wine and light refreshments. Watch as one of Envision’s talented artists create a masterpiece LIVE! The collection will be on display and for sale following the reception during gallery hours. Sales and donations benefit people with intellectual and developmental disabilities in Weld county.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The Madison and Main Gallery will host a public opening reception for the new show **past. present. future. on September 1st from 5-****8pm.**The members will show their progression as artists by featuring a trio of work – one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
+The Madison and Main Gallery features the show **past. present. future.**The members will show their progression as artists by featuring a trio of work -- one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
 
 Ruth Savig: **Susan Anderson**: Karen McPherson
 
@@ -89,31 +89,33 @@ Sharon Jacobs: **Gin Leuchter**: Jane Leuchter
 
 Karen Vroman: **Doreen Vroman**: Shannon England
 
-The Madison & Main is an artists-owned gallery. Hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
+**On First Friday, October 6, from 5-8 pm, there will be an artist demonstration by member artist Cate Austin. She will explain the process of decorating her pottery with her own designs.** The Madison & Main is an artists-owned gallery. Hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
+
+&nbsp;
 
 ### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
 
-Margie’s Caf&eacute; at the Farmer’s Pantry will feature Photography by Gaylen Olander. Gaylen is a self-taught photographer working with a variety of subjects. His current exhibit features primarily landscape and nature images. He has worked for the US Postal Service for 30 years carrying mail in California, North Dakota, and now Colorado. His work will be on display through September.
+No information provided.
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-Try a stay-cation this Labor Day weekend and enjoy a First Friday paint and wine pARTy at the Showcase Art Center from 5:30-7:30pm. Enjoy an evening of painting with step-by step instruction by Colette Pitcher. All supplies included for $25 and you will go home with an acrylic landscape fall scene. RSVP appreciated at 970-356-8593.
+No information provided.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
-Rachael-Ann Omps is a local photographer and Syntax’s September artist! Rachael-Ann brings her unique perception and never-before-seen art to the tasting lounge on 9/1! She will be available for a meet and greet from 6-8pm on First Friday and her pieces will be on display for the duration of the month. For this show specifically she gathered photos of ‘Soul’ and also started a second collection that you can only find at the Syntax show.
+See the world through Nick Luna's eyes this October. Local resident, Nick Luna, is an automotive technician moonlighting as a photographer and Syntax's featured October artist. Come see his work and meet the man behind the camera on October 6th. His pieces will be available for viewing for the duration of the month as well.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will feature the Private Collection of Susan Smallwood Herold.
+The Bean Plant Studio will feature the music of Amaya Arevalo (Pianist) and Nick Isherwood (Bass)
 
 ### The Blue Mug Coffee and Roastery
 
@@ -125,16 +127,16 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache has had a long history of giving local artists that first start. 37 years ago, Francis and Nellie Denning began the journey to give local artists a place to show their art. Many of their artists had their first show at the gallery and the month of September 2017 is no exception. They are happy to continue this journey with Francis and introduce a new artist to the gallery and the Greeley Community - Tiffany Smith’s Spray Painting will open with a reception on September 1, 2017 from 5-8pm. Her artwork will remain through the month of September. Please help welcome her to the Greeley Downtown Creative District. As always refreshments will be served.
+The Dragon’s Cache will host “Fairies, Skulls and Snakes, OH my” featuring Pencil Drawings by Mallory Jones. Stop by and Explore the depth and shadow she puts in each piece. In addition, First Friday will also feature the music of Bob Schneller (classical guitar).
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-No information provided.
+The Eden Gallery welcomes Steve Landrum for their October First Friday from 5-6pm. If you have a hankerin’ for the rustic, you will want to attend! His artwork focuses on “Painted Treasures” and he shows his childhood talents through creating exquisite portraits!
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-The Tointon Gallery will feature Global Vanitas: My Many Coloured Daze by local Artist Sonya PauKune. PauKune plans to display 365 different pieces of her multi-media pottery for the public to view and enjoy. PauKune attended the University of Northern Colorado from 1989 to 1994. &nbsp;She received a Bachelor of Arts in fine art with an emphasis in ceramics and printmaking/book arts. After undergraduate school, she was a graduate research assistant in art history as well as a graduate teaching assistant at Kansas State University where she received a Master of Fine Arts in Ceramics. From 1998 to 2007, PauKune was an adjunct faculty member in ceramics and art appreciation at Front Range Community College. In 2006, she decided to try primary art education and received her K-12 professional Art Education license. She taught drawing, painting, and printmaking for one year at University High School in Greeley before she joined Aims Community College in 2008. In addition to teaching art and design at Aims, PauKune volunteers on several boards and committees in the community. She is also the faculty advisor for the Aims Art in Action student club. The public can attend the Global Vanitas: My Many Coloured Daze artist reception scheduled from 5-7pm on Friday, September 1st. Refreshments will be served. The exhibit ends Saturday, October 7. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm. Admission is free. To learn more about the City of Greeley’s public art programs, visit GreeleyArt.com.
+The Tointon Gallery will feature Global Vanitas: My Many Coloured Daze by local Artist Sonya PauKune. PauKune plans to display 365 different pieces of her multi-media pottery for the public to view and enjoy. PauKune attended the University of Northern Colorado from 1989 to 1994. &nbsp;She received a Bachelor of Arts in fine art with an emphasis in ceramics and printmaking/book arts. After undergraduate school, she was a graduate research assistant in art history as well as a graduate teaching assistant at Kansas State University where she received a Master of Fine Arts in Ceramics. From 1998 to 2007, PauKune was an adjunct faculty member in ceramics and art appreciation at Front Range Community College. In 2006, she decided to try primary art education and received her K-12 professional Art Education license. She taught drawing, painting, and printmaking for one year at University High School in Greeley before she joined Aims Community College in 2008. In addition to teaching art and design at Aims, PauKune volunteers on several boards and committees in the community. She is also the faculty advisor for the Aims Art in Action student club. The exhibit ends Saturday, October 7. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm. Admission is free. To learn more about the City of Greeley’s public art programs, visit GreeleyArt.com.
