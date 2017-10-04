@@ -14,4 +14,6 @@ Bring all your little goblins, ghouls, pirates and princesses to downtown Greele
 
 Both the 8th and 9th street plazas will be closed to traffic for maximum safety, but many businesses outside the plazas will also be involved. There will also be games and activities like Pumpkin Cornhole,&nbsp; Mask coloring, and Pumpkin Decorating for the first 150 tots.
 
+New this year - a pet costume contest sponsored by Bentley's Pet Stuff.&nbsp; Winner get a year of pet food!&nbsp;
+
 Pick up your map on the corner by the Rio and let the treat hunt begin!
