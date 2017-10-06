@@ -61,13 +61,13 @@ Ethan Lofing will be showing his original paintings featuring super heroes and l
 
 930 8th Avenue
 
-The Joe Molina Gallery & Studios will feature the H'Art of Envision Art Show and Opening Reception. Join Envision for an evening that celebrates artists with intellectual and developmental disabilities from all across Weld County. You will BECOME INSPIRED when you immerse yourself in the unique and expressive collection that is displayed at the annual H’Art of Envision Art Show during Greeley’s First Friday in October! Reception and Gallery admission are free, open to the public and is a family friendly event. Enjoy music, complimentary beer, wine and light refreshments. Watch as one of Envision’s talented artists create a masterpiece LIVE! The collection will be on display and for sale following the reception during gallery hours. Sales and donations benefit people with intellectual and developmental disabilities in Weld county.
+The Joe Molina Gallery & Studios will feature the H’Art of Envision Art Show and Opening Reception. Join Envision for an evening that celebrates artists with intellectual and developmental disabilities from all across Weld County. You will BECOME INSPIRED when you immerse yourself in the unique and expressive collection that is displayed at the annual H’Art of Envision Art Show during Greeley’s First Friday in October! Reception and Gallery admission are free, open to the public and is a family friendly event. Enjoy music, complimentary beer, wine and light refreshments. Watch as one of Envision’s talented artists create a masterpiece LIVE! The collection will be on display and for sale following the reception during gallery hours. Sales and donations benefit people with intellectual and developmental disabilities in Weld county.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The Madison and Main Gallery features the show **past. present. future.**The members will show their progression as artists by featuring a trio of work -- one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
+The Madison and Main Gallery features the show **past. present. future.**The members will show their progression as artists by featuring a trio of work – one artist who supported or encouraged their artistic path, their own current work as a member, and a third artist that they have influenced. The members and their guest artists – the encouraging artist from their “past”, the member artist for the “present”, and the influenced artist of the “future” – are:
 
 Ruth Savig: **Susan Anderson**: Karen McPherson
 
@@ -91,8 +91,6 @@ Karen Vroman: **Doreen Vroman**: Shannon England
 
 **On First Friday, October 6, from 5-8 pm, there will be an artist demonstration by member artist Cate Austin. She will explain the process of decorating her pottery with her own designs.** The Madison & Main is an artists-owned gallery. Hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
 
-&nbsp;
-
 ### Margie’s Cafe @ The Farmer’s Pantry
 
 931 16th Street
@@ -109,7 +107,7 @@ No information provided.
 
 625 3rd Street, Unit C
 
-See the world through Nick Luna's eyes this October. Local resident, Nick Luna, is an automotive technician moonlighting as a photographer and Syntax's featured October artist. Come see his work and meet the man behind the camera on October 6th. His pieces will be available for viewing for the duration of the month as well.
+See the world through Nick Luna’s eyes this October. Local resident, Nick Luna, is an automotive technician moonlighting as a photographer and Syntax’s featured October artist. Come see his work and meet the man behind the camera on October 6th. His pieces will be available for viewing for the duration of the month as well.
 
 ### The Bean Plant Studio
 
@@ -133,7 +131,7 @@ The Dragon’s Cache will host “Fairies, Skulls and Snakes, OH my” featuring
 
 926 8th Avenue
 
-The Eden Gallery welcomes Steve Landrum for their October First Friday from 5-6pm. If you have a hankerin’ for the rustic, you will want to attend! His artwork focuses on “Painted Treasures” and he shows his childhood talents through creating exquisite portraits!
+The Eden Gallery welcomes Steve Landrum for their October First Friday from 5-8:30pm. If you have a hankerin’ for the rustic, you will want to attend! His artwork focuses on “Painted Treasures” and he shows his childhood talents through creating exquisite portraits!
 
 ### Tointon Gallery
 
