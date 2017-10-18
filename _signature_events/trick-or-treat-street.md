@@ -4,7 +4,7 @@ description: >-
   Bring all your little goblins, ghouls, pirates and princesses to downtown
   Greeley Friday, October 27th from 4 to 6pm. Dozens of downtown businesses in
   and around the core downtown area will have treats for the little ones.
-image_path: /assets/Slide 1.jpg
+image_path: /assets/slide-1.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 4
 ---
