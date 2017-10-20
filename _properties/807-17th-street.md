@@ -3,16 +3,16 @@ title: 807 17th Street
 property-type: Commercial
 image_path: /assets/images/properties/807 17th St.jpg
 sale-or-lease: Sale and Lease
-square-footage: 'Lease- 3,383 SF; Sale- 20,252 SF'
-price: 'Lease- $9.25/SF; Sale- $3,249,000'
+square-footage: 'Lease- 2,062 SF; Sale- 20,252 SF'
+price: 'Lease- $9/SF; Sale- $2,974,000'
 address: 807 17th Street
 city: Greeley
 state: CO
 zip: '80631'
 real-estate-agency:
-real-estate-agent: Andrew Unkefer
-real-estate-email: andrew@multiprop.com
-real-estate-phone: (303) 530-5398
+real-estate-agent: Corey Gross
+real-estate-email: Cory.Gross@MarcusMillichap.com
+real-estate-phone: (303) 328.2019
 image-gallery:
   - title:
     small_image_path: /assets/images/properties/properties-default.png
@@ -20,6 +20,8 @@ image-gallery:
 ---
 
 
-University Center at UNC represents a fully-leased, retail strip center surrounded by the University of Northern Colorado. As a result of the reasonable lease rates, we believe this presents an excellent value-add opportunity and long-term investment.
-
-Surrounded by University of Northern Colorado.
+* The property is located directly adjacent to the University of Northern Colorado
+* Strong Mix of National and Regional Teants
+* Low Management Requirement; Perfect for 1031 Exchange
+* Signalized Intersection, excellent access & visibility
+* For more information, click [HERE](/assets/pdfs/807 17th Street.pdf)
