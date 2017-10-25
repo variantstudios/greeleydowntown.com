@@ -26,7 +26,7 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, October 20th, 2017 for our next monthly meeting. The meeting will be held at the The Dragon's Cache located at 1109 7th Street.
+Please join us at 8am on Friday, November 17th, 2017 for our next monthly meeting. The meeting will be held at Lincoln Park Emporium located at 822 8th Street.
 
 ### Have you heard about Shop Around the Block?
 
