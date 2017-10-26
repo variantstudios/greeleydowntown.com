@@ -17,7 +17,7 @@ service_categories:
   - non-profit
 Contact_Name: Lisa Taylor
 Contact_Email: lisa@r2rweldcounty.org
-Logo_image_path:
+Logo_image_path: /assets/irc-logo.jpg
 ---
 
 
