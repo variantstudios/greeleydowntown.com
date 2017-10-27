@@ -4,15 +4,15 @@ property-type: Commercial
 image_path: /assets/601-10th-street.jpg
 sale-or-lease: Sale
 square-footage: '26,000 SF'
-price: '$1,250,000'
+price: '$779,500'
 address: 601 10th Street
 city: Greeley
 state: CO
 zip: '80631'
-real-estate-agency:
-real-estate-agent: Joe Molina
+real-estate-agency: Downtown Real Estate Partners
+real-estate-agent: Emily Heinz
 real-estate-email:
-real-estate-phone: (970) 534-4424
+real-estate-phone: (970) 988-9367
 image-gallery:
   - title:
     small_image_path: /assets/601-10th-st-2.jpg
