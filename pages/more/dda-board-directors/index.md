@@ -24,4 +24,28 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 
 ### Board of Directors
 
-<div class="staff"><p>Drew Notestine<br />Thomas &amp; Tyler</p><p>Tom Grant<br />Grant &amp; Hoffman</p><p>Ken Schultz<br />NCMC Inc</p><p>Logan Richardson<br />Mineral Resources</p><p>Mary Roberts<br />Lincoln Park Emporium</p><p>Matt Anderson<br />Ancon Constructors</p><p>Mike Ketterling<br />Northern Engineering</p><p>Phil Grizzle<br />Zoe's Cafe</p><p>Linda Winter<br />Accessories with a Flair!... and Hair</p><p>Justin Ghofrani<br />The Kress Cinema</p><p>Robb Casseday<br />Greeley City Council</p></div>
+Drew Notestine<br>Thomas & Tyler
+
+Tom Grant<br>Grant & Hoffman
+
+Ken Schultz<br>NCMC Inc
+
+Logan Richardson<br>Mineral Resources
+
+Mary Roberts<br>Lincoln Park Emporium
+
+Matt Anderson<br>Ancon Constructors
+
+Mike Ketterling<br>Northern Engineering
+
+Phil Grizzle<br>Zoe's Cafe
+
+Linda Winter<br>Accessories with a Flair!... and Hair
+
+Justin Ghofrani<br>The Kress Cinema
+
+Robb Casseday<br>Greeley City Council
+
+Bob Tointon (Ex-Officio)<br>Phelps Tointon
+
+Travis Gillmore (Ex-Officio)<br>Phelps Tointon
