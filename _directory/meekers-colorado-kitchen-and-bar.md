@@ -3,6 +3,7 @@ live_directory: false
 Business: 'Meeker''s: A Colorado Kitchen & Bar'
 dining_categories:
   - american
+  - fine-dining
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
