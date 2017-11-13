@@ -12,7 +12,7 @@ Street: 801 9th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
+Phone: (970) 515-5380
 Website: 'http://www.dougsdiner.com/'
 Contact_Name:
 Contact_Email:
