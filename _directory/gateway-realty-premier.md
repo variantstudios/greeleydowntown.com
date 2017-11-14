@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - real-estate-and-property-management
-Street: '801 8th Street, Ste. 220H'
+Street: '801 8th Street, Ste. 150'
 City: Greeley
 State: Colorado
 Zip: '80631'
