@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Community Links &amp; Web Sites'
+title: Community Links &amp; Web Sites
 description:
 sub-nav: more
 permalink: /community-links-web-sites/
@@ -14,7 +14,7 @@ class: community
 
 [![](/uploads/versions/colorado-sbdc---x----200-90x---.gif)](http://www.eastcoloradosbdc.com/)
 
-[![](/uploads/versions/greeley-eco-devo---x----244-125x---.jpg)&nbsp; &nbsp;![](/uploads/versions/wclogovector---x----198-200x---.jpg)](http://greeleyecodevo.com/)
+![](/uploads/versions/greeley-eco-devo---x----244-125x---.jpg)&nbsp; &nbsp;[![](/uploads/versions/wclogovector---x----198-200x---.jpg)](https://www.weldgov.com/)
 
 [![](/uploads/versions/get-logo---x----200-109x---.png)](http://greeleygov.com/services/greeley-evans-transit)
 
