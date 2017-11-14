@@ -1,19 +1,22 @@
 ---
 live_directory: false
-Business:
+Business: Alvarado Law Center
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+  - legal
+Street: '801 8th Street, Ste. 220-D'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
-Contact_Name:
-Contact_Email:
+Phone: (970)336-6403
+Website: 'http://abelalvaradoattorney.com/'
+Contact_Name: Abel Alvarado
+Contact_Email: info@abogadodeltrabajodenver.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
+
