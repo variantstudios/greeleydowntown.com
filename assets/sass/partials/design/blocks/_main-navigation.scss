@@ -47,13 +47,13 @@
  li.top-level:last-child {
    @include breakpoint($phone-lg2, $no-query: '.no-mq') {
      float: right;
-     padding: 0 1em;
+     padding: 0 18px;
      .menu__level {
        left: -49px;
      }
    }
    @include breakpoint($tablet, $no-query: '.no-mq') {
-     padding: 0 3em;
+     padding: 0 50px;
      .menu__level {
        left: 0;
      }
