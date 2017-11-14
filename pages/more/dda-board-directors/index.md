@@ -14,6 +14,7 @@ meeting_minutes:
   - title: July 2017 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes - 7-20-17.pdf
 sub-nav: more
+class: board
 permalink: /dda-board-directors/
 ---
 
@@ -24,28 +25,29 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 
 ### Board of Directors
 
-Drew Notestine<br>Thomas & Tyler
-
-Tom Grant<br>Grant & Hoffman
-
-Ken Schultz<br>NCMC Inc
-
-Logan Richardson<br>Mineral Resources
-
-Mary Roberts<br>Lincoln Park Emporium
-
-Matt Anderson<br>Ancon Constructors
-
-Mike Ketterling<br>Northern Engineering
-
-Phil Grizzle<br>Zoe's Cafe
-
-Linda Winter<br>Accessories with a Flair!... and Hair
-
-Justin Ghofrani<br>The Kress Cinema
-
-Robb Casseday<br>Greeley City Council
-
-Bob Tointon (Ex-Officio)<br>Phelps Tointon
-
-Travis Gillmore (Ex-Officio)<br>Phelps Tointon
+* Drew Notestine
+* Thomas & Tyler
+* Tom Grant
+* Grant & Hoffman
+* Ken Schultz
+* NCMC Inc
+* Logan Richardson
+* Mineral Resources
+* Mary Roberts
+* Lincoln Park Emporium
+* Matt Anderson
+* Ancon Constructors
+* Mike Ketterling
+* Northern Engineering
+* Phil Grizzle
+* Zoe's Cafe
+* Linda Winter
+* Accessories with a Flair!... and Hair
+* Justin Ghofrani
+* The Kress Cinema
+* Robb Casseday
+* Greeley City Council
+* Bob Tointon (Ex-Officio)
+* Phelps Tointon
+* Travis Gillmore (Ex-Officio)
+* Phelps Tointon
