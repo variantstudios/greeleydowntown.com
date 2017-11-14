@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: 'Rapp, Manzer & Wiest, Attorneys'
+Business: 'Rapp, Manzer & Minnerop Attorneys'
 Street: '710 11th Avenue, Ste 300'
 City: Greeley
 State: Colorado
@@ -16,7 +16,7 @@ service_categories:
   - legal
 Contact_Name:
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 
