@@ -47,7 +47,6 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 * Northern Engineering
 * &nbsp;
 * Phil Grizzle
-* &nbsp;
 * Zoe’s Cafe
 * &nbsp;
 * Linda Winter
