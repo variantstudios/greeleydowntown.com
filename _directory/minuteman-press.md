@@ -5,7 +5,7 @@ Street: '807 17th Street, Ste. F'
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone:
+Phone: (970) 702-2384
 Website: 'http://greeley-co.minutemanpress.com/'
 dining_categories:
 entertainment_and_recreation_categories:
