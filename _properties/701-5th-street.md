@@ -1,7 +1,7 @@
 ---
 title: 701 5th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/701-5th-st.jpg
 sale-or-lease: Sale
 square-footage: '21,108 SF + 5,524 SF Basement Storage'
 price: '$946,700'
