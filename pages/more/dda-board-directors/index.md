@@ -10,7 +10,7 @@ meeting_minutes:
   - title: November 2017 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes  11-16-17.pdf
   - title: October 2017 Meeting Minutes
-    pdf_path: /assets/pdfs/DDA Meeting Agenda - 10-19-17.pdf
+    pdf_path: /assets/pdfs/DDA Meeting Minutes - 10-19-17.pdf
   - title: September 2017 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes - 9-21-17.pdf
 sub-nav: more
