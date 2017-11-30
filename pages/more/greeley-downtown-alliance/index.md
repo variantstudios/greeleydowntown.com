@@ -30,7 +30,7 @@ Please join us at 8am on Friday, November 17th, 2017 for our next monthly meetin
 
 ### Have you heard about Shop Around the Block?
 
-This fun night of shopping will take place on the 4th Thursday of every month from 5-8 pm, starting April 27th through December 28. Visit one of the following participating businesses and pick up your Passport to Fun:
+This fun night of shopping will take place on the 4th Thursday of every month from 5-8pm through December 28th except for November which will take place on the 5th Thursday due to Thanksgiving. Visit one of the following participating businesses and pick up your Passport to Fun:
 
 Accessories With A Flair!…and Hair – 801 8th Avenue #4
 
