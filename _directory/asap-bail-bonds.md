@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - legal
-Street: 912 9th Avenue
+Street: 920 9th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
