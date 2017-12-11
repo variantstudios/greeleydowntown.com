@@ -1,7 +1,7 @@
 ---
 title: 824 9th Street- Retail
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/824-9th-st-1.png
 sale-or-lease: Lease
 square-footage: '2,500-4,000 SF'
 price: $13.50/SF Modified Gross
