@@ -12,8 +12,8 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
-  - cell-phones
 service_categories:
+  - media-and-visual-arts
 Contact_Name: John Paul Scheidecker
 Contact_Email: jpscheidecker@spinstreak.com
 Logo_image_path: /assets/images/directory/spinstreak.png
