@@ -6,6 +6,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
   - breweries
+  - bars-and-clubs
 retail_categories:
 service_categories:
 Street: 725 10th Street
