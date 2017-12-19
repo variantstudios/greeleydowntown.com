@@ -6,10 +6,10 @@ description: >-
   Greeley? Check out and feel free to print a copy of our Events at a Glance! 
   If you’re looking for a more comprehensive, day-to-day list of what’s
   happening downtown, click on the Calendar of Events.
-pdf_path: /assets/2018 Events at a Glance.pdf
+pdf_path: /assets/2018-events-at-a-glance.pdf
 sub-nav: play
 permalink: /events-at-a-glance/
 ---
 
 
-Do you need a concise list of the major events that the DDA puts on in downtown Greeley? Check out and feel free to print a copy of our Events at a Glance!  If you’re looking for a more comprehensive, day-to-day list of what’s happening downtown, click on the Calendar of Events.
+Do you need a concise list of the major events that the DDA puts on in downtown Greeley? Check out and feel free to print a copy of our Events at a Glance!&nbsp; If you’re looking for a more comprehensive, day-to-day list of what’s happening downtown, click on the Calendar of Events.&nbsp;
