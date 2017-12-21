@@ -13,7 +13,7 @@ Street: 801 1/2 9th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: 970-515-5717
+Phone: (970) 515-5717
 Fax:
 Website:
 Contact_Name:
