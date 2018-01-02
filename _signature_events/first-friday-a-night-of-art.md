@@ -19,7 +19,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-No information provided.
+Due to the Academy of Natural Therapy students being on break week, ANT will not be hosting a Friday event in January. However, the artwork in the Dorothy Mongan Gallery is open to the public from 8am-5pm Monday through Friday.
 
 ### ART MAN DO. Studio and Keynote Coffee
 
@@ -37,7 +37,7 @@ No information provided.
 
 709 16th Street
 
-No information provided.
+Atlas Gallery and John Galt Coffee will feature “Unwavering Glee” from artist Katie Mai-Fusco on Friday, January 5th from 5-7pm. All of the material used in this show are pieces of fabric that were once owned and worn by Glee, Mai-Fusco’s grandma, and this is a show for those who have been affected by Alzheimer’s physically and emotionally. All of the proceeds from “Unwavering Glee” will be given to the Alzheimer’s Association Research Department.
 
 ### Brix Taphouse & Brewery
 
@@ -49,13 +49,13 @@ No information provided.
 
 823 10th Street
 
-It's hard to believe that Aarom and Sarah have been open for four years, and a lot has changed. Join them throughout the day on Friday for some tea, a tasty coffee drink, or the best sandwiches in downtown. Armando I. Silva will be performing throughout the afternoon putting a mural on their wall, they'll be featuring Dave's new martini and cocktail menu (ask about "Evolving Cocktails") after 3pm, Gillermo Gii Astorga will be performing for Happy Hour from 5:30-7pm. And, Ben A. Puchalski will be closing us down from 8-11pm. They will also be featuring some great beers on tap so join them and help us kick off their fifth year in Downtown Greeley.
+No information provided.
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-No information provided.
+Grand Lake’s 16th Street Tavern artist of the month is Clark and his work features collages on vinyl records along with other things.
 
 ### Joe Molina Gallery & Studios
 
@@ -67,9 +67,9 @@ No information provided.
 
 927 16th Street
 
-Art … the ultimate gift. "Winter Lights," Madison & Main Gallery's 31st annual holiday show will feature original art, unique gifts, and one-of-a-kind ornaments. Thirteen guest artists have been invited to join the gallery’s member artists in this fabulous show that runs through December 29. There will also be new work by member artists. &nbsp;On First Friday, December 1, the gallery will be open until 8 p.m. with a sale of 20% off all items in the gallery. Madison & Main is an artists-owned gallery located at 927 16th Street in Greeley. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday.
+The Madison & Main Gallery has a fresh new show for a fantastic new year. The show for January and February is “Power of Love” which features twelve guest artists. Their new work includes paintings in oil, acrylic, watercolor, and batik; photography, illustrations, and mixed media pieces; jewelry of all kinds; glasswork, pottery, and paper. The slate of guest artists includes: Adriana Appelhans, Cris Conklin, Pete Davis, Francis Denning, Allie Haskins, Melanie Haskins, Josh Krehbiel, Greg Mayes, Laura McElfresh, Janet Sacks, Carrie Seela, and Linda Toukan. Gallery members invite you to join them for this show that opens January 2nd and runs through February 23rd. Meet the artists during the public opening reception planned for Friday, January 5th from 5-8pm. The Madison & Main Gallery is artist-owned and hours are 10am-6pm Monday-Friday and 10am-4pm Saturday. All items in the gallery are for sale. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
 
-### Margie’s Cafe @ The Farmer’s Pantry
+### Margie’s Cafe
 
 931 16th Street
 
@@ -79,19 +79,19 @@ No information provided.
 
 1335 8th Avenue
 
-The Greeley Art Association presents "Small Paintings - Big Art" miniatures show for the month of December at the Showcase Art Center. &nbsp;Featuring bargains, stocking stuffers, priceless treasurers, local art, ornaments, all hand-painted gifts and morel A special opening night with artists will be December 8th from 5-7pm.
+The Showcase Art Center will feature a Book Signing by Mike and Linda Peters from 5-7pm during First Friday: A Night Of Art on January 5th.
 
 ### Syntax Spirits Distillery
 
 625 3rd Street, Unit C
 
-Amy Ward is a painter, Greeley native, and Syntax's featured December artist. Amy will be available for a meet and greet on December 1st, and her art will be on display in the tasting lounge for the duration of the month. Don't miss it!
+Amy Ward is a painter, Greeley native and Syntax's featured artist for the second time this January! Amy will be available for a meet and greet on January 5th and her art will be on display in the tasting lounge for the duration of the month. Don't miss it!
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will feature their Holiday Sale so please come shop, warm by the fire, visit with the artists and enjoy live music from 6-8pm from Amaya Arevalo and Nick Isherwood. You will find ornaments, sculptures, ceramics, gourds, mosaics, baked good, prayer beads, jewelry, photography, glassware, gypsy wagons, soap, greeting cards, granola and much more! The artists include Susan Smallwood Herold, Elizabeth Herold McGee, Doug Wurst, Staci Leavitt, Pamela McCarville, Ann Martin, Golden August Moon, Elisa Freitag, Jason Flower, Reggie Dutka, Marybeth Coulter, Lisa Blank and Cassandra Flower. The Holiday Sale will continue on Saturday from 10am-4pm and will include live art demos.
+The Bean Plant Studio will feature a painting exhibit by Ron Worley. Proceeds from sales will be donated to the Frontier Academy Art Program.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -103,22 +103,22 @@ No information provided.
 
 1109 7th Street
 
-Join The Dragon’s Cache in celebrating 30 years of their “Up From the Earth” show featuring Gallery artists. Typically, this is glass and pottery but this year they have opened the show up for all of their Gallery artists displaying new and old items. This is a must-see show. Bob Schneller will be playing Holiday music for you to enoy as you find that special piece for that special loved one.
+No information provided.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-The Eden Gallery features “Open Gallery Night! An Old Fashioned Christmas!” Share in the joy of the holiday season as you are invited to join The Eden Gallery for light refreshments and holiday festivities. Free to the public! Family friendly! Children welcome! It is their way of thanking you for your support this year! 5-8:30pm.
+No information provided.
 
 ### The Original Roma Restaurant
 
 728 16th Street
 
-Join the Original Roma Restaurant for “Rock'n Roll Concert Posters 101 at Roma Restaurant” at 6pm during First Friday: A Night Of Art. Come by to learn about the history of the Concert Poster and it's evolution from the Psychedelic Era to Contemporary Times.&nbsp; Enter the poster scavenger hunt for prizes!&nbsp; Ask questions, enjoy a bazooka, and have fun!
+Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during First Friday: A Night Of Art. Come by to learn about the history of the Concert Poster from the beginnings to contemporary.
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-The Tointon Gallery for Visual Arts features Denver-based artist Roy Anneberg exhibiting his multimedia collage works in an exhibit titles “Justapimages” through December 8th. Small prints are available for several of the pieces and can be purchased during the First Friday Event or by contact Kim Snyder. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm. Admission is free. To learn more about the City of Greeley’s public art programs, visit&nbsp;[GreeleyArt.com](http://greeleyart.com/).
+The “Principled” exhibit at the Tointon Gallery features the collaborative work of Dan Augenstein, Colleeen Martin, Travis Krause, Berndt Savig, Zach Keiss and exhibit curator Stephanie Newton. Their work examines the elements of design. The exhibit runs through Friday, February 2nd. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the Gallery is free. To learn more about the City of Greeley’s public art programs, visit&nbsp;[GreeleyArt.com](http://greeleyart.com/).
