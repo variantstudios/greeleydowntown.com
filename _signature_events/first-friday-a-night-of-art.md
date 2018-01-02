@@ -11,7 +11,7 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on December 1, 2017 for our next First Friday
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on January 5th, 2018 for our next First Friday
 
 ###### *Participating locations:*
 
@@ -85,7 +85,7 @@ The Showcase Art Center will feature a Book Signing by Mike and Linda Peters fro
 
 625 3rd Street, Unit C
 
-Amy Ward is a painter, Greeley native and Syntax's featured artist for the second time this January! Amy will be available for a meet and greet on January 5th and her art will be on display in the tasting lounge for the duration of the month. Don't miss it!
+Amy Ward is a painter, Greeley native and Syntax’s featured artist for the second time this January! Amy will be available for a meet and greet on January 5th and her art will be on display in the tasting lounge for the duration of the month. Don’t miss it!
 
 ### The Bean Plant Studio
 
