@@ -26,32 +26,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-There will be no meeting in December. Please join us at 8am on Friday, January 19, 2018 for our next monthly meeting. The meeting will be held at the Greeley Tribune located at 501 8th Avenue.
-
-### Have you heard about Shop Around the Block?
-
-This fun night of shopping will take place on the 4th Thursday of every month from 5-8pm through December 28th except for November which will take place on the 5th Thursday due to Thanksgiving. Visit one of the following participating businesses and pick up your Passport to Fun:
-
-Accessories With A Flair!…and Hair – 801 8th Avenue #4
-
-Ervin’s Antiques & Gifts – 906 9th Avenue
-
-Hearne’s Footwear & Clothing – 801 8th Avenue
-
-King’s Clocks & Unique Gifts – 827 10th Street
-
-Lincoln Park Emporium – 822 8th Street
-
-Mariposa Plants & Flowers – 801 8th Street #110
-
-Sassy Bagz – 908 9th Avenue
-
-Sew Downtown – 824 9th Street
-
-Warm Hugs Mixes & Gifts Boutique – 809 10th Street
-
-Woody’s Newsstand – 942 9th Avenue
-
-Wm Moore Jewelers - 914 9th Avenue
-
-Get 6 stamps from each business on Shop Around the Block nights and you’ll be entered to win one of 11 prize packages valued at $50! No purchase necessary. Must be 18 or older to participate.
+Please join us at 8am on Friday, January 19, 2018 for our next monthly meeting. The meeting will be held at the Greeley Tribune located at 501 8th Avenue.
