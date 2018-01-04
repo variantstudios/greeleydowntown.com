@@ -109,7 +109,7 @@ No information provided.
 
 926 8th Avenue
 
-No information provided.
+On Friday, January 5th from 5-8:30 pm, join the Eden Gallery for a "Meet & Greet" with their local artist Stephanie! "Animal Instinct" acrylics/watercolor on wrapped canvas from $65. Refreshments! Family friendly!
 
 ### The Original Roma Restaurant
 
