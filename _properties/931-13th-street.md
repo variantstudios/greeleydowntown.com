@@ -1,7 +1,7 @@
 ---
 title: 931 13th Street
 property-type: Residential
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/gables-01-1.jpg
 sale-or-lease: Lease
 square-footage:
 price: $800/mo
@@ -15,8 +15,14 @@ real-estate-email: linde.thompson3@gmail.com
 real-estate-phone: (970) 302-836
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
+    small_image_path: /assets/12lvroom.jpg
+    large_image_path: /assets/12lvroom-1.jpg
+  - title:
+    small_image_path: /assets/12kitch.jpg
+    large_image_path: /assets/12kitch-1.jpg
+  - title:
+    small_image_path: /assets/12bthrm.jpg
+    large_image_path: /assets/12bthrm-1.jpg
 ---
 
 
