@@ -1,20 +1,23 @@
 ---
 title: 931 13th Street
-property-type:
+property-type: Residential
 image_path: /assets/images/properties/properties-default.png
-sale-or-lease:
+sale-or-lease: Lease
 square-footage:
-price:
-address:
+price: $800/mo
+address: 931 13th Street
 city: Greeley
 state: CO
 zip: '80631'
 real-estate-agency:
-real-estate-agent:
-real-estate-email:
-real-estate-phone:
+real-estate-agent: Linde Thompson
+real-estate-email: linde.thompson3@gmail.com
+real-estate-phone: (970) 302-836
 image-gallery:
   - title:
     small_image_path: /assets/images/properties/properties-default.png
     large_image_path: /assets/images/properties/properties-default.png
 ---
+
+
+Charming and well-maintained two-bedroom apartment available in The Gables, a renovated and secure building on the Greeley Historic Register. Maple hardwood floors, clawfoot tub, big windows with original wood trim and beveled glass mirror in the living room. Modern plumbing, heating, and electrical throughout with utilities metered separately per each apartment for efficiency and comfort; tenant pays electric and gas. On-street parking and on-site laundry. No smoking, no dogs, $800 deposit required. Local landlords with a commitment to quality properties and maintenance. Lease available to May 2019, with option to renew. Available February 1; call Linde at 970-302-8368 for an appointment to view; no texts, please.
