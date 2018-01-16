@@ -10,7 +10,7 @@ city: Greeley
 state: CO
 zip: '80631'
 real-estate-agency:
-real-estate-agent: Corey Gross
+real-estate-agent: Cory Gross
 real-estate-email: Cory.Gross@MarcusMillichap.com
 real-estate-phone: (303) 328.2019
 image-gallery:
