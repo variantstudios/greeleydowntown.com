@@ -1,13 +1,20 @@
 ---
-title: Friday Fest 2017
-description: 'Every Friday June 2nd through September 22nd enjoy free live music on the 9th Street Plaza in downtown Greeley. Music typically plays from 6 to 9 pm and Greeley’s famously unique “Go-Cup” service runs 5 to 10 pm. There are also street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids!'
+title: Friday Fest
+description: >-
+  Every Friday June 2nd through September 22nd enjoy free live music on the 9th
+  Street Plaza in downtown Greeley. Music typically plays from 6 to 9 pm and
+  Greeley’s famously unique “Go-Cup” service runs 5 to 10 pm. There are also
+  street performers, fire spinners, face painting, balloon artistry, sidewalk
+  chalk and more for the kids!
 image_path: /assets/images/signature-events/friday-fest-greeley.png
 header_image_path:
 weight: 1
 ---
 
 
-2017 Season &nbsp;- June 2nd through September 22nd - &nbsp;Season Schedule:
+Every Friday June through September enjoy free live music on the 9th Street Plaza in downtown Greeley. Music typically plays from 6 to 9 pm and Greeley’s famously unique “Go-Cup” service runs 5 to 10 pm. There are also street performers, fire spinners, face painting, balloon artistry, sidewalk chalk and more for the kids!
+
+We are still finalizing our 2018 season but here's a look at our past 2017 season. Stay tuned for new details!
 
 &nbsp;6/2 &nbsp; &nbsp; &nbsp;&nbsp;[ **Retro**&nbsp;&nbsp;](http://www.retrotributeband.com/)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Greeley Unexpected Kickoff &nbsp; &nbsp; &nbsp;&nbsp; 80’s Tribute
 
