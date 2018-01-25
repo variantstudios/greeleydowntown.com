@@ -2,7 +2,7 @@
 title: Friday Fest
 description: >-
   We are in the planning stages for the 2018 season. It promises to be a big
-  one! 
+  one! So many great bands want to come play. 
 
   Every Friday from June through September enjoy free live music on the 9th
   Street Plaza in downtown Greeley. Music typically plays from 6 to 9 pm and
