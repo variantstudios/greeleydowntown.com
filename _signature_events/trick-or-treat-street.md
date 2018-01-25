@@ -1,5 +1,5 @@
 ---
-title: Trick Or Treat Street 2018
+title: Trick or Treat Street 2018
 description: >-
   Bring all your little goblins, ghouls, pirates and princesses to downtown
   Greeley Friday, October 26th from 4 to 6pm. Dozens of downtown businesses in
