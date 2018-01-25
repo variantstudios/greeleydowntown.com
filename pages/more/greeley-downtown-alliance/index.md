@@ -22,4 +22,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, January 19, 2018 for our next monthly meeting. The meeting will be held at the Greeley Tribune located at 501 8th Avenue.
+Please join us at 8am on Friday, February 16th, 2018 for our next monthly meeting. The meeting will be held at the Rio Grande Mexican Restaurant located at 825 9th Street.
