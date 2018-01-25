@@ -1,5 +1,5 @@
 ---
-title: 'First Friday: A Night of Art 2017'
+title: 'First Friday: A Night of Art 2018'
 description: >-
   First Friday: A Night of Art is a great opportunity to visit local galleries
   and businesses featuring rotating artwork. Held the first Friday of each month
@@ -109,7 +109,7 @@ No information provided.
 
 926 8th Avenue
 
-On Friday, January 5th from 5-8:30 pm, join the Eden Gallery for a "Meet & Greet" with their local artist Stephanie! "Animal Instinct" acrylics/watercolor on wrapped canvas from $65. Refreshments! Family friendly!
+On Friday, January 5th from 5-8:30 pm, join the Eden Gallery for a “Meet & Greet” with their local artist Stephanie! “Animal Instinct” acrylics/watercolor on wrapped canvas from $65. Refreshments! Family friendly!
 
 ### The Original Roma Restaurant
 
@@ -121,4 +121,4 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 651 10th Avenue
 
-The “Principled” exhibit at the Tointon Gallery features the collaborative work of Dan Augenstein, Colleeen Martin, Travis Krause, Berndt Savig, Zach Keiss and exhibit curator Stephanie Newton. Their work examines the elements of design. The exhibit runs through Friday, February 2nd. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the Gallery is free. To learn more about the City of Greeley’s public art programs, visit&nbsp;[GreeleyArt.com](http://greeleyart.com/).
+The “Principled” exhibit at the Tointon Gallery features the collaborative work of Dan Augenstein, Colleeen Martin, Travis Krause, Berndt Savig, Zach Keiss and exhibit curator Stephanie Newton. Their work examines the elements of design. The exhibit runs through Friday, February 2nd. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the Gallery is free. To learn more about the City of Greeley’s public art programs, visit [GreeleyArt.com](http://greeleyart.com/).
