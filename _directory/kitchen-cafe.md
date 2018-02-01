@@ -8,11 +8,11 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+Street: 905 16th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
+Phone: (970) 353-1123
 Website:
 Contact_Name:
 Contact_Email:
