@@ -19,7 +19,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-No information provided.
+The Academy of Natural Therapy's February show is titled "Textures & Abstracts" featuring Ron Worley painting and Charles Goodsell photography. The evening will also feature Free Chair Massage & Reflexology for hands and feet from ANT students.
 
 ### ART MAN DO. Studio and Keynote Coffee
 
