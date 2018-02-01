@@ -1,7 +1,8 @@
 ---
 live_directory: false
-Business:
+Business: Kitchen Cafe
 dining_categories:
+  - american
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
@@ -17,3 +18,5 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
+
