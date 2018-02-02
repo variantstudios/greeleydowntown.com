@@ -15,9 +15,9 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Contact_Name: Tim Veldhuizen
-Contact_Email: tim.veldhuizen@yahoo.com
-Logo_image_path: /assets/images/directory/greeleychophouse.png
+Contact_Name:
+Contact_Email:
+Logo_image_path: /assets/greeley-chophouse.png
 ---
 
 
