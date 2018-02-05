@@ -9,7 +9,7 @@ nightlife_categories:
   - bars-and-clubs
 retail_categories:
 service_categories:
-Street: 801 1/2 9th Street
+Street: 817 8th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
