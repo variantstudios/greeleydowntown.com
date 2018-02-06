@@ -15,7 +15,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 This spectacular event will showcase artwork created by hundreds of students attending District 6 and Charter Schools from Kindergarten through 12th grade and over 50 creative teachers, dance, music, and art! Come celebrate this one-of-a-kind First Friday event by experiencing exhibits at nearly 30 different Downtown Greeley locations featuring 30 area schools, including Charter Schools as well as artwork from UNC art students.&nbsp;
 
-Along with the artwork, enjoy live music and dance performances at various locations and work on the collaborative community artwork. All ages and abilities welcome!&nbsp;
+Along with the artwork, enjoy live music and dance performances at various locations and work on the collaborative community artwork. All ages and abilities welcome!
 
 ###### *Participating locations:*
 
