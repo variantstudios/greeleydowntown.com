@@ -155,16 +155,34 @@ Centennial Elementary K-5
 
 926 8th Avenue
 
-The Eden Gallery @ Virtually Yours will feature new art from local artists. Also, be sure to ask about upcoming art events & receive an in-house discount scholarship to attend!
+Jackson Elementary K-5
 
-### The Original Roma Restaurant
+### The Fred Tjardes School of Innovation
 
-728 16th Street
+717 6th Street
 
-Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during First Friday: A Night Of Art. Come by to learn about the history of the Concert Poster from the beginnings to contemporary.
+Fred Tjardes K-8 and will also feature a special project in partnership with the Colorado Model Railroad Museum
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-Friday, February 2nd is the final day of the “Principled” exhibit at the Tointon Gallery features the collaborative work of Dan Augenstein, Colleeen Martin, Travis Krause, Berndt Savig, Zach Keiss and exhibit curator Stephanie Newton. Their work examines the elements of design. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the Gallery is free. To learn more about the City of Greeley’s public art programs, visit&nbsp;[GreeleyArt.com](http://greeleyart.com/).
+Jefferson HS, Greeley Central HS, Greeley West HS, Northridge HS, AND Early College Academy HS [ECA]
+
+### Warm Hugs Mixes & Gifts Boutique
+
+809 10th Street
+
+Dayspring Christian Academy K-12
+
+### Woody's Newsstand
+
+942 9th Avenue
+
+Heiman Elementary K-5
+
+### Zoe's Cafe & Events
+
+715 10th Street
+
+Brentwood MS 6-8 AND Prairie Heights MS 6-8
