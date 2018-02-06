@@ -11,7 +11,11 @@ weight: 2
 ---
 
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on February 2nd, 2018 for our next First Friday
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on March 2nd, 2018 for our next First Friday which will feature the third annual District 6 & Friends Art Walk celebrating "Youth Art Month" and "Music in Our Schools Month."
+
+This spectacular event will showcase artwork created by hundreds of students attending District 6 and Charter Schools from Kindergarten through 12th grade and over 50 creative teachers, dance, music, and art! Come celebrate this one-of-a-kind First Friday event by experiencing exhibits at nearly 30 different Downtown Greeley locations featuring 30 area schools, including Charter Schools as well as artwork from UNC art students.&nbsp;
+
+Along with the artwork, enjoy live music and dance performances at various locations and work on the collaborative community artwork. All ages and abilities welcome!&nbsp;
 
 ###### *Participating locations:*
 
@@ -19,31 +23,43 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-The Academy of Natural Therapy's February show is titled "Textures & Abstracts" featuring Ron Worley painting and Charles Goodsell photography. The evening will also feature Free Chair Massage & Reflexology for hands and feet from ANT students.
+All K-12 show. This venue will feature a special, animal-themed showcase of creatively interpreted 2D & 3D works of art.<br>Musical Performances:<br>- Frontier Chamber Orchestra @ 5:30 pm<br>- Greeley Central HS Rock Band @ 6:00 pm<br>- University Ensemble @ 6:30 pm
 
 ### ART MAN DO. Studio and Keynote Coffee
 
 802 9th Street, Lower
 
-No information provided.
+Dos Rios Elementary K-5
 
 ### ArtWerx Studio/Gallery
 
 924 8th Avenue
 
-No information provided.
+Maplewood Elementary K-5
 
 ### Atlas Gallery and John Galt Coffee
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will feature Painting and Illustrations on book covers by Kelly Cook.
+Union Colony Schools K-12
+
+### Aunt Helen's Coffee House
+
+800 8th Avenue
+
+Madison Elementary K-5
+
+### Batter Up Cakes
+
+802 9th Street, lower level
+
+Martinez Elementary K-5
 
 ### Brix Taphouse & Brewery
 
 813 8th Street
 
-No information provided.
+University of Northern Colorado [UNC]
 
 ### Cranford Cove Tea Tavern
 
