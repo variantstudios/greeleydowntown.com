@@ -282,3 +282,4 @@
 /business-opportunities/commercial-properties/608-9th-street /properties/608-9th-street/
 /businesses/hearnes%C2%A0comfort%C2%A0clothing%C2%A0and%C2%A0footwear /business-directory/hearnes/
 /businesses/barber-shop  /business-directory/
+/in-the-news/ /
