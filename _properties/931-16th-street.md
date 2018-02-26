@@ -1,7 +1,7 @@
 ---
 title: 931 16th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/931-16th-st.jpg
 sale-or-lease: Lease
 square-footage: '3,700 SF'
 price: '$5,000/mo'
@@ -20,14 +20,14 @@ image-gallery:
 ---
 
 * Premier retail location near the UNC campus!
-* 3,700 sq.ft total main floor retail (can be dividied), including Margie’s Caf&eacute;, plus office/stockroom, and off-street patio
+* 3,700 sq.ft total main floor retail (can be dividied), including Margie’s Café, plus office/stockroom, and off-street patio
 * 2,200 sq.ft. original corner retail and basement office/stockroom with mechanical lift for merchandise and
 * walk-in cooler
-* 1,500 sq.ft.caf&eacute; with equipment lease option
+* 1,500 sq.ft.café with equipment lease option
 * Updated utilities; water, sewer, trash paid; tenant pays gas and electric
 
-The Campus Pharmacy Building is the best of both retail environments — a beautiful, historic building with a new retail addition and completely modernized mechanical systems throughout. Popular in-building Margie’s Caf&eacute;, Madison & Main Art Gallery, and The Bar.Ber.Shop. men’s salon provide excellent customer traffic through separate entrances.
+The Campus Pharmacy Building is the best of both retail environments — a beautiful, historic building with a new retail addition and completely modernized mechanical systems throughout. Popular in-building Margie’s Café, Madison & Main Art Gallery, and The Bar.Ber.Shop. men’s salon provide excellent customer traffic through separate entrances.
 
 A prominent corner entrance at the busy intersection of 16th Street and 10th Avenue is a prime location directly adjacent to the UNC Central campus. Built in 1928, the original building’s entrances and window openings have been restored, affording an expansive window presence for any retailer or restaurant.
 
-The interior finish has been lovingly restored with respect given to the original 14-foot tin ceiling. Retail space includes beautiful built-in wall shelves with rolling ladder. Caf&eacute; space includes spacious off-street patio with separate entrance.
+The interior finish has been lovingly restored with respect given to the original 14-foot tin ceiling. Retail space includes beautiful built-in wall shelves with rolling ladder. Café space includes spacious off-street patio with separate entrance.
