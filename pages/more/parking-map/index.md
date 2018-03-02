@@ -2,11 +2,10 @@
 layout: page
 title: Greeley Downtown Parking Map
 description:
-pdf_path: /assets/downtown-greeley-parking-map-1-25-18.pdf
+pdf_path: /assets/pdfs/Downtown-Greeley-Parking-Map-3-2-18.pdf
 sub-nav: more
 permalink: /parking-map/
 ---
-
 
 Downtown Greeley offers lots of options when it comes to parking, including FREE on-street and surface lot parking. In general, most of the parking in the core downtown surrounding 8th, 9th, and 10th Streets is FREE with a 2 hour limit. 3 Hour parking is available at the Ice Haus lot (8th Avenue & 9th Street) and the signed public parking lot at 8th Avenue & 10th Street. For more details, review the detailed map below to see what areas are available for parking, and the varying time limits.
 
