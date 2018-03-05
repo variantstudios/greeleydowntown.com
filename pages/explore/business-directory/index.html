@@ -69,7 +69,7 @@ no_results_message: "You are not viewing accurate results. Please click <a href=
 
         <div id="mySpinner" ng-show="loading"><img src="/assets/images/loading.svg" alt="Loading"></div>
         <ul class="listings-view main-content" ng-cloak>
-            <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:27 | orderBy:'Business'" class="listing">
+            <li data-dir-paginate="business in businesses | filter:searchBox | itemsPerPage:100 | orderBy:'Business'" class="listing">
                 <div class="listing-logo">
                     <a class="listing-link" href="{% raw %}{{business.path}}{% endraw %}"><img data-ng-bind="business.Logo" ng-src="{% raw %}{{business.Logo}}{% endraw %}" alt="{% raw %}{{business.Business}}{% endraw %}"></a>
                 </div>
