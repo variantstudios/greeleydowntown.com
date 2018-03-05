@@ -16,6 +16,6 @@ service_categories:
   - legal
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/logo/logo.png
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
