@@ -1,7 +1,7 @@
 ---
 title: 805 16th Street
 property-type: Commercial
-image_path: /assets/images/properties/805 16th St.jpg
+image_path: /assets/805-16th-street.jpg
 sale-or-lease: Lease
 square-footage: 1958 SF
 price: '$1,750/mo'
