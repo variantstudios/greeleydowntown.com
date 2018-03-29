@@ -15,8 +15,8 @@ real-estate-email: manager@epmprops.com
 real-estate-phone: (970) 541-9691
 image-gallery:
   - title:
-    small_image_path: /assets/images/properties/properties-default.png
-    large_image_path: /assets/images/properties/properties-default.png
+    small_image_path: /assets/805-16th-st-2.jpg
+    large_image_path: /assets/805-16th-st-2-1.jpg
 ---
 
 Great commercial space available March 19, 2018. Currently utilized as a hair salon, the opportunity exists to operate a retail and/or office centered business out of this location. Conveniently located one block from the University of Northern Colorado at 805 16th Street, Greeley. Visibility from the busy intersection at 8th Avenue and 16th Street. Ample off-street parking available for employees and clientele.
