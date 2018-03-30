@@ -6,7 +6,7 @@ description: >-
   Greeley’s famously unique “Go-Cup” service runs 5 to 10 pm. There are also
   street performers, fire spinners, face painting, balloon artistry, sidewalk
   chalk and more for the kids!
-image_path: /assets/images/signature-events/friday-fest-greeley.png
+image_path: /assets/friday-fest-logo.jpg
 header_image_path:
 weight: 1
 ---
@@ -17,8 +17,4 @@ Sponsorships go fast! call NOW!&nbsp; -&nbsp; Alison Hamling (970) 356-6775 alis
 
 Here is our 2018 Season!!!&nbsp;
 
-![](/assets/lineup.jpg)
-
-idrk
-
-&nbsp;
+![](blob:https://app.cloudcannon.com/75d69d74-b684-46d9-985b-930f6afe1384)
