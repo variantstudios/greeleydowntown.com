@@ -9,7 +9,7 @@ header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: 6
 ---
 
-### 2018 Holiday Open House will be Held Saturday, November 24th
+### 2018 Holiday Open House will be Saturday, November 24th
 
 ### Small Business Saturday, Holiday Open House, Parade and Park Lighting Ceremony
 
