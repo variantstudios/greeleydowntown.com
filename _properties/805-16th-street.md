@@ -19,8 +19,4 @@ image-gallery:
     large_image_path: /assets/805-16th-st-2-1.jpg
 ---
 
-Great commercial space available March 19, 2018. Currently utilized as a hair salon, the opportunity exists to operate a retail and/or office centered business out of this location. Conveniently located one block from the University of Northern Colorado at 805 16th Street, Greeley. Visibility from the busy intersection at 8th Avenue and 16th Street. Ample off-street parking available for employees and clientele.
-
-There may be an opportunity for the new occupant to retain some of the Fixtures, Furniture and Equipment from the current hair salon operating in the space. Current salon is in the process of selling these items.
-
-Landlord to be responsible for property insurance, taxes and exterior maintenance. Tenant occupant responsible for rent, utilities and maintenance of interior commercial space. Offering a three year lease with flexibility to negotiate extension options.
+Retail or office space available immediately conveniently located one block from UNC at 805 16th Street. Previously utilized as a hair salon. Visibility from busy intersection at 8th Avenue and 16th Street. Ample off-street parking available for employees and clientele.&nbsp;<br>&nbsp;<br>Landlord to be responsible for property insurance, taxes and exterior maintenance including snow removal. Tenant occupant responsible for rent, utilities and maintenance of interior commercial space. Offering a three year lease with flexibility to negotiate extension options.&nbsp;
