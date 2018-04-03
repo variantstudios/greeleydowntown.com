@@ -10,12 +10,7 @@ header_image_path:
 weight: 2
 ---
 
-
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on March 2nd, 2018 for our next First Friday which will feature the third annual District 6 & Friends Art Walk celebrating "Youth Art Month" and "Music in Our Schools Month."
-
-This spectacular event will showcase artwork created by hundreds of students attending District 6 and Charter Schools from Kindergarten through 12th grade and over 50 creative teachers, dance, music, and art! Come celebrate this one-of-a-kind First Friday event by experiencing exhibits at nearly 30 different Downtown Greeley locations featuring 30 area schools, including Charter Schools as well as artwork from UNC art students.&nbsp;
-
-Along with the artwork, enjoy live music and dance performances at various locations and work on the collaborative community artwork. All ages and abilities welcome!
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on April 6th, 2018 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -23,166 +18,118 @@ Along with the artwork, enjoy live music and dance performances at various locat
 
 625 8th Avenue
 
-All K-12 show. This venue will feature a special, animal-themed showcase of creatively interpreted 2D & 3D works of art.<br>Musical Performances:<br>- Frontier Chamber Orchestra @ 5:30 pm<br>- Greeley Central HS Rock Band @ 6:00 pm<br>- University Ensemble @ 6:30 pm
+The Academy of Natural Therapy will be featuring the Advanced Placement students with the Greeley Central High School Arts Magnet Program from 5-7pm during First Friday: A Night Of Art. The evening will include art, music, and demonstrations from students throughout the evening.&nbsp; The event will run from 5 pm to 7 pm.
 
 ### ART MAN DO. Studio and Keynote Coffee
 
 802 9th Street, Lower
 
-Dos Rios Elementary K-5
+No information provided.
 
 ### ArtWerx Studio/Gallery
 
 924 8th Avenue
 
-Maplewood Elementary K-5
+No information provided.
 
 ### Atlas Gallery and John Galt Coffee
 
 709 16th Street
 
-Union Colony Schools K-12
+Atlas Gallery and John Galt Coffee will feature “Brushes & Knots” during First Friday: A Night Of Art.
 
-### Aunt Helen's Coffee House
+### Aunt Helen’s Coffee House
 
 800 8th Avenue
 
-Madison Elementary K-5
-
-### Batter Up Cakes
-
-802 9th Street, lower level
-
-Martinez Elementary K-5
+No information provided.
 
 ### Brix Taphouse & Brewery
 
 813 8th Street
 
-University of Northern Colorado [UNC]
+No information provided.
 
-### Conservatory Dance Studio
-
-813 8th Street
-
-Dance Pop-Up Performances:<br>- GCHS Arts Magnet Dancers & The Conservatory Dancers @ 5:30 pm<br>- Colorado Dance Collective @ 6:30 pm<br>- Top Notch Hip Hop @ 7:30 pm
-
-### Cranford's Tea Tavern
+### Cranford’s Tea Tavern
 
 823 10th Street
 
-Bella Romero Academies K-8 AND Winograd K-8
-
-### Doug's Hang Up
-
-819 9th Street
-
-Frontier Academies K-12
+No information provided.
 
 ### Grand Lake’s 16th Street Tavern
 
 915 16th Street
 
-University of Northern Colorado [UNC]
+No information provided.
 
-### Greeley Ice Haus
+### Joe Molina Gallery & Studios
 
-900 8th Avenue
+930 8th Avenue
 
-Shawsheen Elementary K-5 AND McAuliffe S.T.E.M. Academy K-8
-
-### Greeley Recreation Center
-
-651 10th Avenue
-
-Scott Elementary K-5
-
-### Green Earth Brewing Company
-
-725 10th Street
-
-University of Northern Colorado [UNC]
+The Joe Molina Gallery & Studios presents “First Friday Vinyl” from 6-11pm featuring Old School and Hip Hop with Mayan DJ Quin
 
 ### Lincoln Park Emporium
 
 822 8th Street
 
-West Ridge Academy K-8
-
-### Lincoln Park Library
-
-1012 11th Street
-
-Salida del Sol Academy K-8
+Lincoln Park Emporium will be hosting some local creatives. Jenifer Rodriguez who will provide techniques and tips about the best Laundry Detergent for any dirty job and jewelry specialist Josie Damion will be demonstrating her unique beading style. Light refreshments provided by Miss Mary's Kitchen Store. Stop by, no reservations or purchase necessary
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-Meeker Elementary K-5
+The show for April is “For the World” which features twelve guest artists who are using the concepts of reuse, recycle, and repurpose. Their new work includes paintings, assemblage, photography, illustrations, mixed media pieces, and jewelry of all kinds. During First Friday, the gallery is open until 8pm and there will be an artist demonstration from 5:30–7pm by Cornelia Davis and Lisa Arata. The slate of guest artists includes Miki Baxter, Roger Brindisi, Susan Brown, Lisa DuBois, Mollie Walker Freeman, Ambrette Gilkey, Shauna Lower, Elizabeth Morisette, Kyla Omollo, Margaret Puentes, Cindy Shaha, Beth Wood, Margaret Zimmer, and more! The Madison & Main Gallery is artist-owned. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items in the gallery are for sale. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
 
 ### Margie’s Cafe
 
 931 16th Street
 
-Chappelow Arts Magnet School K-8
-
-### Saint Patrick Presbyterian Church
-
-803 10th Avenue
-
-Musical Performances:<br>- Scott Elementary Choir @ 5:30 pm<br>- University Elementary Choir @ 6:00 pm<br>- Heiman Elementary Choir @ 6:30 pm&nbsp;<br>- Salida del Sol 8th Grade Modern Band @ 7:00 pm
+No information provided.
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-University Schools K-12
+No information provided.
+
+### Syntax Spirits Distillery
+
+625 3rd Street, Unit C
+
+Syntax's featured April artist of the month is local photographer G. Mark Lewis. G. Mark captures art within his camera lens, his art usually being the female figure. His exhibit "By Any Other Name" will be available for viewing for duration of the month. G. Mark Lewis will be available for a meet-and-greet April 6th from 6-8pm.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-Monfort Elementary K-5
+The Bean Plant Studio will be hosting SAVA and the evening will include photographs, special music from Amaya Arevelo and Friends, and jewelry by Lisa Blank who will make a 10% donation from sales to SAVA.
+
+### The Blue Mug Coffee and Roastery
+
+807 17th Street
+
+No information provided.
 
 ### The Dragon’s Cache
 
 1109 7th Street
 
-Centennial Elementary K-5
+The Dragon’s Cache presents “Raptors” by Kai Frawg” on April 6th from 5-8pm. Kai usually specialize in human portraits but she recently had a great opportunity to photograph some beautiful Raptors, and now can share the personalities of these amazing animals with the world.10% of all show sales will be donated to HawkQuest.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-Jackson Elementary K-5
+No information provided.
 
-### The Fred Tjardes School of Innovation
+### The Original Roma Restaurant
 
-717 6th Street
+728 16th Street
 
-Fred Tjardes K-8 and will also feature a special project in partnership with the Colorado Model Railroad Museum
+Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during First Friday: A Night Of Art. Come by to learn about the history of the Concert Poster from the beginnings to contemporary.
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-Jefferson HS, Greeley Central HS, Greeley West HS, Northridge HS, AND Early College Academy HS [ECA]
-
-### Warm Hugs Mixes & Gifts Boutique
-
-809 10th Street
-
-Dayspring Christian Academy K-12
-
-### Woody's Newsstand
-
-942 9th Avenue
-
-Heiman Elementary K-5
-
-### Zoe's Cafe & Events
-
-715 10th Street
-
-Brentwood MS 6-8 AND Prairie Heights MS 6-8
+The Front Range Wildlife photography exhibit runs through April 21st in the Tointon Gallery for Visual Arts. The exhibit is part of a collaboration of photographers from Colorado, Wyoming, Utah, and Nebraska. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the Gallery is free. To learn more about the City of Greeley’s public art programs, visit&nbsp;[GreeleyArt.com](http://greeleyart.com/).
