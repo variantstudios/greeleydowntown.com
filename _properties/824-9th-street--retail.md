@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/824-9th-st-1.png
 sale-or-lease: Lease
 square-footage: '2,500-4,000 SF'
-price: $13.50/SF Modified Gross
+price:
 address: 824 9th Street
 city: Greeley
 state: CO
