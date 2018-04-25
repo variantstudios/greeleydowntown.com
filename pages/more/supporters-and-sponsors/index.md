@@ -6,14 +6,13 @@ sub-nav: more
 permalink: /supporters-and-sponsors/
 ---
 
+## 2018 DDA Supporters:
 
-## 2017 DDA Supporters:
-
-* Ancon II Constructors, Inc.
-* [Banner Health System](https://www.bannerhealth.com/)<br>[Casseday Creative Designs](http://www.casseday.net/)<br>Colorado Sugarbeet Growers Assoc.<br>Evans Group<br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
-* [Flood & Peterson](http://floodpeterson.com/)
+* [Banner Health System](https://www.bannerhealth.com/)
+* Colorado Sugarbeet Growers Assoc.<br>Evans Group<br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
 * Great Northern Properties
-* [Hensel Phelps](http://www.henselphelps.com/)<br>[High Plains Library District](http://www.mylibrary.us/)<br>[Leprino Foods Company](http://www.leprinofoods.com/)<br>[Lincoln Park Emporium](http://www.lincolnparkemporium.com/home.php)<br>[Mineral Resources](http://mineralresourcesinc.com/)<br>NCMC Inc.<br>[Norfolk Iron & Metal Co.](http://www.norfolkiron.com/)<br>[Northern Engineering](http://northernengineering.com/)<br>Phelps-Tointon<br>[Thomas & Tyler](http://www.thomasandtyler.com/)
+* [High Plains Library District](http://www.mylibrary.us/)<br>NCMC Inc.<br>Phelps-Tointon<br>[Thomas & Tyler](http://www.thomasandtyler.com/)
+* &nbsp;
 
 ## 2017 Event Sponsors
 
