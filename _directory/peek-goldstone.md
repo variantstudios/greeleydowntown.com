@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Peek Goldstone LLC
+Business: Peek Goldstone
 Street: '822 7th Street, Ste 520'
 City: Greeley
 State: Colorado
