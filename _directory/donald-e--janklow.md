@@ -15,7 +15,7 @@ Zip: '80631'
 Phone: (970) 353-4000
 Website: www.lawyersgreeley.com
 Contact_Name: Don Janklow
-Contact_Email:
+Contact_Email: don@donjanklow.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
