@@ -1,7 +1,7 @@
 ---
 live_directory: false
-Business: 'Houtchens, Greenfield & Sedlak, LLC'
-Street: 822 7th StreetSte 270
+Business: Houtchens Greenfield Sedlak & Zacheis
+Street: '822 7th Street, Ste 270'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -16,8 +16,7 @@ service_categories:
   - legal
 Contact_Name: Brandon Houtchens
 Contact_Email: brandon@houtchens.com
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
 General practice law firm, including domestic relations, business, real estate, civil litigation, adoption, and criminal defense.
