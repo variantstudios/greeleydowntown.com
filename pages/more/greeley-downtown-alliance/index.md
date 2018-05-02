@@ -5,12 +5,12 @@ description: >-
   The Greeley Downtown Alliance is a committee of the DDA consisting of business
   owners and managers in the Downtown district.
 meeting_minutes:
+  - title: GDA April 2018 Minutes
+    pdf_path: /assets/pdfs/GDA Meeting Minutes 4-20-18.pdf
   - title: GDA March 2018 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 3-16-18.pdf
   - title: GDA February 2018 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 2-16-18.pdf
-  - title: GDA January 2018 Minutes
-    pdf_path: /assets/pdfs/GDA Meeting Minutes 1-19-18.pdf
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
@@ -25,4 +25,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, April 20th, 2018 for our next monthly meeting. The meeting will be held at the Lincoln Park Library located at 1012 11th Street.
+Please join us at 8am on Friday, May 18th, 2018 for our next monthly meeting. The meeting will be held at the Bean Plant Studio located at 701 7th Street.
