@@ -10,7 +10,7 @@ header_image_path:
 weight: 2
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on April 6th, 2018 for our next First Friday.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, May 4th, 2018 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -18,9 +18,9 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-The Academy of Natural Therapy will be featuring the Advanced Placement students with the Greeley Central High School Arts Magnet Program from 5-7pm during First Friday: A Night Of Art. The evening will include art, music, and demonstrations from students throughout the evening.&nbsp; The event will run from 5 pm to 7 pm.
+No information provided.
 
-### ART MAN DO. Studio and Keynote Coffee
+### ARTMANDO Silva Studios and Keynote Coffee
 
 802 9th Street, Lower
 
@@ -36,7 +36,7 @@ No information provided.
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will feature “Brushes & Knots” during First Friday: A Night Of Art.
+Atlas Gallery and John Galt Coffee will feature a group show called “Spectrum”. Each artist was assigned a single color and each created a monochromatic piece with it. 20 artists, 20 colors, raising funds for the Immigrant & Refugee Center&nbsp;<br>of Northern Colorado.
 
 ### Aunt Helen’s Coffee House
 
@@ -54,7 +54,7 @@ No information provided.
 
 823 10th Street
 
-No information provided.
+Cranford’s Tea Tavern is hosting a photo contest entitled "Reflections of Greeley." They are encouraging everyone to bring in their favorite picture they have taken of our lovely city by May 4th, and they will display all the photographs at Cranford's throughout the month. The best photograph will be selected from all entries, and a prize will be awarded at the end of the month. Photo must be display-ready--that means framed, dry-mounted, or otherwise hangable.
 
 ### Grand Lake’s 16th Street Tavern
 
@@ -66,19 +66,19 @@ No information provided.
 
 930 8th Avenue
 
-The Joe Molina Gallery & Studios presents “First Friday Vinyl” from 6-11pm featuring Old School and Hip Hop with Mayan DJ Quin
+Polar Pat Entertainment Presents Karaoke Night from 6-8pm featuring DJ Maya spinning 80's and 90's Hits. $5 cover from 6-8pm and no cover from 8-11pm. Offering drink discount all night.
 
 ### Lincoln Park Emporium
 
 822 8th Street
 
-Lincoln Park Emporium will be hosting some local creatives. Jenifer Rodriguez who will provide techniques and tips about the best Laundry Detergent for any dirty job and jewelry specialist Josie Damion will be demonstrating her unique beading style. Light refreshments provided by Miss Mary's Kitchen Store. Stop by, no reservations or purchase necessary
+Lincoln Park Emporium will be hosting local creative expert Sandy Sup, who will showcase her handmade aprons and various specialty items. Josie Damian will also be joining us to show us how she makes her beautiful jewelry. Light refreshments provided by Miss Mary's Kitchen Store. Stop by, no reservations or purchase necessary. For information, call 970-351-6222.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The show for April is “For the World” which features twelve guest artists who are using the concepts of reuse, recycle, and repurpose. Their new work includes paintings, assemblage, photography, illustrations, mixed media pieces, and jewelry of all kinds. During First Friday, the gallery is open until 8pm and there will be an artist demonstration from 5:30–7pm by Cornelia Davis and Lisa Arata. The slate of guest artists includes Miki Baxter, Roger Brindisi, Susan Brown, Lisa DuBois, Mollie Walker Freeman, Ambrette Gilkey, Shauna Lower, Elizabeth Morisette, Kyla Omollo, Margaret Puentes, Cindy Shaha, Beth Wood, Margaret Zimmer, and more! The Madison & Main Gallery is artist-owned. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items in the gallery are for sale. For more details about the show you may call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com/)
+Madison and Main Gallery will host the 31st Annual Garden Show. The theme this year is “Swinging into Spring”. This popular spring show runs through June 29th so swing into the gallery and meet the guest artists and members at the opening reception on May 4th from 5-8pm. In addition to the new work by member artists, the gallery is excited to have the work of eight guest artists on exhibit. The slate of guest artists are Bill Fritz, Ambrette Gilkey, Cat Hagan, Vicki McCargar, Tim Preston, Tania Rustage, Cindy Shaha, and Lauren Thurman. The Madison & Main Gallery is artist-owned. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items in the gallery are for sale. For more details about the show call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](www.madisonandmaingallery.com).&nbsp;
 
 ### Margie’s Cafe
 
@@ -96,13 +96,13 @@ No information provided.
 
 625 3rd Street, Unit C
 
-Syntax's featured April artist of the month is local photographer G. Mark Lewis. G. Mark captures art within his camera lens, his art usually being the female figure. His exhibit "By Any Other Name" will be available for viewing for duration of the month. G. Mark Lewis will be available for a meet-and-greet April 6th from 6-8pm.
+Due to their move, Syntax Spirits Distillery is moving their Drink & Think Trivia night to First Friday and it will be the last Trivia Night at their old location. Trivia nights are good fun with their fabulous hosts, Currier Inn owner and British man-about-town Derek Boulton and their very own Colorado-grown Still Mistress, Heather Bean! Sip on some knowledge and a cocktail or two. Participation is free and pizza is provided. Win spectacular goodies from the bar!
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will be hosting SAVA and the evening will include photographs, special music from Amaya Arevelo and Friends, and jewelry by Lisa Blank who will make a 10% donation from sales to SAVA.
+The Bean Plant Studio will be “Aprons & Teapots” from 5-8pm. The show will feature aprons by Robin Sweeton and teapots by Mike Lemke, Danyelle Butler and Jim Klingman. There will also be special music from Amaya Arevelo.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -114,13 +114,13 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache presents “Raptors” by Kai Frawg” on April 6th from 5-8pm. Kai usually specialize in human portraits but she recently had a great opportunity to photograph some beautiful Raptors, and now can share the personalities of these amazing animals with the world.10% of all show sales will be donated to HawkQuest.
+The Dragon’s Cache’s presents Happiness Only Real When Shared – Art By Bekah Smith. Bekah is brand new to the Art Gallery scene and The Dragon’s Cache is proud to host her first show. Bekah is an oil painter and has just started to work with drop painting and she will have several examples of her work at the show.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-No information provided.
+The Eden Gallery will host an exhibit & reception for Harms Creations, a duo whose fine photography features the beauty of the outdoors in landscapes. Come support the talents & artistry of these local artists. Reception from 5-8:30 pm. Light refreshments.&nbsp;
 
 ### The Original Roma Restaurant
 
@@ -132,4 +132,4 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 651 10th Avenue
 
-The Front Range Wildlife photography exhibit runs through April 21st in the Tointon Gallery for Visual Arts. The exhibit is part of a collaboration of photographers from Colorado, Wyoming, Utah, and Nebraska. The Tointon Gallery features up to twelve changing art shows each year and is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the Gallery is free. To learn more about the City of Greeley’s public art programs, visit&nbsp;[GreeleyArt.com](http://greeleyart.com/).
+In between shows at the Tointon Gallery.
