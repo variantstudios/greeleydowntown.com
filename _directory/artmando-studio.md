@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Artmando Studio
+Business: Artmando Silva Studios
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -18,5 +18,4 @@ Contact_Name: Armando Silva
 Contact_Email: artmandosilva@yahoo.com
 Logo_image_path: /assets/images/directory/artmando.png
 ---
-
 
