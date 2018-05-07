@@ -11,7 +11,8 @@ permalink: /supporters-and-sponsors/
 * [Banner Health System](https://www.bannerhealth.com/)
 * Colorado Sugarbeet Growers Assoc.<br>Evans Group<br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
 * Great Northern Properties
-* [High Plains Library District](http://www.mylibrary.us/)<br>NCMC Inc.<br>Phelps-Tointon<br>[Thomas & Tyler](http://www.thomasandtyler.com/)
+* [High Plains Library District](http://www.mylibrary.us/)<br>NCMC Inc.
+* [Northern Engineering](http://northernengineering.com/){: target="_blank"}<br>Phelps-Tointon<br>[Thomas & Tyler](http://www.thomasandtyler.com/)
 * &nbsp;
 
 ## 2017 Event Sponsors
