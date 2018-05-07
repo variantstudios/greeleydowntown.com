@@ -1,12 +1,12 @@
 ---
 live_directory: false
-Business: Greeley Senior Activity Center
+Business: Greeley Active Adult Center
 Street: 1010 6th Street
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 350-9440
-Website: 'http://GreeleySeniorActivityCenter.com'
+Website: 'https://greeleyrec.com/facilities/greeley-active-adult-center/'
 dining_categories:
 entertainment_and_recreation_categories:
   - recreation
@@ -16,8 +16,11 @@ retail_categories:
 service_categories:
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/greeleysenioractivitycenter.png
+Logo_image_path:
 ---
 
+The Greeley Active Adult Center is committed to providing a variety of opportunities so being active can be a way of life. Adults aged 50 and above can socialize at the center, whether through trips or while participating in one of our many programs.
 
-Adults aged 50 and above can socialize at the Center, whether through trips or while participating in one of our many programs. Staying healthy is easy with our wide variety of 50+ fitness programs and sports.&nbsp;
+We offer a wide array of clubs, sports, SilverSneakers&reg; fitness programs, special events, holiday lunches, ice cream socials, health and safety seminars, and travel opportunities including local and international excursions, lunches with Gabbie Gourmet, sporting events, museums and more.
+
+Staying healthy is easy with our wide array of fitness programs and sports.
