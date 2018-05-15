@@ -1,19 +1,21 @@
 ---
 live_directory: false
-Business:
+Business: S. Mason Dream Photography
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+  - media-and-visual-arts
+Street: 715 7th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
-Contact_Name:
+Phone: (970) 380-9204
+Website: 'http://smdreamphotography.com/'
+Contact_Name: Shayla Mason
 Contact_Email:
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/s-mason-photography-logo.png
 ---
+
