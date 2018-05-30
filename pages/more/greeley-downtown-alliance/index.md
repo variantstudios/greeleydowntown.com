@@ -25,4 +25,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, May 18th, 2018 for our next monthly meeting. The meeting will be held at the Bean Plant Studio located at 701 7th Street.
+Please join us at 8am on Friday, June 15th, 2018 for our next monthly meeting. The meeting will be held at the DoubleTree by Hilton Greeley at Lincoln Park located at 719 7th Street.
