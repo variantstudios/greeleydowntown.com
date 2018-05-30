@@ -10,7 +10,7 @@ header_image_path:
 weight: 2
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, May 4th, 2018 for our next First Friday.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, June 1st, 2018 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -36,7 +36,7 @@ No information provided.
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will feature a group show called “Spectrum”. Each artist was assigned a single color and each created a monochromatic piece with it. 20 artists, 20 colors, raising funds for the Immigrant & Refugee Center&nbsp;<br>of Northern Colorado.
+Atlas Gallery and John Galt Coffee will feature the work of Nayeli Contreras-Rocha.
 
 ### Aunt Helen’s Coffee House
 
@@ -54,7 +54,7 @@ No information provided.
 
 823 10th Street
 
-Cranford’s Tea Tavern is hosting a photo contest entitled "Reflections of Greeley." They are encouraging everyone to bring in their favorite picture they have taken of our lovely city by May 4th, and they will display all the photographs at Cranford's throughout the month. The best photograph will be selected from all entries, and a prize will be awarded at the end of the month. Photo must be display-ready--that means framed, dry-mounted, or otherwise hangable.
+No information provided.
 
 ### Grand Lake’s 16th Street Tavern
 
@@ -66,19 +66,19 @@ No information provided.
 
 930 8th Avenue
 
-Polar Pat Entertainment Presents Karaoke Night from 6-8pm featuring DJ Maya spinning 80's and 90's Hits. $5 cover from 6-8pm and no cover from 8-11pm. Offering drink discount all night.
+El Persidi&oacute; will be playing at the Joe Molina Gallery & Studios. Cost is $5 for this 18 and over live concert. Doors open at 8pm and they will have $1 Margaritas from 8-9pm.
 
 ### Lincoln Park Emporium
 
 822 8th Street
 
-Lincoln Park Emporium will be hosting local creative expert Sandy Sup, who will showcase her handmade aprons and various specialty items. Josie Damian will also be joining us to show us how she makes her beautiful jewelry. Light refreshments provided by Miss Mary's Kitchen Store. Stop by, no reservations or purchase necessary. For information, call 970-351-6222.
+Lincoln Park Emporium will be hosting local creative, Joyce Pope, who will showcase her unique handmade fabric coiled baskets and various specialty items. She’ll share the tips and techniques she’s learned while creating these beautiful, useful treasures. Light refreshments provided by Miss Mary's Kitchen Store.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-Madison and Main Gallery will host the 31st Annual Garden Show. The theme this year is “Swinging into Spring”. This popular spring show runs through June 29th so swing into the gallery and meet the guest artists and members at the opening reception on May 4th from 5-8pm. In addition to the new work by member artists, the gallery is excited to have the work of eight guest artists on exhibit. The slate of guest artists are Bill Fritz, Ambrette Gilkey, Cat Hagan, Vicki McCargar, Tim Preston, Tania Rustage, Cindy Shaha, and Lauren Thurman. The Madison & Main Gallery is artist-owned. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items in the gallery are for sale. For more details about the show call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](www.madisonandmaingallery.com).&nbsp;
+During the 31st Annual Garden Show, “Swinging into Spring”, the Madison and Main Gallery will host an artist demonstration with Tess Jones sharing her technique of fly tying. This popular spring show runs through June 29th so swing into the gallery and meet some of the artists at the First Friday Artist Demonstration on June 1st from 5:30-7pm. In addition to the new work by member artists, the gallery is excited to have the work of eight guest artists on exhibit. The slate of guest artists are Bill Fritz, Ambrette Gilkey, Cat Hagan, Vicki McCargar, Tim Preston, Tania Rustage, Cindy Shaha, and Lauren Thurman. For more details about the show and the demonstration, call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com. The Madison & Main Gallery is artist-owned and Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items in the gallery are for sale.
 
 ### Margie’s Cafe
 
@@ -94,15 +94,15 @@ No information provided.
 
 ### Syntax Spirits Distillery
 
-625 3rd Street, Unit C
+700 6th Street
 
-Due to their move, Syntax Spirits Distillery is moving their Drink & Think Trivia night to First Friday and it will be the last Trivia Night at their old location. Trivia nights are good fun with their fabulous hosts, Currier Inn owner and British man-about-town Derek Boulton and their very own Colorado-grown Still Mistress, Heather Bean! Sip on some knowledge and a cocktail or two. Participation is free and pizza is provided. Win spectacular goodies from the bar!
+No First Friday event due to the fact that they are moving to their new location.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will be “Aprons & Teapots” from 5-8pm. The show will feature aprons by Robin Sweeton and teapots by Mike Lemke, Danyelle Butler and Jim Klingman. There will also be special music from Amaya Arevelo.
+The Bean Plant Studio will hold a clothing reception for &nbsp;“Aprons & Teapots” from 4-8pm. The show features aprons by Robin Sweeton and teapots by Mike Lemke, Danyelle Butler and Jim Klingman. Robin Sweeton will be in attendance to talk about her Apron Collection.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -114,13 +114,13 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache’s presents Happiness Only Real When Shared – Art By Bekah Smith. Bekah is brand new to the Art Gallery scene and The Dragon’s Cache is proud to host her first show. Bekah is an oil painter and has just started to work with drop painting and she will have several examples of her work at the show.
+The Dragon’s Cache’s presents “The Universe Is My Muse” featuring artwork from Tiffany Smith. Refreshments will be served and there will be music featuring Bob Schneller on guitar.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-The Eden Gallery will host an exhibit & reception for Harms Creations, a duo whose fine photography features the beauty of the outdoors in landscapes. Come support the talents & artistry of these local artists. Reception from 5-8:30 pm. Light refreshments.&nbsp;
+The Eden Gallery: Celebrate Local is a showcase of artwork from local artists. Stop by for light refreshments & support Northern Colorado's finest from 5-8:30pm!
 
 ### The Original Roma Restaurant
 
@@ -132,4 +132,4 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 651 10th Avenue
 
-In between shows at the Tointon Gallery.
+The Northern Colorado Weaver’s Guild features its 2018 Fiber Celebration in the Tointon Gallery through June 16th. The gallery is open Monday through Saturday from 9am-5pm and during many of the performances at the Union Colony Civic Center. Admission to the gallery is free. For details, visit GreeleyArt.com.
