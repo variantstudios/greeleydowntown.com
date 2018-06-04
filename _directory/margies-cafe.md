@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: "Margie's Cafe @ The Farmer's Pantry"
+Business: Margie's Cafe
 dining_categories:
   - coffee-shops
   - deli-and-cafe
@@ -15,10 +15,8 @@ State: Colorado
 Zip: '80631'
 Phone:
 Website: 'https://www.facebook.com/farmerspantrystore/?fref=ts'
-Contact_Name: Todd Doleshall
-Contact_Email: todd@farmerspantrymarket.com
+Contact_Name: Margaret Thompson
+Contact_Email:
 Logo_image_path: /assets/images/directory/margies.png
 ---
 
-
-Local coffee house, located inside the Farmer's Pantry Market. Margie's has been a Greeley institution since 1992. Now with a fresh new look and menu, while retaining the character, charm, and friendliness of the original. Breakfast and lunch served all day.
