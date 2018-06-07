@@ -15,8 +15,8 @@ retail_categories:
 service_categories:
   - real-estate-and-property-management
 Contact_Name: Seth Bunting
-Contact_Email: onewayproman@gmail.com
+Contact_Email: Seth.bunting505@gmail.com
 Logo_image_path: /assets/images/directory/onewayproperty.png
 ---
 
-
+Property management, HOA management, construction, real estate investment
