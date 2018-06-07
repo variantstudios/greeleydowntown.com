@@ -16,7 +16,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
 Contact_Name: Troy Milburn
-Contact_Email: contact-us@brixtaphouseandbrewery.com
-Logo_image_path: /assets/images/directory/brix-taphouse.png
+Contact_Email:
+Logo_image_path: /assets/images/directory/Brix_logo.png
 ---
 
