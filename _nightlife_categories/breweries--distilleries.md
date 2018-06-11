@@ -1,3 +1,4 @@
 ---
-title: Breweries
+title: Breweries & Distilleries
 ---
+
