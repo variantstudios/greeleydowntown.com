@@ -6,7 +6,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
   - bars-and-clubs
-  - breweries--distilleries
+  - breweries-and-distilleries
 retail_categories:
 service_categories:
 Street: 700 6th Street
