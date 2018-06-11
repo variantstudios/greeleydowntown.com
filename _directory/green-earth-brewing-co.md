@@ -5,8 +5,8 @@ dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
-  - breweries
   - bars-and-clubs
+  - breweries-and-distilleries
 retail_categories:
 service_categories:
 Street: 725 10th Street
@@ -19,5 +19,4 @@ Contact_Name: Scott Pell
 Contact_Email:
 Logo_image_path: /assets/green-earth-brewing.png
 ---
-
 
