@@ -12,7 +12,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
   - bars-and-clubs
-  - breweries
+  - breweries--distilleries
 retail_categories:
 service_categories:
 Contact_Name: Troy Milburn
