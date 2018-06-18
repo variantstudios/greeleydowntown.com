@@ -23,8 +23,9 @@ permalink: /supporters-and-sponsors/
 
 ### Friday Fest
 
-* [All Purpose Rental](http://www.allpurposerental.com/)<br>[Greeley Tribune](http://www.greeleytribune.com/)
-* [High Country Beverage](http://highcountrybeverage.com/agegate/)<br>NCMC, Inc.<br>&nbsp;
+* [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
+* [City of Greeley<br>Core Staffing<br>First national Bank<br>George T Sanders Co.<br>Greeley Young Professionals<br>High Country Beverage<br>iHeart Radio<br>La Jota Radio<br>Mosquito Joe’s<br>Noble Energy<br>RE/Max- Al Burke<br>Renewal By Andersen<br>Sears Real Estate<br>State Farm- Melissa McDonald<br>The Smile Doctor<br>The Tribune<br>Ttec<br>WeldWerks Brewing Co.](http://www.greeleygov.com){: target="_blank"}<br>[Greeley Tribune](http://www.greeleytribune.com/)
+* [High Country Beverage](http://highcountrybeverage.com/agegate/)<br>[NCMC, Inc.](__notset__)<br>&nbsp;
 
 ### Oktobrewfest
 
