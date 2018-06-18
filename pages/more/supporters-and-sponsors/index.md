@@ -9,13 +9,17 @@ permalink: /supporters-and-sponsors/
 ## 2018 DDA Supporters:
 
 * [Banner Health System](https://www.bannerhealth.com/)
-* Colorado Sugarbeet Growers Assoc.<br>Evans Group<br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
+* [C2D Architects](http://c2darchitects.com/){: target="_blank"}
+* Colorado Sugarbeet Growers Assoc.
+* Evans Group<br>[First Church of Christ, Scientist](http://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/)
+* [Flood & Peterson](https://floodpeterson.com/){: target="_blank"}
 * Great Northern Properties
 * [High Plains Library District](http://www.mylibrary.us/)<br>NCMC Inc.
 * [Northern Engineering](http://northernengineering.com/){: target="_blank"}<br>Phelps-Tointon<br>[Thomas & Tyler](http://www.thomasandtyler.com/)
+* [Wheeler Management Group](http://www.wheelermgt.com){: target="_blank"}
 * &nbsp;
 
-## 2017 Event Sponsors
+## 2018 Event Sponsors
 
 ### Friday Fest
 
