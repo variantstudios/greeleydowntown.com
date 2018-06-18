@@ -23,7 +23,7 @@ permalink: /supporters-and-sponsors/
 
 ### Friday Fest
 
-* [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}<br>[City of Greeley](greeleygov.com){: target="_blank"}<br>[Core Staffing](www.corestaff.com){: target="_blank"}<br>[First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}<br>George T Sanders Co.<br>Greeley Tribune<br>Greeley Young Professionals<br>High Country Beverage<br>iHeart Radio<br>La Jota Radio<br>Mosquito Joe’s<br>NCMC, Inc.<br>Noble Energy<br>RE/Max- Al Burke<br>Renewal By Andersen<br>Sears Real Estate<br>State Farm- Melissa McDonald<br>The Smile Doctor<br>Ttec<br>WeldWerks Brewing Co.
+* [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}<br>[City of Greeley](greeleygov.com){: target="_blank"}<br>[Core Staffing](www.corestaff.com){: target="_blank"}<br>[First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}<br>[George T Sanders Co.](https://www.gtsanders.com/){: target="_blank"}<br>[Greeley Tribune](https://www.greeleytribune.com/){: target="_blank"}<br>[Greeley Young Professionals](https://www.facebook.com/greeleyyoungprofessionals/){: target="_blank"}<br>[High Country Beverage](http://highcountrybeverage.com/agegate/){: target="_blank"}<br>[iHeart Radio](https://www.iheart.com/){: target="_blank"}<br>[La Jota Radio](http://lajotamexicana.com/content/){: target="_blank"}<br>[Mosquito Joe’s](https://mosquitojoe.com/){: target="_blank"}<br>NCMC, Inc.<br>Noble Energy<br>RE/Max- Al Burke<br>Renewal By Andersen<br>Sears Real Estate<br>State Farm- Melissa McDonald<br>The Smile Doctor<br>Ttec<br>WeldWerks Brewing Co.
 
 ### Oktobrewfest
 
