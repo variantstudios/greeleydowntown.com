@@ -26,24 +26,3 @@ permalink: /supporters-and-sponsors/
 * [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}<br>[City of Greeley](greeleygov.com){: target="_blank"}<br>[Core Staffing](www.corestaff.com){: target="_blank"}<br>[First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}<br>[George T Sanders Co.](https://www.gtsanders.com/){: target="_blank"}<br>[Greeley Tribune](https://www.greeleytribune.com/){: target="_blank"}<br>[Greeley Young Professionals](https://www.facebook.com/greeleyyoungprofessionals/){: target="_blank"}<br>[High Country Beverage](http://highcountrybeverage.com/agegate/){: target="_blank"}<br>[iHeart Radio](https://www.iheart.com/){: target="_blank"}<br>[La Jota Radio](http://lajotamexicana.com/content/){: target="_blank"}<br>[Mosquito Joe’s](https://mosquitojoe.com/){: target="_blank"}<br>NCMC, Inc.<br>[Noble Energy](https://www.nblenergy.com/){: target="_blank"}<br>[RE/Max- Al Burke](www.remax.com){: target="_blank"}<br>[Renewal By Andersen](https://www.renewalbyandersen.com/){: target="_blank"}<br>[Sears Real Estate](http://www.searsrealestate.com/){: target="_blank"}<br>[State Farm- Melissa McDonald](https://www.statefarm.com/agent/US/CO/Greeley/Melissa-Mcdonald-ZB0KX2VV000){: target="_blank"}<br>[The Smile Doctor](www.smiledoctors.com){: target="_blank"}<br>[TTEC](https://www.ttecjobs.com/){: target="_blank"}<br>[WeldWerks Brewing Co.](https://www.weldwerksbrewing.com/){: target="_blank"}
 
 ### Oktobrewfest
-
-* [Academy of Natural Therapy](http://www.natural-therapy.com/)<br>[All Purpose Rental](http://www.allpurposerental.com/)<br>[Accessories with a Flair](http://accessoriesfashionsandhair.com/)
-* [Bentley’s Pet Stuff](https://www.petstuff.com/)
-* [Black Bottle Brewery](https://blackbottlebrewery.com/)<br>[Brix Taphouse & Brewery](http://www.brixtaphouseandbrewery.com/)<br>[City of Greeley](http://greeleygov.com/)<br>[Cranford Cove Tea Tavern](http://www.cranfordcove.com/)
-* [Ehrlich Toyota](https://www.ehrlichtoyota.com/)
-* [First National Bank](https://www.1stnationalbank.com/site/personal/)
-* [Greeley Dental Care](http://www.greeleydentalcare.com/)<br>[Greeley Tribune](http://www.greeleytribune.com/)
-* [Guaranty Bank & Trust](https://www.guarantybankco.com/)<br>[Mariposa Plants & Flowers](http://www.mariposaflowers.com/)<br>NCMC, Inc.
-* [Noble Energy](https://www.nblenergy.com/)
-* [Northern Colorado Credit Union](https://nococu.org/)
-* [Oskar Blues Brewery](https://www.oskarblues.com/)
-* [PDC Energy](http://www.pdce.com/)
-* [Pepsi](https://www.pepsi.com/en-us/)
-* [Property Technica](http://www.propertytechnica.com/)
-* [Renewal by Andersen](https://www.renewalbyandersen.com/)
-* Richmark Holdings
-* [Right Coast Pizza](http://www.rightcoastpizza.com/)<br>[Steamway Floor to Ceiling](http://www.steamwayftc.com/)
-* [Steiner](http://www.steiner-optics.com/)<br>[The Bean Plant Studio](https://www.facebook.com/TheBeanPlantStudio/)
-* [The Original Roma](http://romagreeley.com/)<br>[The Resource Center](http://tests4greeley.com/)<br>[The Rio Grande Mexican Restaurant](https://www.riograndemexican.com/)
-* [Wheeler Management Group](http://www.wheelermgt.com/)<br>[Wm. Moore Jewelers](http://www.wmmoorejewelers.com/)
-* [Woody’s Newsstand](https://www.facebook.com/woodysbookstore/)
