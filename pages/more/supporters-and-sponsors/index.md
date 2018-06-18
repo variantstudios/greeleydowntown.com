@@ -23,9 +23,7 @@ permalink: /supporters-and-sponsors/
 
 ### Friday Fest
 
-* [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
-* City of Greeley<br>Core Staffing<br>First national Bank<br>George T Sanders Co.<br>Greeley Young Professionals<br>High Country Beverage<br>iHeart Radio<br>La Jota Radio<br>Mosquito Joe’s<br>Noble Energy<br>RE/Max- Al Burke<br>Renewal By Andersen<br>Sears Real Estate<br>State Farm- Melissa McDonald<br>The Smile Doctor<br>The Tribune<br>Ttec<br>WeldWerks Brewing Co.<br>[Greeley Tribune](http://www.greeleytribune.com/)
-* [High Country Beverage](http://highcountrybeverage.com/agegate/)<br>[NCMC, Inc.](__notset__)<br>&nbsp;
+* [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}<br>[City of Greeley](greeleygov.com){: target="_blank"}<br>[Core Staffing](www.corestaff.com){: target="_blank"}<br>[First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}<br>George T Sanders Co.<br>Greeley Tribune<br>Greeley Young Professionals<br>High Country Beverage<br>iHeart Radio<br>La Jota Radio<br>Mosquito Joe’s<br>NCMC, Inc.<br>Noble Energy<br>RE/Max- Al Burke<br>Renewal By Andersen<br>Sears Real Estate<br>State Farm- Melissa McDonald<br>The Smile Doctor<br>Ttec<br>WeldWerks Brewing Co.
 
 ### Oktobrewfest
 
