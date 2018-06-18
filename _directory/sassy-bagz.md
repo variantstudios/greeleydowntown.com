@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Sassy Bagz
-Street: 908 9th Avenue
+Street: 900 9th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -19,5 +19,4 @@ Contact_Name: Raquel Jandreau
 Contact_Email: nrdzf@comcast.net
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
