@@ -17,7 +17,7 @@ Phone: (970) 352-5466
 Website: 'https://www.syntaxspirits.com/'
 Contact_Name: Heather Bean
 Contact_Email: heather@syntaxspirits.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/syntax-logo.png
 ---
 
 Visit Greeley's only grain-to-glass distillery! We hand-craft local whiskey, rum, gin, vodka and other spirits from scratch in downtown Greeley, CO. Located in the historic Greeley Elevator Building, you can visit us for a signature cocktail, bottle, or tour of our production facility.&nbsp;
