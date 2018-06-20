@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - legal
-Street: '801 8th Street, Ste. 220-D'
+Street: '801 8th Street, Ste. 220-C'
 City: Greeley
 State: Colorado
 Zip: '80631'
@@ -18,5 +18,4 @@ Contact_Name: Abel Alvarado
 Contact_Email: info@abogadodeltrabajodenver.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
