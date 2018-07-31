@@ -16,8 +16,7 @@ retail_categories:
 service_categories:
 Contact_Name: Peter Osterfelt
 Contact_Email: petero@riograndemexican.com
-Logo_image_path: /assets/images/directory/riograndemexican.png
+Logo_image_path: /assets/rio-logo.png
 ---
-
 
 The Rio, located in the heart of downtown, provides sanctuary from the problems of the world, while serving the best dang margaritas and Mexican food this side of the Rio Grande. Join us for lunch, dinner, or weekend brunch and don't forget to enjoy our beautiful outdoor patio. Happy Hour is Monday through Friday from 3-6pm with food and drink specials.
