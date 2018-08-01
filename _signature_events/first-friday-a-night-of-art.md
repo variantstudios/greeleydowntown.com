@@ -10,7 +10,7 @@ header_image_path:
 weight: 2
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, July 6th, 2018 for our next First Friday.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, August 3rd, 2018 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -18,7 +18,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-During the month of July, the Academy of Natural Therapy will be featuring photography and explanations of the 2013 Flood Rehabilitation efforts and how they are coming along.&nbsp; The photography includes what you see when you drive up to Estes Park as well as what you can't see from the road and is part of an educational outreach effort to the general public from NRCS, lead agency in Emergency Watershed Protection program, and all the many, many smaller organizations involved in the rehabilitation efforts.
+No information provided.
 
 ### ARTMANDO Silva Studios and Keynote Coffee
 
@@ -36,7 +36,7 @@ No information provided.
 
 709 16th Street
 
-No information provided.
+Atlas Gallery and John Galt Coffee will host “Photography Collection 2018” featuring a series of photographs taken over the past year by artists Aaron David Best. The photographs feature the 3 weeks he spent in Ireland in early 2018 as well as documenting the city of Greeley, Colorado, and it's inhabitants.
 
 ### Aunt Helen’s Coffee House
 
@@ -48,7 +48,7 @@ No information provided.
 
 813 8th Street
 
-Gii Astorga will be live at Brix Brewery & Taphouse starting at 8pm.
+Ben Pu…the man, the myth, the legend, playing live at &ordm;Brix from 8-10pm. It doesn't get any more Greeley.
 
 ### Cranford’s Tea Tavern
 
@@ -66,43 +66,49 @@ No information provided.
 
 930 8th Avenue
 
-Grupo Presidio live on Friday, July 6th. Doors open at 8pm with a $5 Cover. $1 Margaritas from 8-9pm. 18 and over event.
+No information provided.
 
 ### Lincoln Park Emporium
 
 822 8th Street
 
-No information provided.
+Lincoln Park Emporium will not have an event on Friday, August 3rd.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-Two shows in one with musical entertainment and a bike ride! The Madison and Main Gallery will host a public opening reception for BIKE SHOW 8 aka “Bikes on the Patio” and the Bicycle Art Show 2018.&nbsp; See all the bikes on display and meet the guest artists for the art show and member artists of the gallery at the opening reception on July 6th from 5-8pm. BIKE SHOW 8 aka “Bikes On The Patio” will feature bicycle enthusiasts and their bicycles on the patio during the reception. This show started 8 years ago as a “Fixed Gear” bicycle show and has evolved into an all bicycles welcomed event. Returning for a 4th year with his musical talents will be Mr. Joe Lee Parker with his “Ambient Live” set. This year they will introduce a “Tweed Run” to their Bike Show. There will be a short bike ride with riders dressed in “traditional British cycling attire”. They will ride to FRIDAY FEST and stop for photos at the Einstein mural and the Train Museum mural. This type of event began in 2009 in London and has spread globally. The ride will be led by Adam Davidson formally of the Greeley Revolution. The Bicycle Art Show 2018 brings Bicycle Art to the community, runs July 2nd-August 31st, and features guest artists and gallery members and their bicycle inspired creations. The slate of guest artists are Felisha Brower, Stephanie Burchett, Nancy Condit, Gregory Mayse, Lori Ozzello, Joe Lee Parker, Colette Pitcher, Brittany Schmidt, Armando Silva, Sherise Talbott, Tangier Wright, and Ruth Wydeven. For more details about the show and the demonstration, call the Madison & Main Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com. The Madison & Main Gallery is artist-owned and Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. All items in the gallery are for sale.
+On First Friday, August 3, the Madison and Main Gallery will host an artist demonstration from 5:30 -7pm. Gregory Mayse will be sharing his painting techniques. This demonstration is open to the public and will be taking place at the Gallery located at 927 16th St. in Greeley. Bicycle Art Show 2018 is their 5th such show, bringing Bicycle Art to the community. This show which runs through August 31, features guest artists and gallery members and their bicycle inspired creations. The slate of guest artists are Felisha Brower, Stephanie Burchett, Nancy Condit, Gregory Mayse, Lori Ozzello, Joe Lee Parker, Colette Pitcher, Brittany Schmidt, Armando Silva, Sherise Talbott, Tangier Wright, and Ruth Wydeven. The Madison & Main Gallery is an artists-owned gallery. Hours are 10 a.m. to 6 p.m. Monday through Friday and 10 a.m. to 4 p.m. Saturday. For more details about the show, call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
 
 ### Margie’s Java Joint
 
 931 16th Street
 
-Margie’s Java Joint will feature an all-women collaborative art show opening reception and market sale on Friday, July 6th.
+No information provided.
+
+### Mariposa Plants & Flowers
+
+801 8th Street, #110
+
+Mariposa Plants & Flowers will feature a Local Artist Pop-Up Show. Come check out and support local Greeley artists, enjoy refreshments, and enter to win an exclusive drawing. Don't miss out!
 
 ### Showcase Art Center
 
 1335 8th Avenue
 
-The Showcase Art Center will not be open for the July First Friday but they will be participating in the Madison & Main Gallery Bicycle Art Show 2018.
+No information provided.
 
 ### Syntax Spirits Distillery
 
 700 6th Street
 
-No First Friday event due to the fact that they are moving to their new location.
+No First Friday event due to the fact that they are still working on their new location.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will not be open for the July First Friday.
+No information provided.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -114,13 +120,13 @@ No information provided.
 
 1109 7th Street
 
-No information provided.
+The Dragon’s Cache will host “A Portrait Of The West” featuring Oils by M L Pruett. You can also sample their refreshment table and listen to calming classical guitar by Bob Schneller.
 
 ### The Eden Gallery @ Virtually Yours
 
 926 8th Avenue
 
-The Eden Gallery will feature a Fine Art on Canvas Exhibit & Sale from 5-8:30pm. Check out their Art on Canvas selection from $20...great time to buy!
+No information provided.
 
 ### The Original Roma Restaurant
 
@@ -132,4 +138,4 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 651 10th Avenue
 
-Artist David Sheldon is filling the Tointon Gallery for Visual Arts with two unique sets of abstract expressionistic paintings that are all interconnected, yet different. The exhibit, titled “Murmuration,” runs from Friday, June 25 through Friday, July 20. The gallery is open Monday-Saturday, 9am-5pm, and admission is free.
+The Tointon Gallery will host the Arts Picnic Fine Art Exhibit featuring work from artists throughout Weld County in celebration of the Arts Picnic festival that takes place in downtown’s Lincoln Park at the end of July each year. Admission to the gallery is free and the Gallery is open Monday-Saturday from 9am-5pm. The final day to check out the exhibit is Friday, August 25th.
