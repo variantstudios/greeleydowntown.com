@@ -16,11 +16,11 @@ retail_categories:
 service_categories:
 Contact_Name:
 Contact_Email:
-Logo_image_path:
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
 The Greeley Active Adult Center is committed to providing a variety of opportunities so being active can be a way of life. Adults aged 50 and above can socialize at the center, whether through trips or while participating in one of our many programs.
 
-We offer a wide array of clubs, sports, SilverSneakers&reg; fitness programs, special events, holiday lunches, ice cream socials, health and safety seminars, and travel opportunities including local and international excursions, lunches with Gabbie Gourmet, sporting events, museums and more.
+We offer a wide array of clubs, sports, SilverSneakers® fitness programs, special events, holiday lunches, ice cream socials, health and safety seminars, and travel opportunities including local and international excursions, lunches with Gabbie Gourmet, sporting events, museums and more.
 
 Staying healthy is easy with our wide array of fitness programs and sports.
