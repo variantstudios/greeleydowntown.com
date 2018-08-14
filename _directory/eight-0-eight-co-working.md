@@ -7,7 +7,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-  - professional-consulting
+  - business-resources
 Street: 808 9th Street
 City: Greeley
 State: Colorado
