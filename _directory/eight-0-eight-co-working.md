@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (303) 968-7677
-Website: www.eight-0-eight.com
+Website: 'http://eight0eight.spaces.nexudus.com/en'
 Contact_Name: Tim McCarthy
 Contact_Email: manager@eight-0-eight.com
 Logo_image_path: /assets/eigh-0-eight-logo-1.png
