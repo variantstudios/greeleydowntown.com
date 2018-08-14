@@ -15,7 +15,7 @@ Zip: '80631'
 Phone: (303) 968-7677
 Website: eight-0-eight.com
 Contact_Name: Tim McCarthy
-Contact_Email: info@eight-0-eight.com
+Contact_Email: manager@eight-0-eight.com
 Logo_image_path: /assets/eigh-0-eight-logo.png
 ---
 
