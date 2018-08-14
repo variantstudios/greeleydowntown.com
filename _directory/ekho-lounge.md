@@ -16,6 +16,6 @@ Phone:
 Website: 'https://www.facebook.com/ekho.night/'
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/ekho.png
+Logo_image_path: /assets/ekho-1.png
 ---
 
