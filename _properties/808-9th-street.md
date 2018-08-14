@@ -11,7 +11,7 @@ state: CO
 zip: '80631'
 real-estate-agency:
 real-estate-agent:
-real-estate-email: info@eight-o-eight.com
+real-estate-email: info@eight-0-eight.com
 real-estate-phone: (303) 968-7677
 image-gallery:
   - title:
