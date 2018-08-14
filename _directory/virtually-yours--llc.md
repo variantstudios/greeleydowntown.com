@@ -13,11 +13,10 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-  - professional-consulting
+  - business-resources
 Contact_Name: Elaine Furister
 Contact_Email: elaine@tailoredadminsolutions.com
 Logo_image_path: /assets/images/directory/virtuallyyours.png
 ---
-
 
 Virtually Yours, LLC is designed to offer its services to organizations, professionals, and businesses who may not have the resources or need to hire full-time administrative support staff. Our mission is to provide quality, professional administrative services using the highest standards of care, expertise, ethics, and confidentiality.
