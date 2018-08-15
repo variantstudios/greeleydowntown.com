@@ -6,6 +6,7 @@ entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
+  - cell-phones
 service_categories:
 Street: 910 9th Avenue
 City: Greeley
