@@ -1,7 +1,7 @@
 ---
 title: 901 16th Street
 property-type: Commercial
-image_path: /assets/901-16th-st.jpg
+image_path: /assets/901-16th-st-1.jpg
 sale-or-lease: Lease
 square-footage: 800 SF
 price: '$1,800 NN'
