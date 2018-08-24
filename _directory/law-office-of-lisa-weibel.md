@@ -1,19 +1,21 @@
 ---
 live_directory: false
-Business:
+Business: Law Office of Lisa Weibel
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+  - legal
+Street: '800 8th Avenue #217'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
-Contact_Name:
+Phone: (970) 978-4985
+Website: 'http://www.weibellaw.com/Attorney/'
+Contact_Name: Lisa Weibel
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
