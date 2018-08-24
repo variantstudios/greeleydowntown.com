@@ -1,12 +1,12 @@
 ---
 live_directory: false
-Business: Lutheran Family Services
+Business: Lutheran Family Services- Prevention
 Street: '800 8th Avenue, Ste. 225'
 City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 356-6751
-Website: 'http://www.lfsco.org/'
+Website: 'https://www.lfsrm.org/programs-and-services/prevention-services/safetouch/'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -18,5 +18,4 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/luthernfamilyservices.png
 ---
-
 
