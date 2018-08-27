@@ -16,6 +16,6 @@ Phone:
 Website: 'https://www.facebook.com/highbrautap/'
 Contact_Name: Ben Harmelink
 Contact_Email: ben@highbrautaphouse.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/high-brau-taphouse-1.png
 ---
 
