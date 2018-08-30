@@ -20,3 +20,5 @@ image-gallery:
 ---
 
 Lots of potential opportunities with this RARE and hard to find downtown property. Building has over 20,000 sq ft. of interior space to work with and is currently zoned Industrial. If you've been searching for the perfect location to open a Brewery and Restaurant OR maybe a "Industrial" office for your business than search no further. Enjoy the FREE public parking across the street. Check out the "Open Air" farmers market right next door to the west … Stroll down to 8th Ave. to find a great lunch cafe. This is truly a fantastic location!
+
+For more information, visit:&nbsp;[http://601tenthst.relahq.com/](http://601tenthst.relahq.com/){: target="_blank"}
