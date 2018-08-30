@@ -20,3 +20,5 @@ image-gallery:
 ---
 
 Exceptional opportunity for a retailer to locate to one of the most recognized corner in Downtown Greeley. This historic building on the corner of 9th avenue and 10th Street boasts strong daytime and evening activity right in the in the heart of Greeley's Downtown Business District. You'll find restaurants, entertainment, residential housing, retail and businesses.&nbsp;
+
+For more information, [visit: http://www.remaxcommercial.com/?p=findahome.asp&listing=true&mlsid=2755&mlsnumber=860092](http://www.remaxcommercial.com/?p=findahome.asp&amp;listing=true&amp;mlsid=2755&amp;mlsnumber=860092){: target="_blank"}
