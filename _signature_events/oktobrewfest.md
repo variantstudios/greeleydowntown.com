@@ -16,4 +16,6 @@ Tickets for the 6th Annual VIP Beer Tasting will be announced a few weeks prior 
 
 **Entertainment Schedule TBD**
 
-# **Interested in sponsoring 2018? Contact us!!&nbsp;**alison@greeleydowntown.com
+# **A HUGE thanks to our awesome sponsors! We couldn't do it without you!**
+
+![](/assets/okt2018-sponsors--for-website.jpg)
