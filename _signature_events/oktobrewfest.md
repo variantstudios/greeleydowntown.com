@@ -12,10 +12,10 @@ Greeley’s OktoBREWfest 2018 will be **September 28th & 29th** at historic Linc
 
 Then prepare for a full day of fun on **Saturday, September 29th &nbsp;from 11AM-9PM**. Enjoy a whole day of music, a wide variety of craft beer from great Northern Colorado breweries, food from more than a dozen vendors, and a huge children’s area with face painting, obstacle course, arcade games, inflatable slide, WOW Bubbles and more! Kids and adults can also compete in pie eating contests, stein lifting contests, life-size beer pong and more.
 
-Tickets for the 6th Annual VIP Beer Tasting will be announced a few weeks prior to the event.
+Tickets for the 6th Annual VIP Beer Tasting are on sale now! Get you're before they sell out (hint: they sell out every year!)--&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2018-vip-beer-tasting-tickets-49862911310](https://www.eventbrite.com/e/greeley-oktobrewfest-2018-vip-beer-tasting-tickets-49862911310){: target="_blank"}
 
 **Entertainment Schedule TBD**
 
-# **A HUGE thanks to our awesome sponsors! We couldn't do it without you!**
+# **A HUGE thanks to our awesome sponsors! We couldn’t do it without you!**
 
 ![](/assets/okt2018-sponsors--for-website.jpg)
