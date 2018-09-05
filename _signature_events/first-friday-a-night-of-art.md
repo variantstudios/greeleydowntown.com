@@ -10,7 +10,7 @@ header_image_path:
 weight: 2
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8 pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, August 3rd, 2018 for our next First Friday.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, September 8th, 2018 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -36,7 +36,7 @@ No information provided.
 
 709 16th Street
 
-Atlas Gallery and John Galt Coffee will host “Photography Collection 2018” featuring a series of photographs taken over the past year by artists Aaron David Best. The photographs feature the 3 weeks he spent in Ireland in early 2018 as well as documenting the city of Greeley, Colorado, and it's inhabitants.
+Atlas Gallery and John Galt Coffee will host “Un-phone The World” and “Details” featuring photography by David and Natalie Mash.
 
 ### Aunt Helen’s Coffee House
 
@@ -48,13 +48,13 @@ No information provided.
 
 813 8th Street
 
-Ben Pu…the man, the myth, the legend, playing live at &ordm;Brix from 8-10pm. It doesn't get any more Greeley.
+No information provided.
 
 ### Cranford’s Tea Tavern
 
 823 10th Street
 
-No information provided.
+Cranford’s Tea Tavern will feature the artwork of Madeleine Kemme.
 
 ### Grand Lake’s 16th Street Tavern
 
@@ -72,25 +72,25 @@ No information provided.
 
 822 8th Street
 
-Lincoln Park Emporium will not have an event on Friday, August 3rd.
+No information provided.
 
-### Madison & Main Gallery
+Madison & Main Gallery
 
 927 16th Street
 
-On First Friday, August 3, the Madison and Main Gallery will host an artist demonstration from 5:30 -7pm. Gregory Mayse will be sharing his painting techniques. This demonstration is open to the public and will be taking place at the Gallery located at 927 16th St. in Greeley. Bicycle Art Show 2018 is their 5th such show, bringing Bicycle Art to the community. This show which runs through August 31, features guest artists and gallery members and their bicycle inspired creations. The slate of guest artists are Felisha Brower, Stephanie Burchett, Nancy Condit, Gregory Mayse, Lori Ozzello, Joe Lee Parker, Colette Pitcher, Brittany Schmidt, Armando Silva, Sherise Talbott, Tangier Wright, and Ruth Wydeven. The Madison & Main Gallery is an artists-owned gallery. Hours are 10 a.m. to 6 p.m. Monday through Friday and 10 a.m. to 4 p.m. Saturday. For more details about the show, call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
+Join the Madison and Main Gallery as they welcome a new fall show “Home Is Where The Art Is”. There is nothing like original art to beautify a room or create a comfortable, pleasant living space and this show includes pieces designed for functional use in the home as well as artwork inspired by artist’s ideas of home, family, and sense of place. The new work of ten guest artists and several gallery artists gives the gallery a fresh look. The featured pieces are thought provoking and vibrant with color. They include functional and decorative pottery, oil paintings, watercolors, acrylics, maple burl clocks, a variety of handmade jewelry, and many other new works. The slate of guest artists includes: Miki Baxter, Barbara DeMarlie, Abby Einer, Christina Hellyer, Fred Leuchter, Gregory Mayse, Natalie Opp-Mash, Kara Peterson, Margaret Puentes, and Joni Wilson. Light refreshments and live music performance by Connor Shaw. Gallery hours are 10am-6pm Monday-Friday and 10am-4pm Saturday. For more details about the show, call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
 
 ### Margie’s Java Joint
 
 931 16th Street
 
-No information provided.
+Margie’s Java Joint will host an opening reception for local artist WHY6. Margie's will be open for business as usual throughout the reception and appetizers will be provided. The show will consist of a series of expressive portraits, some of which depict people from right here in Greeley.
 
 ### Mariposa Plants & Flowers
 
 801 8th Street, #110
 
-Mariposa Plants & Flowers will feature a Local Artist Pop-Up Show. Come check out and support local Greeley artists, enjoy refreshments, and enter to win an exclusive drawing. Don't miss out!
+No information provided.
 
 ### Showcase Art Center
 
@@ -108,7 +108,7 @@ No First Friday event due to the fact that they are still working on their new l
 
 701 7th Street
 
-No information provided.
+September is time to gather at the Bean Plant after a bit of time away. Please come and support a Silent Auction Fundraiser and sale to raise funds for the Greeley Central Music Boosters. The funds will be used for student needs relating to the music programs at Greeley Central High School. Check out the Bean Plant Facebook page for some of the items up for bid and enjoy special musical performances from 5:30-7:30pm from Amaya Arevalo on piano and The Vanguard Jazz Band.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -120,7 +120,7 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache will host “A Portrait Of The West” featuring Oils by M L Pruett. You can also sample their refreshment table and listen to calming classical guitar by Bob Schneller.
+The Dragon’s Cache will host “In The Beginning” featuring the work of 16-year-old Destiny Campbell. There will also be refreshments and the music of Marzette Martin on Keyboard.
 
 ### The Eden Gallery @ Virtually Yours
 
@@ -138,4 +138,4 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 651 10th Avenue
 
-The Tointon Gallery will host the Arts Picnic Fine Art Exhibit featuring work from artists throughout Weld County in celebration of the Arts Picnic festival that takes place in downtown’s Lincoln Park at the end of July each year. Admission to the gallery is free and the Gallery is open Monday-Saturday from 9am-5pm. The final day to check out the exhibit is Friday, August 25th.
+Please join us for the Tointon Gallery’s opening reception for local sculptor Joshua Goss's exhibition - UPlift 3.0. Joshua uses metalworking techniques to simulate geological processes through the use of heat and pressure. There will be an artist talk and light refreshments. Please stop by from 5-7pm. Admission to the gallery is free and the Gallery is open Monday-Saturday from 9am-5pm.
