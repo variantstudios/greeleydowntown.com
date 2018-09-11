@@ -18,7 +18,7 @@ We need volunteers - LOTS of them!!! [Click here!&nbsp;](https://www.signupgeniu
 
 &nbsp;
 
-**Entertainment Schedule&nbsp;![](/assets/okt-2018-entertainment-schedule.jpg)**
+**Entertainment Schedule&nbsp;![](blob:https://app.cloudcannon.com/06029d9c-4c16-455f-80d1-cb2bfe147269)**
 
 # **A HUGE thanks to our awesome sponsors! We couldn’t do it without you!**
 
