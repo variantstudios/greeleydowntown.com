@@ -14,7 +14,11 @@ Then prepare for a full day of fun on **Saturday, September 29th &nbsp;from 11AM
 
 Tickets for the 6th Annual VIP Beer Tasting are on sale now! Get you’re before they sell out (hint: they sell out every year!)–&nbsp;[https://www.eventbrite.com/e/greeley-oktobrewfest-2018-vip-beer-tasting-tickets-49862911310](https://www.eventbrite.com/e/greeley-oktobrewfest-2018-vip-beer-tasting-tickets-49862911310){: target="_blank"}
 
-**Entertainment Schedule TBD**
+We need volunteers - LOTS of them!!! [Click here!&nbsp;](https://www.signupgenius.com/go/10c094aaaaa2da13-greeleys5){: target="_blank"}
+
+&nbsp;
+
+**Entertainment Schedule&nbsp;![](/assets/okt-2018-entertainment-schedule.jpg)**
 
 # **A HUGE thanks to our awesome sponsors! We couldn’t do it without you!**
 
