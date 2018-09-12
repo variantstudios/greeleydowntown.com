@@ -22,4 +22,4 @@ We need volunteers - LOTS of them!!! [Click here!&nbsp;](https://www.signupgeniu
 
 # **A HUGE thanks to our awesome sponsors! We couldn’t do it without you!**
 
-![](/assets/okt2018-sponsors--for-website.pub)![](/assets/okt2018-sponsors--for-website-1.jpg)
+![](/assets/okt2018-sponsors--for-website.pub)![](/assets/okt2018-sponsors--for-website-2.jpg)
