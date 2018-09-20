@@ -19,5 +19,4 @@ Contact_Email: dave.steamway@gmail.com
 Logo_image_path: /assets/images/directory/steamway.png
 ---
 
-
-SteamWay is a locally owned and operated family business, owned by Dave and Kirk Grauberger for 39 years. Steamway offers professional Carpet, Blind, Tile and Furniture cleaning, along with Water and Fire Damage Restoration. Steamway is also a Full Interior Design Company, with a 3000 sq ft show room. We sell Carpet, Tile, Granite. Hardwood, Laminate, Vinyl, Blinds, Custom Window Treatments and much more. We offer Free Estimates on all of our services.
+SteamWay is a locally owned and operated family business, owned by Dave and Pat Grauberger, and co-owners Troy and Kim Weber . Steamway offers professional Carpet, Blind, Tile and Furniture cleaning, along with Water and Fire Damage Restoration. Steamway is also a Full Interior Design Company, with a 3000 sq ft show room. We sell Carpet, Tile, Granite. Hardwood, Laminate, Vinyl, Blinds, Custom Window Treatments and much more. We offer Free Estimates on all of our services.
