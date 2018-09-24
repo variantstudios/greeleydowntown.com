@@ -57,7 +57,22 @@ if ($('body.form').length > 0) {
     $("html, body").delay(0).animate({scrollTop: $('#form-message').offset().top }, 2000);
     $('#form-message').hide(0).delay(300).fadeIn(2000);
   }
+  
+var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
+  if ($('#RecaptchaField1').length) {
+    grecaptcha.render('RecaptchaField1', {
+      sitekey: '6LcfAAgUAAAAAHa4hua839vpLM4BubtgJ58MOuhY'
+    });
+  }
+  if ($('#RecaptchaField2').length) {
+    grecaptcha.render('RecaptchaField2', {
+      sitekey: '6LcfAAgUAAAAAHa4hua839vpLM4BubtgJ58MOuhY'
+    });
+  }
+};  
+  
 }
+
 function queryString() {
   var queryString = window.location.search;
   var varArray = queryString.split("&");
