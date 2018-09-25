@@ -6,7 +6,7 @@ description: >-
   at 5:30pm, and the Lincoln Park Lighting Ceremony!
 image_path: /assets/web-slide-2018.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
-weight: 6
+weight: 4
 ---
 
 ### 2018 Holiday Open House will be Saturday, November 24th
