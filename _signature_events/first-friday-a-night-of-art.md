@@ -7,7 +7,7 @@ description: >-
   participating galleries.
 image_path: /assets/images/signature-events/first-friday-greeley.png
 header_image_path:
-weight: 2
+weight: '3'
 ---
 
 First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, October 5th, 2018 for our next First Friday.
@@ -48,7 +48,7 @@ No information provided.
 
 813 8th Street
 
-Bo DePe&ntilde;a returns to Brix Brewery & Taphouse with fiddle player Jackson Clarendon this Saturday night from 8-10pm.
+Bo DePeña returns to Brix Brewery & Taphouse with fiddle player Jackson Clarendon this Saturday night from 8-10pm.
 
 ### Cranford’s Tea Tavern
 
