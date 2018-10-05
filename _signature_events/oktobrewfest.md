@@ -5,7 +5,7 @@ description: >-
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /assets/Okt 2018 Logo.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
-weight: 1
+weight: '6'
 ---
 
 Greeley’s OktoBREWfest 2018 will be **September 28th & 29th** at historic Lincoln Park in Downtown Greeley at 8th Street & 9th Avenue. Join us at the kick-off on **Friday evening, September 28th  from 5-10PM** for some great beer, brats, games, and a free concert.
