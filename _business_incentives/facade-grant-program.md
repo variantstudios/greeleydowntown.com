@@ -19,6 +19,6 @@ For more information, please reference the following:
 
 [Facade GRANT Application](/assets/pdfs/Facade-GRANT-Application-2018.pdf)
 
-[Facade INCENTIVE Guidelines](/assets/pdfs/Facade-INCENTIVE-Guidelines-2018.pdf)
+[Facade INCENTIVE Guidelines](/assets/pdfs/facade-incentive-guidelines.pdf){: target="_blank"}
 
 [Facade INCENTIVE Application](/assets/pdfs/facade-incentive-guidelines.pdf)
