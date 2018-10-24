@@ -1,6 +1,10 @@
 ---
-title: Colorado Historic Preservation Tax Credit
-description: "Federal and state tax laws provide tax incentives for historic preservation projects that follow the Secretary of the Interior's Standards for Rehabilitation. These credits allow taxpayers to reduce, on a dollar-for-dollar basis, the amount of income tax they owe to the government."
+title: Preservation Tax Credits
+description: >-
+  Federal and state tax laws provide tax incentives for historic preservation
+  projects that follow the Secretary of the Interior's Standards for
+  Rehabilitation. These credits allow taxpayers to reduce, on a
+  dollar-for-dollar basis, the amount of income tax they owe to the government.
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
