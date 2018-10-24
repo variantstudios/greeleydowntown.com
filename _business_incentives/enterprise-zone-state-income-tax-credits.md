@@ -4,7 +4,6 @@ description: 'Companies that locate or expand within the physical boundaries of 
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
 
-
 Companies that locate or expand within the physical boundaries of the EZ are eligible to earn a variety of state income tax credits based on each company’s specific activities primarily related to equipment investment, job creation/training, research, and development activities.
 
 EZ State Income Tax Credit Summary:
@@ -20,5 +19,4 @@ EZ State Income Tax Credit Summary:
 * Manufacturing & Mining Sales/Use Tax- Expanded S&U Tax Exemption in EZ
 * 25% Tax Credit for Private Contributions to Enterprise Zone Contribution Projects
 
-
-For more information about these specific incentives, click [here](http://upstatecolorado.org/wp-content/uploads/2016/02/Weld-EZ-Brochure.pdf). Other questions can be answered by contacting Cathy Schulte, Senior Vice President & EZ Administrator, at 970-356-4565 or by emailing her at cschulte@upstatecolorado.org
+For more information about these specific incentives, visit: [https://upstatecolorado.org/site-selection/enterprise-zone/](https://upstatecolorado.org/site-selection/enterprise-zone/){: target="_blank"}&nbsp;or contact Cathy Schulte, Senior Vice President & EZ Administrator, at 970-356-4565 or by emailing her at cschulte@upstatecolorado.org
