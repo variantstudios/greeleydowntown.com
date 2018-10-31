@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 397-6435
-Website:
+Website: 'https://www.facebook.com/808Salon/'
 Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
