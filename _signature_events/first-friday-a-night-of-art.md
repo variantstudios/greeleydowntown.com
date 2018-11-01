@@ -10,7 +10,7 @@ header_image_path:
 weight: '3'
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, October 5th, 2018 for our next First Friday.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, November 2nd, 2018 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -18,7 +18,7 @@ First Friday: A Night of Art is a great opportunity to visit local galleries and
 
 625 8th Avenue
 
-No information provided.
+The Academy of Natural Therapy Hosts a First Friday Art Event every First Friday. The best news of it is, they give free chair massage at every event! Come by to see their artists!
 
 ### ARTMANDO Silva Studios and Keynote Coffee
 
@@ -36,7 +36,7 @@ No information provided.
 
 709 16th Street
 
-No information provided.
+Atlas Gallery and John Galt Coffee will host “Things I am Thankful For” featuring the artwork of Julie Ethridge.
 
 ### Aunt Helen’s Coffee House
 
@@ -48,25 +48,25 @@ No information provided.
 
 813 8th Street
 
-Bo DePeña returns to Brix Brewery & Taphouse with fiddle player Jackson Clarendon this Saturday night from 8-10pm.
+No information provided.
 
 ### Cranford’s Tea Tavern
 
 823 10th Street
 
-Cranford’s Tea Tavern will host “For the Love of Art”. The artists featured in this show gather every Friday from 9-11 at the Greeley Active Adult Center (located next to Union Colony Civic Center) to create individual art pieces using a variety of mediums. They have all joined the class at different levels of experience and enjoy learning new techniques and ways of expressing what they find to be beautiful through the avenue of art.
+No information provided.
 
-### Doug's Hang Up
+### Fred Tjardes School of Innovation
 
-818 9th Street
+717 6th Street
 
-FREE Event! Enjoy refreshments, performance artist Felicia Brower, and all of the amazing Reclaimed Art donated by local artists for Assistance League of Greeley's Reclaimed Art Auction and Film Festival. Silent auction bidding will begin and you will have a chance to vote on your favorite art piece. Join us for this opening night event. Art will be on display through October 22nd.
+The Fred Tjardes School of Innovation will host its first museum night of the year on November 2nd. Come out to see the amazing projects the students have created to demonstrate their learning in the Sow Loop! In this loop they have explored seeds. In this exploration they have looked at the physical makeup of a seed, how it is planted, dispersed, and what it needs to grow. This hasn't just been limited to actual seeds, but they have researched metaphorical seeds as well. For instance, they have considered this through questions like how do seeds of an idea form or what are seeds of kindness? They hope you will join them and be a part of the public audience with whom the students may share their learning!
 
-### Joe Molina Gallery & Studios
+Joe Molina Gallery & Studios
 
 930 8th Avenue
 
-Join the Joe Molina Gallery & Studios on Friday, October 5th for Friday Lounge Vibes featuring J-OUTSKIRT playing Hip-Hop and R&B alongside some fun filled contemporary music. Delicious bites will be available for purchase by Chef Dre. Doors open at 8pm with a $5 cover. 18 and over with valid ID.
+Day of the Dead Celebration on Friday, November 2nd at the Joe Molina Gallery and Studios from 4pm-Midnight. Live music, food, altar, entertainment, activities and dancing. This is an all age event and cost is $5 at the door. Hosted by Northern Colorado Latino Foundation.
 
 ### Lincoln Park Emporium
 
@@ -78,13 +78,13 @@ No information provided.
 
 927 16th Street
 
-Join the Madison and Main Gallery as they continue the new fall show “Home is where the Art is”. Meet some of the the artists during the floral demonstration with Croft Family Farms that is planned for First Friday from 5:30-7pm. There is nothing like original art to beautify a room or create a comfortable, pleasant living space. This show includes pieces designed for functional use in the home as well as artwork inspired by artist’s ideas of home, family, and sense of place. The new work of ten guest artists and several gallery artists gives the gallery a fresh look. The featured pieces are thought provoking and vibrant with color. They include functional and decorative pottery, oil paintings, watercolors, acrylics, maple burl clocks, a variety of handmade jewelry, and many other new works. The slate of guest artists include: Miki Baxter, Barbara DeMarlie, Abby Einer, Christina Hellyer, Fred Leuchter, Gregory Mayse, Natalie Opp-Mash, Kara Peterson, Margaret Puentes, and Joni Wilson. Gallery hours are 10 a.m. to 6 p.m. Monday through Friday and 10 a.m. to 4 p.m. Saturday. For more details about the show, call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com
+Lights of Winter," Madison & Main Gallery's 31st annual holiday show will feature original art, unique gifts, and one-of-a-kind ornaments. This show includes pieces designed to make the holidays merry. The pieces include functional and decorative pottery, oil paintings, watercolors, acrylics, maple burl clocks, a variety of handmade jewelry, felted purses and scarves, and many other new works of art. Fourteen guest artists have been invited to join the member artists for this fabulous show. Come and meet the artists during the public opening reception planned for First Friday, November 2, from 5-8 p.m. The slate of guest artists includes: Cindy Carter, Karen Dietrich, Lon Gatton, Cat Hagan, Joy Jones, Terry Kreuzer, Fred Leuchter, Lori Ozzello, Vivian Perry, Jill Popplewell, Heather Stone, Katie Thomas, Pamela Turan, and Lisa Wilson. Light refreshments and live music by the strolling a cappella quartet Risky Business. Gallery hours are 10 a.m. to 6 p.m. Monday through Friday and 10 a.m. to 4 p.m. Saturday. For more details about the show, call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com.
 
 ### Margie’s Java Joint
 
 931 16th Street
 
-Margie’s Java Joint will host "From Lamps to Landscapes" featuring paintings by Susan Haskins. Opening reception from 5-7pm on First Friday with refreshments and music.
+Margie’s Java Joint will host "From Lamps to Landscapes" featuring paintings by Susan Haskins.
 
 ### Mariposa Plants & Flowers
 
@@ -108,7 +108,7 @@ No First Friday event due to the fact that they are still working on their new l
 
 701 7th Street
 
-Artist Kailin Fahy, a doctoral student at UNC in the music department, will be showing her painting at the Bean Plant Studio during First Friday.
+The Bean Plant Studio will feature paintings and drawings by Sarah Bedell. This will be Sarah’s University High School Senior Project and half of the proceeds earned will be donated to The Nature Conservancy. The evening will also feature special music from Adam Padilla – Piano and Luciano Balsamo – Tenor Sax.
 
 ### The Blue Mug Coffee and Roastery
 
@@ -120,7 +120,7 @@ No information provided.
 
 1109 7th Street
 
-The Dragon’s Cache will be hosting this first show for Harms Creations, Ltd. Landscape photography featuring beautiful imagery. This is a young couple that work together to produce these wonderful images. They have pieces in several coffee shops and other locations.
+The Dragon’s Cache will be hosting a First Friday reception to start off their November show featuring Alan Bruce Adler, an award winning artist.&nbsp; His oil paintings have been in many shows here in Greeley, he is a member of the Greeley Art Association and is a consistent supporter of not only their gallery but the art community in general. He will once again bring his works for a full show this November. Bob Schneller will also be returning this month to serenade us with his guitar, and they always have a good spread to snack on as you listen to the music and peruse the art.
 
 ### The Eden Gallery @ Virtually Yours
 
@@ -138,10 +138,10 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 651 10th Avenue
 
-Stop by the Tointon Gallery to see their latest exhibit featuring local artist, Joshua Goss. The show will be open until October 13th. Joshua's studio and gallery are located in downtown Greeley. He uses metalworking techniques to simulate geological processes through the use of heat and pressure. His sculpture is characterized by the uplift and faulting that originates from the collision of tectonic plates. Admission to the gallery is free and the Gallery is open Monday-Saturday from 9am-5pm.
+Stop by the Tointon Gallery through November 3rd to see the Greeley D&iacute;a de Los Muertos ~ "Life's Journey Never Ends" art exhibit. Admission to the gallery is free and the Gallery is open Monday-Saturday from 9am-5pm.
 
 ### Trinkets-n-Treasures
 
 709 10th Street
 
-On Friday from 5-7pm, Trinkets-n-Treasures will be hosting Sally Otto of Treasured Tabletops who will be demonstrating decouping techniques.
+No information provided.
