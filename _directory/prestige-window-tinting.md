@@ -14,7 +14,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 351-8414
-Website: prestigewindowtintingcolorado.com
+Website: 'http://prestigewindowtintingcolorado.com'
 Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
