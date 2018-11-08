@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 353-0455
-Website: www.lawyersgreeley.com
+Website: 'http://www.lawyersgreeley.com/michael-a.-lazar.html'
 Contact_Name: Michael Lazar
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
