@@ -14,11 +14,10 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 324-7687
 Fax:
-Website: 'http://www.alexsalon.com'
+Website: 'https://www.facebook.com/pages/Alex-Salon/119408161443486'
 Contact_Name: Alex Sanagar
-Contact_Email:  alexsalon392@gmail.com
+Contact_Email: alexsalon392@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
 Haircuts based on your facial features.
