@@ -14,10 +14,9 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 304-9205
 Fax:
-Website: 'http://lawgreeley.yolasite.com/'
+Website: 'http://annlaplantelaw.com/'
 Contact_Name: Ann LaPlante
-Contact_Email:  alaplante@ctos.com
+Contact_Email: alaplante@ctos.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
