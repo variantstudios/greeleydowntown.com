@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 353-0216
-Website: www.jscrogginslaw.com
+Website: 'https://www.jscrogginslaw.com'
 Contact_Name: Julie Scroggins
 Contact_Email: jscrogginslaw@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
