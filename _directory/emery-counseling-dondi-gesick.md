@@ -13,11 +13,10 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 515-6434
-Website: www.emerycounseling.com
+Website: 'http://www.emerycounseling.com'
 Contact_Name: Dondi Gesick
 Contact_Email: dondi@emerycounseling.com
 Logo_image_path: /assets/dondi-photo.jpg
 ---
-
 
 Providing counseling for many life challenges: premarriage, marriage, anxiety, depression, grief and loss, divorce recovery, second marriages and blended families. Ages 13-99.
