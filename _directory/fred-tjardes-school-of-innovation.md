@@ -13,10 +13,9 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 348-4800
-Website: 'https://www.ftjschoolofinnovation.com/'
+Website: 'https://www.greeleyschools.org/ftsoi'
 Contact_Name: jrocha3@greeleyschools.org
 Contact_Email:
 Logo_image_path: /assets/fred-tjardes-school.png
 ---
-
 
