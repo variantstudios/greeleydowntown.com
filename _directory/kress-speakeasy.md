@@ -15,12 +15,11 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 515-5717
 Fax:
-Website: kresscinema.com
+Website: 'http://www.kresscinema.com/speakeasy/'
 Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
 Hidden craft cocktail bar beneath The Kress Cinema & Lounge
 
