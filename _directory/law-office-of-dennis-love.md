@@ -13,7 +13,8 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 353-5573
-Website: 'https://www.yourcoloradoattorney.com/'
+Website: >-
+  https://www.facebook.com/pages/category/Lawyer---Law-Firm/The-Law-Office-Of-Dennis-Love-LLC-281781401877333/
 Contact_Name: Dennis Love
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
