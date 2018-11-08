@@ -4,9 +4,9 @@ Business: Greeley Recreation Center
 Street: 651 10th Avenue
 City: Greeley
 State: Colorado
-Zip: 80631
+Zip: '80631'
 Phone: (970) 350-9400
-Website: 'http://GreeleyRecreationCenter.com'
+Website: 'https://greeleyrec.com/facilities/greeley-recreation-center/'
 dining_categories:
 entertainment_and_recreation_categories:
   - recreation
@@ -18,5 +18,4 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/greeleyrecreationcenter.png
 ---
-
 
