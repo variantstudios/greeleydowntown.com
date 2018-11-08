@@ -14,7 +14,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone:
-Website: 'https://www.facebook.com/farmerspantrystore/?fref=ts'
+Website: 'https://www.margiesjavajoint.com/'
 Contact_Name: Margaret Thompson
 Contact_Email:
 Logo_image_path: /assets/images/directory/margies.png
