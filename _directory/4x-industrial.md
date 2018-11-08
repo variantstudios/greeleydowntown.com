@@ -14,7 +14,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone:
-Website:
+Website: 'https://www.4xindustrial.com'
 Contact_Name:
 Contact_Email: info@4xindustrial.com
 Logo_image_path: /assets/images/directory/directory-default.png
