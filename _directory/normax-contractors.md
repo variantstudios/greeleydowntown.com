@@ -13,10 +13,9 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 302-9122
-Website: 'http://normaxroofing.com'
+Website: 'http://www.buzzfile.com/business/Hgc-Normax-Contractors,-LLC-970-347-0468'
 Contact_Name: Sam Ortega
 Contact_Email: sam@normaxroofing.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
