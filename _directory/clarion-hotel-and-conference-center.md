@@ -4,9 +4,9 @@ Business: Clarion Hotel and Conference Center
 Street: 701 8th Street
 City: Greeley
 State: Colorado
-Zip: 80631
+Zip: '80631'
 Phone: (970) 353-8444
-Website: www.choicehotels.com/co229
+Website: 'https://www.colorado.com/hotel/clarion-hotel-and-conference-center-greeley'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
