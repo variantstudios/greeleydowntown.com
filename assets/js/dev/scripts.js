@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  // MOBILE MENU FUNCTIONALITY
+
   $(".action--open").click(function() {
     $(".menu").addClass("menu--open");
   });
@@ -11,7 +11,8 @@ $(document).ready(function() {
     $("nav.more-nav ul").toggleClass('hide');
     $(".menu-btn").toggleClass('close');
   });
-  // COLORBOX
+
+
   if ($('.gallery-item').length > 0) {
     $(".gallery-item").colorbox({
       rel: 'gallery-item'
@@ -22,11 +23,13 @@ $(document).ready(function() {
   } else {
     $('html').addClass('no-mq');
   }
-  // PNG LOGO FALLBACK FOR OLD BROWSERS
+
+
   if (!Modernizr.svg) {
     $(".logo img").attr("src", "/assets/images/logos/logo.png");
   }
-  // OPEN UP ALL EXTERNAL LINKS IN A NEW WINDOW
+
+
   if (window.location.host != "app.cloudcannon.com") {
     $('a').each(function() {
       var a = new RegExp('/' + window.location.host + '/');
@@ -39,7 +42,8 @@ $(document).ready(function() {
       }
     });
   }
-  // SMOOTH ANCHOR SCROLL
+
+
   $('a[href^="#"]').on('click', function(e) {
     e.preventDefault();
     var target = this.hash,
@@ -50,7 +54,8 @@ $(document).ready(function() {
       window.location.hash = target;
     });
   });
-// WEBFORM MESSAGE
+
+
 if ($('body.form').length > 0) {
   if (queryString() == "true") {
     $('#form-message').css("display","block");
@@ -58,7 +63,7 @@ if ($('body.form').length > 0) {
     $('#form-message').hide(0).delay(300).fadeIn(2000);
   }
   
-var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
+var CaptchaCallback = function() { 
   if ($('#RecaptchaField1').length) {
     grecaptcha.render('RecaptchaField1', {
       sitekey: '6LcfAAgUAAAAAHa4hua839vpLM4BubtgJ58MOuhY'
@@ -78,7 +83,6 @@ function queryString() {
   var varArray = queryString.split("&");
   for (var i = 0; i < varArray.length; i++) {
     var param = varArray[i].split("=");
-    //console.log('param', param[1]);
     return param[1];
   }
 }
