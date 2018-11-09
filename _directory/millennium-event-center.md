@@ -16,6 +16,6 @@ Phone: (970) 539-1571
 Website: 'https://www.facebook.com/millenniumeventcenter/'
 Contact_Name: Malea Orozco
 Contact_Email: millenniumeventsgreeley@gmail.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/millennium-event-center.png
 ---
 
