@@ -4,7 +4,7 @@ description: >-
   Shop during the Holiday Open House, enjoy the Holiday Spirit with activities
   and specials, dine Downtown and stay for the Greeley Lights the Night Parade
   at 5:30pm, and the Lincoln Park Lighting Ceremony!
-image_path: /assets/web-slide-2018.jpg
+image_path: /assets/images/FB Cover.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight: '2'
 ---
@@ -81,17 +81,17 @@ Open 10am-4pm
 
 Santa photo op, crafts, Polar Express model train
 
-**Cranford's Tea Tavern**
+**Cranford’s Tea Tavern**
 
 823 10th Street
 
-Open 7am-10pm&nbsp;
+Open 7am-10pm 
 
-**Doug's Diner**
+**Doug’s Diner**
 
 801 9th Street
 
-Open 7am-3pm&nbsp;
+Open 7am-3pm 
 
 **Free Leaf**
 
@@ -141,11 +141,11 @@ Open 10am-5pm
 
 Penguin & Cardinal crafts and Open mic from 2-4pm with holiday songs
 
-**Luna's Tacos & Tequila**
+**Luna’s Tacos & Tequila**
 
 806 9th Street
 
-Open 11am-Close&nbsp;
+Open 11am-Close 
 
 **Mariposa Plants, Flowers & Gifts**
 
@@ -155,19 +155,19 @@ Open 9am-5pm
 
 Christmas Craft Corner
 
-**Meeker's: A Colorado Kitchen & Bar**
+**Meeker’s: A Colorado Kitchen & Bar**
 
 919 7th Street
 
 Open 11am-8pm
 
-Cookie Decorating Station&nbsp; and a chance to winner Dinner for 2
+Cookie Decorating Station  and a chance to winner Dinner for 2
 
 **Right Coast Pizza**
 
 811 8th Street
 
-Open 10:30am-10pm&nbsp;
+Open 10:30am-10pm 
 
 **Rio Grande Mexican Restaurant**
 
@@ -193,11 +193,11 @@ Open 11am-11pm
 
 Holiday coloring book
 
-**The Dragon's Cache**
+**The Dragon’s Cache**
 
 1109 7th Street
 
-Open 10am-5pm&nbsp;
+Open 10am-5pm 
 
 **The Kress Cinema & Lounge**
 
