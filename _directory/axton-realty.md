@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - real-estate-and-property-management
-Street: '801 8th Street, Ste 220-J'
+Street: '801 8th Street, Ste 220'
 City: Greeley
 State: CO
 Zip: '80631'
@@ -20,4 +20,4 @@ Contact_Email: aaaxton@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
-
+Complex valuations for eminent domain, estates, litigation support
