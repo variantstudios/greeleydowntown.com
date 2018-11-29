@@ -16,6 +16,6 @@ Phone: (970) 673-8509
 Website: 'https://www.facebook.com/lunastacos/'
 Contact_Name: Brian Seifried
 Contact_Email: bseifried@wingshackwings.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/lunas-1.png
 ---
 
