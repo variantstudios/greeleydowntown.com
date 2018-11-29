@@ -14,9 +14,8 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 222-0629
 Website: 'http://www.koldink.com'
-Contact_Name:
-Contact_Email:
+Contact_Name: Taylor Daniell Loftin
+Contact_Email: the13story@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
