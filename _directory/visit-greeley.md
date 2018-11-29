@@ -14,8 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - civic
-Contact_Name: Hannah LaForest
-Contact_Email: hannah@greeleychamber.com
+Contact_Name: Amy Dugan
+Contact_Email: amy@greeleychamber.com
 Logo_image_path: /assets/images/directory/visitgreeley.png
 ---
 
