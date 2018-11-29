@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
   - liquor-and-smoke-shops
 service_categories:
-Contact_Name:
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Name: Luke Afeworki
+Contact_Email: alulaafe@yahoo.com
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
