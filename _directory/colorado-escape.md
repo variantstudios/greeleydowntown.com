@@ -14,9 +14,8 @@ State: Colorado
 Zip: '80631'
 Phone: (720) 296-1522
 Website: 'http://www.coescape.com/'
-Contact_Name:
-Contact_Email:
+Contact_Name: Brandon Meza
+Contact_Email: coloradoescape1@gmail.com
 Logo_image_path: /assets/images/directory/colorado-escape.png
 ---
-
 
