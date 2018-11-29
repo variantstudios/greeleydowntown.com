@@ -14,8 +14,8 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Contact_Name:
-Contact_Email: greeley@tasteofphilly.biz
+Contact_Name: Ryan Kitlitz
+Contact_Email: gmtasteofphilly829@gmail.com
 Logo_image_path: /assets/images/directory/tasteofphilly.png
 ---
 
