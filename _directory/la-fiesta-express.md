@@ -14,7 +14,7 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 353-1026
 Website:
-Contact_Name:
+Contact_Name: Joel Reyes
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
