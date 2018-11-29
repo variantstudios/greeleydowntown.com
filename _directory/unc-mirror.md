@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - media-and-visual-arts
-Contact_Name: Matt Lubich
-Contact_Email: mlubich@uncmirror.com
+Contact_Name:
+Contact_Email:
 Logo_image_path: /assets/images/directory/uncmirror.png
 ---
-
 
