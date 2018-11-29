@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: "Gentry's"
+Business: Gentry's
 Street: 813 9th Street
 City: Greeley
 State: Colorado
@@ -14,9 +14,8 @@ nightlife_categories:
   - bars-and-clubs
 retail_categories:
 service_categories:
-Contact_Name:
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Name: Ryan Gentry
+Contact_Email: gentry_rw@hotmail.com
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
