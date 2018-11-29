@@ -14,9 +14,8 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Contact_Name: TJ
-Contact_Email:
+Contact_Name: Tim Moran
+Contact_Email: fatshackgreeley@gmail.com
 Logo_image_path: /assets/images/directory/fatshack.png
 ---
-
 
