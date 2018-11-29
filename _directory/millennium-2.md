@@ -15,9 +15,8 @@ Zip: '80631'
 Phone: (970) 346-8282
 Fax:
 Website: 'https://www.facebook.com/Millenniumtwo/'
-Contact_Name: 'Tim Corley & Heidi Unger'
-Contact_Email: 
+Contact_Name: Carissa Reddick
+Contact_Email: Carissa.Reddick@unco.edu
 Logo_image_path: /assets/images/directory/millennium2.png
 ---
-
 
