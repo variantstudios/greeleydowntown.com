@@ -12,7 +12,7 @@ Street: 915 16th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
+Phone: (970) 451-5904
 Website: 'https://www.facebook.com/highbrautap/'
 Contact_Name: Ben Harmelink
 Contact_Email: ben@highbrautaphouse.com
