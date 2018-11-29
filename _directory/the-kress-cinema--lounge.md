@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: 'The Kress Cinema & Lounge'
+Business: The Kress Cinema & Lounge
 Street: 817 8th Avenue
 City: Greeley
 State: Colorado
@@ -16,9 +16,8 @@ nightlife_categories:
   - bars-and-clubs
 retail_categories:
 service_categories:
-Contact_Name: John Jankow
-Contact_Email: john@kresscinema.com
+Contact_Name: Justin Ghofrani
+Contact_Email: info@kresscinema.com
 Logo_image_path: /assets/images/directory/thekresscinema.png
 ---
-
 
