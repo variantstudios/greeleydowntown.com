@@ -15,8 +15,8 @@ nightlife_categories:
   - breweries-and-distilleries
 retail_categories:
 service_categories:
-Contact_Name: Troy Milburn
-Contact_Email:
+Contact_Name: Tommy Dyer
+Contact_Email: tommy@brixbrewtap.com
 Logo_image_path: /assets/images/directory/Brix_logo.png
 ---
 
