@@ -14,9 +14,8 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 815-6060
 Website: 'https://www.facebook.com/La-Petite-French-Bakery-2082082055351291/'
-Contact_Name:
+Contact_Name: Majd Chana
 Contact_Email: lapetitefrenchbakery@gmail.com
 Logo_image_path: /uploads/la-petite-french-bakery.png
 ---
-
 
