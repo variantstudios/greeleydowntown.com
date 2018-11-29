@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - media-and-visual-arts
-Contact_Name: Bart Smith
-Contact_Email: bsmith@greeleytribune.com
+Contact_Name: Bryce Jacobson
+Contact_Email: bjacobson@greeleytribune.com
 Logo_image_path: /assets/images/directory/thetribune.png
 ---
-
 
