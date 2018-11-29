@@ -1,7 +1,8 @@
 ---
 live_directory: false
-Business:
+Business: Luna's Tacos & Tequila
 dining_categories:
+  - mexican
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
@@ -11,9 +12,10 @@ Street:
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website:
-Contact_Name:
-Contact_Email:
+Phone: (970) 673-8509
+Website: 'https://www.facebook.com/lunastacos/'
+Contact_Name: Brian Seifried
+Contact_Email: bseifried@wingshackwings.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
+
