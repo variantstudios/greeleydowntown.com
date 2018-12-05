@@ -1,11 +1,11 @@
 ---
 live_directory: false
-Business: 'City of Greeley: City Hall'
+Business: City Hall
 Street: 1000 10th Street
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 350-9757
+Phone: (970) 350-9777
 Website: 'http://www.greeleygov.com'
 dining_categories:
 entertainment_and_recreation_categories:
@@ -18,5 +18,4 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/cityofgreeley.png
 ---
-
 
