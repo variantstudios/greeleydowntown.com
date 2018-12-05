@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: 'City of Greeley: City Hall Annex'
+Business: City Center North
 Street: 1100 10th Street
 City: Greeley
 State: Colorado
@@ -16,7 +16,6 @@ service_categories:
   - civic
 Contact_Name:
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
