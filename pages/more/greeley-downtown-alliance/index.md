@@ -25,4 +25,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, July 20th, 2018 for our next monthly meeting. The meeting will be held at Accessories With A Flair!...and Hair located at 801 8th Avenue #4.
+The Greeley Downtown Alliance will not be meeting in December. Please join us at 8am on Friday, January 18th, 2019 for our next monthly meeting. The meeting will be held at the Rio Grande Mexican Restaurant located at 825 9th Street.
