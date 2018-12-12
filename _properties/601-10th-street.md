@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/601-10th-st.jpg
 sale-or-lease: Sale
 square-footage: '26,000 SF'
-price: '$879,000'
+price: '$779,000'
 address: 601 10th Street
 city: Greeley
 state: CO
