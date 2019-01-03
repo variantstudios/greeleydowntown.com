@@ -7,7 +7,7 @@ description: >-
   conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are
   open to the public.
 meeting_minutes:
-  - title: Decembetr 2018 Meeting Minutes
+  - title: December 2018 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes - 12-20-18.pdf
   - title: November 2018 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes - 11-15-18.pdf
