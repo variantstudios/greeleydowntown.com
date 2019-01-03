@@ -26,14 +26,15 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 
 * Drew Notestine, *Thomas & Tyler*
 * Tom Grant, *Grant & Hoffman*
-* Ken Schultz, *NCMC Inc*
+* Ken Schultz
+* Brian Seifried, *Luna's Tacos & Tequila*
 * Logan Richardson, *Mineral Resources*
-* Mary Roberts, *Lincoln Park Emporium*
 * Matt Anderson, *Ancon Constructors*
 * Mike Ketterling, *Northern Engineering*
 * Phil Grizzle, *Zoe’s Cafe*
 * Linda Winter, *Accessories with a Flair!… and Hair*
 * Justin Ghofrani, *The Kress Cinema*
 * Robb Casseday, *Greeley City Council*
+* Jon Smail,&nbsp;*Greeley City Council*
 * Bob Tointon (Ex-Officio), *Phelps Tointon*
 * Travis Gillmore (Ex-Officio), *Phelps Tointon*
