@@ -10,16 +10,14 @@ class: form
 sitemap: false
 ---
 
-
-The Downtown Development Authority is dedicated to the revitalization of Downtown Greeley. If you need to get ahold of us, feel free to give us a call, swing by our office during business hours or fill out and submit the form below.
+The Downtown Development Authority is dedicated to the revitalization of Downtown Greeley. If you need to get a hold of us, feel free to give us a call, swing by our office during business hours or fill out and submit the form below.
 
 ### DDA Staff
 
-* Pam Bricker: Executive Director
-* Bianca Fisher: Associate Director
+* Bianca Fisher: Executive Director
 * Alison Hamling: Director of Downtown Experience
-* Karen Baumgartner: Administrative Assistant
-
+* Karen Baumgartner: Project Coordinator
+* Dee Davis: Administrative Assistant
 
 ### Address
 
