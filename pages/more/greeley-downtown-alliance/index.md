@@ -7,10 +7,6 @@ description: >-
 meeting_minutes:
   - title: GDA November 2018 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 11-16-18.pdf
-  - title: GDA May 2018 Minutes
-    pdf_path: /assets/pdfs/GDA Meeting Minutes 5-18-18.pdf
-  - title: GDA April 2018 Minutes
-    pdf_path: /assets/pdfs/GDA Meeting Minutes 4-20-18.pdf
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
