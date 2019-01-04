@@ -5,12 +5,12 @@ description: >-
   The Greeley Downtown Alliance is a committee of the DDA consisting of business
   owners and managers in the Downtown district.
 meeting_minutes:
+  - title: GDA November 2018 Minutes
+    pdf_path: /assets/pdfs/GDA Meeting Minutes 11-16-18.pdf
   - title: GDA May 2018 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 5-18-18.pdf
   - title: GDA April 2018 Minutes
     pdf_path: /assets/pdfs/GDA Meeting Minutes 4-20-18.pdf
-  - title: GDA March 2018 Minutes
-    pdf_path: /assets/pdfs/GDA Meeting Minutes 3-16-18.pdf
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
@@ -25,4 +25,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-The Greeley Downtown Alliance will not be meeting in December. Please join us at 8am on Friday, January 18th, 2019 for our next monthly meeting. The meeting will be held at the Rio Grande Mexican Restaurant located at 825 9th Street.
+Please join us at 8am on Friday, January 18th, 2019 for our next monthly meeting. The meeting will be held at the Rio Grande Mexican Restaurant located at 825 9th Street.
