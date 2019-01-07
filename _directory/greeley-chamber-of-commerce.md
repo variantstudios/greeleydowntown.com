@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Greeley Chamber of Commerce
+Business: Greeley Area Chamber of Commerce
 Street: 902 7th Avenue
 City: Greeley
 State: Colorado
@@ -18,5 +18,4 @@ Contact_Name: Sarah MacQuiddy
 Contact_Email: sarah@greeleychamber.com
 Logo_image_path: /assets/images/directory/greeleychamber.png
 ---
-
 
