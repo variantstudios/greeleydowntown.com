@@ -48,21 +48,11 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/farmers-pantry-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/farmers-pantry-downtown-greeley.jpg
-  - title: Gallery Furniture
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/gallery-furniture-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/gallery-furniture-downtown-greeley.jpg
   - title: George's Repair Shop
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/georges-repair-shop-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/georges-repair-shop-downtown-greeley.jpg
-  - title: Grabo's Bar
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/grabos-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/grabos-downtown-greeley.jpg
   - title: Greeley History Museum
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/greeley-history-museum-downtown-greeley.jpg
@@ -103,11 +93,6 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/sassy-bagz-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/sassy-bagz-downtown-greeley.jpg
-  - title: Sew Downtown
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/sew-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/sew-downtown-greeley.jpg
   - title: The Jager
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/the-jager-downtown-greeley.jpg
@@ -124,5 +109,4 @@ images:
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/zoes-cafe-downtown-greeley.jpg
 ---
-
 
