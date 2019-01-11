@@ -16,7 +16,7 @@ The Downtown Development Authority is dedicated to the revitalization of Downtow
 * Bianca Fisher: Executive Director
 * Alison Hamling: Director of Downtown Experience
 * Karen Baumgartner: Project Coordinator
-* Dee Davis: Administrative Assistant
+* Dee Davis: Promotions Coordinator
 
 ### Address
 
