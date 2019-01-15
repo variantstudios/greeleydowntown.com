@@ -3,7 +3,7 @@ title: 601 10th Street
 property-type: Commercial
 image_path: /assets/601-10th-st.jpg
 sale-or-lease: Lease
-square-footage: Varaible SF
+square-footage: Variable SF
 price:
 address: 601 10th Street
 city: Greeley
