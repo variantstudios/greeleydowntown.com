@@ -6,7 +6,7 @@ description: >-
   at 5:30pm, and the Lincoln Park Lighting Ceremony!
 image_path: /assets/images/FB Cover.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
-weight: '2'
+weight: '6'
 ---
 
 ### 2018 Holiday Open House, Small Business Saturday, Greeley Lights The Night Parade and Park Lighting Ceremony will be Saturday, November 24th
