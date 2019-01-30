@@ -7,7 +7,7 @@ description: >-
   participating galleries.
 image_path: /assets/images/signature-events/first-friday-greeley.png
 header_image_path:
-weight: '3'
+weight: '1'
 ---
 
 First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, January 4th, 2019 for our next First Friday.
@@ -72,7 +72,7 @@ No information provided.
 
 927 16th Street
 
-"Beat the Winter Blues," Madison & Main Gallery's new show, will feature ten guest artists and five new gallery artists. All of the gallery and guest artists have been busy beating their winter blues with the creation of wonderful and unique artwork of all types, including art-to-wear, photography, paintings, ceramics and more. This fabulous show runs from January 2n through February 22nd and you are invited to come and meet the artists during the public opening reception planned for First Friday on January 4th from 5-8 p.m. The slate of guest artists includes: Joy Jones, Terry Kreuzer, Suzette McIntyre, C J Otto, Becky Safarik, Janet Schrader, Kim Snyder, April Whicker, Lisa Wilson, and May Yipp. New gallery artists include: Kirsten Berger, Linda Lohr, Eulavon Mallouf, Greg Mayse, and Vicki McCargar. Light refreshments will be served. All items are for sale. For more details about the show you may call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday.
+“Beat the Winter Blues,” Madison & Main Gallery’s new show, will feature ten guest artists and five new gallery artists. All of the gallery and guest artists have been busy beating their winter blues with the creation of wonderful and unique artwork of all types, including art-to-wear, photography, paintings, ceramics and more. This fabulous show runs from January 2n through February 22nd and you are invited to come and meet the artists during the public opening reception planned for First Friday on January 4th from 5-8 p.m. The slate of guest artists includes: Joy Jones, Terry Kreuzer, Suzette McIntyre, C J Otto, Becky Safarik, Janet Schrader, Kim Snyder, April Whicker, Lisa Wilson, and May Yipp. New gallery artists include: Kirsten Berger, Linda Lohr, Eulavon Mallouf, Greg Mayse, and Vicki McCargar. Light refreshments will be served. All items are for sale. For more details about the show you may call the Gallery at (970) 351-6201 or visit www.madisonandmaingallery.com. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday.
 
 ### Margie’s Java Joint
 
