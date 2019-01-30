@@ -1,7 +1,7 @@
 ---
-title: OktoBREWfest 2018
+title: OktoBREWfest 2019
 description: >-
-  Greeley’s OktoBREWfest 2018 will be September 28th & 29th at historic Lincoln
+  Greeley’s OktoBREWfest 2018 will be September 27th & 28th at historic Lincoln
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /assets/Okt 2018 Logo.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
