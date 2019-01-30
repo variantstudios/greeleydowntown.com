@@ -1,5 +1,5 @@
 ---
-title: 'First Friday: A Night of Art 2018'
+title: 'First Friday: A Night of Art 2019'
 description: >-
   First Friday: A Night of Art is a great opportunity to visit local galleries
   and businesses featuring rotating artwork. Held the first Friday of each month
