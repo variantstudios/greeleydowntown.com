@@ -11,13 +11,13 @@ sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
 
-The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district. The GDA meets the third Friday of every month at 8 am. The location changes to different businesses monthly and will be posted below.
+The Greeley Downtown Alliance is a committee of the DDA consisting of business owners and managers in the Downtown district. The GDA meets the third Friday of every month at 8am. The meeting location changes to different businesses monthly and will be posted below.
 
-The GDA explores opportunities for joint marketing and has developed a monthly Downtown Greeley advertising page in the Greeley Tribune. Downtown businesses can participate in this advertising for a greatly reduce rate. The GDA also publishes an annual brochure that is mailed to over 10,000 homes and distributed by the DDA, the Chamber of Commerce, Arts Picnic, Oktobrewfest, at hotels and restaurants and other participating businesses.
+The GDA explores opportunities for joint marketing and publishes an annual brochure that is mailed to over 10,000 homes and distributed by the DDA, the Chamber of Commerce, Arts Picnic, OktoBREWfest, at hotels and restaurants and other participating businesses.
 
-Additionally, the GDA is involved in event planning in the downtown area and sponsors the Holiday Open House in conjunction with the Greeley Lights the Nights parade and tree lighting the Saturday after Thanksgiving. Creating more arts and entertainment activities and venues is also a goal of the organization.
+Additionally, the GDA is involved in event planning in the downtown area and sponsors the Holiday Open House in conjunction with the Greeley Lights the Night parade and park lighting the Saturday after Thanksgiving. Creating more arts and entertainment activities and venues is also a goal of the organization.
 
-Exploring infrastructure issues, such as parking, safety, etc. are also important considerations as well as support and networking among the area businesses. For more information, contact chair Linda Winter, owner of Accessories with a Flair—and Hair at (970) 351-6448.
+Exploring infrastructure issues, such as parking, safety, etc. are also important considerations as well as support and networking among the area businesses. For more information, contact chair Suzanne Sereff, owner of Warm Hugs Mixes & Gifts Boutique at (970) 353-3447.
 
 ### Next Meeting
 
