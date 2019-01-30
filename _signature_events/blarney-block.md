@@ -1,7 +1,7 @@
 ---
 title: Blarney on the Block & 1st National Bank Blarney Parade
 description: >-
-  Saturday, March 17th
+  Saturday, March 16th
 
   Enjoy a St. Patrick's Day celebration with "small-town" family -friendly fun
   on the Saturday on or before St. Patrick's Day! The event starts at 2 pm with
