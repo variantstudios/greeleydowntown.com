@@ -10,7 +10,7 @@ header_image_path:
 weight: '1'
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, January 4th, 2019 for our next First Friday.
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour and maps are available at each of the participating galleries. Join us on Friday, February 1st, 2019 for our next First Friday.
 
 ###### *Participating locations:*
 
@@ -48,7 +48,7 @@ No information provided.
 
 813 8th Street
 
-Brix Brewery & Taphouse will feature Ben Pu…the man, the myth, the legend, rocking his guitar this Friday for your free live music fix!
+No information provided.
 
 ### Cranford’s Tea Tavern
 
@@ -84,7 +84,7 @@ No information provided.
 
 1335 8th Avenue
 
-No information provided.
+Gelli Plate printing from 5:30-7:30pm
 
 ### Syntax Spirits Distillery
 
@@ -96,7 +96,7 @@ No First Friday event due to the fact that they are still working on their new l
 
 701 7th Street
 
-The Bean Plant Studio will not be holding a First Friday event in January.
+The Five Susan's Show / Bean Plant Studio / 5-8pm
 
 ### The Blue Mug Coffee and Roastery
 
@@ -108,7 +108,7 @@ No information provided.
 
 1109 7th Street
 
-No information provided.
+Ninel Senatorova from 5-8pm
 
 ### The Eden Gallery @ Virtually Yours
 
@@ -132,4 +132,12 @@ Stop by the Gallery for a visit Monday through Saturday 9am-5pm. The exhibition 
 
 709 10th Street
 
-No information provided.
+Laser Engraver Fun&nbsp; from 5-7pm
+
+### Tower 56 Distilling
+
+825 9th Street
+
+Denny Weise 5-8pm
+
+&nbsp;
