@@ -8,7 +8,7 @@ description: >-
   clues, and see creative art. They found some trivia even we didn't know!!! Go
   anytime on your own schedule! You'll need walking shoes and well-charged
   phones. It's inexpensive, informative and FUN!
-  https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT?utm_source=partner&utm_medium=cu3bh2jv
+  https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT
 image_path: /assets/1_DowntownGreeley.jpg
 header_image_path:
 weight: 1
