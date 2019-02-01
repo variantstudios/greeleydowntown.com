@@ -9,7 +9,7 @@ description: >-
   anytime on your own schedule! You'll need walking shoes and well-charged
   phones. It's inexpensive, informative and FUN!
   https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT
-image_path: /assets/1_DowntownGreeley.jpg
+image_path: /uploads/14268673266-7998bb4a29-o.jpg
 header_image_path:
 weight: 1
 ---
