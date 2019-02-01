@@ -14,4 +14,4 @@ header_image_path: /assets/1_DowntownGreeley.jpg
 weight: 1
 ---
 
-Downtown Scavenger Hunt - Anytime you want! All you need are comfortable shoes and a well charged phone. The hunt will take you an a short loop around the core downtown while you solve clues, look for answers, learn a little history and explore some of our wonderful public art.
+Downtown Scavenger Hunt - Anytime you want! All you need are comfortable shoes and a well charged phone. The hunt will take you an a short loop around the core Downtown while you solve clues, look for answers, learn a little history and explore some of our wonderful public art.
