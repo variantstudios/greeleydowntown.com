@@ -2,7 +2,7 @@
 title: Downtown Greeley Scavenger Hunt
 description: >-
   Enjoy a Downtown Greeley Scavenger Hunt ANYTIME. It's fun to do with family,
-  friends, co-workers. You can choose different "roles" for the people in your
+  friends, co-workers. You can choose different roles for the people in your
   group - even kids!!!
 image_path: /assets/1_DowntownGreeley.jpg
 header_image_path:
