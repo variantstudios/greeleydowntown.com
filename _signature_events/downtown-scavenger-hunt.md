@@ -8,10 +8,11 @@ description: >-
   clues, and see creative art. They found some trivia even we didn't know!!! Go
   anytime on your own schedule! You'll need walking shoes and well-charged
   phones. It's inexpensive, informative and FUN!
-  https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT
 image_path: /uploads/14268673266-7998bb4a29-o.jpg
 header_image_path:
 weight: 1
 ---
 
 Downtown Scavenger Hunt - Anytime you want! All you need are comfortable shoes and a well charged phone. The hunt will take you an a short loop around the core Downtown while you solve clues, look for answers, learn a little history and explore some of our wonderful public art.
+
+[https://www.letsroam.com/scavenger\_hunt/GREELEY\_SCAVENGER\_HUNT](https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT)
