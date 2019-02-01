@@ -10,7 +10,7 @@ description: >-
   phones. It's inexpensive, informative and FUN!
   https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT?utm_source=partner&utm_medium=cu3bh2jv
 image_path: /assets/1_DowntownGreeley.jpg
-header_image_path: /assets/1_DowntownGreeley.jpg
+header_image_path:
 weight: 1
 ---
 
