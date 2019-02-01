@@ -8,7 +8,7 @@ description: >-
   clues, and see creative art. They found some trivia even we didn't know!!! Go
   anytime on your own schedule! You'll need walking shoes and well-charged
   phones. It's inexpensive, informative and FUN!
-image_path: /assets/images/signature-events/oktobrewfest-greeley.png
+image_path:
 header_image_path:
 weight: 1
 ---
