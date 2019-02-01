@@ -10,8 +10,8 @@ description: >-
   phones. It's inexpensive, informative and FUN!
   https://www.letsroam.com/scavenger_hunt/GREELEY_SCAVENGER_HUNT?utm_source=partner&utm_medium=cu3bh2jv
 image_path: /assets/1_DowntownGreeley.jpg
-header_image_path:
+header_image_path: /assets/1_DowntownGreeley.jpg
 weight: 0
 ---
 
-Downtown Scavenger Hunt - Anytime you want! All you need are comfortable shoes and a well charged phone. The hunt will take you an a short loop around the core downtown while you solve clues, look for answers, learn a little history and explore some of our wonderful public art.&nbsp;
+Downtown Scavenger Hunt - Anytime you want! All you need are comfortable shoes and a well charged phone. The hunt will take you an a short loop around the core downtown while you solve clues, look for answers, learn a little history and explore some of our wonderful public art.
