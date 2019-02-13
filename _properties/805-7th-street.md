@@ -16,19 +16,19 @@ real-estate-phone: (970) 352-1181
 image-gallery:
   - title:
     small_image_path: /assets/805-7th-st-1.jpg
-    large_image_path: /assets/805-7th-st-1.JPG
+    large_image_path: /assets/805-7th-st-1.jpg
   - title:
     small_image_path: /assets/805-7th-st-2.jpg
-    large_image_path: /assets/805-7th-st-2.JPG
+    large_image_path: /assets/805-7th-st-2.jpg
   - title:
     small_image_path: /assets/805-7th-st-3.jpg
-    large_image_path: /assets/805-7th-st-3.JPG
+    large_image_path: /assets/805-7th-st-3.jpg
   - title:
     small_image_path: /assets/805-7th-st-4.jpg
-    large_image_path: /assets/805-7th-st-4.JPG
+    large_image_path: /assets/805-7th-st-4.jpg
   - title:
     small_image_path: /assets/805-7th-st-5.jpg
-    large_image_path: /assets/805-7th-st-5.JPG
+    large_image_path: /assets/805-7th-st-5.jpg
 ---
 
 
