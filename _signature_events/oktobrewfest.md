@@ -1,7 +1,7 @@
 ---
 title: OktoBREWfest 2019
 description: >-
-  Greeley’s OktoBREWfest 2018 will be September 27th & 28th at historic Lincoln
+  Greeley’s OktoBREWfest 2019 will be September 27th & 28th at historic Lincoln
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /assets/Okt 2018 Logo.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
@@ -12,7 +12,7 @@ Greeley’s OktoBREWfest 2019 will be **September 27th & 28th, 2019** at histori
 
 Then prepare for a full day of fun on **Saturday, September 28th from 11AM-9PM**. Enjoy a whole day of music, a wide variety of craft beer from great Northern Colorado breweries, food from more than a dozen vendors, and a huge children’s area with face painting, obstacle course, arcade games, inflatable slide, WOW Bubbles and more! Kids and adults can also compete in pie eating contests, stein lifting contests, life-size beer pong and more. We will post the 2019 Entertainment Schedule closer to the event.
 
-Tickets for the 7th Annual VIP Beer Tasting will go on sale at the beginning of September. We will post the links to get your tickets and to volunteer to help with the event (WE NEED LOTS OF VOLUNTEERS) when they are available.&nbsp;
+Tickets for the 7th Annual VIP Beer Tasting will go on sale at the beginning of September. We will post the links to get your tickets and to volunteer to help with the event (WE NEED LOTS OF VOLUNTEERS) when they are available. 
 
 # **A HUGE thanks to our awesome 2018 sponsors! We couldn’t do it without you!**
 
