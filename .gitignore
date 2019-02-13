@@ -5,3 +5,5 @@ Gemfile.lock
 .bundle
 node_modules
 _mdwriter.cson
+*.DS_Store
+.DS_Store
