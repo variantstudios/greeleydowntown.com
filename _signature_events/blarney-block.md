@@ -1,12 +1,10 @@
 ---
 title: Blarney on the Block & 1st National Bank Blarney Parade
 description: >-
-  Saturday, March 16th
-
   Enjoy a St. Patrick's Day celebration with "small-town" family -friendly fun
   on the Saturday on or before St. Patrick's Day! The event starts at 2 pm with
   Irish Step Dancing followed by our annual "1st National Bank Blarney Parade"
-  at 2:30. Everyone can join!
+  at 2:30. Everyone can join! Saturday, March 16th.
 image_path: /assets/images/signature-events/blarney-on-the-block-greeley.png
 header_image_path: /FNB1.jpg
 weight_number: 1
