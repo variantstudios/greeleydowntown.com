@@ -1,7 +1,7 @@
 
 
 
-var calendarID = "osrm45bqrvut531hkcdocud3os@group.calendar.google.com";
+var calendarID = "greeleydowntown.com_nmmvd4v5k5cgnflk3sla1d3vak@group.calendar.google.com";
 var activate = 0;
 var todaysDate = new Date();
 
@@ -33,7 +33,7 @@ monthN[11] = "December";
 function heyGoogle (date) {
 	"use strict";
 	
-	var offset = 7;
+	var offset = 0;
 	
 	date.setDate(date.getDate() - offset);
 
