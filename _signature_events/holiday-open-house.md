@@ -9,9 +9,9 @@ header_image_path: 'https://unsplash.it/1400/200/?random'
 weight_number: 7
 ---
 
-### 2018 Holiday Open House, Small Business Saturday, Greeley Lights The Night Parade and Park Lighting Ceremony will be Saturday, November 24th
+### 2019 Holiday Open House, Small Business Saturday, Greeley Lights The Night Parade and Park Lighting Ceremony will be Saturday, November 30th, 2019
 
-Celebrate Small Business Saturday and make it a downtown Greeley day on November 24th. Thirty downtown Greeley businesses are hosting a bingo Holiday Open House from 10am-5pm. Pick up your bingo card at a participating business, get it stamped by at least 12 of the participants as instructed and you can enter to win $1,000, $300 or $200 in prizes and gift cards. No purchase necessary.
+Celebrate Small Business Saturday and make it a downtown Greeley day on November 30th. Thirty downtown Greeley businesses are hosting a bingo Holiday Open House from 10am-5pm. Pick up your bingo card at a participating business, get it stamped by at least 12 of the participants as instructed and you can enter to win $1,000, $300 or $200 in prizes and gift cards. No purchase necessary.
 
 Most of the businesses are also hosting fun activities and the whole day promises to deliver wondrous holiday magic. Strolling carolers from the Greeley Chorale will delight the shoppers in the late afternoon.
 
@@ -85,13 +85,13 @@ Santa photo op, crafts, Polar Express model train
 
 823 10th Street
 
-Open 7am-10pm 
+Open 7am-10pm&nbsp;
 
 **Doug’s Diner**
 
 801 9th Street
 
-Open 7am-3pm 
+Open 7am-3pm&nbsp;
 
 **Free Leaf**
 
@@ -145,7 +145,7 @@ Penguin & Cardinal crafts and Open mic from 2-4pm with holiday songs
 
 806 9th Street
 
-Open 11am-Close 
+Open 11am-Close&nbsp;
 
 **Mariposa Plants, Flowers & Gifts**
 
@@ -161,13 +161,13 @@ Christmas Craft Corner
 
 Open 11am-8pm
 
-Cookie Decorating Station  and a chance to winner Dinner for 2
+Cookie Decorating Station&nbsp; and a chance to winner Dinner for 2
 
 **Right Coast Pizza**
 
 811 8th Street
 
-Open 10:30am-10pm 
+Open 10:30am-10pm&nbsp;
 
 **Rio Grande Mexican Restaurant**
 
@@ -197,7 +197,7 @@ Holiday coloring book
 
 1109 7th Street
 
-Open 10am-5pm 
+Open 10am-5pm&nbsp;
 
 **The Kress Cinema & Lounge**
 
