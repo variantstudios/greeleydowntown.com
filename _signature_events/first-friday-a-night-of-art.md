@@ -7,7 +7,7 @@ description: >-
   participating galleries.
 image_path: /assets/images/signature-events/first-friday-greeley.png
 header_image_path:
-weight_number: 3
+weight_number: 4
 ---
 
 First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on **Friday, March 1st, 201****9** for our next First Friday.
@@ -42,7 +42,7 @@ The Bean Plant Studio will feature The Five Susan’s Show. Five Susan's working
 
 1109 7th Street
 
-Ninel Senatorova brings her award-winning art to The Dragon's Cache for the month of February with a show titled “Decadent Charm:&nbsp; Seeing with the awesomeness of beauty’s eye”. Ninel is from Longmont, works as a graphic designer and has shown in multiple locations across Colorado. The evening will also include refreshments and Live guitar by Bob Schneller.
+Ninel Senatorova brings her award-winning art to The Dragon's Cache for the month of February with a show titled “Decadent Charm:  Seeing with the awesomeness of beauty’s eye”. Ninel is from Longmont, works as a graphic designer and has shown in multiple locations across Colorado. The evening will also include refreshments and Live guitar by Bob Schneller.
 
 ### The Original Roma Restaurant
 
@@ -54,4 +54,4 @@ Join the Original Roma Restaurant for “Concert Posters 101” at 6pm during Fi
 
 709 10th Street
 
-Trinkets-n-Treasures will feature a laser engraving demonstration from 5-7pm in the store.&nbsp; Wood, glass, ceramic and marked metal can all be engraved on. Customers can watch a demonstration on the artists’ stock, or they are encouraged to bring in their own wood and the artist can create, quote a price and engrave as they watch.
+Trinkets-n-Treasures will feature a laser engraving demonstration from 5-7pm in the store.  Wood, glass, ceramic and marked metal can all be engraved on. Customers can watch a demonstration on the artists’ stock, or they are encouraged to bring in their own wood and the artist can create, quote a price and engrave as they watch.
