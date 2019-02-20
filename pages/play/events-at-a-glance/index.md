@@ -6,7 +6,7 @@ description: >-
   Greeley? Check out and feel free to print a copy of our Events at a Glance! 
   If you’re looking for a more comprehensive, day-to-day list of what’s
   happening downtown, click on the Calendar of Events.
-pdf_path: 'G:\My Drive\DTG\Website\2019'
+pdf_path: /uploads/Annual events 2019 .jpg
 sub-nav: play
 permalink: /events-at-a-glance/
 ---
