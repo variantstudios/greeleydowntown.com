@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "greeleydda",
   "version": "0.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -10,6 +10,7 @@
   "license": "",
   "devDependencies": {
     "browser-sync": "^1.3.7",
+    "es6-promise": "^4.2.5",
     "gulp": "^3.8.8",
     "gulp-autoprefixer": "1.0.0",
     "gulp-compass": "^1.0.0",
