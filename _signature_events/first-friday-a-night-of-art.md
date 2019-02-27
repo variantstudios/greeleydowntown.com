@@ -10,7 +10,7 @@ header_image_path:
 weight_number: 4
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on **Friday, March 1st, 201****9** for our next First Friday which will feature the District 6 & Friends Arts Walk
+First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on **Friday, March 1st, 201****9** for our next First Friday which will feature the District 6 & Friends Arts Walk.
 
 ###### ![](/assets/yam-poster-2019.jpg)
 
