@@ -83,11 +83,9 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/weldwerks-brewing-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/weldwerks-brewing-downtown-greeley.jpg
-  - title: Zoe's Cafe
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/zoes-cafe-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/zoes-cafe-downtown-greeley.jpg
+  - title: Zoe's Cafe & Events
+    small_image_path: /assets/smallZoes.jpg
+    large_image_path: /assets/LargeZoes.jpg
   - title: Blush Boutique Co
     small_image_path: /assets/Blush2SMALLUSE.jpg
     large_image_path: /assets/Blush2LARGEUSE.jpg
