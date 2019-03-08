@@ -106,5 +106,8 @@ images:
   - title: The Nerd Store
     small_image_path: /assets/The Nerd Store SMALL.jpg
     large_image_path: /assets/NEWNERDSTORELARGE.jpg
+  - title: Green Earth Brewing Company
+    small_image_path: /assets/green earth small.jpg
+    large_image_path: /assets/green earth large.jpg
 ---
 
