@@ -109,5 +109,8 @@ images:
   - title: Green Earth Brewing Company
     small_image_path: /assets/green earth small.jpg
     large_image_path: /assets/green earth large.jpg
+  - title: Millennium Event Center
+    small_image_path: /assets/millenniumeventcenterSMALL.jpg
+    large_image_path: /assets/millenniumeventcenterlarge.jpg
 ---
 
