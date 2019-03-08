@@ -107,5 +107,8 @@ images:
   - title: 1908 Speakeasy
     small_image_path: /speakeasySMALL.jpg
     large_image_path: /assets/speakeasyLARGE.jpg
+  - title: The Bar.Ber.Shop
+    small_image_path: /assets/bar.ber.shop.SMALL.jpg
+    large_image_path: /assets/the.bar.ber.shopLARGE.jpg
 ---
 
