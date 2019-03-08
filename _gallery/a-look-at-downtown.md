@@ -20,10 +20,8 @@ images:
     small_image_path: /assets/Chophousesmall.JPG
     large_image_path: /assets/Chophouselarge.JPG
   - title: Downtown Greeley Gates
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/downtown-greeley-gate.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/downtown-greeley-gate.jpg
+    small_image_path: /assets/greeleygatesSMALL.jpg
+    large_image_path: /assets/greeleygatesLARGE.jpg
   - title: Ervin's Antiques
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/ervins-antiques-downtown-greeley.jpg
