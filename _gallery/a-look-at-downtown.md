@@ -103,5 +103,8 @@ images:
   - title: High Brau Taphouse
     small_image_path: /assets/highbrausmall.jpg
     large_image_path: /assets/highbraularge.jpg
+  - title: The Nerd Store
+    small_image_path: /assets/The Nerd Store SMALL.jpg
+    large_image_path: /assets/NEWNERDSTORELARGE.jpg
 ---
 
