@@ -53,11 +53,9 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/madison-and-main-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/madison-and-main-downtown-greeley.jpg
-  - title: Margie's Cafe
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/margies-cafe-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/margies-cafe-downtown-greeley.jpg
+  - title: Margie's Java Joint
+    small_image_path: /assets/margiessmall.jpg
+    large_image_path: /assets/MargiesLarge.jpg
   - title: Mariposa Plants & Flowers
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/mariposa-plants-and-flowers-downtown-greeley.jpg
