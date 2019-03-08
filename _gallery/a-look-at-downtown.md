@@ -97,8 +97,8 @@ images:
     small_image_path: /assets/greenearthbrewingSMALL.jpg
     large_image_path: /assets/greenearthbrewinglarge.jpg
   - title: Millennium Event Center
-    small_image_path: /assets/millenniumeventcenterSMALL.jpg
-    large_image_path: /assets/millenniumeventcenterlarge.jpg
+    small_image_path: /assets/MECSMALL.jpg
+    large_image_path: /MECLARGE.jpg
   - title: Trinkets-n-Treasures
     small_image_path: /assets/trinketssmall.JPG
     large_image_path: /assets/IMG_0537.JPG
