@@ -3,7 +3,7 @@ title: A Look at Downtown
 description:
 weight: 0
 images:
-  - title: Brix Taphouse
+  - title: Brix Brewery & Taphouse
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/brix-taphouse-downtown-greeley.jpg
     large_image_path: >-
@@ -19,10 +19,8 @@ images:
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/dougs-hang-up-downtown-greeley.jpg
   - title: Greeley Chophouse
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/chophouse-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/chophouse-downtown-greeley.jpg
+    small_image_path: /assets/Chophousesmall.JPG
+    large_image_path: /assets/Chophouselarge.JPG
   - title: Downtown Greeley Gates
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/downtown-greeley-gate.jpg
@@ -101,8 +99,8 @@ images:
     small_image_path: /assets/The Nerd Store SMALL.jpg
     large_image_path: /assets/NEWNERDSTORELARGE.jpg
   - title: Green Earth Brewing Company
-    small_image_path: /assets/green earth small.jpg
-    large_image_path: /assets/green earth large.jpg
+    small_image_path: /assets/greenearthbrewingSMALL.jpg
+    large_image_path: /assets/greenearthbrewinglarge.jpg
   - title: Millennium Event Center
     small_image_path: /assets/millenniumeventcenterSMALL.jpg
     large_image_path: /assets/millenniumeventcenterlarge.jpg
