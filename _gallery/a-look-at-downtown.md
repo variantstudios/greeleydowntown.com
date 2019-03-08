@@ -67,11 +67,6 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/sassy-bagz-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/sassy-bagz-downtown-greeley.jpg
-  - title: The Jager
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/the-jager-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/the-jager-downtown-greeley.jpg
   - title: WeldWerks Brewing Co
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/weldwerks-brewing-downtown-greeley.jpg
