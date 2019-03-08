@@ -100,5 +100,8 @@ images:
   - title: Doug’s Diner
     small_image_path: /assets/dougsdinersmall.jpg
     large_image_path: /assets/DougsDinerLARGE.jpg
+  - title: High Brau Taphouse
+    small_image_path: /assets/highbrausmall.jpg
+    large_image_path: /assets/highbraularge.jpg
 ---
 
