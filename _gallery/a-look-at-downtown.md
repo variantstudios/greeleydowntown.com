@@ -94,5 +94,8 @@ images:
   - title: Tower 56 Distilling
     small_image_path: /assets/tower56small.JPG
     large_image_path: /assets/tower56.JPG
+  - title: Luna's Tacos & Tequila
+    small_image_path: /assets/lunassmall.jpg
+    large_image_path: /assets/lunaslarge.jpg
 ---
 
