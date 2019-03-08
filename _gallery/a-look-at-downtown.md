@@ -3,11 +3,6 @@ title: A Look at Downtown
 description:
 weight: 0
 images:
-  - title: ArtWerx
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/artwerx-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/artwerx-downtown-greeley.jpg
   - title: Brix Taphouse
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/brix-taphouse-downtown-greeley.jpg
@@ -23,11 +18,6 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/dougs-hang-up-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/dougs-hang-up-downtown-greeley.jpg
-  - title: Chamber of Commerce
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/chamber-of-commerce-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/chamber-of-commerce-downtown-greeley.jpg
   - title: Greeley Chophouse
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/chophouse-downtown-greeley.jpg
@@ -43,16 +33,6 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/ervins-antiques-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/ervins-antiques-downtown-greeley.jpg
-  - title: Farmer's Pantry
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/farmers-pantry-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/farmers-pantry-downtown-greeley.jpg
-  - title: George's Repair Shop
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/georges-repair-shop-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/georges-repair-shop-downtown-greeley.jpg
   - title: Greeley History Museum
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/greeley-history-museum-downtown-greeley.jpg
@@ -108,5 +88,8 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/zoes-cafe-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/zoes-cafe-downtown-greeley.jpg
+  - title: Blush Boutique Co
+    small_image_path:
+    large_image_path:
 ---
 
