@@ -104,5 +104,8 @@ images:
   - title: Warm Hugs Mixes & Gifts
     small_image_path: /assets/WarmHugs SMALL.jpg
     large_image_path: /assets/WarmHugsLARGE.jpg
+  - title: 1908 Speakeasy
+    small_image_path: /speakeasySMALL.jpg
+    large_image_path: /assets/speakeasyLARGE.jpg
 ---
 
