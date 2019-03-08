@@ -89,7 +89,10 @@ images:
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/zoes-cafe-downtown-greeley.jpg
   - title: Blush Boutique Co
-    small_image_path:
-    large_image_path:
+    small_image_path: /assets/Blush2SMALLUSE.jpg
+    large_image_path: /assets/Blush2LARGEUSE.jpg
+  - title: Tower 56 Distilling
+    small_image_path: /assets/tower56small.JPG
+    large_image_path: /assets/tower56.JPG
 ---
 
