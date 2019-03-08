@@ -57,10 +57,8 @@ images:
     small_image_path: /assets/margiessmall.jpg
     large_image_path: /assets/MargiesLarge.jpg
   - title: Mariposa Plants & Flowers
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/mariposa-plants-and-flowers-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/mariposa-plants-and-flowers-downtown-greeley.jpg
+    small_image_path: /assets/mariposasmall.jpg
+    large_image_path: /assets/mariposalarge.jpg
   - title: Moxi Theater
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/moxi-theater-downtown-greeley.jpg
