@@ -101,7 +101,7 @@ images:
   - title: 808 Hair & Nails
     small_image_path: /assets/808hairnnailssmall.JPG
     large_image_path: /assets/808hairnnaillarge.JPG
-  - title: WArm Hugs Mixes & Gifts
+  - title: Warm Hugs Mixes & Gifts
     small_image_path: /assets/WarmHugs SMALL.jpg
     large_image_path: /assets/WarmHugsLARGE.jpg
 ---
