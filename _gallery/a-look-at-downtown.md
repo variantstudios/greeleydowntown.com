@@ -112,5 +112,8 @@ images:
   - title: Millennium Event Center
     small_image_path: /assets/millenniumeventcenterSMALL.jpg
     large_image_path: /assets/millenniumeventcenterlarge.jpg
+  - title: Trinkets-n-Treasures
+    small_image_path: /assets/trinketssmall.JPG
+    large_image_path: /assets/IMG_0537.JPG
 ---
 
