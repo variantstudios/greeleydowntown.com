@@ -102,5 +102,8 @@ images:
   - title: Trinkets-n-Treasures
     small_image_path: /assets/trinketssmall.JPG
     large_image_path: /assets/IMG_0537.JPG
+  - title: 808 Hair & Nails
+    small_image_path: /assets/808hairnnailssmall.JPG
+    large_image_path: /assets/808hairnnaillarge.JPG
 ---
 
