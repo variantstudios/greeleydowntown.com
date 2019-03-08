@@ -8,11 +8,9 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/brix-taphouse-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/brix-taphouse-downtown-greeley.jpg
-  - title: Cranford Cove Tea Tavern
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/cranford-cove-tea-tavern-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/cranford-cove-tea-tavern-downtown-greeley.jpg
+  - title: Cranford's Tea Tavern
+    small_image_path: /assets/cranfordsSMALL.jpg
+    large_image_path: /assets/CranfordsteaLARGE.jpg
   - title: Doug's Hang Up
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/dougs-hang-up-downtown-greeley.jpg
