@@ -4,10 +4,8 @@ description:
 weight: 0
 images:
   - title: Brix Brewery & Taphouse
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/brix-taphouse-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/brix-taphouse-downtown-greeley.jpg
+    small_image_path: /assets/BrixSMALL.jpg
+    large_image_path: /assets/BrixLARGE.jpg
   - title: Cranford's Tea Tavern
     small_image_path: /assets/cranfordsSMALL.jpg
     large_image_path: /assets/CranfordsteaLARGE.jpg
