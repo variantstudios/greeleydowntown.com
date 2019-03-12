@@ -35,11 +35,9 @@ images:
       /assets/images/gallery/a-look-at-downtown-greeley/sm/kings-clocks-downtown-greeley.jpg
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/kings-clocks-downtown-greeley.jpg
-  - title: Kress Cinema
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/kress-cinema-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/kress-cinema-downtown-greeley.jpg
+  - title: Kress Cinema & Lounge
+    small_image_path: /kressSMALL.JPG
+    large_image_path: /assets/kressLARGE.JPG
   - title: Madison & Main Gallery
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/madison-and-main-downtown-greeley.jpg
