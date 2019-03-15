@@ -107,8 +107,8 @@ images:
   - title: Greeley History Museum
     small_image_path: /assets/museumSMALL.JPG
     large_image_path: /assets/museumLARGE.JPG
-  - title:
-    small_image_path:
-    large_image_path:
+  - title: Ice Haus
+    small_image_path: /assets/icehausSMALL.jpg
+    large_image_path: /assets/icehausLARGE.jpg
 ---
 
