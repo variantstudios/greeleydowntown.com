@@ -110,5 +110,8 @@ images:
   - title: Ice Haus
     small_image_path: /assets/icehausSMALL.jpg
     large_image_path: /assets/icehausLARGE.jpg
+  - title: Meeker's A Colorado Kitchen & Bar
+    small_image_path: /assets/MeekersSMALL.jpg
+    large_image_path: /assets/MeekersLARGE.jpg
 ---
 
