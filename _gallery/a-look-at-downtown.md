@@ -55,10 +55,8 @@ images:
     large_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/lg/moxi-theater-downtown-greeley.jpg
   - title: Sassy Bagz
-    small_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/sm/sassy-bagz-downtown-greeley.jpg
-    large_image_path: >-
-      /assets/images/gallery/a-look-at-downtown-greeley/lg/sassy-bagz-downtown-greeley.jpg
+    small_image_path: /assets/SassyBagzSMALL.JPG
+    large_image_path: /assets/sassybagzLARGE.JPG
   - title: WeldWerks Brewing Co
     small_image_path: >-
       /assets/images/gallery/a-look-at-downtown-greeley/sm/weldwerks-brewing-downtown-greeley.jpg
@@ -106,5 +104,11 @@ images:
   - title: The Bar.Ber.Shop
     small_image_path: /assets/bar.ber.shop.SMALL.jpg
     large_image_path: /assets/the.bar.ber.shopLARGE.jpg
+  - title: Greeley History Museum
+    small_image_path: /assets/museumSMALL.JPG
+    large_image_path: /assets/museumLARGE.JPG
+  - title:
+    small_image_path:
+    large_image_path:
 ---
 
