@@ -16,7 +16,7 @@ Phone: (970) 534-2530
 Website: 'https://www.truesafetyservices.com/'
 Contact_Name: Allyson Dotson
 Contact_Email: allyson@truesafetyservices.com
-Logo_image_path: /assets/images/directory/True Safety Services.jpg
+Logo_image_path: /assets/images/directory/True Safety Services.png
 ---
 
 True Safety specializes in safety program management and safety training. Our simple safety solutions will give you the confidence to pass rigid OSHA and client inspections, avoiding citations, fines, lost contracts with clients and workplace injuries. From hazard assessments to safety training, coaching and mentoring of field personnel, our experienced and relatable safety professionals are the solution to all of your safety needs. The results far exceed the costs because we make safety solutions practical, simple, and EFFECTIVE. Take your safety culture to the next level by contacting us today!
