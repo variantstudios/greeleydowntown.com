@@ -1,7 +1,7 @@
 ---
 title: 905 16th Street
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/905-16th-st-1.jpg
 sale-or-lease: Lease
 square-footage: '3,610 SF'
 price: $18/SF
