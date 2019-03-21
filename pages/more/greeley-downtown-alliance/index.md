@@ -21,4 +21,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, February 15, 2019 for our next monthly meeting. The meeting will be held at Warm Hugs Mixes & Gifts Boutique located at 809 10th Street.
+Please join us at 8am on Friday, April 19th, 2019 for our next monthly meeting. The meeting will be held at the Lincoln Park Library located at 1012 11th Street.
