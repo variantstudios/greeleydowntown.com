@@ -27,4 +27,4 @@ A few of the DDA’s projects and services for downtown include:
 
 From entertainment venues to retail stores, professional services to residential spaces, the Greeley Downtown Development Authority is working to create a vibrant downtown.
 
-To hear about what we were up to in 2018, check out our [ANNUAL REPORT](/assets/pdfs/2018-greeley-DDA-annual-report.pdf).
+To hear about what we were up to in 2018, check out our [ANNUAL REPORT](/assets/pdfs/2018-greeley-DDA-annual-report.pdf){: target="_blank"}.
