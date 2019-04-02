@@ -19,13 +19,12 @@ Vision:<br>To ensure that Downtown Greeley is an economically-sustainable and we
 
 A few of the DDA’s projects and services for downtown include:
 
-* Business support- site locating, facade grants, incentive opportunities
+* Business support- site location, facade grants, incentive opportunities, marketing & promotion
+* Enhanced downtown experience- public art, lighting, maintenance, parking, safety
 * Historic preservation
-* Downtown beautification
-* Architectural assistance for property owners
-* Information about incentives for new businesses and property rehabilitation
+* Redevelopment partnerships
 * Special events such as Blarney on the Block, Friday Fest, Oktobrewfest, Trick-or-Treat Street, and more
 
-From entertainment venues to retail stores, professional services to residential spaces, the Greeley Downtown Development Authority is working to create a well-rounded, versatile, vibrant downtown.
+From entertainment venues to retail stores, professional services to residential spaces, the Greeley Downtown Development Authority is working to create a vibrant downtown.
 
 To hear about what we were up to in 2018, check out our [ANNUAL REPORT](/assets/pdfs/greeley-dda-annual-report-2016.pdf).
