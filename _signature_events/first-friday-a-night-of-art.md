@@ -10,7 +10,7 @@ header_image_path:
 weight_number: 4
 ---
 
-First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on **Friday, April 5th, 201****9** for our next First Friday.
+**First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on Friday, April 5th, 2019 for our next First Friday.**
 
 *Participating locations:*
 
