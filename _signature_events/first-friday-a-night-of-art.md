@@ -44,6 +44,12 @@ Travis Krause, a Colorado artist and angler at heart, will dedicate the commissi
 
 First Friday on April 5th at the Madison & Main Gallery is going to feature "Re-use Fest" with three demonstrations. Cornelia Davis will be showing how to make great baskets with magazine pages, and her ready-made baskets will be 20% off! Gin Leuchter (And JANE!) will be demonstrating book making with Lydia Ruyle's experiments as the covers. Lisa Arata will demonstrate re-making old necklaces into bracelets. Watch them get a little over-enthused with the creative re-use, and you will too!. For more details about the show you may call the Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com). Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday.
 
+### Showcase Art Center
+
+1335 8th Avenue
+
+Showcase Art Center will host a Ukrainian egg pARTy from 2-6 during First Friday. Drop in for a couple hours and make gorgeous eggs. $10 covers eggs, beeswax, and beautiful fast dyes and cookies!
+
 ### The Bean Plant Studio
 
 701 7th Street
