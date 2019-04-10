@@ -11,6 +11,7 @@ permalink: /supporters-and-sponsors/
 * [Northern Engineering](http://northernengineering.com/){: target="_blank"}
 * Phelps-Tointon
 * [Thomas & Tyler](http://www.thomasandtyler.com/)
+* [Weiss Jewelers](http://www.weissjewelers.com/){: target="_blank"}
 
 ## 2018 Event Sponsors
 
