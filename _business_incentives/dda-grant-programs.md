@@ -10,8 +10,8 @@ There are three options for applicants based on the needs of the business and/or
 
 1\. This grant reimburses businesses and/or property owners in the Downtown Development Authority (DDA) for fa&ccedil;ade renovations. The maximum grant is 50% of total eligible fa&ccedil;ade expenses, up to $7,500.&nbsp;
 
-* [Facade GRANT Guidelines](/assets/pdfs/Facade-GRANT-Guidelines-2018.pdf)
-* [Facade GRANT Application](/assets/pdfs/Facade-GRANT-Application-2018.pdf)​​​​​​​
+* [Facade Grant Guidelines](/assets/pdfs/Facade-GRANT-Guidelines-2018.pdf)
+* [Facade Grant Application](/assets/pdfs/Facade-GRANT-Application-2018.pdf)​​​​​​​
 
 2\. Building Improvement Grants: This grant reimburses property owners in the Downtown Development Authority (DDA) for comprehensive building renovations that include both exterior fa&ccedil;ade and fixed interior improvements. The maximum grant is up to 10% of the total eligible building expenses, at no more than 100% of eligible fa&ccedil;ade expenses.​​​​​​​
 
