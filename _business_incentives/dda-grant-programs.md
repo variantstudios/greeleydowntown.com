@@ -15,8 +15,8 @@ There are three options for applicants based on the needs of the business and/or
 
 2\. Building Improvement Grants: This grant reimburses property owners in the Downtown Development Authority (DDA) for comprehensive building renovations that include both exterior fa&ccedil;ade and fixed interior improvements. The maximum grant is up to 10% of the total eligible building expenses, at no more than 100% of eligible fa&ccedil;ade expenses.
 
-* [Building Improvement Guidelines](/assets/pdfs/building-improvement-grant-guidelines.pdf){: target="_blank"}
-* [Building Improvement Application](/assets/pdfs/building-improvement-application.pdf){: target="_blank"}
+* [Building Improvement Grant Guidelines](/assets/pdfs/building-improvement-grant-guidelines.pdf){: target="_blank"}
+* [Building Improvement Grant Application](/assets/pdfs/building-improvement-application.pdf){: target="_blank"}
 
 3\. Tax Increment Financing (TIF) Reimbursements: This multi-year reimbursement program is intended for redevelopment projects that will create a significant impact in the DDA district and generate additional property tax increment.&nbsp;
 
