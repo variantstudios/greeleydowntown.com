@@ -13,10 +13,11 @@ Street: 709 10th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
-Website: 'http://treasures2017.com/'
+Phone: 970-825-0723
+Website: www.Treasures2017.com
 Contact_Name: Christy
 Contact_Email: tntptp@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
+A hand crafted gift shop with 30 artists from northern Colorado that bring in their crafted items for sale.
