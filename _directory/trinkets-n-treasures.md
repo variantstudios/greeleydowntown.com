@@ -14,7 +14,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: 970-825-0723
-Website: 'https://www.Treasures2017.com'
+Website: 'https://trinkets-n-treasures.godaddysites.com/'
 Contact_Name: Christy
 Contact_Email: tntptp@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
