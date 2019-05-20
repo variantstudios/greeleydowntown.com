@@ -17,6 +17,6 @@ Phone: (970) 352-5344
 Website: 'https://www.sherpagrill.com'
 Contact_Name:
 Contact_Email: sherpagrill@gmail.com
-Logo_image_path:
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
