@@ -3,6 +3,7 @@ live_directory: false
 Business: Sherpa Grill Indian Nepali Restaurant
 dining_categories:
   - indian
+  - nepali
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
 nightlife_categories:
