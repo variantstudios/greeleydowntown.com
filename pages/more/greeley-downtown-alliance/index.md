@@ -21,4 +21,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, May 17th, 2019 for our next monthly meeting. The meeting will be held at Accessories With A Flair\!...and Hair located at 801 8th Avenue \#4.
+Please join us at 8am on Friday, June 21st, 2019 for our next monthly meeting. The meeting will be held at The Dragon's Cache located at 1109 7th Street.
