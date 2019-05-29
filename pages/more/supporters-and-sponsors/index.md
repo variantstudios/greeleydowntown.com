@@ -15,6 +15,7 @@ permalink: /supporters-and-sponsors/
 * [First Church of Christ, Scientist](https://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/){: target="_blank"}
 * [Colorado Sugarbeet Growers Association](https://colorado.coop/co-op/colorado-sugarbeet-growers-association/){: target="_blank"}
 * [Flood and Peterson Insurance](https://floodpeterson.com/){: target="_blank"}
+* Great Northern Properties, LLLP
 
 ## 2018 Event Sponsors
 
