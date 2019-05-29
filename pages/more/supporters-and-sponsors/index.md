@@ -28,18 +28,18 @@ permalink: /supporters-and-sponsors/
 * [Greeley Tribune](https://www.greeleytribune.com/){: target="_blank"}
 * [High Country Beverage](http://highcountrybeverage.com/agegate/){: target="_blank"}
 * [iHeart Radio](https://www.iheart.com/){: target="_blank"}
-* [RE/Max](www.remax.com){: target="_blank"}&nbsp;Infinity
+* [RE/MAX Infinity](https://www.remax.com/realestateofficerealtor/johnstown-co-80534-remaxinfinity-id60110251.html){: target="_blank"}
 * [Renewal By Andersen](https://www.renewalbyandersen.com/){: target="_blank"}
 * [Sears Real Estate](http://www.searsrealestate.com/){: target="_blank"}
 * [State Farm- Melissa McDonald](https://www.statefarm.com/agent/US/CO/Greeley/Melissa-Mcdonald-ZB0KX2VV000){: target="_blank"}
 * [WeldWerks Brewing Co.](https://www.weldwerksbrewing.com/){: target="_blank"}
-* Aims Community College
-* Bank of Colorado
-* Cargill
-* Greeley Area Chamber of Commerce
-* Corner Stone Orthodontics
+* [Aims Community College](https://www.aims.edu/){: target="_blank"}
+* [Bank of Colorado](https://www.bankofcolorado.com/){: target="_blank"}
+* [Cargill](https://www.cargill.com/home){: target="_blank"}
+* [Greeley Area Chamber of Commerce](https://greeleychamber.com/){: target="_blank"}
+* [Cornerstone Orthodontics](https://www.facebook.com/cornerstone.orthodontics.greeley/){: target="_blank"}
 
-### Oktobrewfest
+### 2018 Oktobrewfest
 
 * NCMC, Inc.
 * Triple S
