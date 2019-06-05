@@ -18,3 +18,11 @@ Sponsorships go fast\! call NOW\!&nbsp; -&nbsp; Alison Hamling (970) 356-6775 al
 Here is our 2019 Season\!\!\!&nbsp;
 
 ![](/assets/friday-fest-lineup-2019.jpg)
+
+Be a sponsor like these fine folks:
+
+![](/assets/sponsor-collage-1.jpg){: width="1379" height="1192"}
+
+&nbsp;
+
+&nbsp;
