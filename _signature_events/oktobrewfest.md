@@ -16,6 +16,8 @@ Then prepare for a full day of fun on **Saturday, September 28th from 11AM-9PM**
 
 Tickets for the 7th Annual VIP Beer Tasting will go on sale at the beginning of September. We will post the links to get your tickets and to volunteer to help with the event (WE NEED LOTS OF VOLUNTEERS) when they are available.&nbsp;
 
+[We are seeking sponsors for 2019\!&nbsp;](https://www.facebook.com/GreeleyOktobrewfest/videos/2557263350958935/)
+
 # **A HUGE thanks to our awesome 2018 sponsors\! We couldn’t do it without you\!**
 
 ![](/assets/okt2018-sponsors--for-website.pub)![](/assets/okt2018-sponsors--for-website-2.jpg)
