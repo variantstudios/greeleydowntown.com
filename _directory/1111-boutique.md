@@ -16,7 +16,7 @@ Phone: (970) 352-2957
 Website: 'https://www.facebook.com/Eleven11BoutiqueCo/'
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/11-11 Boutique.jpg
+Logo_image_path: /assets/11 11 Boutique.jpg
 ---
 
 With an affordable selection of boutique merchandise, 11:11 Boutique provides a breath of fresh air to your closet. Here, you’ll find no cookie-cutter inventory, but rather a special collection of hand-selected items. With new styles added regularly, 11:11 Boutique is your small one stop shop destination.
