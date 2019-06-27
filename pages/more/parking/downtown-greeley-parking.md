@@ -2,12 +2,12 @@
 layout: page
 title: Downtown Greeley Parking
 description:
-pdf_path: /assets/pdfs/downtown-greeley-parking-map.pdf
+pdf_path: /assets/pdfs/Downtown-Greeley-Parking-Map.pdf
 sub-nav: more
 permalink: /parking-map/
 ---
 
-**Parking Improvements are Here!**
+**Parking Improvements are Here\!**
 
 The City of Greeley offers more than 2,000 free two-hour parking spots to all downtown visitors — and all downtown parking is free after 5 pm on weekdays, and all day on weekends and City holidays.
 
@@ -30,7 +30,7 @@ Staying Longer Than Two Hours?<br>If you plan to stay longer than two hours or a
 5. Pay for more time&nbsp;
 6. Continue to enjoy Downtown
 
-**How to Use Passport**<br>1. Download the Passport Parking app from the Apple App Store or Google Play store or visit the [website](https://ppprk.com/park/){: target="_blank"}.<br>2. Create an account with your mobile phone number or email address.<br>3. Park anywhere you see Passport Parking app signs and decals.<br>4. Start your parking session from your phone immediately after parking your car.<br>5. Get reminders when your parking time is about to expire and remotely extend your time!
+**How to Use Passport**<br>1\. Download the Passport Parking app from the Apple App Store or Google Play store or visit the [website](https://ppprk.com/park/){: target="_blank"}.<br>2\. Create an account with your mobile phone number or email address.<br>3\. Park anywhere you see Passport Parking app signs and decals.<br>4\. Start your parking session from your phone immediately after parking your car.<br>5\. Get reminders when your parking time is about to expire and remotely extend your time\!
 
 Or call (877) 959-4718 and pay for your extended parking over the phone.
 
