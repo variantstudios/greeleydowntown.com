@@ -39,57 +39,22 @@ permalink: /supporters-and-sponsors/
 * [Greeley Area Chamber of Commerce](https://greeleychamber.com/){: target="_blank"}
 * [Cornerstone Orthodontics](https://www.facebook.com/cornerstone.orthodontics.greeley/){: target="_blank"}
 
-### 2018 Oktobrewfest
+### Oktobrewfest
 
 * NCMC, Inc.
 * Triple S
 * Wheeler Management
-* Steelock
 * All Purpose Rental
-* Ehrlich Toyota
-* iHeart Media
-* Noble Energy
-* PDC Energy
-* First National Bank
 * City of Greeley
 * Bank of Colorado
-* Luna’s Tacos & Tequila/Wing Shack
-* Consider it There
-* Greeley Tribune
-* Guaranty Bank
-* Renewal by Andersen of Colorado
-* Colorado Petroleum Council
-* Greeley Dental Care
-* Richmark
-* Black Bottle
-* Colorado Oil & Gas Association
-* Rio Grande Mexican Restaurant
-* BandWagon
 * Weld Food Bank
-* Academy of Natural Therapy
-* Accessories with a Flair
-* Brix Taphouse & Brewery
-* Broken Plow Brewery
-* C2D Architects
-* Crabtree Brewing Co.
-* Green Earth Brewing
-* Grimm Brothers Brewhouse
-* High Hops Brewery
-* Joe Molina Gallery
 * Lincoln Park Emporium
-* Loveland Aleworks
 * Mariposa Plants & Flowers
-* Meeker’s Colorado Kitchen & Bar
-* MouCo Cheese&nbsp;
-* Northern Colorado Disposal
-* Oskar Blues
-* Prost Brewing Co.
 * Right Coast Pizza
-* Rocky Mountain Taphouse
-* Sassy Bagz
-* Stuft Burger
+* Steamway Floor To Ceiling
 * The Resource Center
+* The Rio Grande Mexican Restaurant
 * Tower 56 Distillery
-* WeldWerks Brewing Co.
+* Twice As Nice Boutique
+* Union Colony Civic Center
 * Wm. Moore Jewelers
-* Wright Group Event Services
