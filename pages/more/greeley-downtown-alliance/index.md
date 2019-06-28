@@ -7,6 +7,8 @@ description: >-
 meeting_minutes:
   - title:
     pdf_path:
+  - title: June 2019 GDA Meeting Minutes
+    pdf_path: /assets/pdfs/GDA Meeting Minutes 6-21-19.pdf
 sub-nav: more
 permalink: /greeley-downtown-alliance/
 ---
