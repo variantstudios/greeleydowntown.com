@@ -19,4 +19,4 @@ Contact_Email: manager@eight-0-eight.com
 Logo_image_path: /assets/eigh-0-eight-logo-1.png
 ---
 
-Co-Working Space for Business Professionals who Need a Desk to Work From. Prices Range from $275.00 to $325.00 per month.
+Co-working space for business professionals who need a desk to work from. Prices range from $275.00 to $325.00 per month.
