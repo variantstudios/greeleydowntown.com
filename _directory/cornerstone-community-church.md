@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - churches-and-religious-organizations
-Contact_Name:
-Contact_Email:
+Contact_Name: Lois Morris
+Contact_Email: communications@csgreeley.org
 Logo_image_path: /assets/images/directory/cornerstone.png
 ---
-
 
