@@ -19,3 +19,6 @@ Contact_Email: communications@csgreeley.org
 Logo_image_path: /assets/images/directory/cornerstone.png
 ---
 
+&nbsp;&nbsp;
+
+&nbsp;
