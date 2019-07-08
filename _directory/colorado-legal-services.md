@@ -16,7 +16,7 @@ service_categories:
   - legal
 Contact_Name: Barb Valdez
 Contact_Email: bvaldez@colegalserv.org
-Logo_image_path: /assets/images/directory/Colorado Legal Services.jpg
+Logo_image_path: /assets/images/directory/coloradolegalservices.png
 ---
 
 Serves the community for low-income civil cases. We do not do any kind of criminal cases.
