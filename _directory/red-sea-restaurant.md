@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Safari Restaurant
+Business: Red Sea Restaurant
 Street: 811 10th Street
 City: Greeley
 State: Colorado
