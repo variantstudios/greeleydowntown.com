@@ -9,10 +9,10 @@ address: 1120 6th Avenue
 city: Greeley
 state: CO
 zip: '80631'
-real-estate-agency: Commercial Brokers Alliance
-real-estate-agent: Larry Hawe
-real-estate-email: larry.hawe@cbanoco.com
-real-estate-phone: (970) 217-8483
+real-estate-agency:
+real-estate-agent: Dana Scheidecker
+real-estate-email:
+real-estate-phone: (970) 353-2380
 image-gallery:
   - title:
     small_image_path: /assets/images/properties/properties-default.png
