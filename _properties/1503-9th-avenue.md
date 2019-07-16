@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/1503-9th-ave.jpg
 sale-or-lease: Sale
 square-footage: '3,327 SF'
-price: '$450,000'
+price: '$425,000'
 address: 1503 9th Avenue
 city: Greeley
 state: CO
