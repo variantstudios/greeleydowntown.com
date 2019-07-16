@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/905-16th-st-1.jpg
 sale-or-lease: Lease
 square-footage: '1,805 SF'
-price: $14/SF + NNN
+price: $15/SF + NNN
 address: 905 16th Street
 city: Greeley
 state: CO
