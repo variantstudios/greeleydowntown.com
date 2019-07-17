@@ -20,3 +20,4 @@ Contact_Email: ken@5starindustries.com
 Logo_image_path: /assets/images/directory/5 star industries.png
 ---
 
+Happy to be serving Colorado, Wyoming, and Kansas with our Metal Fabrication, Metal Containers and Trash Dumpsters.
