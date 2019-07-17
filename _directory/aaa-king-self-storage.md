@@ -16,7 +16,7 @@ Phone: (970) 475-0355
 Fax:
 Website: 'http://AAAKingselfstorage.com'
 Contact_Name: Jamie Loomis
-Contact_Email: manager@aaakingselfstorage.com Screen reader support enabled.
+Contact_Email: manager@aaakingselfstorage.com
 Logo_image_path: /assets/images/directory/aaa king storage.png
 ---
 
