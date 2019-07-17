@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: 'Accessories With A Flair!...and Hair'
+Business: Accessories With A Flair!...and Hair
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -10,7 +10,7 @@ retail_categories:
   - jewelry
 service_categories:
   - salons-and-spas
-Street: 801 8th Avenue
+Street: '801 8th Avenue #4'
 City: Greeley
 State: Colorado
 Zip: '80631'
@@ -22,7 +22,6 @@ Contact_Email: lindaw.accessorieswithaflair@gmail.com
 Logo_image_path: /assets/images/directory/accessories.png
 ---
 
+A boutique featuring fun fashions, awesome accessories, Wallaroo and Kentucky Derby hats, and dozens of fashion forward items arriving daily. We'll make you feel like a Star in our Hollywood style hair salon and make-up studio plus treat you to our private label Star Natural Skin Care line.You'll love our Raquel Welch wigs and extensions which will transform your look in minutes for work, a night on the town or that special vacation.No matter your age, your size or your style preference.....we'll make you look HOT\!
 
-A boutique featuring fun fashions, awesome accessories, Wallaroo hats, designer purses, Onesole Shoes and dozens of fashion forward items arriving weekly. We'll  make you a star in our Hollywood style salon and make-up studio. You'll love our Raquel Welch wigs to transform you in minutes for work, a night on the town or that special vacation.  Change your look…. change your life with a personal colour palette designed just for you. No matter your age, your size or your style preference….. we'll make you look HOT!
-
-We're open Mon.- Fri. 9am to 6pm and Sat. 9am to 3pm.  We'd love to host your group, large or small, for a wine and cheese event or a Coffee and Jazz tasting. We do 30 fashion shows a year for fundraisers or entertaining ladies programs at conventions, teas or meetings  at the venue of our choice. We'll treat you to facials, footcials and make-up sessions for a mixer your group won't forget!!!!
+We're open Mon.-Fri. 10am to 6pm and Sat. 10am to 3pm. We'd love to host your group, large or small, for a wine and cheese ladies shopping event at our store while enjoying music played on our Grand Piano by visiting musicians from around the country\!&nbsp; We do 30 fashion shows a year as fundraisers or entertaining ladies programs at conventions, teas or meetings at the venue of your choice. We believe&nbsp; Life's too short to wear boring clothes\!. It's about having class....about having sass....about having FLAIR\!
