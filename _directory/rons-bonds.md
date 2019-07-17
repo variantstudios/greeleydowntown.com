@@ -20,3 +20,6 @@ Contact_Email: ron@ronsbonds.us
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
+Bail Bond Experts
+
+<br>When you need discreet, fast help with bail bonds in the Greeley, CO, area. No matter what you need a bail bondsman for, we’re here to help - not to judge. We’ll help you with kindness and professionalism, regardless of what you were arrested for, who you are, or what situation you are in.
