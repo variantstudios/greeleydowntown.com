@@ -13,7 +13,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone:
-Website: 'https://www.facebook.com/Armando-Silva-166339993422342/?fref=ts'
+Website: 'http://www.artmandosilva.com/'
 Contact_Name: Armando Silva
 Contact_Email: artmandosilva@yahoo.com
 Logo_image_path: /assets/images/directory/artmando.png
