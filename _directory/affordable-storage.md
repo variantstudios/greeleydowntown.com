@@ -12,10 +12,10 @@ Street: 606 12th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 381-3664
+Phone: (720) 606-1520
 Website:
-Contact_Name:
-Contact_Email:
+Contact_Name: Andy Sigg
+Contact_Email: affordablestorage606@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
