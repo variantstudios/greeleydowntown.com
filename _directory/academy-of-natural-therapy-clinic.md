@@ -9,11 +9,11 @@ retail_categories:
 service_categories:
   - educational
   - salons-and-spas
-Street: 625 8th Avenue
+Street: 631 8th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 352-1181
+Phone: (970) 353-1047
 Fax:
 Website: 'http://www.natural-therapy.com'
 Contact_Name: James Mongan
