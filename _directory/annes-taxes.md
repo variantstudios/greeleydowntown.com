@@ -15,7 +15,7 @@ Zip: '80631'
 Phone: (970) 353-8452
 Fax:
 Website:
-Contact_Name:
+Contact_Name: Anne M. Peif
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
