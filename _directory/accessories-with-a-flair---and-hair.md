@@ -10,7 +10,7 @@ retail_categories:
   - jewelry
 service_categories:
   - salons-and-spas
-Street: '801 8th Avenue #4'
+Street: '801 8th Avenue, Suite #4'
 City: Greeley
 State: Colorado
 Zip: '80631'
