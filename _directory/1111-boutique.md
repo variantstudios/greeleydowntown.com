@@ -14,8 +14,8 @@ State: Colorado
 Zip: '80631'
 Phone: (970) 352-2957
 Website: 'https://www.facebook.com/Eleven11BoutiqueCo/'
-Contact_Name:
-Contact_Email:
+Contact_Name: German Hernandez
+Contact_Email: germhernandez89@gmail.com
 Logo_image_path: /assets/11 11 Boutique.jpg
 ---
 
