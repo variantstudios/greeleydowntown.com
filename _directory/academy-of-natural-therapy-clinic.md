@@ -7,7 +7,6 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-  - educational
   - salons-and-spas
 Street: 631 8th Avenue
 City: Greeley
