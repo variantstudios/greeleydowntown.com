@@ -15,9 +15,8 @@ Zip: '80631'
 Phone: (970) 673-8177
 Fax:
 Website:
-Contact_Name:
-Contact_Email: 
+Contact_Name: Nora Molina
+Contact_Email: alrashed.auto.sales@hotmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
