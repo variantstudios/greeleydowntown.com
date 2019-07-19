@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Affordable Storage
+Business: Affordable Storage 606
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
@@ -19,3 +19,4 @@ Contact_Email: affordablestorage606@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
+Self Storage and Rv, Boat Storage
