@@ -6,7 +6,7 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 673-8853
-Website: 'http://www.greeleychophouse.com/'
+Website: 'http://www.greeleychop.com/'
 dining_categories:
   - american
   - fine-dining
