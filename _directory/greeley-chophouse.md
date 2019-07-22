@@ -16,7 +16,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
 Contact_Name: Aaron Wooten
-Contact_Email:
+Contact_Email: aaron@elevatedeateries.com
 Logo_image_path: /assets/greeley-chophouse.png
 ---
 
