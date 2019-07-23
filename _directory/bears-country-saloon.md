@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Bear Country Saloon
+Business: Bears Country Saloon
 Street: 813 9th Street
 City: Greeley
 State: Colorado
