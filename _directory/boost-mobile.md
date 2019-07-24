@@ -15,8 +15,7 @@ retail_categories:
   - cell-phones
 service_categories:
 Contact_Name: Esmaralda Tenu
-Contact_Email:
+Contact_Email: bmbypu@gmail.com
 Logo_image_path: /assets/images/directory/boostmobile.png
 ---
-
 
