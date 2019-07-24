@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Chipotle Mexican Grill
-Street: 807 17th StreetSuite A
+Street: '807 17th Street, Suite A'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -19,5 +19,4 @@ Contact_Name: Jessica Soltis
 Contact_Email:
 Logo_image_path: /assets/images/directory/chipotle.png
 ---
-
 
