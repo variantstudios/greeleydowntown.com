@@ -16,6 +16,6 @@ service_categories:
   - health
 Contact_Name: Jessica Flores
 Contact_Email: jesflores@geogroup.com
-Logo_image_path: /assets/images/directory/behavioralintervention.png
+Logo_image_path: /assets/images/directory/GEO-Logo-Shadow.png
 ---
 
