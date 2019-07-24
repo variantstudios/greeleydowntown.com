@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Bear Necessities
-Street: 1628 8th Avenue
+Street: 1506 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -15,8 +15,7 @@ retail_categories:
   - liquor-and-smoke-shops
 service_categories:
 Contact_Name: Andrew Ponacasa
-Contact_Email:
+Contact_Email: order.gnh@gmail.com
 Logo_image_path: /assets/images/directory/bearnecessities.png
 ---
-
 
