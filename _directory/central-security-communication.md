@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - security
-Contact_Name:
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Name: Natalie Millikin
+Contact_Email: nmillikin@centralsecurity.com
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
