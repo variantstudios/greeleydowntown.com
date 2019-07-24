@@ -1,7 +1,7 @@
 ---
 live_directory: false
-Business: Behavioral Intervention (BI)
-Street: 810 9th StreetSte 100
+Business: Geo Reentry Services
+Street: '810 9th Street, Ste 100'
 City: Greeley
 State: Colorado
 Zip: '80631'
@@ -14,8 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - health
-Contact_Name: Diana Campbell
-Contact_Email: dianacampbell@bi.com
+Contact_Name: Jessica Flores
+Contact_Email: jesflores@geogroup.com
 Logo_image_path: /assets/images/directory/behavioralintervention.png
 ---
 
