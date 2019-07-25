@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
   - legal
 Contact_Name: Maria Liu
-Contact_Email: maria@cotriallaw.com
+Contact_Email: maria@nocolaw.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
