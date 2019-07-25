@@ -15,8 +15,7 @@ retail_categories:
 service_categories:
   - insurance
 Contact_Name: Chris Lucio
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Email: chrislucio@allstate.com
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
