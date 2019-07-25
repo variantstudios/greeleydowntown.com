@@ -15,8 +15,7 @@ retail_categories:
 service_categories:
   - moving-and-storage
 Contact_Name: Chuck Kinsey
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Email: chocolatecti@hotmail.com
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
