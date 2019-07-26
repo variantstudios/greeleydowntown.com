@@ -15,9 +15,8 @@ retail_categories:
 service_categories:
   - mail-and-print
 Contact_Name: Kathy Sutton
-Contact_Email: info@citpen.com
+Contact_Email: contact@citdirectmail.com
 Logo_image_path: /assets/images/directory/cit.png
 ---
 
-
-Come check out Consider It There for your Design, Printing & Mailing needs. Our mailing services are 2 fold- for your advertising needs with direct mail and also packaging and shipping with FedEx and the USPS. We are a quick stop for your color & black & white copies and printing needs. If you need design work for a NEW logo or a business card, flyer, or brochure, we can help you out! We would love to meet you! See you soon -Kathy, Gary and Howie (our shop cat!)
+Come check out Consider It There for your Design, Printing & Mailing needs. Our mailing services are 2 fold- for your advertising needs with direct mail and also packaging and shipping with FedEx and the USPS. We are a quick stop for your color & black & white copies and printing needs. If you need design work for a NEW logo or a business card, flyer, or brochure, we can help you out\! We would love to meet you\! See you soon -Kathy, Gary and Howie (our shop cat\!)
