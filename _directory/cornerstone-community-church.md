@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
   - churches-and-religious-organizations
 Contact_Name: Lois Morris
-Contact_Email: communications@csgreeley.org
+Contact_Email: cba@csgreeley.org
 Logo_image_path: /assets/images/directory/cornerstone.png
 ---
 
