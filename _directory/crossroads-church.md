@@ -5,7 +5,7 @@ Street: 1091 10th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 352-5931
+Phone: (970) 673-7033
 Website: 'http://www.crossroadsgreeley.com/'
 dining_categories:
 entertainment_and_recreation_categories:
@@ -15,8 +15,7 @@ retail_categories:
 service_categories:
   - churches-and-religious-organizations
 Contact_Name: Reid Olson
-Contact_Email:
+Contact_Email: crossroadsgre@gmail.com
 Logo_image_path: /assets/images/directory/crossroads.png
 ---
-
 
