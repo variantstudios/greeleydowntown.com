@@ -21,4 +21,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, July 19th, 2019 for our next monthly meeting. The meeting will be held at Syntax Spirits Distillery located at 700 6th Street.
+Please join us at 8am on Friday, August 16th, 2019 for our next monthly meeting. The meeting will be held at United Way of Weld County located at 814 9th Street.
