@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - health
-Contact_Name:
+Contact_Name: David Schweers
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
