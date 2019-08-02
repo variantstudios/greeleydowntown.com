@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Munson's Automotive LLC.
+Business: Munson's Automotive LLC
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
