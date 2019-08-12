@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Distortions Unlimited
-Street: 571 13th Street
+Street: 517 13th Street
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -18,5 +18,4 @@ Contact_Name: Marsha Taub-Edmunds
 Contact_Email: distortionsunltd@aol.com
 Logo_image_path: /assets/images/directory/distortions.png
 ---
-
 
