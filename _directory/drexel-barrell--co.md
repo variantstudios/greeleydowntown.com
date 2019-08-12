@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: 'Drexel Barrell & Co.'
+Business: Drexel Barrell & Co.
 Street: '710 11th Avenue, Ste. L-45'
 City: Greeley
 State: Colorado
@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - construction-and-home-improvement
-Contact_Name:
-Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Name: Cameron Knapp
+Contact_Email: cknapp@drexelbarrell.com
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
