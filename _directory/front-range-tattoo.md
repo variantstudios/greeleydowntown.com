@@ -12,7 +12,7 @@ Street: 925 16th Street
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 371-0423
+Phone: (970) 352-5516
 Website: 'https://www.facebook.com/Front-Range-Tattoo-172420679765908/'
 Contact_Name: Jason Mannon
 Contact_Email: frontrangetattoo@gmail.com
