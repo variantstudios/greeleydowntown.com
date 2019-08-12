@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: "Doug's Hang Up"
+Business: Doug's Hang Up
 Street: 818 9th Street
 City: Greeley
 State: Colorado
@@ -19,5 +19,4 @@ Contact_Email: doug@dougshangup.com
 Logo_image_path: /assets/images/directory/dougshangup.png
 ---
 
-
-We specialize in Distinctive Custom Framing. We are known throughout Colorado for our top-notch, unique, and high quality custom frame jobs of any size or dimension. We also host and sell high quality art, jewelry, pottery, sculpture, and more! We represent the best in art showcase and craftsmanship in Northern Colorado.
+We specialize in Distinctive Custom Framing. We are known throughout Colorado for our top-notch, unique, and high quality custom frame jobs of any size or dimension. We also host and sell high quality art, jewelry, pottery, sculpture, and more\! We represent the best in art showcase and craftsmanship in Northern Colorado.
