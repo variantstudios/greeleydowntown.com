@@ -12,10 +12,10 @@ Street: '824 9th Street, Suite A'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 350-0662
+Phone: (970) 3451-5128
 Website: 'https://www.facebook.com/SchaeferEnterprisesInc/'
-Contact_Name: Monique
-Contact_Email: monique.schaeferenterprises@gmail.com
+Contact_Name: Valerie Randall
+Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
