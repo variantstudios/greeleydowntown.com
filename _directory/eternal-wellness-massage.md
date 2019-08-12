@@ -5,7 +5,7 @@ Street: 815 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 534-5444
+Phone: (970) 239-1544
 Website: 'https://www.facebook.com/EternalWellnessMassage'
 dining_categories:
 entertainment_and_recreation_categories:
@@ -16,7 +16,6 @@ service_categories:
   - health
 Contact_Name: Lisa Yengst
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
