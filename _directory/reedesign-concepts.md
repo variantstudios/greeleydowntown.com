@@ -20,4 +20,4 @@ Contact_Email: jhenna@reedesignconcepts.com
 Logo_image_path: /assets/images/directory/reedesign.png
 ---
 
-
+Full Service Design shop. Offers Design, signs, banners, vehicle graphics, vehicle wraps, screen printing, direct to garment printing, embroidery, print products, promotional products and so much more\!\!
