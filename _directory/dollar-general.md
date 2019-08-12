@@ -5,7 +5,7 @@ Street: 1412 8th Avenue
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 353-2658
+Phone: (970) 515-3509
 Website: 'http://www.dollargeneral.com'
 dining_categories:
 entertainment_and_recreation_categories:
@@ -18,5 +18,4 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/dollargeneral.png
 ---
-
 
