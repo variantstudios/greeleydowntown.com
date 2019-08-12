@@ -14,9 +14,9 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - non-profit
-Contact_Name: Gail Shatz
-Contact_Email: gail@partnersmentoringyouth.org
+Contact_Name: Brandon Lagunas
+Contact_Email: brandonl@partnersmentoringyouth.org
 Logo_image_path: /assets/images/directory/partnersmentoringyouth.png
 ---
 
-
+Our mission is to create and support one-to-one mentoring relationships between positive adult role models and youth facing challenges in their personal, social, and academic lives.
