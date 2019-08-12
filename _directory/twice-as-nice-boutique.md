@@ -8,14 +8,14 @@ nightlife_categories:
 retail_categories:
   - apparel-and-shoes
 service_categories:
-Street: 824 9th Street
+Street: '824 9th Street, Suite A'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone:
+Phone: (970) 350-0662
 Website: 'https://www.facebook.com/SchaeferEnterprisesInc/'
-Contact_Name:
-Contact_Email:
+Contact_Name: Monique
+Contact_Email: monique.schaeferenterprises@gmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
