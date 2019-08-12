@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - non-profit
-Contact_Name:
-Contact_Email:
+Contact_Name: Renee Schell
+Contact_Email: renee.schell@northrange.org
 Logo_image_path: /assets/images/directory/frontierhouse.png
 ---
-
 
