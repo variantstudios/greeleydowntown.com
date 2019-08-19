@@ -12,6 +12,7 @@ permalink: /supporters-and-sponsors/
 * [First Church of Christ, Scientist](https://christiansciencecolorado.org/churches/first-church-of-christ-scientist-greeley/){: target="_blank"}
 * [Flood and Peterson Insurance](https://floodpeterson.com/){: target="_blank"}
 * [Great Northern Properties, LLLP](http://wheelermgt.com/){: target="_blank"}
+* [Hensel Phelps Construction Co.](https://www.henselphelps.com/){: target="_blank"}
 * [Northern Engineering](http://northernengineering.com/){: target="_blank"}
 * Phelps-Tointon
 * [Thomas & Tyler](http://www.thomasandtyler.com/)
@@ -49,7 +50,7 @@ permalink: /supporters-and-sponsors/
 ### Oktobrewfest
 
 * [Academy of Natural Therapy](https://www.natural-therapy.com/){: target="_blank"}
-* [Accessories With A Flair\!...and Hair](https://accessorieswithaflairandhair.com/){: target="_blank"}
+* [Accessories With A Flair\!…and Hair](https://accessorieswithaflairandhair.com/){: target="_blank"}
 * [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
 * [Bank of Colorado](https://www.bankofcolorado.com/){: target="_blank"}
 * [City of Greeley](https://greeleygov.com/){: target="_blank"}
