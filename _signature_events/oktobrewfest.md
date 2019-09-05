@@ -20,4 +20,4 @@ Tickets for the 7th Annual VIP Beer Tasting will go on sale at the beginning of 
 
 # **A HUGE thanks to our awesome 2019 sponsors\! We couldn’t do it without you\!**
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/assets/okt2019-sponsor-logos---for-website.jpg){: width="1650" height="1275"}
