@@ -18,6 +18,6 @@ Tickets for the 7th Annual VIP Beer Tasting will go on sale at the beginning of 
 
 [We are seeking sponsors for 2019\!&nbsp;](https://www.facebook.com/GreeleyOktobrewfest/videos/2557263350958935/)
 
-# **A HUGE thanks to our awesome 2018 sponsors\! We couldn’t do it without you\!**
+# **A HUGE thanks to our awesome 2019 sponsors\! We couldn’t do it without you\!**
 
-![](/assets/okt2018-sponsors--for-website.pub)![](/assets/okt2018-sponsors--for-website-2.jpg)
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}
