@@ -4,8 +4,8 @@ description: >-
   Greeley’s OktoBREWfest 2019 will be September 27th & 28th at historic Lincoln
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /uploads/Okt 2019 Logo.jpg
-header_image_path: 'https://unsplash.it/1400/200/?random'
-weight_number: 1
+header_image_path:
+weight_number: 6
 ---
 
 ![](/uploads/Okt 2019 Logo.jpg)
@@ -16,8 +16,6 @@ Then prepare for a full day of fun on **Saturday, September 28th from 11AM-9PM**
 
 Tickets for the 7th Annual VIP Beer Tasting will go on sale at the beginning of September. We will post the links to get your tickets and to volunteer to help with the event (WE NEED LOTS OF VOLUNTEERS) when they are available.&nbsp;
 
-[We are seeking sponsors for 2019\!&nbsp;](https://www.facebook.com/GreeleyOktobrewfest/videos/2557263350958935/)
+## **A HUGE thanks to our awesome 2019 sponsors\! We couldn’t do it without you\!**
 
-# **A HUGE thanks to our awesome 2019 sponsors\! We couldn’t do it without you\!**
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/assets/okt2019-sponsor-logos---for-website.jpg){: width="1650" height="1275"}
+![](/assets/okt2019-sponsor-logos---for-website-1.jpg){: width="1650" height="1275"}
