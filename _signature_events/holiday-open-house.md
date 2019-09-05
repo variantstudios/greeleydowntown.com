@@ -6,7 +6,7 @@ description: >-
   at 5:30pm, and the Lincoln Park Lighting Ceremony!
 image_path: /assets/images/FB Cover.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
-weight_number: 8
+weight_number: 2
 ---
 
 ### 2019 Holiday Open House, Small Business Saturday, Greeley Lights The Night Parade and Park Lighting Ceremony will be Saturday, November 30th, 2019
@@ -25,7 +25,7 @@ Open 9am-7pm
 
 Coloring sheets for the kids, cookies and massage coupons
 
-**Accessories with a Flair!…and Hair**
+**Accessories with a Flair\!…and Hair**
 
 801 8th Avenue, Ste. 4
 
@@ -85,13 +85,13 @@ Santa photo op, crafts, Polar Express model train
 
 823 10th Street
 
-Open 7am-10pm 
+Open 7am-10pm&nbsp;
 
 **Doug’s Diner**
 
 801 9th Street
 
-Open 7am-3pm 
+Open 7am-3pm&nbsp;
 
 **Free Leaf**
 
@@ -145,7 +145,7 @@ Penguin & Cardinal crafts and Open mic from 2-4pm with holiday songs
 
 806 9th Street
 
-Open 11am-Close 
+Open 11am-Close&nbsp;
 
 **Mariposa Plants, Flowers & Gifts**
 
@@ -161,13 +161,13 @@ Christmas Craft Corner
 
 Open 11am-8pm
 
-Cookie Decorating Station  and a chance to winner Dinner for 2
+Cookie Decorating Station&nbsp; and a chance to winner Dinner for 2
 
 **Right Coast Pizza**
 
 811 8th Street
 
-Open 10:30am-10pm 
+Open 10:30am-10pm&nbsp;
 
 **Rio Grande Mexican Restaurant**
 
@@ -197,7 +197,7 @@ Holiday coloring book
 
 1109 7th Street
 
-Open 10am-5pm 
+Open 10am-5pm&nbsp;
 
 **The Kress Cinema & Lounge**
 
