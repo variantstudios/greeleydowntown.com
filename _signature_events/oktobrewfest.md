@@ -5,7 +5,7 @@ description: >-
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /uploads/Okt 2019 Logo.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
-weight_number: 6
+weight_number: 1
 ---
 
 ![](/uploads/Okt 2019 Logo.jpg)
