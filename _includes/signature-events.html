@@ -1,4 +1,4 @@
-{% assign items = site.signature_events | sort: 'weight' %}
+{% assign items = site.signature_events | sort: 'weight_number' %}
 {% for post in items %}
   <article class="post">
     <h2><a href="{{post.url}}">{{post.title}}</a></h2>
