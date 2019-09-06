@@ -72,7 +72,6 @@ permalink: /supporters-and-sponsors/
 * [Green Earth Brewing Company](https://greenearthbrewingco.com/){: target="_blank"}
 * [Grimm Brothers Brewhouse](http://grimmbrosbrewhouse.com/){: target="_blank"}
 * [Health By Design Chiropractic](https://www.facebook.com/healthbydesignchiro/)
-* [High Country Beverage](https://highcountrybeverage.com/agegate/){: target="_blank"}
 * [High Hops Brewery](https://highhopsbrewery.com/){: target="_blank"}
 * [iHeart Radio](https://www.iheart.com/){: target="_blank"}[&nbsp;](iHeart Radio)
 * [Independent Bank](https://www.independent-bank.com/){: target="_blank"}
