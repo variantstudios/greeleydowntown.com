@@ -23,8 +23,8 @@ permalink: /supporters-and-sponsors/
 
 ### Blarney on the Block
 
-* [First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}
-* [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
+* [A](http://www.allpurposerental.com/){: target="_blank"}[ll Purpose Rental](https://www.allpurposerental.net/)
+* [First National Bank](https://www.fnbo.com/)
 * [Greeley Tribune](https://www.greeleytribune.com/)
 * [iHeart M](https://www.iheart.com/)[edia](__notset__)
 * [The Women's Clinic of Northern Colorado](https://womensclinicnoco.com/)
