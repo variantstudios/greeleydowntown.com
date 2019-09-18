@@ -25,7 +25,11 @@ permalink: /supporters-and-sponsors/
 
 * [First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}
 * [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
-* [Bank of Colorado](https://www.bankofcolorado.com/){: target="_blank"}
+* [Greeley Tribune](https://www.greeleytribune.com/)
+* [iHeart M](https://www.iheart.com/)[edia](__notset__)
+* [The Women's Clinic of Northern Colorado](https://womensclinicnoco.com/)
+* [Smile Doctors](https://orthodontist.smiledoctors.com/)
+* [West Ridge Animal Hospital](http://wrah.net/)
 
 ### Friday Fest
 
@@ -43,7 +47,7 @@ permalink: /supporters-and-sponsors/
 * [Greeley Stampede](https://www.greeleystampede.org/)
 * [Greeley Tribune](https://www.greeleytribune.com/){: target="_blank"}
 * [High Country Beverage](http://highcountrybeverage.com/agegate/){: target="_blank"}
-* [iHeart Radio](https://www.iheart.com/){: target="_blank"}
+* [iHeart M](https://www.iheart.com/){: target="_blank"}[edia](https://www.iheart.com/)
 * [Monster Day Greeley](http://monsterdaygreeley.com/)
 * [Noble Energy](https://www.nblenergy.com/)
 * [RE/MAX Infinity](https://www.remax.com/realestateofficerealtor/johnstown-co-80534-remaxinfinity-id60110251.html){: target="_blank"}
@@ -79,7 +83,7 @@ permalink: /supporters-and-sponsors/
 * [Grimm Brothers Brewhouse](http://grimmbrosbrewhouse.com/){: target="_blank"}
 * [Health By Design Chiropractic](https://www.facebook.com/healthbydesignchiro/)
 * [High Hops Brewery](https://highhopsbrewery.com/){: target="_blank"}
-* [iHeart Radio](https://www.iheart.com/){: target="_blank"}[&nbsp;](iHeart Radio)
+* [iHeart&nbsp;](https://www.iheart.com/){: target="_blank"}[Media](https://www.iheart.com/)
 * [Independent Bank](https://www.independent-bank.com/){: target="_blank"}
 * [Lincoln Park Emporium](https://lincolnparkemporium.com/){: target="_blank"}
 * [Lonesome Buck Brewing Co.](https://www.lonesomebuck.com/){: target="_blank"}
