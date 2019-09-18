@@ -31,6 +31,7 @@ permalink: /supporters-and-sponsors/
 
 * [Aims Community College](https://www.aims.edu/){: target="_blank"}
 * [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
+* [Arts Picnic](https://greeleybluesjam.org/)
 * [Bank of Colorado](https://www.bankofcolorado.com/){: target="_blank"}
 * [Cargill](https://www.cargill.com/home){: target="_blank"}
 * [City of Greeley](greeleygov.com){: target="_blank"}
@@ -38,9 +39,13 @@ permalink: /supporters-and-sponsors/
 * [First National Bank](https://www.1stnationalbank.com/site/personal/){: target="_blank"}
 * [George T Sanders Co.](https://www.gtsanders.com/){: target="_blank"}
 * [Greeley Area Chamber of Commerce](https://greeleychamber.com/){: target="_blank"}
+* [Greeley Blues Jam](https://greeleybluesjam.org/)
+* [Greeley Stampede](https://www.greeleystampede.org/)
 * [Greeley Tribune](https://www.greeleytribune.com/){: target="_blank"}
 * [High Country Beverage](http://highcountrybeverage.com/agegate/){: target="_blank"}
 * [iHeart Radio](https://www.iheart.com/){: target="_blank"}
+* [Monster Day Greeley](http://monsterdaygreeley.com/)
+* [Noble Energy](https://www.nblenergy.com/)
 * [RE/MAX Infinity](https://www.remax.com/realestateofficerealtor/johnstown-co-80534-remaxinfinity-id60110251.html){: target="_blank"}
 * [Renewal By Andersen](https://www.renewalbyandersen.com/){: target="_blank"}
 * [Sears Real Estate](http://www.searsrealestate.com/){: target="_blank"}
