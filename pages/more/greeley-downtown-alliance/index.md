@@ -27,4 +27,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, September 20th, 2019 for our next monthly meeting. The meeting will be held at ZOVA Marketing located in the Macy Jones Collective at 922 8th Avenue.
+Please join us at 8am on Friday, October 18th, 2019 for our next monthly meeting. The meeting will be held at Brix Brewery & Taphouse located&nbsp; at 813 8th Street.
