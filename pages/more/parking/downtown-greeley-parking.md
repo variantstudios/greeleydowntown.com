@@ -7,8 +7,6 @@ sub-nav: more
 permalink: /parking-map/
 ---
 
-**Parking Improvements are Here\!**
-
 The City of Greeley offers more than 2,000 free two-hour parking spots to all downtown visitors — and all downtown parking is free after 5 pm on weekdays, and all day on weekends and City holidays.
 
 Parking is enforced from 7 am-5 pm on weekdays in permit areas, traditional two-hour parking zones, and the Orange Zone using license plate recognition software.
