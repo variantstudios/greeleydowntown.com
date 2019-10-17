@@ -119,3 +119,8 @@ permalink: /supporters-and-sponsors/
 * [Wheeler Management](http://wheelermgt.com/)
 * [Wing Shack](https://wingshackwings.com/)
 * [Wm. Moore Jewelers](https://www.shopwmmoorejewelers.com/){: target="_blank"}&nbsp;
+
+### TRICK OR TREAT STREET
+
+* [Ameritech Construction](https://www.ameritechwindows.com/)
+* [Ehrlich Toyota](https://www.ehrlichtoyota.com/)
