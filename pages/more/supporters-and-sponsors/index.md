@@ -65,6 +65,7 @@ permalink: /supporters-and-sponsors/
 * [Aliquam Financial Services](http://aliquamfs.com/)
 * [All Purpose Rental](http://www.allpurposerental.com/){: target="_blank"}
 * [Apartments at Maddie](https://maddieapartments.com/){: target="_blank"}
+* [Auto Dent Pros](https://autodentpros.com/)
 * [Bank of Colorado](https://www.bankofcolorado.com/){: target="_blank"}
 * [Bandwagon](https://bandwagmag.com/){: target="_blank"}
 * [Black Bottle Brewery](https://blackbottlebrewery.com/){: target="_blank"}
@@ -99,6 +100,7 @@ permalink: /supporters-and-sponsors/
 * [Oskar Blues Brewery](https://www.oskarblues.com/){: target="_blank"}
 * [PDC Energy](http://www.pdce.com/){: target="_blank"}
 * [Pepsi](https://www.pepsi.com/en-us/){: target="_blank"}
+* [Planet Fitness](https://www.planetfitness.com/gyms/greeley-co)
 * [Points West Community Bank](https://pwcbank.com/colorado/){: target="_blank"}
 * [Prost Brewing Company](https://prostbrewing.com/){: target="_blank"}
 * [Renewal By Andersen](https://www.renewalbyandersen.com/){: target="_blank"}
@@ -123,4 +125,8 @@ permalink: /supporters-and-sponsors/
 ### TRICK OR TREAT STREET
 
 * [Ameritech Construction](https://www.ameritechwindows.com/)
+* [Auto Dent Pros](https://autodentpros.com/)
+* [Cellular Plus](http://cellularplus.com/contact/locations/colorado/greeley/)
 * [Ehrlich Toyota](https://www.ehrlichtoyota.com/)
+* [Greeley Tribune](https://www.greeleytribune.com/)
+* [NCMC, Inc.](https://ncmcfoundation.org/)
