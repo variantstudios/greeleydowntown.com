@@ -1,5 +1,7 @@
 ---
-title: Blarney on the Block & First National Bank Blarney Parade
+title: >-
+  Blarney on the Block & First National Bank Blarney Parade Saturday March 14th,
+  2020
 description: >-
   Enjoy a St. Patrick's Day celebration with "small-town" family -friendly fun
   on the Saturday on or before St. Patrick's Day! The event starts at 2 pm with
