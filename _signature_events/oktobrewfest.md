@@ -1,7 +1,7 @@
 ---
-title: OktoBREWfest 2019
+title: OktoBREWfest 2020
 description: >-
-  Greeley’s OktoBREWfest 2019 will be September 27th & 28th at historic Lincoln
+  Greeley’s OktoBREWfest 2020 will be September 18th & 19th at historic Lincoln
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /uploads/Save the Date Header.jpg
 header_image_path:
