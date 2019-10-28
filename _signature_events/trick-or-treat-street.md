@@ -5,7 +5,7 @@ description: >-
   Greeley Friday, October 25th, 2019 from 4 to 6pm. Dozens of downtown
   businesses in and around the core downtown area will have treats for the
   little ones.
-image_path: /assets/images/signature-events/Sponsors needed 2019.jpg
+image_path: /2019 Trick-or-Treat Street Map.jpg
 header_image_path: 'https://unsplash.it/1400/200/?random'
 weight_number: 7
 ---
