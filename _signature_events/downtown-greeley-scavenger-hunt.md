@@ -1,5 +1,5 @@
 ---
-title: Downtown Greeley Scavenger Hunt
+title: Downtown Greeley Scavenger Hunt - Any time you want!
 description: >-
   Enjoy a Downtown Greeley Scavenger Hunt ANYTIME. It is fun to do with family,
   friends, co-workers. You can choose different roles for the people in your
