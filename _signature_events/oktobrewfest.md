@@ -5,7 +5,7 @@ description: >-
   Park in Downtown Greeley at 8th Street & 9th Avenue.
 image_path: /uploads/Save the Date Header.jpg
 header_image_path:
-weight_number: 1
+weight_number: 6
 ---
 
 A big&nbsp;**danke schön** to all who came out to make 2019 a successful fundraiser for the DDA - ESPECIALLY to those who braved the rain Friday night. Photos are posted [HERE.](https://www.facebook.com/pg/GreeleyOktobrewfest/photos/?tab=album&amp;album_id=1699677450169149){: target="_blank"}&nbsp;
