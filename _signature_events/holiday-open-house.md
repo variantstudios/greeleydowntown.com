@@ -1,5 +1,5 @@
 ---
-title: Holiday Open House
+title: Holiday Open House & Shop Small Business Saturday - November 30th 2019
 description: >-
   Shop during the Holiday Open House, enjoy the Holiday Spirit with activities
   and specials, dine Downtown and stay for the Greeley Lights the Night Parade
