@@ -1,5 +1,5 @@
 ---
-title: Trick or Treat Street 2019 Sponsors Needed
+title: Trick or Treat Street 2019
 description: >-
   Bring all your little goblins, ghouls, pirates and princesses to downtown
   Greeley Friday, October 25th, 2019 from 4 to 6pm. Dozens of downtown
