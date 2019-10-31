@@ -10,90 +10,99 @@ header_image_path:
 weight_number: 4
 ---
 
-**First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on Friday, October 4, 2019 for our next First Friday.**
+**First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on Friday, November 1st, 2019 for our next First Friday.**
 
 *Participating locations:*
-
-### Academy of Natural Therapy
-
-625 8th Avenue
-
-The Academy of Natural Therapy will celebrate the Art and Creativity of the Envision Community by hosting their wonderful artwork. Be sure to stop by and experience the art and celebrate diversity. They will also be offering Free Chair Massages\! To be a featured artist at the Academy of Natural Therapy, contact Donna Goodsell at [dmgoodsell@gmail.com](mailto:dmgoodsell@gmail.com).
 
 ### Atlas Gallery and John Galt Coffee
 
 709 16th Street
 
-The Atlas Gallery will feature “Passages” and the artwork of Lina Sanchez.
+The Atlas Gallery and John Galt Coffee will feature the show “Nature’s Playground” from SR Photography. SR Photography is owned/operated by Shane Ramsey of Evans, CO. Shane has been drawn to nature since he was a young boy from the western mountains of Montana. Today he escapes into nature as often as he can, always in search of the perfect picture.&nbsp;
 
 ### Brix Brewery & Taphouse
 
 813 8th Street
 
-Brix Brewery & Taphouse will feature a memorable blues set from 50 Shades of Blue from 8-10pm. This dynamic trio features Christine Webb on Bass and vocals, Dan “Mojoman” Crecco on drums and Dr. Jim Seely on guitar. All three are former winners of the Mile High Blues Society International Blues Challenge. They play an eclectic mix of blues, funk, soul and R&B with a little Cajun spice throw in.
+Brix Brewery & Taphouse will feature the music of Gii Astorga from 7-9pm. It's always a fun night of music with one of our hometown favorites, don't miss out.
 
-### Doug's Hang Up
+### Lincoln Park Library
 
-818 9th Street
+1012 11th Street
 
-Talented artists are creating art from reclaimed materials for the Assistance League of Greeley’s Reclaimed Art Auction and Film Festival on October 19th at the Kress Cinema & Loung. Attend a 5pm or 8pm movie, enjoy appetizers and a drink. The silent auction will start at 4:30 and continue until 7:30 pm. **On Friday, October 4th** they invite everyone to attend a free reception and art exhibition at Doug's Hang Up. See all the creative artwork made specially for the RAAFF event\! Bidding will begin and you may vote for your favorite piece. Art will be on display at Doug's through October 18th. All proceeds go to support Assistance League's philanthropic programs that improve the quality of life in our community.
+The Lincoln Park Library will feature a Creative Exhibit featuring the artwork of Lisa Downs and Barb McElroy from Friday, November 1st-Saturday, November 30th. They describe their exhibit as "The discovery of our mutual passion for creativity, beauty and healing led us to combine our talents. (We are neighbors and friends).&nbsp; Our desire has been to reflect our experiences with trauma and healing through our photography and artwork. Our passions have provided an outlet for expressing our own journeys in life. Our hope is that our compassion for the well-being of your mental health will provide you with a positive perspective for your own or loved ones healing."&nbsp;
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-The Madison and Main Gallery will host a First Friday Artist Demonstration, “Let’s Talk Flat Tire” on October 4th from 5:30-7pm. Bicycle Art Show 2019 is their 6th such show, bringing Bicycle Art to the community. This show runs through October 25th and features guest artists and gallery members and their bicycle inspired creations. The slate of guest artists are James Bethea, John Blake, Felisha Brower, Stephanie Burchett, Kelly Cook, Betony Coons, Ambrette Gilkey, Katheryn Hill, Colette Pitcher, Brittany Schmidt, Ally Soto, Chuck Turner. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com).
+Art … the ultimate gift. "Lights of Winter," Madison & Main Gallery's 32nd annual holiday show will feature original art, unique gifts, and one-of-a-kind ornaments. This show includes pieces designed to make the holidays merry. The pieces include functional and decorative pottery, oil paintings, watercolors, acrylics, a variety of handmade jewelry, hand-dyed scarves, and many other new works of art. Twelve guest artists have been invited to join the member artists for this fabulous show that runs from October 28 through December 27. The members of the gallery invite you to join them for this show. Come and meet the artists during the public opening reception planned for First Friday on November 1st from 5-8pm. The slate of guest artists includes: Kathi Dougherty, Roxanne Ellis, Sally Niemann, Lori Ozzello, Sally Rawlings, Dave & Georgia Rowswell, Nancee Sebenaler, Darlene Stephenson, Heather Stone, Candace Wilson, Beth Wood. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com).
 
-### Millennium Event Center
+### The Bean Plant Studio
 
-815 10th Street
+701 7th Street
 
-The 2019 National Art Exhibit and Sale will be held at the Millennium Event Center Thursday, October 3rd-Sunday, October 6th. The National Greeley Art Exhibition (NGAE), a volunteer, 501(c)(3) not-for-profit corporation, sponsors this 4-day national juried show representing world class artists from across the country. The sale of art and donations from friends and businesses provides awards to outstanding artists in the show, scholarships to students pursuing careers in art, and fellowships to deserving artists who unselfishly share their talents and materials in volunteer activities in the community. This year’s show will be hosted at one of Downtown Greeley’s newest additions, the Millennium Event Center, and the dates have moved to coincide with Greeley’s “Artober” so that it can be part of that amazing local Celebration of Art\!
-
-\- The Opening Reception and Awards Ceremony on Thursday, October 3rd from 5-8pm is a fun evening that provides a great opportunity to be one of the first to view the art in person, mingle with guests and artists, and meet the highly acclaimed jurors.
-
-\- The Wine & Design Event on Friday, October 4th from 6-9pm invites the community to take their first&nbsp; &nbsp; peek at the Art with a fun opportunity to design their masquerade masks for the Gala the following evening.
-
-\- This year the NGAE has added a Gala to the 2019 National Greeley Art Exhibit and Sale, inviting the Community to join in celebrating Art\! Guests will be able to peruse the Art and mingle with the Artists on Saturday, October 5th from 6-9pm and the theme is a Masquerade Ball so make sure to bring your Masquerade Masks\!
-
-### Showcase Art Center
-
-1335 8th Avenue
-
-Collect an original small painting by a local artist for a miniature price. The October miniature show opening reception will be Friday from 5-7pm at the Showcase Art Center.
+The Bean Plant Studio will feature the Mixed Media Artwork of Colleen Murphy from 5-8pm.
 
 ### The Dragon’s Cache
 
 1109 7th Street
 
-The Dragon’s Cache will host “Photographic Images of Yosemite” featuring the photography of Chris Crews.
+Don DeNoncourt's art mediums are southwestern gold and silver jewelry, crafted flutes, drums, pencil drawings, artifacts, and beadwork. The Dragon’s Cache is excited to once again bring his wonderful craftsmanship to their gallery just in time for those unique gifts for that special someone. They will be showing and selling Don's art thru the month of November. Join them during First Friday for their opening reception. As usual they will have the wonderfully calming guitar of Bob Schneller and refreshments. Come meet the artist, listen to some the music and peruse the items they have available for sale.
+
+### Trinkets-n-Treasures
+
+1109 7th Street
+
+Jake of Junk Fools will be demonstrating fractured wood art from 5-7pm.&nbsp; This type of wood burning provides very unique patterns in wood and the process is mesmerizing.
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-Bret Bertholf, a Denver-based artist will present his exhibit “METAL: Recent Paintings by Bret Bertholf” at the Tointon Gallery from Friday, September 6th through Saturday, October 12th. “METAL” presents new work that reflects Bertholf’s study of Renaissance and Baroque European art, his embrace of American Surrealism and his interest in presenting and exorcising fear. A few special events are scheduled:
+#### **Through Saturday, November 2nd**
 
-**October 4**&nbsp;– Artist Talk and Reception – 5 to 7 p.m.
+The Tointon Gallery is featuring a Day of the Dead Exhibit and will host a closing celebration on Saturday, November 2nd from 5-7pm. Join them on Day of the Dead, November 2nd, for the last day of the exhibit which will feature FREE ACTIVITIES and LIGHT REFRESHMENTS.
 
-**October 11**&nbsp;– Closing Reception – 5 to 7 p.m.
+#### **Starting Friday, November 8th**
 
-Concerned with the ways in which society copes with everyday life, Bertholf presents images of darkness and skulls connected to hands in order to explore the society’s connection to death, the past and society’s beliefs. The artist intends to challenge the viewer in showing darkness on the canvas. The uncomfortableness a viewer may feel when looking at his body of work allows the viewer to face their fears head-on and truly consider the meaning of what our mind presents us in darkness. The Gallery is open Monday through Saturday 9am-5pm and during many of the performances at the Union Colony Civic Center. The Tointon Gallery presents over ten shows annually to provide enjoyment, education and to encourage dialogue around art. To learn more about Greeley’s public gallery, please visit&nbsp;[greeleyart.com](http://greeleyart.com/)&nbsp;or contact Kari Tamblyn at&nbsp;[kari.tamblyn@greeleygov.com](mailto:kari.tamblyn@greeleygov.com).
+#### &nbsp;
 
-### Union Colony Civic Center
+Twenty-eight K-12 art instructors from schools in Weld County will have the opportunity to have their artwork on display in the exhibit “Discovery – Art Educators Inspiring the Next Generation of Artists” at the Tointon Gallery. Ed Rogers, Chair of the Greeley Art Commission and retired Greeley art teacher, organized the exhibit. Rogers is passionate about art education, “the show is about the teachers who inspire all student artists,” says Rogers. In an effort to inspire the next generation of artists, this exhibit provides art teachers the opportunity to exhibit their artwork and highlight their artistic talents that oftentimes go unseen due to the prioritization and time constraints of being a teacher. Several of the art teachers in this exhibit are practicing professionals who juggle teaching with being an artist, where the energy needed to teach, produce art and pursue professional art opportunities is high. This exhibit allows the teachers to take a moment and focus on being a professional artist. The exhibit also allows teachers to demonstrate their artistic abilities to their students and young people alike. The ability to show students and young people that art can be a career path can be incredibly inspiring. The show begins with an opening reception and light refreshments on Friday, November 8 and runs through Saturday, November 30. The artists/art teachers in this exhibit include:
 
-701 10th Avenue
+High Schools and K-12 Schools in Weld County
 
-The Greeley Arts Legacy Honors Hall of Fame Induction Ceremony will be held at the Union Colony Civic Center from 6:30-8:30pm. The event will include a reception in the Two Rivers Lounge, followed by the induction ceremony in the Hensel-Phelps Theatre. The event is free and open to the public, but tickets must be secured through the UCCC Box Office ([ucstars.com](http://ucstars.com/?fbclid=IwAR0MQ6OCekKrJnKsicwftSD29sDW2eO_GaMJCrFKgfMAZ9V0UEa_RvO0fUw){: target="_blank"} or 970-356-5000). Seating in the HP Theatre is limited to 200. Hall of Fame Inductees are:
+* Janelle Charterina, Kevin Rohnke, Joni Wilson and Janet McGlaughlin at Greeley Central High School.
+* Travis Krause, Dawn Feiberg and Julie Hagemeister at Greeley West High School.
+* Charles Luna and Lauren Thurman at Frontier High School.
+* Gaylen Mcquown at Union Colony High School.
+* Jason Rydgren and Wendi Oster at Platte Valley High School.
+* Jeff Stone at Valley High School.
+* Rachel Weigel and Jerod Butler at University School.
 
-**The Greeley Philharmonic Orchestra (Music)**, is over 100 years old, and thought to be the oldest continuously operating orchestra west of the Mississippi River. The Orchestra leadership was also a powerful force behind the creation of the Union Colony Civic Center.
+Middle Schools and K-8 Schools in Weld County
 
-**Ruth Savig (Art)** was a beloved, outstanding, and multi-talented artist and teacher in this area for decades. She taught visual art at the University of Northern Colorado, as well as many classes around the City.
+* Karen Dyra and Joseph Archabald at Bella Romero Academy 4-8 Campus.
+* Jeff Stone at Valley Middle School.
+* Vickie Graber at Eaton Middle School.
+* Luke Herbert at Ft. Lupton Middle School.
+* Adrienne Wilson at Winograd K-8 School.
+* Alyson Myers, Jill Burczyk at Chappelow Middle School.
+* William Stults at Prairie Heights Middle School.
+* Jennifer Lindquist at Heath Middle School.
+* Felisha Brower at Salida Del Sol Academy.
 
-**Jil Rosentrater (Leadership)** a former member of the Greeley Area Chamber of Commerce, she created and designed such events as the Arts Picnic, Cinco de Mayo Festival, and the sister city exchange with Moriya, Japan. A major force in the construction of the Union Colony Civic Center, as well as Centennial Village and Plumb Farms museums.
+Elementary Schools in Weld County
 
-**Howard Skinner (Music)** is a musician, teacher, leader and administrator. A long time music professor at the University of Northern Colorado, Howard founded the Greeley Chorale, now over 50 years old, and was the face of the Greeley Philharmonic Orchestra for decades.
+* Julie Rivera at Shawsheen Elementary School.
+* Jessica Ruby at Pete Mirich Elementary School.
+* Veronica Markley at Jackson Elementary School.
+* Nicole Gilbert at Monfort Elementary School.
 
-**Bob Tointon (Benefactor)**, along with his wife Betty and the Tointon Foundation, has been a major philanthropist in our area for many years. The Tointon Art Gallery in the UCCC is one of many ways in which Bob turned his love of the arts into support for Greeley arts and artists.
+The Gallery is open Monday through Saturday 9am-5pm and during many of the performances at the Union Colony Civic Center. The Tointon Gallery presents over ten shows annually to provide enjoyment, education and to encourage dialogue around art. To learn more about Greeley’s public gallery, please visit&nbsp;[greeleyart.com](http://greeleyart.com/)&nbsp;or contact Kari Tamblyn at&nbsp;[kari.tamblyn@greeleygov.com](mailto:kari.tamblyn@greeleygov.com).
 
-**Helen Langworthy (Theater)**, affectionately known as “Lang,” has the honor of having the University’s main theater performance venue named for her. Helen was hired by the school’s President, George Frazier (whose name graces the building in which Langworthy Theatre is housed.
+### Unitarian Universalist Church of Greeley
+
+929 15th Street
+
+Will be hosting a Dia de Los Muertos Art Show from 6:30-8pm featuring student work from Chappelow Magnet School students. All are welcome to come. Artists will be on hand to discuss their work. Free admission to show and reception.
