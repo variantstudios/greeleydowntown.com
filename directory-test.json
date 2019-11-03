@@ -34,7 +34,7 @@ sitemap: false
         "classifications": {{ business.classifications | jsonify }},
         "Logo": {{ business.Logo_image_path | jsonify }},
         "path": "{{ business.url }}",
-        content" {{content}}
+        "content" {{content}}
       }
   {% endfor %}
   ]
