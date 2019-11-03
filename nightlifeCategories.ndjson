@@ -1,0 +1,16 @@
+---
+layout: null
+sitemap: false
+
+---
+ 
+    [
+    {% for class in site.nightlife_categories %}
+        {
+        "_id": {{ class.title | slugify | jsonify }},
+        "_type": 'nightlifeCategories',
+        "title": {{ class.title | jsonify }}
+        }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
