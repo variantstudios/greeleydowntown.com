@@ -7,4 +7,23 @@ sitemap: false
 {% for class in site.nightlife_categories %}
 {"_id": {{ class.title | slugify | jsonify }}, "_type": "nightlifeCategories", "title": {{ class.title | jsonify }} }
 {% endfor %}
-    
+
+{% for class in site.service_categories %}
+{"_id": {{ class.title | slugify | jsonify }}, "_type": "serviceCategories", "title": {{ class.title | jsonify }} }
+{% endfor %}
+
+{% for class in site.retail_categories %}
+{"_id": {{ class.title | slugify | jsonify }}, "_type": "retailCategories", "title": {{ class.title | jsonify }} }
+{% endfor %}
+
+{% for class in site.lodging_and_event_centers_categories %}
+{"_id": {{ class.title | slugify | jsonify }}, "_type": "lodgingAndEventCentersCategories", "title": {{ class.title | jsonify }} }
+{% endfor %}
+
+{% for class in site.entertainment_and_recreation_categories %}
+{"_id": {{ class.title | slugify | jsonify }}, "_type": "entertainmentAndRecreationCategories", "title": {{ class.title | jsonify }} }
+{% endfor %}
+
+{% for class in site.dining_categories %}
+{"_id": {{ class.title | slugify | jsonify }}, "_type": "diningCategories", "title": {{ class.title | jsonify }} }
+{% endfor %}
