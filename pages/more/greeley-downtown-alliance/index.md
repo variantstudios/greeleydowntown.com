@@ -27,4 +27,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-There will be no meeting in December. Please join us at 8am on Friday, January 17, 2020 for our next monthly meeting. The meeting will be held at Lonesome Buck Brewing Co located&nbsp; at 819 9th Street.
+There will be no meeting in December. Please join us at 8am on Friday, January 17th, 2020 for our next monthly meeting. The meeting will be held at Lonesome Buck Brewing Co located&nbsp; at 819 9th Street.
