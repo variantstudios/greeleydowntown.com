@@ -19,3 +19,4 @@ Contact_Email: ahutson@aunthelenscoffeehouse.com
 Logo_image_path: /assets/images/directory/Aunt Helen's Express.png
 ---
 
+Aunt Helen's Express is a quick service Coffee Shop serving excellent coffee, tea, lattes, cold brew & many grab & go breakfast and lunch items.
