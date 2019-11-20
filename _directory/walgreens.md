@@ -17,6 +17,7 @@ retail_categories:
 service_categories:
 Contact_Name:
 Contact_Email:
-Logo_image_path:
+Logo_image_path: /assets/Walgreens_CW-RGB.png
 ---
 
+Refill your prescriptions, shop health and beauty products, print photos and more at Walgreens.
