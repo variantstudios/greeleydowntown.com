@@ -19,4 +19,4 @@ image-gallery:
     large_image_path: /assets/images/properties/properties-default.png
 ---
 
-New construction commercial endcap to an 83 unit residential property across from UNC Campus. Lease rate is $30/NNN, the current condition is a warm dark shell with $80/SF Tenant Improvement allowance to qualified tenant. Busiest intersection in downtown Greeley with 20,000 vehicles per day. Estimated completion date is Fall of 2019.
+New construction commercial endcap to an 83 unit residential property across from UNC Campus. Lease rate is $30/NNN, the current condition is a warm dark shell with $80/SF Tenant Improvement allowance to qualified tenant. Busiest intersection in downtown Greeley with 20,000 vehicles per day. Estimated completion date is Winter of 2019/2020.
