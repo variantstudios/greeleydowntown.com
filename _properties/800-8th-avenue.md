@@ -1,10 +1,10 @@
 ---
-title: 800 8th Avenue
+title: '800 8th Avenue - Retail/Restaurant, Office'
 property-type: Commercial
 image_path: /assets/images/properties/800-8th-ave.jpg
 sale-or-lease: Lease
-square-footage: '397-24,000'
-price: $12-$22/SF
+square-footage: 1200-3500 SF
+price: $15-18/SF
 address: 800 8th Avenue
 city: Greeley
 state: CO
@@ -19,10 +19,4 @@ image-gallery:
     large_image_path:
 ---
 
-
-* Building renovations underway including: flooring, paint, artwork in common area, restrooms, new skylights, updated lighting, new fa&ccedil;ade, high speed internet, construction of first floor retail space
-* Prominent downtown Greeley location
-* Flexible lease terms and space sizes
-* Close proximity to restaurants, breweries, entertainment, new DoubleTree convention center/hotel, and City and County Buildings, including courthouse
-* 20,000 SF basement space also available
-* More info: [BROCHURE](/assets/pdfs/800 8th Avenue.pdf)
+Join the redevelopment momentum of downtown Greeley with new restaurants, entertainment, and other local attractions. Excellent retail opportunity especially for a bar/grill with patio. Newly finished office space at an affordable price. Prominent downtown Greeley location in remodeled mix-use building. Close proximity to restaurants, breweries, entertainment, new Double Tree convention center/hotel, and City and County Buildings, including courthouse. Recent building renovations completed including: flooring, paint, artwork in common area, restrooms, new skylights, updated lighting, updated HVAC, upgraded security systems, new facade, high speed internet, construction on first floor retail space.
