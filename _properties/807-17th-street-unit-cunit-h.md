@@ -3,7 +3,7 @@ title: '807 17th Street, Unit C/Unit H'
 property-type: Commercial
 image_path: /assets/images/properties/image.jpg
 sale-or-lease: Lease
-square-footage: 2845-4003
+square-footage: 2845-4003 SF
 price: $6.50-$13.50/SF NNN
 address: 807 17th Street
 city: Greeley
