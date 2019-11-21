@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/images/properties/image.jpg
 sale-or-lease: Lease
 square-footage: 2845-4003
-price: $6.50-$13.50 NNN
+price: $6.50-$13.50/SF NNN
 address: 807 17th Street
 city: Greeley
 state: CO
