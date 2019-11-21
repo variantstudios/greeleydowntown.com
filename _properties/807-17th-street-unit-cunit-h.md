@@ -9,7 +9,7 @@ address: 807 17th Street
 city: Greeley
 state: CO
 zip: '80631'
-real-estate-agency: Realtec
+real-estate-agency: Realtec Commercial Real Estate
 real-estate-agent: Gage Osthoff
 real-estate-email: gosthoff@realtecgreeley.com
 real-estate-phone: 970-396-5166
