@@ -14,3 +14,34 @@ weight_number: 1
 Celebrate Small Business Saturday and make it a downtown Greeley day on November 30th. Thirty downtown Greeley businesses are hosting a bingo Holiday Open House from 10am-5pm. Pick up your bingo card at a participating business, get it stamped by at least 12 of the participants as instructed and you can enter to win $1,000, $300 or $200 in prizes and gift cards. No purchase necessary.
 
 Most of the businesses are also hosting fun activities and the whole day promises to deliver wondrous holiday magic. Strolling carolers from the Greeley Chorale will delight the shoppers in the late afternoon and will lead some carols in the park immediately following the parade when they light all the Lincoln Park Trees.
+
+Here is the list of 2019 participating businesses where you can pick up and or leave your Bingo card:
+
+* Academy of Natural Therapy
+* Accessories with a Flair\!…and Hair
+* Aunt Helen's Coffee House/Aunt Helen's Express
+* Award Alliance, LLC
+* Batter Up Cakes
+* Blush Boutique Co
+* Brix Brewery & Taphouse
+* Colorado Dance Theatre (at Mariposa)
+* Colorado Model Railroad Museum
+* Doug's Diner
+* Greeley History Museum
+* Green Earth Brewing Company
+* Lincoln Park Emporium
+* Lincoln Park Library
+* Lonesome Buck
+* Luna's Tacos & Tequila
+* Mariposa Plants, Flowers & Gifts
+* Right Coast Pizza
+* Rio Grande Mexican Restaurant
+* Sassy Bagz
+* Syntax Spirits&nbsp;
+* The Dragon's Cache
+* The Kress Cinema & Lounge
+* Tower 56 Distilling
+* Trinkets-n-Treasures
+* Twice As Nice Boutique
+* Warm Hugs Mixes & Gifts Boutique
+* Wm Moore Jewelers
