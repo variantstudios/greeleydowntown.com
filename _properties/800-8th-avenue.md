@@ -1,9 +1,9 @@
 ---
-title: '800 8th Avenue - Retail/Restaurant, Office'
+title: 800 8th Avenue
 property-type: Commercial
 image_path: /assets/images/properties/800-8th-ave.jpg
 sale-or-lease: Lease
-square-footage: 1200-3500 SF
+square-footage: '1,200-3,500 SF'
 price: $15-18/SF
 address: 800 8th Avenue
 city: Greeley
