@@ -20,3 +20,5 @@ image-gallery:
 ---
 
 Join the redevelopment momentum of downtown Greeley with new restaurants, entertainment, and other local attractions. Excellent retail opportunity especially for a bar/grill with patio. Newly finished office space at an affordable price. Prominent downtown Greeley location in remodeled mix-use building. Close proximity to restaurants, breweries, entertainment, new Double Tree convention center/hotel, and City and County Buildings, including courthouse. Recent building renovations completed including: flooring, paint, artwork in common area, restrooms, new skylights, updated lighting, updated HVAC, upgraded security systems, new facade, high speed internet, construction on first floor retail space.
+
+[Brochure](http://looplink.realtec.com/xNet/Looplink/TmplEngine/ListingProfilePage.aspx?stid=realtecommres&amp;LID=4905357&amp;LL=true&amp;UOMListing=&amp;UOMMoneyCurrency=&amp;RentPer=PY&amp;SRID=0&amp;IP=false){: target="_blank"}
