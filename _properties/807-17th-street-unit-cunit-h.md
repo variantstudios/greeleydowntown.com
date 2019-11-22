@@ -1,5 +1,5 @@
 ---
-title: '807 17th Street, Unit C/Unit H'
+title: 807 17th Street
 property-type: Commercial
 image_path: /assets/images/properties/image.jpg
 sale-or-lease: Lease
@@ -21,4 +21,4 @@ image-gallery:
 
 Great location across the street from the University of Northern Colorado's Monfort College of Business. Lower level retail suite previously used as a bar/tavern. Only one block from the South Maddie redevelopment project that includes 237 market-rate apartments under construction. Stable co-tenancy including Chipotle, The Blue Mug, Minuteman Press, Colorado Escapes, and Textbook Brokers. Building and monument signange available. Fire-sprinkled.
 
-#### &nbsp;
+[Brochure](http://looplink.realtec.com/xNet/Looplink/TmplEngine/ListingProfilePage.aspx?stid=realtecommres&amp;LID=16706029&amp;LL=true&amp;UOMListing=&amp;UOMMoneyCurrency=&amp;RentPer=PY&amp;SRID=0&amp;IP=false){: target="_blank"}
