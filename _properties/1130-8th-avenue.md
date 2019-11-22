@@ -20,3 +20,5 @@ image-gallery:
 ---
 
 • 8th Avenue “The Maddie” Redevelopment Is Here\!<br>• Lot size: 0.97 Acres (10,200 SF)<br>• Near University of Northern Colorado Campus, City and County Office, Downtown Business District<br>• Currently in plans to turn into a strip center<br>• Be part of a resurgent downtown Greeley<br>• 800 new residential units planned in the area.
+
+[Brochure](https://dhlb.com/our-properties/1130-8th-street/){: target="_blank"}
