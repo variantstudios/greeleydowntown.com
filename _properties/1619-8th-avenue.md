@@ -20,3 +20,5 @@ image-gallery:
 ---
 
 Prime location on 8th Ave within walking distance to new South Maddie Apartments, UNC, and Downtown Greeley. Needs work, please inquire with listing agent.
+
+[More information](https://www.coloproperty.com/listing/details/1198279){: target="_blank"}
