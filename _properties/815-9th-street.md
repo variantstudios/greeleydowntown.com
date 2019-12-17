@@ -20,3 +20,7 @@ image-gallery:
 ---
 
 Historic Downtown location that is zoned Commercial. Located in the heart of the growing, vibrant and thriving Historic Downtown Greeley 9th Street Plaza as location provides excellent exposure for your business. The charming building consists of eight to nine offices, reception area, two ADA restrooms (one with 3/4 shower) and additional mezzanine space is included, alley access.
+
+&nbsp;
+
+[More information](https://frontrange.8z.com/homes/815-9th-St/Greeley/CO/80631/101473568/#reg=1){: target="_blank"}
