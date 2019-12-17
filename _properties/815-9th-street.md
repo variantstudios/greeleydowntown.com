@@ -3,7 +3,7 @@ title: 815 9th Street
 property-type: Commercial
 image_path: /assets/orig-boomver-1-899969-1.jpg
 sale-or-lease: Lease
-square-footage: '4,175'
+square-footage: '2,675'
 price: $9 SF
 address: 815 9th Street
 city: Greeley
