@@ -1,30 +1,24 @@
 ---
 title: 1320 8th Avenue
 property-type: Commercial
-image_path: /assets/1320-8th-avenue.jpg
-sale-or-lease: Lease
-square-footage: '13,959 SF'
+image_path: /assets/1320-8th-ave-1.jpg
+sale-or-lease: Sale and Lease
+square-footage: '12,936 SF'
 price: Negotiable
 address: 1320 8th Avenue
 city: Greeley
 state: CO
 zip: '80631'
-real-estate-agency:
-real-estate-agent: Stephen Markey
-real-estate-email:
-real-estate-phone: (303) 694-6082
+real-estate-agency: Wheeler Properties
+real-estate-agent: Brian Smerud
+real-estate-email: bsmerud@wheelerpropertiesinc.com
+real-estate-phone: (970) 415-0538
 image-gallery:
   - title:
     small_image_path: /assets/images/properties/properties-default.png
     large_image_path: /assets/images/properties/properties-default.png
 ---
 
+Retail Building on 8th Avenue corridor. Property is a Cold Dark Shell, has electric and new roof, but needs HVAC. Water (3/4″) and sewer to site. Roof top available. Sale price is negotiable for property “as-is”. Property could also be leased or contracted for build to suit.
 
-* Restaurant/Brew Pub Site with Amazing Patio Space
-* Great opportunity for restaurant or brew pub
-* Be part of gentrifying downtown Greeley.
-* 800 new residential units planned in the area.
-* Proximate to University of Northern Colorado,
-* City & County Office, downtown business district.
-* On 8th Ave in Greeley, betwwen 13th & 14th Streets.
-* For more info, check out the [BROCHURE](/assets/pdfs/1320 8th Avenue.pdf)
+[Brochure](https://secureservercdn.net/198.71.233.129/thv.f26.myftpupload.com/wp-content/uploads/2019/10/1320-8th-Ave.pdf?time=1576856361){: target="_blank"}
