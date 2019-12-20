@@ -1,7 +1,7 @@
 ---
 title: 1235 8th Avenue
 property-type: Commercial
-image_path: /assets/images/properties/properties-default.png
+image_path: /assets/19-1235-8th-ave-514x362.jpg
 sale-or-lease: Sale and Lease
 square-footage:
 price: Negotiable
