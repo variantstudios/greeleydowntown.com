@@ -7,22 +7,14 @@ description: >-
   conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are
   open to the public.
 meeting_minutes:
+  - title: December 2019 Meeting Minutes
+    pdf_path: /assets/pdfs/DDA Meeting Minutes 12-19-19.pdf
   - title: November 2019 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes 11-21-19.pdf
   - title: October 2019 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes 10-17-19.pdf
   - title: September 2019 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes 9-19-19.pdf
-  - title:
-    pdf_path:
-  - title:
-    pdf_path:
-  - title: November 2019 Meeting Minutes
-    pdf_path: /assets/pdfs/DDA Meeting Minutes 11-21-19.pdf
-  - title:
-    pdf_path:
-  - title: December 2019 Meeting Minutes
-    pdf_path: /assets/pdfs/DDA Meeting Minutes 12-19-19.pdf
 sub-nav: more
 class: board
 permalink: /dda-board-directors/
@@ -44,7 +36,7 @@ Downtown Development Authority (DDA) Board of Directors meetings take place the 
 * Phil Grizzle, *Zoe’s Cafe*
 * Linda Winter, *Accessories with a Flair\!… and Hair*
 * Justin Ghofrani, *The Kress Cinema*
-* Robb Casseday, *Greeley City Council*
-* Jon Smail,&nbsp;*Greeley City Council*
+* Tommy Butler, *Greeley City Council*
+* Kristin Zasada,&nbsp;*Greeley City Council*
 * Bob Tointon (Ex-Officio), *Phelps Tointon*
 * Travis Gillmore (Ex-Officio), *Phelps Tointon*
