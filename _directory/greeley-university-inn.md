@@ -15,7 +15,7 @@ Zip: '80631'
 Phone: (970) 353-3216
 Website: >-
   https://greeley-university-inn.business.site/?utm_source=gmb&utm_medium=referral
-Contact_Name:
+Contact_Name: Yoon Jung Lee
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
