@@ -17,7 +17,7 @@ Free All Day Parking:<br>Free all day parking is available in on-street areas th
 
 Permit Parking:<br>Areas signed as permit parking are for use by permit holders. After 5 pm permit areas are free for public use with no time limitation. To find out more about permit parking visit the permit page.&nbsp;
 
-Pay to Stay with Passport:<br>To stay longer than two hours, visitors can use Passport to pay for additional time. Each hour after the first two hours is $2 with a maximum of $10 per day.&nbsp;
+Pay to Stay with Passport:<br>To stay longer than two hours, visitors can use Passport to pay for additional time.
 
 Staying Longer Than Two Hours?<br>If you plan to stay longer than two hours or are unsure of the length of your stay, you must begin a Passport session shortly after parking your car. Failure to do so will not preclude you from receiving a citation.
 
