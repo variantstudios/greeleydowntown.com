@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Colorado State Public Defenders Office
-Street: 822 7th StreetSte 300
+Street: '822 7th Street, Ste 300'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - legal
-Contact_Name: Kevin Strobel
-Contact_Email: greeley.pubdef@coloradodefenders.us
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Contact_Name: Karen Porter
+Contact_Email: karen.porter@coloradodefenders.us
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
