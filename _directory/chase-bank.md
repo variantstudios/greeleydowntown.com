@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Chase Bank
-Street: 822 7th Street
+Street: '822 7th Street, Suite 100'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -15,9 +15,8 @@ retail_categories:
 service_categories:
   - financial
   - banks
-Contact_Name:
-Contact_Email:
+Contact_Name: Garrett Carmack
+Contact_Email: garrett.x.carmack@chase.com
 Logo_image_path: /assets/images/directory/chasebank.png
 ---
-
 
