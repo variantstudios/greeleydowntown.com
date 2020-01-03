@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/1120-6th-ave.jpg
 sale-or-lease: Sale
 square-footage: '28,240 SF'
-price: '$1,500,000'
+price: '$1,800,000'
 address: 1120 6th Avenue
 city: Greeley
 state: CO
