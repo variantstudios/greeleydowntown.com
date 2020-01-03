@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: National Onion Association
-Street: 822 7th StreetSte 510
+Street: '822 7th Street, Ste 510'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -14,9 +14,8 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - agribusiness
-Contact_Name: Wayne
-Contact_Email:
+Contact_Name: Sharla Johnson
+Contact_Email: sjohnston@onions-usa.org
 Logo_image_path: /assets/images/directory/nationalonion.png
 ---
-
 
