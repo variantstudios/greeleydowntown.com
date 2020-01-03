@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Division of Vocational Rehabilitation
-Street: 822 7th StreetSte 350
+Street: '822 7th Street, Ste 350'
 City: Greeley
 State: Colorado
 Zip: 80631
@@ -15,9 +15,8 @@ retail_categories:
 service_categories:
   - civic
   - health
-Contact_Name: Jill Eaton
-Contact_Email: jill.eaton@state.co.us
+Contact_Name: Jean Biondi
+Contact_Email: jean.bioni@state.co.us
 Logo_image_path: /assets/images/directory/divvocationalrehab.png
 ---
-
 
