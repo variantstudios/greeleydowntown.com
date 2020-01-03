@@ -12,11 +12,11 @@ Street: '822 7th Street, Ste 740'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 353-2600
+Phone: 970-378-2005
 Fax:
 Website: 'http://www.animalhealthinternational.com'
-Contact_Name: Kevin Pohlman
-Contact_Email:
+Contact_Name: Erica Osborn
+Contact_Email: erica.osborn@animalhealthinternational.com
 Logo_image_path: /assets/images/directory/animalhealth.png
 ---
 
