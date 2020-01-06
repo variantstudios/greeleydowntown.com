@@ -12,11 +12,10 @@ Street: '800 8th Avenue, Ste. 235'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 301-4092
-Website:
-Contact_Name:
-Contact_Email:
+Phone: 970-301-4092
+Website: 'http://www.interide.com/'
+Contact_Name: Dani Winpegler
+Contact_Email: daniw@interidetransport.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
