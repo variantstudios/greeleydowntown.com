@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Rick Cone Secure Payment Systems
+Business: Secure Payment Systems
 Street: '801 8th Street, Ste. #150 C-D'
 City: Greeley
 State: Colorado
