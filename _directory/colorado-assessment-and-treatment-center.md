@@ -5,7 +5,7 @@ Street: '800 8th Avenue, Ste. 233'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (303) 757-6019
+Phone: 303-757-6019
 Website: 'http://www.catc.us'
 dining_categories:
 entertainment_and_recreation_categories:
@@ -15,7 +15,7 @@ retail_categories:
 service_categories:
   - health
 Contact_Name: David Yingling
-Contact_Email: david.catc@hotmail.com
+Contact_Email: David.CATC@hotmail.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
