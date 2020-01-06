@@ -5,7 +5,7 @@ Street: '800 8th Avenue, Ste. 233'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: 303-757-6019
+Phone: 970-795-2282
 Website: 'http://www.catc.us'
 dining_categories:
 entertainment_and_recreation_categories:
