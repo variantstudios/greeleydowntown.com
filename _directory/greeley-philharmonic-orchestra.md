@@ -1,12 +1,12 @@
 ---
 live_directory: false
 Business: Greeley Philharmonic Orchestra
-Street: '801 8th Street, Ste 230'
+Street: '801 8th Street, Ste #230'
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 356-6406
-Website: 'http://www.greeleyphilharmonic.com'
+Phone: 970-356-6406
+Website: 'https://greeleyphil.org/'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
