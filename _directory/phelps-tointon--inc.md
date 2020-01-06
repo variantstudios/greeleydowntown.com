@@ -1,11 +1,11 @@
 ---
 live_directory: false
 Business: 'Phelps-Tointon, Inc.'
-Street: '801 8th Street, Ste 200'
+Street: '801 8th Street, Ste #200'
 City: Greeley
 State: Colorado
 Zip: 80631
-Phone: (970) 353-7000
+Phone: 970-353-7000
 Website:
 dining_categories:
 entertainment_and_recreation_categories:
@@ -18,5 +18,4 @@ Contact_Name: Travis Gillmore
 Contact_Email: TWG@phelpstointoninc.com
 Logo_image_path: /assets/images/directory/phelpstointon.png
 ---
-
 
