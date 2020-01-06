@@ -19,3 +19,4 @@ Contact_Email: liz@lizinvestigations.com
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
+Elizabeth Hansen Investigations Specializes in Criminal Defense Investigation and Mitigation. Primarily focusing on working with criminal defense attorney’s on serious state and federal cases. &nbsp;
