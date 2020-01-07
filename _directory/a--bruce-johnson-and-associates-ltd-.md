@@ -8,13 +8,13 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - real-estate-and-property-management
-Street: '801 8th Street, Ste. 220-I'
+Street: '801 8th Street, Ste. #220-I'
 City: Greeley
 State: Colorado
 Zip: '80631'
-Phone: (970) 356-6110
+Phone: 970-356-6110
 Fax:
-Website: 'http://www.abrucejohnson.com/'
+Website: 'https://www.facebook.com/A-Bruce-Johnson-Associates-LTD-621259174583849/'
 Contact_Name: Bruce Johnson
 Contact_Email: bruce@abrucejohnson.com
 Logo_image_path: /assets/images/directory/abrucejohnson.png
