@@ -6,7 +6,7 @@ description: >-
   intended to foster economic development and revitalization, encompasses over
   55 blocks in the east side of Greeley. It includes a core historic district
   and a mix of commercial, residential, civic, and industrial properties.
-pdf_path: /assets/pdfs/2018 Greeley DDA Map.pdf
+pdf_path: /assets/pdfs/downtown-greeley-map.pdf
 sub-nav: more
 permalink: /district-map/
 ---
