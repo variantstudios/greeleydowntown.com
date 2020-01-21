@@ -8,7 +8,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
   - construction-and-home-improvement
-Street: 808 9th Street
+Street: '808 9th Street, Ste P'
 City: Greeley
 State: Colorado
 Zip: '80631'
