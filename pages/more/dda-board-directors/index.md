@@ -15,6 +15,8 @@ meeting_minutes:
     pdf_path: /assets/pdfs/DDA Meeting Minutes 10-17-19.pdf
   - title: September 2019 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes 9-19-19.pdf
+  - title: January 2020 Meeting Minutes
+    pdf_path: /assets/pdfs/DDA Meeting Minutes 1-16-2020.pdf
 sub-nav: more
 class: board
 permalink: /dda-board-directors/
