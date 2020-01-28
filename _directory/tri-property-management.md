@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: TRI Property Management
 Street: 1422 8th Avenue
 City: Greeley
@@ -18,5 +18,4 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
