@@ -17,6 +17,6 @@ retail_categories:
 service_categories:
 Contact_Name:
 Contact_Email: info@rmcommunities.org
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/meeker-commons-greeley.jpg
 ---
 
