@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: Woody Investments
 Street: 815 16th Street
 City: Greeley
@@ -18,5 +18,4 @@ Contact_Name: James Woody
 Contact_Email: woodyinvestments@msn.com
 Logo_image_path: /assets/images/directory/woodyinvestments.png
 ---
-
 
