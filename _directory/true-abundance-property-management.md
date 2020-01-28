@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: True Abundance Property Management
 Street: 1124 10th Street
 City: Greeley
@@ -18,5 +18,4 @@ Contact_Name:
 Contact_Email:
 Logo_image_path: /assets/images/directory/trueabundance.png
 ---
-
 
