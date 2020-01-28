@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: One Way Property Management
 Street: 1008 8th Street
 City: Greeley
