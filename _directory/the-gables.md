@@ -16,7 +16,6 @@ retail_categories:
 service_categories:
 Contact_Name: Linde Thompson
 Contact_Email: linde@kresscinema.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/gables-apartments.jpg
 ---
-
 
