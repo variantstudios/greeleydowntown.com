@@ -16,7 +16,7 @@ nightlife_categories:
 retail_categories:
 service_categories:
 Contact_Name:
-Contact_Email:
+Contact_Email: info@rmcommunities.org
 Logo_image_path: /assets/images/directory/directory-default.png
 ---
 
