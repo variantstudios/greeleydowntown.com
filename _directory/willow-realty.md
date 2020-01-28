@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: Willow Realty
 dining_categories:
 entertainment_and_recreation_categories:
