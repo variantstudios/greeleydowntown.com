@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: 'Pro Realty, Inc Old Town'
 Street: '806 8th Street, Unit A'
 City: Greeley
@@ -19,5 +19,4 @@ Contact_Email: mjr@ctos.com
 Logo_image_path: /assets/images/directory/prorealtyoldtown.png
 ---
 
-
-Specializing both commerical and residential property sales in all of Northern Colorado!
+Specializing both commerical and residential property sales in all of Northern Colorado\!
