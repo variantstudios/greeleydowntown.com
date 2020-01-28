@@ -1,5 +1,5 @@
 ---
-live_directory: true
+live_directory: false
 Business: Triangle Real Estate Inc.
 Street: 1021 8th Avenue
 City: Greeley
@@ -18,5 +18,4 @@ Contact_Name: Ron Smith
 Contact_Email:
 Logo_image_path: /assets/images/directory/trianglerealestate.png
 ---
-
 
