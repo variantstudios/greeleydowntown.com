@@ -1,7 +1,7 @@
 ---
 live_directory: false
 Business: Main-Street Properties
-Street: 1535 10th Avenue
+Street: '1535 10th Avenue, Ste. 4'
 City: Greeley
 State: Colorado
 Zip: 80631
