@@ -1,6 +1,6 @@
 ---
 title: 1020 9th Street
-property-type: Residential
+property-type: Commercial
 image_path: /assets/orig-boomver-1-901710-1.jpg
 sale-or-lease: Sale
 square-footage: '30,437 SF'
