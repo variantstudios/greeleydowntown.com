@@ -17,6 +17,6 @@ service_categories:
   - financial
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/guarantybank.png
+Logo_image_path: /assets/images/directory/Independent Financial.png
 ---
 
