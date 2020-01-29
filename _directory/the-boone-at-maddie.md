@@ -8,7 +8,7 @@ lodging_and_event_centers_categories:
 nightlife_categories:
 retail_categories:
 service_categories:
-Street:
+Street: 1640 8th Avenue
 City: Greeley
 State: Colorado
 Zip: '80631'
