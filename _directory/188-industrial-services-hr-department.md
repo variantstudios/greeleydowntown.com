@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: 1888 Industrial Services HR Department
+Business: 1888 Industrial Services
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
