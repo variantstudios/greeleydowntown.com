@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Zava Marketing
+Business: Zova Marketing
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
