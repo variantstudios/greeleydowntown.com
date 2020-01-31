@@ -1,6 +1,12 @@
 ---
 title: Opportunity Zone Tax Benefits
-description:
+description: >-
+  Almost the entire Greeley Downtown Development Authority boundary is
+  designated as an Opportunity Zone. Opportunity Zones were enacted as part of
+  the 2017 tax reform package (Tax Cuts and Jobs Act) and is a federal tax
+  incentive for investors to invest in low-income urban and rural communities
+  through the favorable treatment of reinvested capital gains and forgiveness of
+  tax on new capital gains.
 header_image_path:
 ---
 
