@@ -17,7 +17,7 @@ Phone: 970-473-2825
 Website: 'https://www.lonesomebuck.com/'
 Contact_Name: Jake Fitzsimmons
 Contact_Email: jake@lonesomebuck.com
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/Lonesome Buck.png
 ---
 
 Located in the heart of Downtown Greeley, Lonesome Buck offers fresh brewed beer, house made beers, poutine fries, smoked brisket, pork, and ribs.
