@@ -6,7 +6,7 @@ header_image_path:
 
 Almost the entire Greeley Downtown Development Authority boundary is designated as an Opportunity Zone. Opportunity Zones were enacted as part of the 2017 tax reform package (Tax Cuts and Jobs Act) and is a federal tax incentive for investors to invest in low-income urban and rural communities through the favorable treatment of reinvested capital gains and forgiveness of tax on new capital gains.
 
-<br>Benefits of an Opportunity Zone investment include:<br>1\. Deferral – No up-front tax bill on the rolled-over capital gain and investors can defer their original tax bill until the earlier of a) December 31, 2026, or b) the sale of the Opportunity Zone investment
+**Benefits of an Opportunity Zone investment include:**<br>1\. Deferral – No up-front tax bill on the rolled-over capital gain and investors can defer their original tax bill until the earlier of a) December 31, 2026, or b) the sale of the Opportunity Zone investment
 
 2\. Reduction of tax on the rolled-over capital gain investment for long-term holding.
 
