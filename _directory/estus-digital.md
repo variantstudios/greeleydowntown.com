@@ -9,7 +9,7 @@ retail_categories:
 service_categories:
   - business-resources
   - media-and-visual-arts
-Street: '800 9th Street, Ste. B'
+Street: '808 9th Street, Ste. B'
 City: Greeley
 State: Colorado
 Zip: '80631'
