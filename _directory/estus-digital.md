@@ -17,7 +17,7 @@ Phone: 970-880-1489
 Website: 'https://estusdigital.com/'
 Contact_Name: Dakotah Intriglia
 Contact_Email: hello@estus.co
-Logo_image_path: /assets/images/directory/directory-default.png
+Logo_image_path: /assets/images/directory/ESTUS Digital.png
 ---
 
 “ESTUS Digital” is an established-by-us, freelance platform and B2B network. Working as a team or one-on-one within areas of our expertise, we are a group of digital media professionals who are passionate about delivering better, more meaningful results for our clients.
