@@ -13,9 +13,9 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone: (970) 301-4647
-Website: 'https://www.facebook.com/Munsons-Automotive-LLC-703642389832256/'
+Website: 'https://www.facebook.com/Munsons-Automotive-LLC-342893479937287/'
 Contact_Name: Dustin Munson
 Contact_Email: munsonsautomotive@gmail.com
-Logo_image_path: /assets/images/directory/1.png
+Logo_image_path: /assets/munsons.jpg
 ---
 
