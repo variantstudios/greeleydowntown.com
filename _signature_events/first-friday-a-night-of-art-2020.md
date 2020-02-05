@@ -10,42 +10,48 @@ header_image_path:
 weight_number: 4
 ---
 
-**First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on Friday, January 3rd, 2020 for our next First Friday.**
+**First Friday: A Night of Art is a great opportunity to visit local galleries and businesses featuring rotating artwork. Held the first Friday of each month from 5-8pm, it is a self-guided tour. Join us on Friday, February 7th, 2020 for our next First Friday.**
 
 Participating locations:
+
+### Atlas Gallery and John Galt Coffee
+
+709 16th Street
+
+Betony Coons: Gray Sparrow Art will be hosting a KIDS Indie Arts Greeley at Atlas Gallery and John Galt Coffee on Saturday, February 8th from 9am-1pm. Kids 5-18 will be sharing their handmade arts and crafts.
 
 ### Brix Brewery & Taphouse
 
 813 8th Street
 
-Bo Depe&ntilde;a will be live at Brix from 7-9pm on Friday, January 3rd for their first show of 2020.
+Bo Depe&ntilde;a is back at Brix Brewery & Taphouse. Music starts at 8pm.
 
 ### Madison & Main Gallery
 
 927 16th Street
 
-At the Madison and Main Gallery, the show for January and February 2020 is The Once and Future Art Show which features ten guest artists who are using the concepts of reuse and using what is. Their new work includes paintings, assemblage, photography, illustrations, mixed media pieces, and jewelry of all kinds. This extraordinary show opens January 2nd and runs through February 28th, 2020. The members of the gallery invite you to meet the guest artists during the public opening reception planned for First Friday: A Night of Art on January 3rd from 5-8pm. The slate of guest artists includes: Courtney Archibeque, Carol Baum, Lisa Blank, Ambrette Gilkey, Elizabeth McGee, Sandy Shakti, Sarah Schneider, Kari Tamblyn, Doug Wurst, and Cody Wilson. All items in the gallery are for sale. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com).
+At the Madison and Main Gallery, the show for February 2020 is **The Once and Future Art Show** which features ten guest artists who are using the concepts of reuse and using what is. Their new work includes paintings, assemblage, photography, illustrations, mixed media pieces, and jewelry of all kinds. This extraordinary show runs through February 28th and the slate of guest artists includes: Courtney Archibeque, Carol Baum, Lisa Blank, Ambrette Gilkey, Elizabeth McGee, Sandy Shakti, Sarah Schneider, Kari Tamblyn, Doug Wurst, and Cody Wilson. During the February 7th First Friday, there will be an artist demonstration from 5:30-7pm with member artist Lisa Arata demonstrating festive garlands and Lori Ozzello demonstrating wrapped animals***.*** All items in the gallery are for sale. Gallery hours are 10am-6pm Monday through Friday and 10am-4pm Saturday. For more details about the show, call the Madison & Main Gallery at (970) 351-6201 or visit [www.madisonandmaingallery.com](http://www.madisonandmaingallery.com).
 
 ### Syntax Spirits Distillery
 
 700 6th Street
 
-Syntax Spirits Distillery will feature a different local artist each month in the tasting room and hold openings on the First Friday of the month. Come and meet the artist from 6-8pm and view their art all month. Stay for trivia\! The featured artist on Friday, January 3rd is Travis McCurley-Hardesty.
+Syntax Spirits Distillery will feature “Adoration vs. Negation: a group celebration of the facets of the human heart”. The show features Susan Brown, Chris Coronel, Jason Ensz, Margaret Dempsey and Margaret Sunday. First Friday will also feature Trivia with Tobias starting at 7pm. Join comedian and bartender [Tobias Livingston](https://www.facebook.com/tobias1748){: target="_blank"} for an evening of amusing and informative trivia. Win fabulous prizes like Syntax shirts, glassware, and drinks.
 
 ### The Bean Plant Studio
 
 701 7th Street
 
-The Bean Plant Studio will be hosting a celebration of the WORD Epiphany and all it means. Read, sing, play the keyboard, play the guitar or share a piece of artwork. The keyboard and microphone will be waiting as will walls and tables for artwork. What will you share? Tribe Sidysaan will also be on hand to dance for you\!
+The Bean Plant Studio will be hosting “The Five Susans + One” show on Friday February 7th from 5-8pm. The show features Susan Herold, Susan Nelson, Susan Safarik, Susan Anderson, Susan Haskins and Susan Todd\!
 
-### The Eden Gallery @ Virtually Yours
+### The Dragon's Cache
 
-926 8th Avenue
+1109 7th Street
 
-The Eden Gallery will be hosting a First Friday: A Night of Art 2020 Meet & Greet from 5-8:30pm. Refreshments, gallery introductions & more\!
+The Dragon’s Cache is returning to their First Friday events with a Gallery artist show. Alan Adler, Ann Sherley, David Holman, Francis W Denning Jr, Marge Zink and others will be features for this show. Live guitar by Bob Schneller. Cookies and punch.
 
 ### Tointon Gallery
 
 651 10th Avenue
 
-Carol Jeanotilla and Victoria Eubanks will present their exhibit “Before & After” at the Tointon Gallery. The exhibit will be on display Friday, December 6th through Saturday, January 4th. “Before & After” presents new work that literally and figuratively displays each artist’s journey through life. In Jeanotilla’s case, she is plainly putting the pieces back together through art after a life-altering event. Eubanks, on the other hand, addresses the seemingly simple decisions that ultimately define one’s experiences. It is a joyful collection reflecting both a physical and spiritual transformation. A closing reception is scheduled for Friday, January 3rd from 5-7pm. The Gallery is open Monday through Saturday 9am-5pm and during many of the performances at the Union Colony Civic Center. The Tointon Gallery presents over ten shows annually to provide enjoyment, education and to encourage dialogue around art. To learn more about Greeley’s public gallery, please visit&nbsp;[greeleyart.com](http://greeleyart.com/){: target="_blank"}&nbsp;or contact Kim Snyder at&nbsp;[kim.snyder@greeleygov.com](mailto:kim.snyder@greeleygov.com).
+The “Manifest” Exhibit on display at the Tointon Gallery through February 22nd. Carl Bork completed his formal training in painting at the Columbus College of Art and Design and currently resides in Salida, CO where he has his own studio and gallery. This exhibit presents a departure from what Carl is most famous for, landscape paintings. In returning to his roots, portrait painting, he has found a heightened appreciation for abstraction and an expanded sensitivity for what emotions color and texture convey to the viewer. The Gallery is open Monday through Saturday 9am-5pm and during many of the performances at the Union Colony Civic Center. The Tointon Gallery presents over ten shows annually to provide enjoyment, education and to encourage dialogue around art. To learn more about Greeley’s public gallery, please visit&nbsp;[greeleyart.com](http://greeleyart.com/){: target="_blank"}&nbsp;or contact Kim Snyder at&nbsp;[kim.snyder@greeleygov.com](mailto:kim.snyder@greeleygov.com).
