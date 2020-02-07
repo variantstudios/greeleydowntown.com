@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Weld County Courthouse
+Business: Weld County Court House
 Street: 901 9th Avenue
 City: Greeley
 State: Colorado
@@ -16,7 +16,6 @@ service_categories:
   - civic
 Contact_Name: Marci Hoffman
 Contact_Email: marci.hoffman@judicial.state.co.us
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
