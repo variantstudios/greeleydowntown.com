@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Weld County Probation Office
+Business: 19th Judicial District Probation Office
 Street: 934 9th Avenue
 City: Greeley
 State: Colorado
@@ -16,7 +16,6 @@ service_categories:
   - civic
 Contact_Name:
 Contact_Email:
-Logo_image_path: "/assets/images/directory/directory-default.png"
+Logo_image_path: /assets/images/directory/directory-default.png
 ---
-
 
