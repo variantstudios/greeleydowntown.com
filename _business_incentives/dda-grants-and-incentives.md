@@ -1,5 +1,5 @@
 ---
-title: DDA Grant Programs
+title: DDA Grants & Incentives
 description: "The Downtown Development Authority (DDA)\_offers grants to businesses and/or property owners in the DDA district to both renovate,\_rehabilitate and redevelop building facades. These funds are offered to leverage private investments that contribute to the economic sustainability,\_preservation and public engagement within\_the downtown district."
 header_image_path: 'https://unsplash.it/1400/200/?random'
 ---
@@ -10,7 +10,7 @@ There are three options for applicants based on the needs of the business and/or
 
 1\. Facade Grants: This grant reimburses businesses and/or property owners in the Downtown Development Authority (DDA) for fa&ccedil;ade renovations. The maximum grant is 50% of total eligible fa&ccedil;ade expenses, up to $7,500.&nbsp;
 
-* [Facade Grant Guidelines ](/assets/pdfs/facade-grant-guidelines.pdf){: target="_blank"}
+* [Facade Grant Guidelines](/assets/pdfs/facade-grant-guidelines.pdf){: target="_blank"}
 * [Facade Grant Application](/assets/pdfs/facade-grant-application.pdf){: target="_blank"}
 
 2\. Building Improvement Grants: This grant reimburses property owners in the Downtown Development Authority (DDA) for comprehensive building renovations that include both exterior fa&ccedil;ade and fixed interior improvements. The maximum grant is up to 10% of the total eligible building expenses, at no more than 100% of eligible fa&ccedil;ade expenses.
