@@ -19,7 +19,7 @@ image-gallery:
     large_image_path: /assets/images/properties/properties-default.png
 ---
 
-Unit C - 2,845 SF - $13.50/SF NNN<br>Unit H - 4,003 SF - $6.50/SF NNN
+Unit C - 2,845 SF - $13.50/SF NNN<br>Unit G - 1,328 SF - $11.50/SF NNN<br>Unit H - 4,003 SF - $6.50/SF NNN
 
 Great location across the street from the University of Northern Colorado's Monfort College of Business. Lower level retail suite previously used as a bar/tavern. Only one block from the South Maddie redevelopment project that includes 237 market-rate apartments under construction. Stable co-tenancy including Chipotle, The Blue Mug, Minuteman Press, Colorado Escapes, and Textbook Brokers. Building and monument signange available. Fire-sprinkled.
 
