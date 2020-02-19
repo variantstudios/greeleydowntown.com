@@ -4,7 +4,7 @@ property-type: Commercial
 image_path: /assets/018475852-1280x960.jpg
 sale-or-lease: Sale
 square-footage: '1,945 SF'
-price: '498,000'
+price: '$498,000'
 address: 728 16th Street
 city: Greeley
 state: CO
