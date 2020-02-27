@@ -20,6 +20,4 @@ Contact_Email: heather@syntaxspirits.com
 Logo_image_path: /assets/syntax-logo.png
 ---
 
-Visit Greeley's only grain-to-glass distillery! We hand-craft local whiskey, rum, gin, vodka and other spirits from scratch in downtown Greeley, CO. Located in the historic Greeley Elevator Building, you can visit us for a signature cocktail, bottle, or tour of our production facility.&nbsp;
-
-As of 6/15/18, we are in the process of building out our new location. We will be re-opening at 700 6th Street in Greeley around July of 2018. Our former 3rd Street location is now permanently closed.
+Visit Greeley's only grain-to-glass distillery\! We hand-craft local whiskey, rum, gin, vodka and other spirits from scratch in downtown Greeley, CO. Located in the historic Greeley Elevator Building, you can visit us for a signature cocktail, bottle, or tour of our production facility.&nbsp;
