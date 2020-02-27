@@ -1,7 +1,7 @@
 ---
 title: 916 10th Street
 property-type: Commercial
-image_path: /assets/screenshot-20200226-191736-maps.jpg
+image_path: /assets/916-10th-st.jpg
 sale-or-lease: Lease
 square-footage:
 price: '$2,596/month'
