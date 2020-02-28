@@ -16,6 +16,6 @@ Phone: (970) 356-4080
 Website:
 Contact_Name:
 Contact_Email:
-Logo_image_path:
+Logo_image_path: /assets/El Rinconcito Salvadoreno.png
 ---
 
