@@ -27,4 +27,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-Please join us at 8am on Friday, February 21, 2020 for our next monthly meeting. The meeting will be held at the Rio Grande Mexican Restaurant located&nbsp; at 825 9th Street.
+Please join us at 8am on Friday, March 20, 2020 for our next monthly meeting. The meeting will be held at Meeker's: A Colorado Kitchen & Bar located in the DoubleTree by Hilton Greeley at Lincoln Park at 919 7th Street.
