@@ -1,6 +1,6 @@
 ---
 live_directory: false
-Business: Pupuseria Y Restaurante Salvadoreno
+Business: El Rinconcito Salvadoreno Pupusas Y Mas
 dining_categories:
   - mexican
 entertainment_and_recreation_categories:
@@ -16,6 +16,6 @@ Phone: (970) 356-4080
 Website:
 Contact_Name:
 Contact_Email:
-Logo_image_path: /assets/images/directory/pupuseria-y-restaurante.png
+Logo_image_path:
 ---
 
