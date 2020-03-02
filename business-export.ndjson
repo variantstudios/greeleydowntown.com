@@ -11,7 +11,9 @@ sitemap: false
       {% assign first_item = false %}
       {% else %},
       {% endif %}
+      
       {
+          
         "_type": "business",  
         "title": {{ business.Business | jsonify }},
         "location": {
@@ -62,7 +64,7 @@ sitemap: false
               "link": {{ business.Website | jsonify }},
               "linkType": "business"
             },
-
+        ]
         "seoSettings": {
             "_type": "seo",
             "description": {{ business.content | jsonify | strip_html }},
