@@ -12,7 +12,7 @@ sitemap: false
             "city": {{ business.City | jsonify }},
             "state": {{ business.State | jsonify }},
             "streetAddress": {{ business.Street | jsonify }},
-            "zipcode": {{ business.Zip | jsonify }}
+            "zipcode": {{ business.Zip | jsonify | downcase }}
         },
           "slug": {
           "_type": "slug",
