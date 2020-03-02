@@ -55,11 +55,13 @@ sitemap: false
               "_type": "reference"
             }
           },
-  
-  
-    
-        "Website": {{ business.Website | jsonify }},
-        
+          
+          "links": [
+            {
+              "_type": "link",
+              "link": {{ business.Website | jsonify }},
+              "linkType": "business"
+            },
   
         "entertainment_and_recreation_categories": {{ business.entertainment_and_recreation_categories | jsonify }},
         "lodging_and_event_centers_categories": {{ business.lodging_and_event_centers_categories | jsonify }},
@@ -71,8 +73,7 @@ sitemap: false
 
         
         "classifications": {{ business.classifications | jsonify }},
-        "Logo": ,
-        
+
         
         "Coordinates": {{ business.Coordinates | jsonify }},
 
