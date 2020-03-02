@@ -46,6 +46,15 @@ sitemap: false
             "contactName": {{ business.Contact_Name | jsonify }},
             "contactPhone": {{ business.Phone | jsonify }}
          },
+         
+         "logoImage": {
+            "_type": "mainImage",
+            "alt": {{ business.Business | jsonify }},
+            "asset": {
+              "_ref": {{ business.Logo_image_path | jsonify }},
+              "_type": "reference"
+            }
+          },
   
   
     
@@ -62,7 +71,7 @@ sitemap: false
 
         
         "classifications": {{ business.classifications | jsonify }},
-        "Logo": {{ business.Logo_image_path | jsonify }},
+        "Logo": ,
         
         
         "Coordinates": {{ business.Coordinates | jsonify }},
