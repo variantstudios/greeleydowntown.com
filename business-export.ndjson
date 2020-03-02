@@ -12,10 +12,19 @@ sitemap: false
       {% else %},
       {% endif %}
       {
-        "Business": {{ business.Business | jsonify }},
-        "Street": {{ business.Street | jsonify }},
-        "City": {{ business.City | jsonify }},
-        "State": {{ business.State | jsonify }},
+        "_type": "business",  
+        "title": {{ business.Business | jsonify }},
+        "location": {
+            "_type": "location",
+            "city": {{ business.City | jsonify }},
+            "state": {{ business.State | jsonify }},
+            "streetAddress": {{ business.Street | jsonify }},
+            "zipcode": {{ business.Zip | jsonify }}
+        },
+          "slug": {
+          "_type": "slug",
+          "current": {{ business.url }}
+        },
         "Phone": {{ business.Phone | jsonify }},
         "Fax": {{ business.Fax | jsonify }},
         "Website": {{ business.Website | jsonify }},
@@ -31,6 +40,6 @@ sitemap: false
         "Coordinates": {{ business.Coordinates | jsonify }},
         "classifications": {{ business.classifications | jsonify }},
         "Logo": {{ business.Logo_image_path | jsonify }},
-        "path": "{{ business.url }}"
+
       }
   {% endfor %}
