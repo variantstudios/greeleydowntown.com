@@ -63,12 +63,12 @@ sitemap: false
               "linkType": "business"
             },
   
-        "entertainment_and_recreation_categories": {{ business.entertainment_and_recreation_categories | jsonify }},
-        "lodging_and_event_centers_categories": {{ business.lodging_and_event_centers_categories | jsonify }},
-        "nightlife_categories": {{ business.nightlife_categories | jsonify }},
-        "retail_categories": {{ business.retail_categories | jsonify }},
-        "service_categories": {{ business.service_categories | jsonify }},
-        "dining_categories": {{ business.dining_categories | jsonify }},
+        # "entertainment_and_recreation_categories": {{ business.entertainment_and_recreation_categories | jsonify }},
+        # "lodging_and_event_centers_categories": {{ business.lodging_and_event_centers_categories | jsonify }},
+        # "nightlife_categories": {{ business.nightlife_categories | jsonify }},
+        # "retail_categories": {{ business.retail_categories | jsonify }},
+        # "service_categories": {{ business.service_categories | jsonify }},
+        # "dining_categories": {{ business.dining_categories | jsonify }},
         
         "seoSettings": {
             "_type": "seo",
