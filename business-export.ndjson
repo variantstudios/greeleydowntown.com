@@ -25,21 +25,47 @@ sitemap: false
           "_type": "slug",
           "current": {{ business.url }}
         },
-        "Phone": {{ business.Phone | jsonify }},
-        "Fax": {{ business.Fax | jsonify }},
+        "body": [
+            {
+              "_type": "block",
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text":  {{ business.content | jsonify }}
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+         ],
+         
+        "businessContact": {
+            "_type": "businessContact",
+            "contactEmail": {{ business.Contact_Email | jsonify }},
+            "contactName": {{ business.Contact_Name | jsonify }},
+            "contactPhone": {{ business.Phone | jsonify }}
+         },
+  
+  
+    
         "Website": {{ business.Website | jsonify }},
-        "Description": {{ business.content | jsonify }},
+        
+  
         "entertainment_and_recreation_categories": {{ business.entertainment_and_recreation_categories | jsonify }},
         "lodging_and_event_centers_categories": {{ business.lodging_and_event_centers_categories | jsonify }},
         "nightlife_categories": {{ business.nightlife_categories | jsonify }},
         "retail_categories": {{ business.retail_categories | jsonify }},
         "service_categories": {{ business.service_categories | jsonify }},
         "dining_categories": {{ business.dining_categories | jsonify }},
-        "Contact Name": {{ business.Contact_Name | jsonify }},
-        "Contact Email": {{ business.Contact_Email | jsonify }},
-        "Coordinates": {{ business.Coordinates | jsonify }},
+        
+
+        
         "classifications": {{ business.classifications | jsonify }},
         "Logo": {{ business.Logo_image_path | jsonify }},
+        
+        
+        "Coordinates": {{ business.Coordinates | jsonify }},
 
       }
   {% endfor %}
