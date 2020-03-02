@@ -3,17 +3,8 @@ layout: null
 sitemap: false
 
 ---
-
-  {% assign first_item = true %}
-  {% for business in site.directory %}
-
-      {% if first_item %}
-      {% assign first_item = false %}
-      {% else %},
-      {% endif %}
-      
+{% assign first_item = true %}{% for business in site.directory %}{% if first_item %}{% assign first_item = false %}{% else %},{% endif %}
       {
-          
         "_type": "business",  
         "title": {{ business.Business | jsonify }},
         "location": {
@@ -41,14 +32,12 @@ sitemap: false
               "style": "normal"
             }
          ],
-         
         "businessContact": {
             "_type": "businessContact",
             "contactEmail": {{ business.Contact_Email | jsonify }},
             "contactName": {{ business.Contact_Name | jsonify }},
             "contactPhone": {{ business.Phone | jsonify }}
          },
-         
          "logoImage": {
             "_type": "mainImage",
             "alt": {{ business.Business | jsonify }},
@@ -57,7 +46,6 @@ sitemap: false
               "_type": "reference"
             }
           },
-          
           "links": [
             {
               "_type": "link",
@@ -70,7 +58,6 @@ sitemap: false
             "description": {{ business.content | jsonify | strip_html }},
             "title": {{ business.Business | jsonify }}
           }
-    
-
       }
   {% endfor %}
+  
