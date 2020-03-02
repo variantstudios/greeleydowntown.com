@@ -3,8 +3,8 @@ layout: null
 sitemap: false
 
 ---
-{% assign first_item = true %}{% for business in site.directory %}{% if first_item %}{% assign first_item = false %}{% else %},{% endif %}
-      {
+{% for business in site.directory %}
+{
         "_type": "business",  
         "title": {{ business.Business | jsonify }},
         "location": {
@@ -51,8 +51,8 @@ sitemap: false
               "_type": "link",
               "link": {{ business.Website | jsonify }},
               "linkType": "business"
-            },
-        ]
+            }
+        ],
         "seoSettings": {
             "_type": "seo",
             "description": {{ business.content | jsonify | strip_html }},
