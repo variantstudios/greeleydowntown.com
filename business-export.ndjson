@@ -23,7 +23,7 @@ sitemap: false
         },
           "slug": {
           "_type": "slug",
-          "current": {{ business.url }}
+          "current": {{ business.url | jsonify }}
         },
         "body": [
             {
@@ -32,7 +32,7 @@ sitemap: false
                 {
                   "_type": "span",
                   "marks": [],
-                  "text":  {{ business.content | jsonify }}
+                  "text":  {{ business.content | jsonify | strip_html }}
                 }
               ],
               "markDefs": [],
