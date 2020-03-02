@@ -53,7 +53,7 @@ sitemap: false
             "_type": "mainImage",
             "alt": {{ business.Business | jsonify }},
             "asset": {
-              "_ref": {{ business.Logo_image_path | prepend: "image@file:///Users/brentrobbins/VS/greeleydowntown.com/new/studio/import" | jsonify  }},
+              "_ref": {{ business.Logo_image_path | prepend: "image@file:///Users/brentrobbins/VS/greeleydowntown.com/_backups/long-jay1.cloudvent.net-1583135662" | jsonify  }},
               "_type": "reference"
             }
           },
