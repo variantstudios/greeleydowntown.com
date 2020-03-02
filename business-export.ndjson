@@ -69,6 +69,12 @@ sitemap: false
         "retail_categories": {{ business.retail_categories | jsonify }},
         "service_categories": {{ business.service_categories | jsonify }},
         "dining_categories": {{ business.dining_categories | jsonify }},
+        
+        "seoSettings": {
+            "_type": "seo",
+            "description": {{ business.content | jsonify | strip_html }},
+            "title": {{ business.Business | jsonify }}
+          }
     
 
       }
