@@ -17,6 +17,6 @@ Phone:
 Website: 'https://www.facebook.com/margiesjavajoint/'
 Contact_Name: Margaret Thompson
 Contact_Email:
-Logo_image_path: /assets/images/directory/margies.png
+Logo_image_path:
 ---
 
