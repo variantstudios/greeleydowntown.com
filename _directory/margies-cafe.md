@@ -14,7 +14,7 @@ City: Greeley
 State: Colorado
 Zip: '80631'
 Phone:
-Website: 'https://www.margiesjavajoint.com/'
+Website: 'https://www.facebook.com/margiesjavajoint/'
 Contact_Name: Margaret Thompson
 Contact_Email:
 Logo_image_path: /assets/images/directory/margies.png
