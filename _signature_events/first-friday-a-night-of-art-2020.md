@@ -16,6 +16,8 @@ weight_number: 4
 
 ![](/assets/1.jpg){: width="1224" height="1584"}
 
+![](/assets/district-6--friends-arts-walk-brochure---bean-plant-studio.jpg){: width="612" height="792"}
+
 ***Other events happening on Friday, March 6th***
 
 ### Syntax Spirits Distillery
