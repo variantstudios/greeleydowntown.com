@@ -20,6 +20,18 @@ weight_number: 4
 
 ***Other events happening on Friday, March 6th***
 
+### Madison & Main Gallery
+
+927 16th Street
+
+![](/assets/art-connects-us.jpg){: width="1440" height="810"}
+
+Madison & Main Gallery, in addition to featuring the artwork from Meeker Elementary Students, will also be holding an opening reception for "Art Connects Us". The title of this show says it all\! Join them and meet the artists.
+
 ### Syntax Spirits Distillery
 
 700 6th Street
+
+![](/assets/first-friday-art-with-anthony-ocean.jpg){: width="728" height="960"}
+
+Greeley artist Anthony Ocean is March's Syntax artist\! You can view his art on our walls through the month of March and meet him at the show's opening on March First Friday\! Anthony is a self taught colored pencil artist who enjoys the comic book genre and was inspired by artists like Michael Turner and Jim Lee. He wasn't excited about drawing the same character repeatedly to tell a story but was more inspired by the work of the incredible Drew Struzan. The idea of telling a story with one image in a dynamic and cinematic way is more exciting than anything. Now he works on doing both commission and personal artwork conceptualizing powerful images that convey emotion and imagery in a comic book style unique to him. Colored pencil and ink are his two main mediums as he likes the precision and playfulness that is the end product. He also works on fandom canvas pieces in acrylic for fun with a more spatter look and feel, so contact him if you are wanting something unique for yourself, or your business. He currently lives in Greeley with his very talented and amazing wife Liz and his cat and dog, who both love to steal focus with their furry shenanigans.
