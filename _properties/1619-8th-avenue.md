@@ -2,9 +2,9 @@
 title: 1619 8th Avenue
 property-type: Commercial
 image_path: /assets/018241782-1280x960.jpg
-sale-or-lease: Lease
+sale-or-lease: Sale
 square-footage: '720'
-price: $25/SF
+price: '$165,000'
 address: 1619 8th Avenue
 city: Greeley
 state: CO
@@ -19,6 +19,4 @@ image-gallery:
     large_image_path: /assets/images/properties/properties-default.png
 ---
 
-Prime location on 8th Ave within walking distance to new South Maddie Apartments, UNC, and Downtown Greeley. Needs work, please inquire with listing agent.
-
-[More information](https://www.coloproperty.com/listing/details/1198279){: target="_blank"}
+Here is your chance to own a piece of history close to the growing downtown area\! Situated directly across the street from one of the new apartment buildings and within walking distance to UNC\! New heating system recently installed and ready for your finishing touches.
