@@ -20,7 +20,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 17, 2020 at 3:03 p.m.)
 
-**[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Over the next 6-8 weeks, they will follow a modified schedule for events and meetings and will review as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need. You can reach them anytime via phone or email.
+**[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
 
 **[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders for curbside pickup.⠀To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
 
