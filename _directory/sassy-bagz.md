@@ -6,7 +6,7 @@ City: Greeley
 State: Colorado
 Zip: 80631
 Phone: (970) 302-9323
-Website: 'http://www.sassybagzgreeley.com'
+Website: 'http://shopsassybagz.com'
 dining_categories:
 entertainment_and_recreation_categories:
 lodging_and_event_centers_categories:
