@@ -8,7 +8,7 @@
   url: /parking-map/
 - text: Greeley Downtown Alliance
   url: /greeley-downtown-alliance/
-- text: "Supporters &amp; Sponsors"
+- text: Supporters &amp; Sponsors
   url: /supporters-and-sponsors/
 - text: Historic Downtown
   url: /historic-downtown/
@@ -18,3 +18,5 @@
   url: /get-involved/
 - text: Contact
   url: /contact/
+- text: Important Announcements
+  url: /announcements/
