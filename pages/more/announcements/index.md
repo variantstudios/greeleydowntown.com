@@ -20,6 +20,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 17, 2020 at 3:03 p.m.)
 
+[**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum){: target="_blank"} - Will be closed until March 30th. They will continue to monitor the situation and revise or adjust as needed.
+
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
 
 [**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday through Friday. Businesses can call, text or fb/tweet the station to give listeners updates on how to still utilize their services. Local entertainers can get on to promote ways folks can still watch or listen to them. Good Samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
