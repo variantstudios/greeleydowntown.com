@@ -20,15 +20,21 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 17, 2020)
 
+[**Accessories with a Flair\!...and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business.
+
 [**Batter Up Cakes Downtown**](https://www.facebook.com/BatterUpCakesGreeley/) - Open for take-out only Monday-Saturday 9am-5pm.
 
 [**Bear's Country Saloon**](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
+
+[**Blush Boutique Co**](https://www.facebook.com/blushboutiqueco/){: target="_blank"} - Open for business. Classes in March will be cancelled and will be rescheduled.&nbsp;
 
 [**Brix Brewery & Taphouse**](https://www.facebook.com/brixbrewtap/){: target="_blank"} - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. [eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"} are also available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 
 [**Canton Garden Restaurant**](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"} - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
 
 [**Colorado Dance Collective**](https://www.facebook.com/ColoradoDanceCollective/){: target="_blank"} - Cancelling classes this week at the Greeley Warehouse. The situation is fluid and changing constantly so keep checking back for more updates concerning next week's classes and Showcase.
+
+[**CIT - Consider It There**](https://www.facebook.com/CITGreeley/){: target="_blank"} - Will be taking via e-mail and phone but are not open to the public. Call 970-352-9334 to order and for pick up or drop off.
 
 [**Doug's Diner**](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"} - Open from 7am-1:30pm for carryout only.
 
@@ -44,7 +50,13 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Jenny's Malt Shop and Diner**](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
 
+[**John Galt Coffee Co.**](https://www.facebook.com/johngaltcoffee/){: target="_blank"} - Closed until further notice starting March 17th.
+
 [**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday through Friday. Businesses can call, text or fb/tweet the station to give listeners updates on how to still utilize their services. Local entertainers can get on to promote ways folks can still watch or listen to them. Good Samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
+
+[**Lincoln Park Emporium**](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"} - Open for business.
+
+[**Lincoln Park Library **](https://www.facebook.com/Lincoln-Park-Library-115697038460002/){: target="_blank"}\- Closed until April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
 
 [**Lonesome Buck**](https://www.facebook.com/lonesomebuck/){: target="_blank"} - Closed (for now). In the coming days, watch for information on To-Go Beer, merchandise and gift cards.
 
@@ -59,6 +71,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 [**Moxi Theater**](https://www.facebook.com/MoxiTheater/){: target="_blank"} - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Now is the time to write and rehearse\! Open and available 24/7 until at least April 17th. Check out the [website](https://www.moxitheater.com/venue-info/){: target="_blank"} for specs and contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com).
 
 [**Mom's Popcorn**](https://www.facebook.com/momspopcornCO/){: target="_blank"} - Closed through the end of the month starting March 18th.
+
+[**Mystical Threads Costume Studio/Alterations **](https://www.facebook.com/mysticalthreads/){: target="_blank"}\- Open during normal business hours, Tues-Sat 11:00-4:00.&nbsp; Nnot currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
@@ -87,5 +101,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 [**The Jager**](https://www.facebook.com/JagerGreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
 
 [**The Mad Cow**](https://www.facebook.com/madcowgreeley/){: target="_blank"} - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
+
+[**Warm Hugs Mixes & Gits Boutique**](https://www.facebook.com/WarmHugsMixes/){: target="_blank"} - Open for business.
 
 [**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. The on-line store ([https://weldwerksbrewing.com/order](https://weldwerksbrewing.com/order){: target="_blank"}) allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
