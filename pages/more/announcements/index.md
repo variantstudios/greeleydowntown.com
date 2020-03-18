@@ -26,31 +26,41 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Brix Brewery & Taphouse**](https://www.facebook.com/brixbrewtap/){: target="_blank"} - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. [eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"} are also available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 
+[**Canton Garden Restaurant**](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"} - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
+
+[**Doug's Diner**](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"} - Open from 7am-1:30pm for carryout only.
+
 [**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
 
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
 
 [**Greeley Chophouse**](https://www.facebook.com/GreeleyChophouse/){: target="_blank"} - Closed for 30 days starting March 17th.
 
+[**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
+
+[**Jenny's Malt Shop and Diner**](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
+
 [**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday through Friday. Businesses can call, text or fb/tweet the station to give listeners updates on how to still utilize their services. Local entertainers can get on to promote ways folks can still watch or listen to them. Good Samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 
 [**Lonesome Buck**](https://www.facebook.com/lonesomebuck/){: target="_blank"} - Closed (for now). In the coming days, watch for information on To-Go Beer, merchandise and gift cards.
 
-[**The Kress Cinema & Lounge**](https://www.facebook.com/kresscinema/){: target="_blank"} - Closed until further notice in the interest of public/employee health.
-
 **[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders. To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
 
-[**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
+[**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
 [**Roma Restaurant**](https://www.facebook.com/romapizzagreeley/){: target="_blank"} - Dining room and bar closed for the next 30 days for sit down service. They are still open for take out orders and NoCoNosh orders from 11am-1pm and 5-8pm.
 
-[**Sassy Bagz**](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"} - Open but will monitor and adjust as needed. You can also watch their Facebook page for live videos of things in the store for you to order. You can message them and they will have it ready when you stop by. You can also visit the website at&nbsp;[www.shopsassybagz.com](www.shopsassybagz.com){: target="_blank"}&nbsp;and I’ll ship it to you (free shipping).
+[**Sassy Bagz**](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"} - Open for regular hours but will monitor and adjust as needed. Watch their Facebook page for live videos of things in the store for you to order. Message them and they will have it ready when you stop by. You can also visit the website at&nbsp;[www.shopsassybagz.com](www.shopsassybagz.com){: target="_blank"}&nbsp;and they'll ship it to you (free shipping).
+
+[**Steamway Floor To Ceiling**](https://www.facebook.com/SteamWayFloorToCeiling/) - Open for regular hours. If you need cleaning please call us at 970-353-0133. If you have been sick or are feeling sick please wait to schedule or re-schedule any appointments for the safety of employees and their families.
+
+[**The Kress Cinema & Lounge**](https://www.facebook.com/kresscinema/){: target="_blank"} - Closed until further notice in the interest of public/employee health.
 
 [**Tower 56 Distilling**](https://www.facebook.com/Tower56/){: target="_blank"} - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
 
-[**The Blue Mug Coffee Bar and Roastery**](https://www.facebook.com/thebluemugcoffee/){: target="_blank"} - All locations will be take out and drive thru only for the next 30 days. They will now be implementing online ordering and e-gift cards that can be accessed by these links or through our website They will also be offering a gift card promotion for those that are able to support their business during this time (buy $50 get $10 free or buy $100 get $25 free.
+[**The Blue Mug Coffee Bar and Roastery**](https://www.facebook.com/thebluemugcoffee/){: target="_blank"} - Take out and drive thru only for the next 30 days. They are implementing online ordering and e-gift cards that can be accessed through our website Gift card promotions available for those that are able to support their business during this time (buy $50 get $10 free or buy $100 get $25 free).
 
 [**The Box**](https://www.facebook.com/theboxgreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
 
