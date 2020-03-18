@@ -44,9 +44,13 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Lonesome Buck**](https://www.facebook.com/lonesomebuck/){: target="_blank"} - Closed (for now). In the coming days, watch for information on To-Go Beer, merchandise and gift cards.
 
+[**Luna's Tacos & Tequila**](https://www.facebook.com/lunastacos/){: target="_blank"} - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
+
 **[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders. To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
 
 [**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
+
+Moxi Theater -&nbsp;
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
@@ -67,5 +71,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 [**The Country Inn**](https://www.facebook.com/The-Country-Inn-120605561288190/){: target="_blank"} - Closed for 30 days starting March 17th.
 
 [**The Jager**](https://www.facebook.com/JagerGreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
+
+[**The Mad Cow**](https://www.facebook.com/madcowgreeley/){: target="_blank"} - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
 
 [**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. The on-line store ([https://weldwerksbrewing.com/order](https://weldwerksbrewing.com/order){: target="_blank"}) allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
