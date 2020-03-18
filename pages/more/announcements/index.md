@@ -32,6 +32,28 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Canton Garden Restaurant**](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"} - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
 
+[**City Of Greeley Government**](https://www.facebook.com/greeleygov/){: target="_blank"} - Closed public access to all non-emergency facilities through March 30 at which time the situation will be re-evaluated. All essential city operations and staff — including, police, fire department, water, sewer, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. For information about specific city services, please use the following contact information:
+
+• Water & Sewer: 970-350-9818 — shannon.metcalf@greeleygov.com
+
+• Public Works: 970-350-9881 — m'liss.fonger@greeleygov.com
+
+• Greeley-Evans Transit: 970-350-9290 — get@greeleygov.com
+
+• Community Development: 970-350-9853 — tim.swanson@greeleygov.com
+
+• Culture, Parks, & Recreation: 970-350-9401 — megan.rink@greeleygov.com
+
+• Finance: 970-350-9731 — finance@greeleygov.com
+
+• Economic Health & Housing: 970-350-9380 — paula.turner@greeleygov.com
+
+• City Clerk’s Office: 970-350-9740 — cheryl.aragon@greeleygov.com
+
+• Municipal Court: 970-350-9230 — [mccourt@greeleygov.com](mailto:mccourt@greeleygov.com)
+
+More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
+
 [**Colorado Dance Collective**](https://www.facebook.com/ColoradoDanceCollective/){: target="_blank"} - Cancelling classes this week at the Greeley Warehouse. The situation is fluid and changing constantly so keep checking back for more updates concerning next week's classes and Showcase.
 
 [**CIT - Consider It There**](https://www.facebook.com/CITGreeley/){: target="_blank"} - Will be taking via e-mail and phone but are not open to the public. Call 970-352-9334 to order and for pick up or drop off.
