@@ -20,7 +20,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 18th, 2020 at 1:41pm)
 
-[**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020.&nbsp;Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
+[**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 
 [**Accessories with a Flair\!…and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business.
 
@@ -30,7 +30,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Bear's Country Saloon**](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
 
-[**Blush Boutique Co**](https://www.facebook.com/blushboutiqueco/){: target="_blank"} - Open for business. Classes in March will be cancelled and will be rescheduled.&nbsp;
+[**Blush Boutique Co**](https://www.facebook.com/blushboutiqueco/){: target="_blank"} - Closed for the next couple of weeks starting on March 18th. Keep up with on-line sales at [www.BlushBoutiqueCo.com](www.BlushBoutiqueCo.com){: target="_blank"} and watch their Facebook Page and Instagram for LIVE sales and news.
 
 [**Brix Brewery & Taphouse**](https://www.facebook.com/brixbrewtap/){: target="_blank"} - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. [eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"} are also available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 
