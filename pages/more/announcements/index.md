@@ -28,6 +28,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Canton Garden Restaurant**](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"} - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
 
+[**Colorado Dance Collective**](https://www.facebook.com/ColoradoDanceCollective/){: target="_blank"} - Cancelling classes this week at the Greeley Warehouse. The situation is fluid and changing constantly so keep checking back for more updates concerning next week's classes and Showcase.
+
 [**Doug's Diner**](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"} - Open from 7am-1:30pm for carryout only.
 
 [**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
@@ -35,6 +37,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
 
 [**Greeley Chophouse**](https://www.facebook.com/GreeleyChophouse/){: target="_blank"} - Closed for 30 days starting March 17th.
+
+[**Greeley Farmers' Market**](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"} - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
 
 [**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
 
