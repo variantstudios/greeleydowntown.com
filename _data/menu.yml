@@ -5,7 +5,7 @@
     - text: Dining Directory
       url: /dining-directory/
     - text: Creative District
-      url: http://www.discovergreeleycreativedistrict.com/
+      url: 'http://www.discovergreeleycreativedistrict.com/'
     - text: Live Directory
       url: /live-directory/
     - text: Photo Gallery
@@ -26,6 +26,8 @@
       url: /business-incentives/
 - text: More
   subitems:
+    - text: Important Announcements
+      url: /announcements/
     - text: About the DDA
       url: /about/
     - text: DDA Board of Directors
@@ -36,7 +38,7 @@
       url: /parking-map/
     - text: Greeley Downtown Alliance
       url: /greeley-downtown-alliance/
-    - text: "Supporters &amp; Sponsors"
+    - text: Supporters &amp; Sponsors
       url: /supporters-and-sponsors/
     - text: Historic Downtown
       url: /historic-downtown/
