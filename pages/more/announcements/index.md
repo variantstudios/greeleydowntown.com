@@ -24,6 +24,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Bear's Country Saloon**](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
 
+[**Brix Brewery & Taphouse**](https://www.facebook.com/brixbrewtap/){: target="_blank"} - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. [eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"} are also available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
+
 [**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
 
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
