@@ -18,7 +18,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ###### **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 17, 2020)
+(Updated March 18th, 2020 at 10:57am)
 
 [**Accessories with a Flair\!...and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business.
 
