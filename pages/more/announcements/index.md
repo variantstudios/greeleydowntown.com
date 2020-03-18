@@ -74,6 +74,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**The Kress Cinema & Lounge**](https://www.facebook.com/kresscinema/){: target="_blank"} - Closed until further notice in the interest of public/employee health.
 
+[**The Nerd Store**](https://www.facebook.com/Thenerdstore/){: target="_blank"} - Will remain open, but new store hours are 11am-8pm Monday through Saturday. The game room is fully closed, there is no open play or gatherings, we apologize for all those affected. They are devloping their curbside pickup system to allow you to get what you need without the need to leave your car.
+
 [**Tower 56 Distilling**](https://www.facebook.com/Tower56/){: target="_blank"} - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
 
 [**The Blue Mug Coffee Bar and Roastery**](https://www.facebook.com/thebluemugcoffee/){: target="_blank"} - Take out and drive thru only for the next 30 days. They are implementing online ordering and e-gift cards that can be accessed through our website Gift card promotions available for those that are able to support their business during this time (buy $50 get $10 free or buy $100 get $25 free).
