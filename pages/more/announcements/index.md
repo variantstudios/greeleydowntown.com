@@ -20,7 +20,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 18th, 2020 at 10:57am)
 
-[**Accessories with a Flair\!...and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business.
+[**Accessories with a Flair\!…and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business.
 
 [**Batter Up Cakes Downtown**](https://www.facebook.com/BatterUpCakesGreeley/) - Open for take-out only Monday-Saturday 9am-5pm.
 
@@ -127,3 +127,5 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 [**Warm Hugs Mixes & Gits Boutique**](https://www.facebook.com/WarmHugsMixes/){: target="_blank"} - Open for business.
 
 [**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. The on-line store ([https://weldwerksbrewing.com/order](https://weldwerksbrewing.com/order){: target="_blank"}) allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
+
+[**Wm Moore Jewelers**](https://www.facebook.com/WmMooreJewelers/){: target="_blank"} - Open 9am-5pm. If you are coming down, please call ahead to make sure we are there. If they do have to close they will offer appointment only service for emergency needs. For further questions, please call the store at 970-356-3420, email us at [wmmoorejewelers@gmail.com](mailto:wmmoorejewelers@gmail.com) or text 970-397-6964.
