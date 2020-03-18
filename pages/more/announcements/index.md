@@ -38,6 +38,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
+[**Sassy Bagz**](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"} - Open but will monitor and adjust as needed. You can also watch their Facebook page for live videos of things in the store for you to order. You can message them and they will have it ready when you stop by. You can also visit the website at&nbsp;[www.shopsassybagz.com](www.shopsassybagz.com){: target="_blank"}&nbsp;and I’ll ship it to you (free shipping).
+
 [**Tower 56 Distilling**](https://www.facebook.com/Tower56/){: target="_blank"} - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
 
 [**The Box**](https://www.facebook.com/theboxgreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
