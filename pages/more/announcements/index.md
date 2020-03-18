@@ -18,7 +18,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ###### **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 18th, 2020 at 10:57am)
+(Updated March 18th, 2020 at 1:41pm)
 
 [**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020.&nbsp;Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 
