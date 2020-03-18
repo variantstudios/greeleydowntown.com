@@ -22,6 +22,10 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Batter Up Cakes Downtown**](https://www.facebook.com/BatterUpCakesGreeley/) - Open for take-out only Monday-Saturday 9am-5pm.
 
+[**Bear's Country Saloon**](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
+
+[**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
+
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
 
 [**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday through Friday. Businesses can call, text or fb/tweet the station to give listeners updates on how to still utilize their services. Local entertainers can get on to promote ways folks can still watch or listen to them. Good Samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
@@ -35,3 +39,9 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
 [**Tower 56 Distilling**](https://www.facebook.com/Tower56/){: target="_blank"} - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
+
+[**The Box**](https://www.facebook.com/theboxgreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
+
+[**The Jager**](https://www.facebook.com/JagerGreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
+
+[**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. The on-line store ([https://weldwerksbrewing.com/order](https://weldwerksbrewing.com/order){: target="_blank"}) allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
