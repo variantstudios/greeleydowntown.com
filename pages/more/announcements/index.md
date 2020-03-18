@@ -20,7 +20,11 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 18th, 2020 at 10:57am)
 
+[**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020.&nbsp;Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
+
 [**Accessories with a Flair\!…and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business.
+
+[**Aunt Helen's Coffee House**](https://www.facebook.com/aunthelenscoffeehouse/){: target="_blank"} - Call 970-515-6542 for curbside pick up Monday-Friday from 7am-5pm and Saturday 8am-4pm.
 
 [**Batter Up Cakes Downtown**](https://www.facebook.com/BatterUpCakesGreeley/) - Open for take-out only Monday-Saturday 9am-5pm.
 
@@ -62,11 +66,13 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
 
-**[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
+**[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings. Keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
 
 [**Greeley Chophouse**](https://www.facebook.com/GreeleyChophouse/){: target="_blank"} - Closed for 30 days starting March 17th.
 
 [**Greeley Farmers' Market**](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"} - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
+
+[**Green Earth Brewing Company**](https://www.facebook.com/gebcobeer/){: target="_blank"} - On Wednesday, March 18th come in from 5-7pm and refill your 64 oz growler with Barbed Wire Black Ale, Allez &agrave; Paris White Ale, Colorado Summer Kolsch for $15. Strawberry Kölsch and Barrel Aged Black Ale are a bit pricier. While supplies last.
 
 [**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
 
@@ -84,9 +90,11 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**Luna's Tacos & Tequila**](https://www.facebook.com/lunastacos/){: target="_blank"} - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
 
-[**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
-
 [**Madison & Main Gallery**](https://www.facebook.com/madmaingallery/){: target="_blank"} - Closed through March 30th. If you would like make an appointment to purchase art contact Gin Leuchter at 970-356-5062.
+
+[**Margie's Java Joint**](https://www.facebook.com/margiesjavajoint/){: target="_blank"} - Open for carry-out/to-go orders only, from 8am-2pm until further notice
+
+[**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
 
 **[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders. To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
 
@@ -124,8 +132,12 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**The Mad Cow**](https://www.facebook.com/madcowgreeley/){: target="_blank"} - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
 
+[**Virtually Yours, LLC & The Eden Gallery**](https://www.facebook.com/vyco.eden/){: target="_blank"} - Open 10am-4pm Mondays-Thursday. Appointments and requests fro individual consults handled through the website @&nbsp;*[virtuallyyourscolorado.com](virtuallyyourscolorado.com){: target="_blank"}.*
+
 [**Warm Hugs Mixes & Gits Boutique**](https://www.facebook.com/WarmHugsMixes/){: target="_blank"} - Open for business.
 
 [**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. The on-line store ([https://weldwerksbrewing.com/order](https://weldwerksbrewing.com/order){: target="_blank"}) allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
 
-[**Wm Moore Jewelers**](https://www.facebook.com/WmMooreJewelers/){: target="_blank"} - Open 9am-5pm. If you are coming down, please call ahead to make sure we are there. If they do have to close they will offer appointment only service for emergency needs. For further questions, please call the store at 970-356-3420, email us at [wmmoorejewelers@gmail.com](mailto:wmmoorejewelers@gmail.com) or text 970-397-6964.
+[**Wm Moore Jewelers**](https://www.facebook.com/WmMooreJewelers/){: target="_blank"} - Open 9am-5pm, but please call ahead to make sure they are in. If they do have to close they will offer appointment only service for emergency needs. Call the store at 970-356-3420, email them at [wmmoorejewelers@gmail.com](mailto:wmmoorejewelers@gmail.com) or text 970-397-6964.
+
+[**Zoe's Cafe & Events**](https://www.facebook.com/zoescafeandevents/){: target="_blank"} - Closed at least through April 8th.
