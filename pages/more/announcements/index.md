@@ -94,7 +94,7 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**Mom's Popcorn**](https://www.facebook.com/momspopcornCO/){: target="_blank"} - Closed through the end of the month starting March 18th.
 
-[**Mystical Threads Costume Studio and Alterations **](https://www.facebook.com/mysticalthreads/){: target="_blank"}\- Open during normal business hours, Tues-Sat 11:00-4:00.&nbsp; Nnot currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
+[**Mystical Threads Costume Studio and Alterations**](https://www.facebook.com/mysticalthreads/){: target="_blank"} - Open during normal business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
