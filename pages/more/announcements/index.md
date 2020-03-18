@@ -50,6 +50,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
 
+[**Madison & Main Gallery**](https://www.facebook.com/madmaingallery/){: target="_blank"} - Closed through March 30th. If you would like make an appointment to purchase art contact Gin Leuchter at 970-356-5062.
+
 [**Moxi Theater**](https://www.facebook.com/MoxiTheater/){: target="_blank"} - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Now is the time to write and rehearse\! Open and available 24/7 until at least April 17th. Check out the [website](https://www.moxitheater.com/venue-info/){: target="_blank"} for specs and contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com).
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
