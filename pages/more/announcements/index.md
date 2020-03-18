@@ -64,6 +64,8 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**Doug's Diner**](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"} - Open from 7am-1:30pm for carryout only.
 
+[**Free Leaf**](https://www.facebook.com/shopfreeleaf/){: target="_blank"} - Open from 8am-2pm until further notice and the on-line shop will remain open.
+
 [**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
 
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings. Keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
