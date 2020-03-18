@@ -20,7 +20,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 17, 2020 at 3:03 p.m.)
 
-[**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum){: target="_blank"} - Will be closed until March 30th. They will continue to monitor the situation and revise or adjust as needed.
+[**Batter Up Cakes Downtown**](https://www.facebook.com/BatterUpCakesGreeley/) - Open for take-out only Monday-Saturday 9am-5pm.
 
 **[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings which will be reviewed as needed and appropriate. Please keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. They will be working remotely to provide visitors with information and investors with all they need, so you can reach them anytime via phone or email.
 
