@@ -11,11 +11,6 @@ permalink: /announcements/
 
 The Staff will be updating this page regularly to reflect the rapidly evolving business environment in Downtown Greeley. To include your business, please email any announcements, special offers, closure information or relevant updates to [karen@greeleydowntown.com](mailto:karen@greeleydowntown.com). In addition, we would suggest that you immediately update your store hours and info on your respective Google listings, websites, social media channels, and to reach out directly to your clients and customers via your email and contact lists.
 
-**CANCELLATION OF UPCOMING DDA MEETINGS & PROGRAMS:&nbsp;**
-
-* March 19th – DDA Board Meeting
-* March 20th – GDA Meeting
-
 ###### **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
 (Updated March 18th, 2020 at 8:12pm)
