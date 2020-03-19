@@ -74,6 +74,8 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**Greeley Farmers' Market**](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"} - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
 
+Green Earth Brewing Company - Bring your Growlers to the taproom from 5-7pm on Friday and 2-5pm on Saturday and they will fill them for you.
+
 [**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
 
 [**Jenny's Malt Shop and Diner**](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
