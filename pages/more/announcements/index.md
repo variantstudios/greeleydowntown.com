@@ -18,7 +18,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ###### **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 18th, 2020 at 1:41pm)
+(Updated March 18th, 2020 at 8:12pm)
 
 [**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 
@@ -74,15 +74,13 @@ More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://gr
 
 [**Greeley Farmers' Market**](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"} - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
 
-[**Green Earth Brewing Company**](https://www.facebook.com/gebcobeer/){: target="_blank"} - On Wednesday, March 18th come in from 5-7pm and refill your 64 oz growler with Barbed Wire Black Ale, Allez &agrave; Paris White Ale, Colorado Summer Kolsch for $15. Strawberry Kölsch and Barrel Aged Black Ale are a bit pricier. While supplies last.
-
 [**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
 
 [**Jenny's Malt Shop and Diner**](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
 
 [**John Galt Coffee Co.**](https://www.facebook.com/johngaltcoffee/){: target="_blank"} - Closed until further notice starting March 17th.
 
-[**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday through Friday. Businesses can call, text or fb/tweet the station to give listeners updates on how to still utilize their services. Local entertainers can get on to promote ways folks can still watch or listen to them. Good Samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
+[**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 
 [**Lincoln Park Emporium**](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"} - Open for business.
 
