@@ -37,7 +37,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**CIT - Consider It There**](https://www.facebook.com/CITGreeley/){: target="_blank"} - Will be taking via e-mail and phone but are not open to the public. Call 970-352-9334 to order and for pick up or drop off.
 
-[**DoubleTree by Hilton Greeley at Lincoln Park**](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"} - Open and accepting overnight guests.
+[**DoubleTree by Hilton Greeley at Lincoln Park**](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"} - Open and accepting overnight reservations.
 
 [**Doug's Diner**](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"} - Open from 7am-1:30pm for carryout only.
 
