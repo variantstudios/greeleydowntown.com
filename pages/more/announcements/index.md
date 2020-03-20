@@ -17,17 +17,17 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ### **Open**
 
-[**Accessories with a Flair\!…and Hai**](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}r - Open for business Monday-Saturday 10am-3pm. Call 970-351-6448.
+**&nbsp; &nbsp; &nbsp;[Accessories with a Flair\!…and Hai](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}**r - Open for business Monday-Saturday 10am-3pm. Call 970-351-6448.
 
-[**CIT - Consider It There**](https://www.facebook.com/CITGreeley/){: target="_blank"} - Will be taking via e-mail and phone but are not open to the public. Call 970-352-9334 to order and for pick up or drop off.
+**&nbsp; &nbsp; &nbsp;[CIT - Consider It There](https://www.facebook.com/CITGreeley/){: target="_blank"}** - Will be taking via e-mail and phone but are not open to the public. Call 970-352-9334 to order and for pick up or drop off.
 
-[**DoubleTree by Hilton Greeley at Lincoln Park**](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"} - Open and accepting overnight reservations.
+**&nbsp; &nbsp; &nbsp;[DoubleTree by Hilton Greeley at Lincoln Park](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"}** - Open and accepting overnight reservations.
 
-[**Free Leaf**](https://www.facebook.com/shopfreeleaf/){: target="_blank"} - Open from 8am-2pm until further notice and the on-line shop will remain open.
+**&nbsp; &nbsp; &nbsp;[Free Leaf](https://www.facebook.com/shopfreeleaf/){: target="_blank"}** - Open from 8am-2pm until further notice and the on-line shop will remain open.
 
-[**Lincoln Park Emporium**](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"} - Open for business.
+**&nbsp; &nbsp; &nbsp;[Lincoln Park Emporium](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"}** - Open for business.
 
-[**Mariposa Plants & Flowers**](https://www.facebook.com/Mariposaflowers/){: target="_blank"} - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
+**&nbsp; &nbsp; &nbsp;[Mariposa Plants & Flowers](https://www.facebook.com/Mariposaflowers/){: target="_blank"}** - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
 
 [**Mystical Threads Costume Studio and Alterations**](https://www.facebook.com/mysticalthreads/){: target="_blank"} - Open during normal business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
 
