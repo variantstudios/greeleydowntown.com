@@ -62,6 +62,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[Sassy Bagz](www.shopsassybagz.com){: target="_blank"}** - Visit the website, shop, and they'll ship it to you (free shipping).
 * **[Tower 56 Distilling](https://squareup.com/gift/M8ADXDSHNPT00/order){: target="_blank"}** - Gift Cards available on-line.
 * **[Trinkets-n-Treasures](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"}** - On-line shopping thru artist/vendor ads posted on Craig's List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.&nbsp; Free curbside pickup and possible free delivery based on purchase value.&nbsp;
+* [**Warm Hugs Mixes & Gifts Boutique**](https://warmhugsmixes.com/shop/){: target="_blank"} - Get your shopping done and order [gift certificates](https://warmhugsmixes.com/product/gift-certificate/){: target="_blank"}&nbsp;on-line.
 * **[WeldWerks Brewing Company](https://weldwerksbrewing.com/order)**&nbsp;- The on-line store allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
 
 ## **On-Line Classes/Services**
