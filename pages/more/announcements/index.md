@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ###### **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 18th, 2020 at 8:12pm)
+(Updated March 19th, 2020 at 6:37pm)
 
 [**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 
@@ -53,6 +53,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Green Earth Brewing Company**](https://www.facebook.com/gebcobeer/){: target="_blank"} - Bring your Growlers to the taproom from 5-7pm on Friday and 2-5pm on Saturday and they will fill them for you.
 
+[**High Brau Taphouse**](https://www.facebook.com/highbrautap/){: target="_blank"} - Closed starting March 17th. [Gift cards](https://squareup.com/gift/Q6PRSP7J78WQP/order?fbclid=IwAR3G38XL6zd08BSLgBp--2rAaS0etncNAuQD_B4iBFnCbjRcJyECLFyQ6vk){: target="_blank"} available for purchase.
+
 [**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
 
 [**Jenny's Malt Shop and Diner**](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
@@ -77,13 +79,15 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders. To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
 
-[**Moxi Theater**](https://www.facebook.com/MoxiTheater/){: target="_blank"} - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Now is the time to write and rehearse\! Open and available 24/7 until at least April 17th. Check out the [website](https://www.moxitheater.com/venue-info/){: target="_blank"} for specs and contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com).
+[**Moxi Theater**](https://www.facebook.com/MoxiTheater/){: target="_blank"} - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). G[oin' Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"} Friday, March 20th from 8-10pm.
 
 [**Mom's Popcorn**](https://www.facebook.com/momspopcornCO/){: target="_blank"} - Closed through the end of the month starting March 18th.
 
 [**Mystical Threads Costume Studio and Alterations**](https://www.facebook.com/mysticalthreads/){: target="_blank"} - Open during normal business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
 
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
+
+Red Sea Restaurant - Open during normal business hours for takeout only.
 
 [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Closed starting March 16th. Assessing weekly to determine when it's safe to reopen.
 
@@ -110,6 +114,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 [**The Jager**](https://www.facebook.com/JagerGreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
 
 [**The Mad Cow**](https://www.facebook.com/madcowgreeley/){: target="_blank"} - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
+
+[**Trinkets-n-Treasures**](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"} - Open for normal hours (Tuesday-Friday 4-7pm, Saturday 9am-5pm, Sunday 10am-5pm). On-line shopping thru artist/vendor ads posted on Craig's List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.&nbsp; Free curbside pickup and possible free delivery based on purchase value.&nbsp;
 
 [**Virtually Yours, LLC & The Eden Gallery**](https://www.facebook.com/vyco.eden/){: target="_blank"} - Open 10am-4pm Mondays-Thursday. Appointments and requests fro individual consults handled through the website @&nbsp;*[virtuallyyourscolorado.com](virtuallyyourscolorado.com){: target="_blank"}.*
 
