@@ -47,43 +47,43 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ### Take Out/Curbside/Delivery
 
-[**Aunt Helen's Coffee House**](https://www.facebook.com/aunthelenscoffeehouse/){: target="_blank"} - Call 970-515-6542 for curbside pick up Monday-Friday from 7am-5pm and Saturday 8am-4pm.
+**&nbsp; &nbsp; &nbsp;[Aunt Helen's Coffee House](https://www.facebook.com/aunthelenscoffeehouse/){: target="_blank"}** - Call 970-515-6542 for curbside pick up Monday-Friday from 7am-5pm and Saturday 8am-4pm.
 
-[**Batter Up Cakes Downtown**](https://www.facebook.com/BatterUpCakesGreeley/) - Open for take-out only Monday-Saturday 9am-5pm.
+**&nbsp; &nbsp; &nbsp;[Batter Up Cakes Downtown](https://www.facebook.com/BatterUpCakesGreeley/)** - Open for take-out only Monday-Saturday 9am-5pm.
 
-[**Brix Brewery & Taphouse**](https://www.facebook.com/brixbrewtap/){: target="_blank"} - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
+**&nbsp; &nbsp; &nbsp;[Brix Brewery & Taphouse](https://www.facebook.com/brixbrewtap/){: target="_blank"}** - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 
-[**Canton Garden Restaurant**](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"} - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
+**&nbsp; &nbsp; &nbsp;[Canton Garden Restaurant](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"}** - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
 
-**Carl's Junior** - Drive thru open
+**&nbsp; &nbsp; &nbsp;Carl's Junior** - Drive thru open
 
-**[Chipolte](Chipotle.com){: target="_blank"}&nbsp;**\- Offering guests free delivery March 15th-31st&nbsp; with a minimum purchase of $10 or more through the Chipotle app and [Chipotle.com](Chipotle.com){: target="_blank"}. [Postmates](https://postmates.com/)will also be offering free delivery between March 16th-31st. No minimum purchase required and guests must enter the code “CHIPOTLEME” at checkout to receive the free delivery promotion.
+**&nbsp; &nbsp; &nbsp;[Chipolte](Chipotle.com){: target="_blank"}&nbsp;**\- Offering guests free delivery March 15th-31st&nbsp; with a minimum purchase of $10 or more through the Chipotle app and [Chipotle.com](Chipotle.com){: target="_blank"}. [Postmates](https://postmates.com/)will also be offering free delivery between March 16th-31st. No minimum purchase required and guests must enter the code “CHIPOTLEME” at checkout to receive the free delivery promotion.
 
-[**Doug's Diner**](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"} - Open from 7am-1:30pm for carryout only.
+**&nbsp; &nbsp; &nbsp;[Doug's Diner](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"}** - Open from 7am-1:30pm for carryout only.
 
-[**Green Earth Brewing Company**](https://www.facebook.com/gebcobeer/){: target="_blank"} - Bring your Growlers to the taproom from 5-7pm on Friday and 2-5pm on Saturday and they will fill them for you.
+**&nbsp; &nbsp; &nbsp;[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring your Growlers to the taproom from 5-7pm on Friday and 2-5pm on Saturday and they will fill them for you.
 
-[**Luna's Tacos & Tequila**](https://www.facebook.com/lunastacos/){: target="_blank"} - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
+**&nbsp; &nbsp; &nbsp;[Luna's Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
 
-[**Margie's Java Joint**](https://www.facebook.com/margiesjavajoint/){: target="_blank"} - Open for carry-out/to-go orders only, from 8am-2pm until further notice
+**&nbsp; &nbsp; &nbsp;[Margie's Java Joint](https://www.facebook.com/margiesjavajoint/){: target="_blank"}** - Open for carry-out/to-go orders only, from 8am-2pm until further notice
 
-**[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders. To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
+**&nbsp; &nbsp; &nbsp;[Meeker's A Colorado Kitchen &&nbsp; Bar](https://www.facebook.com/MeekersKitchen/){: target="_blank"} –**&nbsp;Offering Curbside Pickup meals for breakfast, lunch and dinner. Please call 970-353-1883 to place your orders. To view the Curbside Menu visit:&nbsp;[https://meekersrestaurant.com/menu/](https://meekersrestaurant.com/menu/){: target="_blank"}
 
-**Red Sea Restaurant** - Open during normal business hours for takeout only.
+**&nbsp; &nbsp; &nbsp;Red Sea Restaurant** - Open during normal business hours for takeout only.
 
-[**Roma Restaurant**](https://www.facebook.com/romapizzagreeley/){: target="_blank"} - Dining room and bar closed for the next 30 days for sit down service. They are still open for take out orders and [NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
+**&nbsp; &nbsp; &nbsp;[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Dining room and bar closed for the next 30 days for sit down service. They are still open for take out orders and [NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
 
-[**Santeramo's Pizza House and Italian Food**](https://www.facebook.com/santeramospizzahouse/){: target="_blank"} - Offering curbside pickup for all to go orders and delivery through [GrubHub](https://www.grubhub.com/){: target="_blank"}, [Doordash](https://www.doordash.com/){: target="_blank"} and [NocoNosh](https://www.noconosh.com/){: target="_blank"}. Free House Salad per order. For all curbside orders please call 970-353-4844.
+**&nbsp; &nbsp; &nbsp;[Santeramo's Pizza House and Italian Food](https://www.facebook.com/santeramospizzahouse/){: target="_blank"}** - Offering curbside pickup for all to go orders and delivery through [GrubHub](https://www.grubhub.com/){: target="_blank"}, [Doordash](https://www.doordash.com/){: target="_blank"} and [NocoNosh](https://www.noconosh.com/){: target="_blank"}. Free House Salad per order. For all curbside orders please call 970-353-4844.
 
-**Subway** - Open for takeout on our regular hours. Order ahead online.
+**&nbsp; &nbsp; &nbsp;Subway** - Open for takeout on our regular hours. Order ahead online.
 
-[**Tower 56 Distilling**](https://www.facebook.com/Tower56/){: target="_blank"} - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
+**&nbsp; &nbsp; &nbsp;[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
 
 [**The Blue Mug Coffee Bar and Roastery**](https://www.facebook.com/thebluemugcoffee/){: target="_blank"} - Take out and drive thru only for the next 30 days. They are working on on-line ordering and e-gift cards that can be accessed through our website. Gift card promotions available for those that are able to support their business during this time (buy $50 get $10 free or buy $100 get $25 free).
 
-[**The Mad Cow**](https://www.facebook.com/madcowgreeley/){: target="_blank"} - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
+**&nbsp; &nbsp; &nbsp;[The Mad Cow](https://www.facebook.com/madcowgreeley/){: target="_blank"}** - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
 
-[**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}&nbsp;- The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. [On-line store available](https://weldwerksbrewing.com/order){: target="_blank"}.
+**&nbsp; &nbsp; &nbsp;[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. [On-line store available](https://weldwerksbrewing.com/order){: target="_blank"}.
 
 ### **On-Line Shopping/Gift Certificates/Merchandise Sales**
 
