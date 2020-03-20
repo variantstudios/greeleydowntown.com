@@ -2,13 +2,13 @@
 layout: page
 title: DDA Board Members
 description: >-
-  Downtown Development Authority (DDA) Board of Directors meetings take place
-  the 3rd Thursday of each month at 7:30 am. These meetings are held in the
-  conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are
-  open to the public.
+  Greeley Downtown Development Authority (DDA) Board meetings take place the 3rd
+  Thursday of each month at 7:30 am. These meetings are held in the conference
+  room on the 3rd Floor of the Chase Tower (822 7th Street) and are open to the
+  public.
 meeting_agenda:
-  - title: 
-    pdf_path: 
+  - title:
+    pdf_path:
 meeting_minutes:
   - title: February 2020 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes 2-20-2020.pdf
@@ -23,13 +23,13 @@ class: board
 permalink: /dda-board-directors/
 ---
 
-Downtown Development Authority (DDA) Board of Directors meetings take place the 3rd Thursday of each month at 7:30am. These meetings are held in the conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are open to the public.
+Greeley Downtown Development Authority (DDA) Board meetings take place the 3rd Thursday of each month at 7:30 am. These meetings are held in the conference room on the 3rd Floor of the Chase Tower (822 7th Street) and are open to the public.
 
 ***The Thursday, March 19th DDA Board Meeting has been cancelled. Our next regularly scheduled meeting will be on Thursday, April 16th&nbsp;***
 
 ![DDA Board of Directors](/assets/20200220-084406.jpg){: width="3884" height="1714"}
 
-### Board of Directors
+### Board Members
 
 * Drew Notestine, *Thomas & Tyler*
 * Tom Grant, *Grant & Hoffman*
