@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DDA Board of Directors
+title: DDA Board Members
 description: >-
   Downtown Development Authority (DDA) Board of Directors meetings take place
   the 3rd Thursday of each month at 7:30 am. These meetings are held in the
