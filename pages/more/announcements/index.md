@@ -7,31 +7,31 @@ header_image_path: /assets/images/headers/amanda-marie-mural-finished.jpg
 permalink: /announcements/
 ---
 
-# IMPORTANT DOWNTOWN BUSINESS ANNOUNCEMENTS
+# **IMPORTANT DOWNTOWN BUSINESS ANNOUNCEMENTS**
 
 The Staff will be updating this page regularly to reflect the rapidly evolving business environment in Downtown Greeley. To include your business, please email any announcements, special offers, closure information or relevant updates to [karen@greeleydowntown.com](mailto:karen@greeleydowntown.com). In addition, we would suggest that you immediately update your store hours and info on your respective Google listings, websites, social media channels, and to reach out directly to your clients and customers via your email and contact lists.
 
-###### **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
+**BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
 (Updated March 20th, 2020 at 1:20pm)
 
-### **Open (Retail & General)**
+## **Open (Retail & General)**
 
-**&nbsp; &nbsp; &nbsp;[Accessories with a Flair\!…and Hai](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}**r - Open for business Monday-Saturday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10am-3pm. Call 970-351-6448.
+**&nbsp; &nbsp; &nbsp;[Accessories with a Flair\!…and Hai](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}**r - Open for business Monday-Saturday 10am-3pm. Call 970-351-6448.
 
-**&nbsp; &nbsp; &nbsp;[CIT - Consider It There](https://www.facebook.com/CITGreeley/){: target="_blank"}** - Will be taking via e-mail and phone but are not open&nbsp; **&nbsp; &nbsp; &nbsp;**to the public. Call 970-352-9334 to order and for pick up or drop off.
+**&nbsp; &nbsp; &nbsp;[CIT - Consider It There](https://www.facebook.com/CITGreeley/){: target="_blank"}** - Will be taking via e-mail and phone but are not open**&nbsp;**to the public. Call 970-352-9334 to order and for pick up or drop off.
 
 **&nbsp; &nbsp; &nbsp;[DoubleTree by Hilton Greeley at Lincoln Park](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"}** - Open and accepting overnight **&nbsp; &nbsp; &nbsp;**reservations.
 
-**&nbsp; &nbsp; &nbsp;[Free Leaf](https://www.facebook.com/shopfreeleaf/){: target="_blank"}** - Open from 8am-2pm until further notice and the on-line shop will **&nbsp; &nbsp; &nbsp; &nbsp;**remain open.
+**&nbsp; &nbsp; &nbsp;[Free Leaf](https://www.facebook.com/shopfreeleaf/){: target="_blank"}** - Open from 8am-2pm until further notice and the on-line shop will**&nbsp;**remain open.
 
 **&nbsp; &nbsp; &nbsp;[Lincoln Park Emporium](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"}** - Open for business.
 
-**&nbsp; &nbsp; &nbsp;[Mariposa Plants & Flowers](https://www.facebook.com/Mariposaflowers/){: target="_blank"}** - Open for regular business hours and delivering **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**cheer\! They are here for you and encourage you to support their local **&nbsp; &nbsp; &nbsp;****&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;****&nbsp; &nbsp; &nbsp; &nbsp;**downtown friends (especially restaurants) the best you can.
+**&nbsp; &nbsp; &nbsp;[Mariposa Plants & Flowers](https://www.facebook.com/Mariposaflowers/){: target="_blank"}** - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local**&nbsp;**downtown friends (especially restaurants) the best you can.
 
-**&nbsp; &nbsp; &nbsp;[Mystical Threads Costume Studio and Alterations](https://www.facebook.com/mysticalthreads/){: target="_blank"}** - Open during normal **&nbsp; &nbsp; &nbsp;****&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting **&nbsp; &nbsp; &nbsp;****&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**appointments, but is available for drop-offs and pick-ups, and any other **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**projects.&nbsp; Please call with any questions, 970-702-2327.
+**&nbsp; &nbsp; &nbsp;[Mystical Threads Costume Studio and Alterations](https://www.facebook.com/mysticalthreads/){: target="_blank"}** - Open during normal**&nbsp;**business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other**&nbsp;**projects.&nbsp; Please call with any questions, 970-702-2327.
 
-**&nbsp; &nbsp; &nbsp;[Sassy Bagz](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"}** - Open for regular hours but will monitor and adjust as needed. **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Watch their Facebook page for live videos of things in the store for you to **&nbsp; &nbsp; &nbsp;****&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;**order. Message them and they will have it ready when you stop by.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **&nbsp; &nbsp; &nbsp; &nbsp;**[On-line shopping also available](https://shopsassybagz.com/){: target="_blank"}.
+**&nbsp; &nbsp; &nbsp;[Sassy Bagz](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"}** - Open for regular hours but will monitor and adjust as needed.**&nbsp;**Watch their Facebook page for live videos of things in the store for you to order. Message them and they will have it ready when you stop by. [On-line shopping also available](https://shopsassybagz.com/){: target="_blank"}.
 
 **&nbsp; &nbsp; &nbsp;[Steamway Floor To Ceiling](https://www.facebook.com/SteamWayFloorToCeiling/)** - Open for regular hours. If you need cleaning please call us at 970-353-0133. If you have been sick or are feeling sick please wait to schedule or re-schedule any appointments for the safety of employees and their families.
 
@@ -45,7 +45,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **&nbsp; &nbsp; &nbsp;[Wm Moore Jewelers](https://www.facebook.com/WmMooreJewelers/){: target="_blank"}** - Open 9am-5pm, but please call ahead to make sure they are in. If they do have to close they will offer appointment only service for emergency needs. Call the store at 970-356-3420, email them at [wmmoorejewelers@gmail.com](mailto:wmmoorejewelers@gmail.com) or text 970-397-6964.
 
-### Take Out/Curbside/Delivery
+## **Take Out/Curbside/Delivery**
 
 **&nbsp; &nbsp; &nbsp;[Aunt Helen's Coffee House](https://www.facebook.com/aunthelenscoffeehouse/){: target="_blank"}** - Call 970-515-6542 for curbside pick up Monday-Friday from 7am-5pm and Saturday 8am-4pm.
 
@@ -85,7 +85,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **&nbsp; &nbsp; &nbsp;[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. [On-line store available](https://weldwerksbrewing.com/order){: target="_blank"}.
 
-### **On-Line Shopping/Gift Certificates/Merchandise Sales**
+## **On-Line Shopping/Gift Certificates/Merchandise Sales**
 
 **&nbsp; &nbsp; &nbsp;[Blush Boutique Co](www.BlushBoutiqueCo.com){: target="_blank"}** - Closed for the next couple of weeks starting on March 18th. Keep up with on-line sales and watch their [Facebook Page](https://www.facebook.com/blushboutiqueco/){: target="_blank"} and Instagram for LIVE sales and news.
 
@@ -101,19 +101,19 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **&nbsp; &nbsp; &nbsp;[WeldWerks Brewing Company](https://weldwerksbrewing.com/order)**&nbsp;- The on-line store allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
 
-### **On-Line Classes/Services**
+**On-Line Classes/Services**
 
 **&nbsp; &nbsp; &nbsp;[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 
 **&nbsp; &nbsp; &nbsp;[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
 
-### **Live Streaming Events**
+**Live Streaming Events**
 
 **&nbsp; &nbsp; &nbsp;&nbsp;[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 
 **&nbsp; &nbsp; &nbsp;[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). G[oin' Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"} Friday, March 20th from 8-10pm.
 
-### **Temporarily Closed**
+## **Temporarily Closed**
 
 **&nbsp; &nbsp; &nbsp;[Bear's Country Saloon](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"}** - Closed for 30 days starting on March 17th.
 
