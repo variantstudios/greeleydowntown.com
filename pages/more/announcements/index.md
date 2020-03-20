@@ -31,6 +31,8 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Canton Garden Restaurant**](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"} - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
 
+**Chipotle** &nbsp;807 17th St - Open and staying strong\! We’re offering guests free delivery between Sunday, March 15 – Tuesday, March 31 with a minimum purchase of $10 or more through the Chipotle app and Chipotle.com. In addition, Postmates will also be offering free delivery between Monday, March 16 – March 31. There is no minimum purchase required and guests must enter the code “CHIPOTLEME” at checkout to receive the free delivery promotion.
+
 [**City Of Greeley Government**](https://www.facebook.com/greeleygov/){: target="_blank"} - Closed public access to all non-emergency facilities through March 30 at which time the situation will be re-evaluated. All essential city operations and staff — including, police, fire department, water, sewer, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
 
 [**Colorado Dance Collective**](https://www.facebook.com/ColoradoDanceCollective/){: target="_blank"} - Cancelling classes this week at the Greeley Warehouse. The situation is fluid and changing constantly so keep checking back for more updates concerning next week's classes and Showcase.
