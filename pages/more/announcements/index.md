@@ -15,7 +15,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 20th, 2020 at 1:20pm)
 
-### **Open**
+### **Open (Retail & General)**
 
 **&nbsp; &nbsp; &nbsp;[Accessories with a Flair\!…and Hai](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}**r - Open for business Monday-Saturday 10am-3pm. Call 970-351-6448.
 
@@ -29,21 +29,21 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **&nbsp; &nbsp; &nbsp;[Mariposa Plants & Flowers](https://www.facebook.com/Mariposaflowers/){: target="_blank"}** - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local downtown friends (especially restaurants) the best you can.
 
-[**Mystical Threads Costume Studio and Alterations**](https://www.facebook.com/mysticalthreads/){: target="_blank"} - Open during normal business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
+**&nbsp; &nbsp; &nbsp;[Mystical Threads Costume Studio and Alterations](https://www.facebook.com/mysticalthreads/){: target="_blank"}** - Open during normal business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
 
-[**Sassy Bagz**](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"} - Open for regular hours but will monitor and adjust as needed. Watch their Facebook page for live videos of things in the store for you to order. Message them and they will have it ready when you stop by. [On-line shopping also available](www.shopsassybagz.com){: target="_blank"}.
+**&nbsp; &nbsp; &nbsp;[Sassy Bagz](https://www.facebook.com/SassyBagzGreeley/){: target="_blank"}** - Open for regular hours but will monitor and adjust as needed. Watch their Facebook page for live videos of things in the store for you to order. Message them and they will have it ready when you stop by. [On-line shopping also available](www.shopsassybagz.com){: target="_blank"}.
 
-[**Steamway Floor To Ceiling**](https://www.facebook.com/SteamWayFloorToCeiling/) - Open for regular hours. If you need cleaning please call us at 970-353-0133. If you have been sick or are feeling sick please wait to schedule or re-schedule any appointments for the safety of employees and their families.
+**&nbsp; &nbsp; &nbsp;[Steamway Floor To Ceiling](https://www.facebook.com/SteamWayFloorToCeiling/)** - Open for regular hours. If you need cleaning please call us at 970-353-0133. If you have been sick or are feeling sick please wait to schedule or re-schedule any appointments for the safety of employees and their families.
 
-[**The Nerd Store**](https://www.facebook.com/Thenerdstore/){: target="_blank"} - Will remain open, but new store hours are 11am-8pm Monday through Saturday. The game room is fully closed, there is no open play or gatherings, we apologize for all those affected. They are devloping their curbside pickup system to allow you to get what you need without the need to leave your car.
+**&nbsp; &nbsp; &nbsp;[The Nerd Store](https://www.facebook.com/Thenerdstore/){: target="_blank"}** - Will remain open, but new store hours are 11am-8pm Monday through Saturday. The game room is fully closed, there is no open play or gatherings, we apologize for all those affected. They are devloping their curbside pickup system to allow you to get what you need without the need to leave your car.
 
-[**Trinkets-n-Treasures**](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"} - Open for normal hours (Tuesday-Friday 4-7pm, Saturday 9am-5pm, Sunday 10am-5pm). On-line shopping thru artist/vendor ads posted on Craig's List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.&nbsp; Free curbside pickup and possible free delivery based on purchase value.&nbsp;
+**&nbsp; &nbsp; &nbsp;[Trinkets-n-Treasures](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"}** - Open for normal hours (Tuesday-Friday 4-7pm, Saturday 9am-5pm, Sunday 10am-5pm). On-line shopping thru artist/vendor ads posted on Craig's List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.&nbsp; Free curbside pickup and possible free delivery based on purchase value.&nbsp;
 
-[**Virtually Yours, LLC & The Eden Gallery**](https://www.facebook.com/vyco.eden/){: target="_blank"} - Open 10am-4pm Mondays-Thursday. Appointments and requests fro individual consults handled through the website @&nbsp;*[virtuallyyourscolorado.com](virtuallyyourscolorado.com){: target="_blank"}.*
+**&nbsp; &nbsp; &nbsp;[Virtually Yours, LLC & The Eden Gallery](https://www.facebook.com/vyco.eden/){: target="_blank"}** - Open 10am-4pm Mondays-Thursday. Appointments and requests fro individual consults handled through the website @&nbsp;*[virtuallyyourscolorado.com](virtuallyyourscolorado.com){: target="_blank"}.*
 
-[**Warm Hugs Mixes & Gits Boutique**](https://www.facebook.com/WarmHugsMixes/){: target="_blank"} - Open for business.
+**&nbsp; &nbsp; &nbsp;[Warm Hugs Mixes & Gits Boutique](https://www.facebook.com/WarmHugsMixes/){: target="_blank"}** - Open for business.
 
-[**Wm Moore Jewelers**](https://www.facebook.com/WmMooreJewelers/){: target="_blank"} - Open 9am-5pm, but please call ahead to make sure they are in. If they do have to close they will offer appointment only service for emergency needs. Call the store at 970-356-3420, email them at [wmmoorejewelers@gmail.com](mailto:wmmoorejewelers@gmail.com) or text 970-397-6964.
+**&nbsp; &nbsp; &nbsp;[Wm Moore Jewelers](https://www.facebook.com/WmMooreJewelers/){: target="_blank"}** - Open 9am-5pm, but please call ahead to make sure they are in. If they do have to close they will offer appointment only service for emergency needs. Call the store at 970-356-3420, email them at [wmmoorejewelers@gmail.com](mailto:wmmoorejewelers@gmail.com) or text 970-397-6964.
 
 ### Take Out/Curbside/Delivery
 
