@@ -85,9 +85,11 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 [**Mystical Threads Costume Studio and Alterations**](https://www.facebook.com/mysticalthreads/){: target="_blank"} - Open during normal business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other projects.&nbsp; Please call with any questions, 970-702-2327.
 
+**Patrick’s Irish Pub**\: Currently Closed. You can assist our part-time service staff as they face this period of not being able to work. Here's what you can do: 1) visit our online store&nbsp;[https://my-site-106780-104816.square.site/](https://my-site-106780-104816.square.site/?fbclid=IwAR0tLfUMgD78DSqZs-F89qFupUBuQmruCvPa23A9mHu8JPCpjhOSny99IM4){: target="_blank"}&nbsp;, 2)purchase one of our recently minted t-shirts (they literally came off the press this afternoon), and c) purchase a $20 gift card. The sum of the sales of the gift cards, that are purchased at the same time as a shirt, will be distributed as paid-time-off for our staff, and the gift cards you will receive electronically. We wish the best to you all, and will see you on the flip side - Abbey&Greg
+
 [**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
-Red Sea Restaurant - Open during normal business hours for takeout only.
+**Red Sea Restaurant** - Open during normal business hours for takeout only.
 
 [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Closed starting March 16th. Assessing weekly to determine when it's safe to reopen.
 
