@@ -99,6 +99,8 @@ Red Sea Restaurant - Open during normal business hours for takeout only.
 
 [**Steamway Floor To Ceiling**](https://www.facebook.com/SteamWayFloorToCeiling/) - Open for regular hours. If you need cleaning please call us at 970-353-0133. If you have been sick or are feeling sick please wait to schedule or re-schedule any appointments for the safety of employees and their families.
 
+**Subway** 1011 9th Ave. As always – open for takeout on our regular hours. Order ahead online: [https://www.subway.com/en-us](https://www.subway.com/en-us)
+
 [**The Kress Cinema & Lounge**](https://www.facebook.com/kresscinema/){: target="_blank"} - Closed until further notice in the interest of public/employee health.
 
 [**The Nerd Store**](https://www.facebook.com/Thenerdstore/){: target="_blank"} - Will remain open, but new store hours are 11am-8pm Monday through Saturday. The game room is fully closed, there is no open play or gatherings, we apologize for all those affected. They are devloping their curbside pickup system to allow you to get what you need without the need to leave your car.
