@@ -160,19 +160,3 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 [**The Kress Cinema & Lounge**](https://www.facebook.com/kresscinema/){: target="_blank"} - Closed until further notice in the interest of public/employee health.
 
 [**Zoe's Cafe & Events**](https://www.facebook.com/zoescafeandevents/){: target="_blank"} - Closed at least through April 8th.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
