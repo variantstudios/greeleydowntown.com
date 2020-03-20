@@ -74,7 +74,9 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 ## **Live Streaming Events**
 
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
-* **[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). G[oin' Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"} Friday, March 20th from 8-10pm.
+* **[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). **G[oin' Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"}** Friday, March 20th from 8-10pm.
+* [**Gii Astorga on-line performance**](https://www.facebook.com/events/2362325060534382/){: target="_blank"} from Gentry's on Friday, March 20th from 6-7pm.
+* **[Ben Pu Solo Facebook Live Stream](https://www.facebook.com/ben.a.puchalski){: target="_blank"}**s. Friday, March 20th from 8-9pm and Saturday, March 21st from 9-10pm
 
 ## **Temporarily Closed**
 
