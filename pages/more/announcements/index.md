@@ -87,76 +87,76 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ### **On-Line Shopping/Gift Certificates/Merchandise Sales**
 
-[**Blush Boutique Co**](www.BlushBoutiqueCo.com){: target="_blank"} - Closed for the next couple of weeks starting on March 18th. Keep up with on-line sales and watch their [Facebook Page](https://www.facebook.com/blushboutiqueco/){: target="_blank"} and Instagram for LIVE sales and news.
+**&nbsp; &nbsp; &nbsp;[Blush Boutique Co](www.BlushBoutiqueCo.com){: target="_blank"}** - Closed for the next couple of weeks starting on March 18th. Keep up with on-line sales and watch their [Facebook Page](https://www.facebook.com/blushboutiqueco/){: target="_blank"} and Instagram for LIVE sales and news.
 
-[**Brix Brewery & Taphouse**](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"} -&nbsp;[eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"}&nbsp;available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
+**&nbsp; &nbsp; &nbsp;[Brix Brewery & Taphouse](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"}** -&nbsp;[eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"}&nbsp;available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 
-[**Patrick’s Irish Pub**](https://my-site-106780-104816.square.site/?fbclid=IwAR01aHS0JX7muutXozt9ZMmCI43EOMNBay5y1DxZfYHQFT2ZEto4mhJKxdY){: target="_blank"}\: Visit their online store, purchase one of our recently minted t-shirts, and purchase a $20 gift card. The sum of the sales of the gift cards, that are purchased at the same time as a shirt, will be distributed as paid-time-off for our staff. You will receive gift cards electronically
+**&nbsp; &nbsp; &nbsp;[Patrick’s Irish Pub](https://my-site-106780-104816.square.site/?fbclid=IwAR01aHS0JX7muutXozt9ZMmCI43EOMNBay5y1DxZfYHQFT2ZEto4mhJKxdY){: target="_blank"}**\: Visit their online store, purchase one of our recently minted t-shirts, and purchase a $20 gift card. The sum of the sales of the gift cards, that are purchased at the same time as a shirt, will be distributed as paid-time-off for our staff. You will receive gift cards electronically
 
-[**Sassy Bagz**](www.shopsassybagz.com){: target="_blank"} - Visit the website, shop, and they'll ship it to you (free shipping).
+**&nbsp; &nbsp; &nbsp;[Sassy Bagz](www.shopsassybagz.com){: target="_blank"}** - Visit the website, shop, and they'll ship it to you (free shipping).
 
-[**Tower 56 Distilling**](https://squareup.com/gift/M8ADXDSHNPT00/order){: target="_blank"} - Gift Cards available on-line.
+**&nbsp; &nbsp; &nbsp;[Tower 56 Distilling](https://squareup.com/gift/M8ADXDSHNPT00/order){: target="_blank"}** - Gift Cards available on-line.
 
-[**Trinkets-n-Treasures**](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"} - On-line shopping thru artist/vendor ads posted on Craig's List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.&nbsp; Free curbside pickup and possible free delivery based on purchase value.&nbsp;
+**&nbsp; &nbsp; &nbsp;[Trinkets-n-Treasures](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"}** - On-line shopping thru artist/vendor ads posted on Craig's List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.&nbsp; Free curbside pickup and possible free delivery based on purchase value.&nbsp;
 
-[**WeldWerks Brewing Company**](https://weldwerksbrewing.com/order)&nbsp;- The on-line store allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
+**&nbsp; &nbsp; &nbsp;[WeldWerks Brewing Company](https://weldwerksbrewing.com/order)**&nbsp;- The on-line store allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
 
 ### **On-Line Classes/Services**
 
-[**Academy of Natural Therapy**](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"} - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
+**&nbsp; &nbsp; &nbsp;[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 
-[**Lincoln Park Library**](https://www.facebook.com/myhpld/){: target="_blank"} - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
+**&nbsp; &nbsp; &nbsp;[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
 
 ### **Live Streaming Events**
 
-[**KFKA**](https://www.facebook.com/1310KFKARadio/){: target="_blank"} - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
+**&nbsp; &nbsp; &nbsp;&nbsp;[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 
-[**Moxi Theater**](https://www.facebook.com/MoxiTheater/){: target="_blank"} - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). G[oin' Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"} Friday, March 20th from 8-10pm.
+**&nbsp; &nbsp; &nbsp;[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). G[oin' Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"} Friday, March 20th from 8-10pm.
 
 ### **Temporarily Closed**
 
-[**Bear's Country Saloon**](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
+**&nbsp; &nbsp; &nbsp;[Bear's Country Saloon](https://www.facebook.com/bearcountrysaloongreeley/){: target="_blank"}** - Closed for 30 days starting on March 17th.
 
-[**City Of Greeley Government**](https://www.facebook.com/greeleygov/){: target="_blank"} - Closed public access to all non-emergency facilities through March 30 at which time the situation will be re-evaluated. All essential city operations and staff — including, police, fire department, water, sewer, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
+**&nbsp; &nbsp; &nbsp;[City Of Greeley Government](https://www.facebook.com/greeleygov/){: target="_blank"}** - Closed public access to all non-emergency facilities through March 30 at which time the situation will be re-evaluated. All essential city operations and staff — including, police, fire department, water, sewer, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
 
-[**Colorado Dance Collective**](https://www.facebook.com/ColoradoDanceCollective/){: target="_blank"} - Cancelling classes this week at the Greeley Warehouse. The situation is fluid and changing constantly so keep checking back for more updates concerning next week's classes and Showcase.
+**&nbsp; &nbsp; &nbsp;[Colorado Dance Collective](https://www.facebook.com/ColoradoDanceCollective/){: target="_blank"}** - Cancelling classes this week at the Greeley Warehouse. The situation is fluid and changing constantly so keep checking back for more updates concerning next week's classes and Showcase.
 
-[**Gentry's**](https://www.facebook.com/gentrysgreeley/){: target="_blank"} - Closed for 30 days starting on March 17th.
+**&nbsp; &nbsp; &nbsp;[Gentry's](https://www.facebook.com/gentrysgreeley/){: target="_blank"}** - Closed for 30 days starting on March 17th.
 
-**[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings. Keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
+**&nbsp; &nbsp; &nbsp;[Greeley Area Chamber of Commerce](https://www.facebook.com/GreeleyAreaChamberofCommerce/)** - Following a modified schedule for events and meetings. Keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
 
-[**Greeley Chophouse**](https://www.facebook.com/GreeleyChophouse/){: target="_blank"} - Closed for 30 days starting March 17th.
+**&nbsp; &nbsp; &nbsp;[Greeley Chophouse](https://www.facebook.com/GreeleyChophouse/){: target="_blank"}** - Closed for 30 days starting March 17th.
 
-[**Greeley Farmers' Market**](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"} - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
+**&nbsp; &nbsp; &nbsp;[Greeley Farmers' Market](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"}** - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
 
-[**High Brau Taphouse**](https://www.facebook.com/highbrautap/){: target="_blank"} - Closed starting March 17th. [Gift cards](https://squareup.com/gift/Q6PRSP7J78WQP/order?fbclid=IwAR3G38XL6zd08BSLgBp--2rAaS0etncNAuQD_B4iBFnCbjRcJyECLFyQ6vk){: target="_blank"} available for purchase.
+**&nbsp; &nbsp; &nbsp;[High Brau Taphouse](https://www.facebook.com/highbrautap/){: target="_blank"}** - Closed starting March 17th. [Gift cards](https://squareup.com/gift/Q6PRSP7J78WQP/order?fbclid=IwAR3G38XL6zd08BSLgBp--2rAaS0etncNAuQD_B4iBFnCbjRcJyECLFyQ6vk){: target="_blank"} available for purchase.
 
-[**Hog Wild BBQ**](https://www.facebook.com/HogWildBarbecue/){: target="_blank"} - Greeley store due to the current atmosphere but we will reopen when the time comes.
+**&nbsp; &nbsp; &nbsp;[Hog Wild BBQ](https://www.facebook.com/HogWildBarbecue/){: target="_blank"}** - Greeley store due to the current atmosphere but we will reopen when the time comes.
 
-[**Jenny's Malt Shop and Diner**](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
+**&nbsp; &nbsp; &nbsp;[Jenny's Malt Shop and Diner](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}**&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
 
-[**John Galt Coffee Co.**](https://www.facebook.com/johngaltcoffee/){: target="_blank"} - Closed until further notice starting March 17th.
+**&nbsp; &nbsp; &nbsp;[John Galt Coffee Co.](https://www.facebook.com/johngaltcoffee/){: target="_blank"}** - Closed until further notice starting March 17th.
 
-[**Lincoln Park Library**](https://www.facebook.com/myhpld/){: target="_blank"} - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
+**&nbsp; &nbsp; &nbsp;[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
 
-[**Lonesome Buck**](https://www.facebook.com/lonesomebuck/){: target="_blank"} - Closed (for now). In the coming days, watch for information on To-Go Beer, merchandise and gift cards.
+**&nbsp; &nbsp; &nbsp;[Lonesome Buck](https://www.facebook.com/lonesomebuck/){: target="_blank"}** - Closed (for now). In the coming days, watch for information on To-Go Beer, merchandise and gift cards.
 
-[**Madison & Main Gallery**](https://www.facebook.com/madmaingallery/){: target="_blank"} - Closed through March 30th. If you would like make an appointment to purchase art contact Gin Leuchter at 970-356-5062.
+**&nbsp; &nbsp; &nbsp;[Madison & Main Gallery](https://www.facebook.com/madmaingallery/){: target="_blank"}** - Closed through March 30th. If you would like make an appointment to purchase art contact Gin Leuchter at 970-356-5062.
 
-[**Mom's Popcorn**](https://www.facebook.com/momspopcornCO/){: target="_blank"} - Closed through the end of the month starting March 18th.
+**&nbsp; &nbsp; &nbsp;[Mom's Popcorn](https://www.facebook.com/momspopcornCO/){: target="_blank"}** - Closed through the end of the month starting March 18th.
 
-[**Patrick’s Irish Pub**](https://www.facebook.com/patricksirish/){: target="_blank"}\: Currently Closed. On-line store available.
+**&nbsp; &nbsp; &nbsp;[Patrick’s Irish Pub](https://www.facebook.com/patricksirish/){: target="_blank"}**\: Currently Closed. On-line store available.
 
-[**Points West Bank**](https://www.facebook.com/PointsWestBank/){: target="_blank"} - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
+**&nbsp; &nbsp; &nbsp;[Points West Bank](https://www.facebook.com/PointsWestBank/){: target="_blank"}** - Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street.&nbsp; They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 
-[**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Closed starting March 16th. Assessing weekly to determine when it's safe to reopen.
+**&nbsp; &nbsp; &nbsp;[Rio Grande Mexican Restaurant](https://www.facebook.com/MyRioGrande/){: target="_blank"}** - Closed starting March 16th. Assessing weekly to determine when it's safe to reopen.
 
-[**The Box**](https://www.facebook.com/theboxgreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
+**&nbsp; &nbsp; &nbsp;[The Box](https://www.facebook.com/theboxgreeley/){: target="_blank"}** - Closed for 30 days starting March 17th.
 
-[**The Country Inn**](https://www.facebook.com/The-Country-Inn-120605561288190/){: target="_blank"} - Closed for 30 days starting March 17th.
+**&nbsp; &nbsp; &nbsp;[The Country Inn](https://www.facebook.com/The-Country-Inn-120605561288190/){: target="_blank"}** - Closed for 30 days starting March 17th.
 
-[**The Jager**](https://www.facebook.com/JagerGreeley/){: target="_blank"} - Closed for 30 days starting March 17th.
+**&nbsp; &nbsp; &nbsp;[The Jager](https://www.facebook.com/JagerGreeley/){: target="_blank"}** - Closed for 30 days starting March 17th.
 
-[**The Kress Cinema & Lounge**](https://www.facebook.com/kresscinema/){: target="_blank"} - Closed until further notice in the interest of public/employee health.
+**&nbsp; &nbsp; &nbsp;[The Kress Cinema & Lounge](https://www.facebook.com/kresscinema/){: target="_blank"}** - Closed until further notice in the interest of public/employee health.
 
-[**Zoe's Cafe & Events**](https://www.facebook.com/zoescafeandevents/){: target="_blank"} - Closed at least through April 8th.
+**&nbsp; &nbsp; &nbsp;[Zoe's Cafe & Events](https://www.facebook.com/zoescafeandevents/){: target="_blank"}** - Closed at least through April 8th.
