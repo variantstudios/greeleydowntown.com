@@ -13,13 +13,13 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 20th, 2020 at 1:20pm)
+(Updated March 21st, 2020 at 5:30pm)
 
 ## **Open (Retail & General)**
 
 * **[Accessories with a Flair\!…and Hai](https://www.facebook.com/AccessorieswithaFlairandHair/){: target="_blank"}**r - Open for business Monday-Saturday 10am-3pm. Call 970-351-6448.
 * **[CIT - Consider It There](https://www.facebook.com/CITGreeley/){: target="_blank"}** - Will be taking via e-mail and phone but are not open**&nbsp;**to the public. Call 970-352-9334 to order and for pick up or drop off.
-* **&nbsp;[DoubleTree by Hilton Greeley at Lincoln Park](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"}** - Need a quiet workspace while social distancing? With the kids out of school, working from home may not be an option for everyone so the DoubleTree by Hilton Greeley at Lincoln Park is offering a “Work-From-Doubletree” option\! DoubleTree by Hilton Greeley at Lincoln Park is offering Work from DoubleTree Rates- $49Rates in include• CLEAN, friendly, comfortable and quiet social distancing-approved work spaces• complimentary high speed wireless internet.• Private bathroom facilities• Room access 8am – 5pm daily. Upgrade your package to include room service delivered lunch for just $15 more - $69 Rate does not include applicable taxes and service charge.
+* **&nbsp;[DoubleTree by Hilton Greeley at Lincoln Park](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"}** - Working from home may not be an option for everyone so the DoubleTree by Hilton Greeley at Lincoln Park is offering a “Work-From-Doubletree” option\! $49 rates include clean, friendly, comfortable and quiet social distancing-approved work spaces, complimentary high speed wireless internet, private bathroom facilities, and room access 8am–5pm daily. Upgrade your package to include room service delivered lunch for just $15 more. Rate does not include applicable taxes and service charge.
 * **[Free Leaf](https://www.facebook.com/shopfreeleaf/){: target="_blank"}** - Open from 8am-2pm until further notice and the on-line shop will**&nbsp;**remain open.
 * **[Lincoln Park Emporium](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"}** - Open for business.
 * **[Mariposa Plants & Flowers](https://www.facebook.com/Mariposaflowers/){: target="_blank"}** - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local**&nbsp;**downtown friends (especially restaurants) the best you can.
@@ -50,7 +50,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Dining room and bar closed for the next 30 days for sit down service. They are still open for take out orders and [NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
 * **[Santeramo’s Pizza House and Italian Food](https://www.facebook.com/santeramospizzahouse/){: target="_blank"}** - Offering curbside pickup for all to go orders and delivery through [GrubHub](https://www.grubhub.com/){: target="_blank"}, [Doordash](https://www.doordash.com/){: target="_blank"} and [NocoNosh](https://www.noconosh.com/){: target="_blank"}. Free House Salad per order. For all curbside orders please call 970-353-4844.
 * **Subway** - Open for takeout on our regular hours. Order ahead online.
-* **[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Buy bottles and merchandise from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
+* **[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Buy bottles, merchandise and ice cream from the Tasting Room Monday-Friday 11am-1pm & 4-6pm and Saturday 11am-1pm, buy bottles from their liquor store partners, get bottles delivered to your house through their partnership with Coral Bay, and find out soon how to get gift cards on-line.
 * [**The Blue Mug Coffee Bar and Roastery**](https://www.facebook.com/thebluemugcoffee/){: target="_blank"} - Take out and drive thru only for the next 30 days. They are working on on-line ordering and e-gift cards that can be accessed through our website. Gift card promotions available for those that are able to support their business during this time (buy $50 get $10 free or buy $100 get $25 free).
 * **[The Mad Cow](https://www.facebook.com/madcowgreeley/){: target="_blank"}** - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
 * **[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. [On-line store available](https://weldwerksbrewing.com/order){: target="_blank"}.
@@ -74,7 +74,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 ## **Live Streaming Events**
 
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
-* **[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com). G[oin’ Mobile - Live Stream Featuring Michael Morrow & The Culprits](https://www.facebook.com/events/274778513534125/){: target="_blank"} Friday, March 20th from 8-10pm.
+* **[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com).&nbsp;
 
 ## **Temporarily Closed**
 
@@ -100,4 +100,5 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[The Country Inn](https://www.facebook.com/The-Country-Inn-120605561288190/){: target="_blank"}** - Closed for 30 days starting March 17th.
 * **[The Jager](https://www.facebook.com/JagerGreeley/){: target="_blank"}** - Closed for 30 days starting March 17th.
 * **[The Kress Cinema & Lounge](https://www.facebook.com/kresscinema/){: target="_blank"}** - Closed until further notice in the interest of public/employee health.
+* [**Union Colony Underground**](https://www.facebook.com/UCUTATTOO/){: target="_blank"} - Closed until April 30th.
 * **[Zoe’s Cafe & Events](https://www.facebook.com/zoescafeandevents/){: target="_blank"}** - Closed at least through April 8th.
