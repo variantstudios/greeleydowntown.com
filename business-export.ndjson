@@ -25,7 +25,7 @@ sitemap: false
   "businessCategories": {
     "_type": "businessCategories",
     
-    {% if business.dining_categories  == null  %}
+    {% if business.dining_categories  != null  %}
     "diningCategories": [
       {% for item in business.dining_categories %}
       {
