@@ -95,5 +95,5 @@ sitemap: false
     {% endif %}
   }
 
-
+}
 {% endif %}{% endfor %}
