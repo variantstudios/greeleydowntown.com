@@ -24,14 +24,15 @@ sitemap: false
     {% if business.dining_categories  != null  %}
     "diningCategories": [
       {% for item in business.dining_categories %}
+      {
+        "_ref": {{ item | slugify | jsonify }},
+        "_type": "reference"
+      }
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {
-        "_ref": {{ item | slugify | jsonify }},
-        "_type": "reference"
-      } 
+      
       {% endfor %}
     ],
     {% endif %}
@@ -39,14 +40,15 @@ sitemap: false
     {% if business.entertainment_and_recreation_categories  != null  %}
     "entertainmentAndRecreationCategories": [
       {% for item in business.entertainment_and_recreation_categories %}
+      {
+        "_ref": {{ item | slugify | jsonify }},
+        "_type": "reference"
+      }
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {
-        "_ref": {{ item | slugify | jsonify }},
-        "_type": "reference"
-      } 
+      
       {% endfor %}
     ],
     {% endif %}
@@ -54,14 +56,15 @@ sitemap: false
     {% if business.lodging_and_event_centers_categories  != null  %}
     "lodging_and_event_centers_categories": [
       {% for item in business.lodging_and_event_centers_categories %}
+      {
+        "_ref": {{ item | slugify | jsonify }},
+        "_type": "reference"
+      }
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {
-        "_ref": {{ item | slugify | jsonify }},
-        "_type": "reference"
-      } 
+      
       {% endfor %}
     ],
     {% endif %}
@@ -69,14 +72,15 @@ sitemap: false
     {% if business.nightlife_categories  != null  %}
     "nightlifeCategories": [
       {% for item in business.nightlife_categories %}
-      {% if first_item %}
-      {% assign first_item = false %}
-      {% else %},
-      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
       }
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
+      
       {% endfor %}
     ],
     {% endif %}
@@ -84,14 +88,15 @@ sitemap: false
     {% if business.retail_categories  != null  %}
     "retailCategories": [
       {% for item in business.retail_categories %}
+      {
+        "_ref": {{ item | slugify | jsonify }},
+        "_type": "reference"
+      }
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {
-        "_ref": {{ item | slugify | jsonify }},
-        "_type": "reference"
-      } 
+      
       {% endfor %}
     ],
     {% endif %}
@@ -99,14 +104,15 @@ sitemap: false
     {% if business.service_categories  != null  %}
     "serviceCategories": [
       {% for item in business.service_categories %}
+      {
+        "_ref": {{ item | slugify | jsonify }},
+        "_type": "reference"
+      }
       {% if first_item %}
       {% assign first_item = false %}
       {% else %},
       {% endif %}
-      {
-        "_ref": {{ item | slugify | jsonify }},
-        "_type": "reference"
-      } 
+      
       {% endfor %}
     ]
     {% endif %}
