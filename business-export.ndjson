@@ -13,16 +13,25 @@ sitemap: false
 {"_type": "business","title": {{ business.Business | jsonify }},"location": { "_type": "location", "city": {{ business.City | jsonify }}, "state": {{ business.State | jsonify }},    "streetAddress": {{ business.Street | jsonify }}, "zipcode": {{ zip }}},  "slug": {  "_type": "slug",  "current": {{ business.url | jsonify | remove: "/business-directory/" | remove: "/" }}}, {% if business.content  %} "body": [ { "_type": "block", "children": [ { "_type": "span", "marks": [], "text":  {{ business.content | jsonify | strip_html }} } ], "markDefs": [], "style": "normal"    } ], {% endif %} "businessContact": { "_type": "businessContact",    "contactEmail": {{ business.Contact_Email | jsonify }}, "contactName": {{ business.Contact_Name | jsonify }}, "contactPhone": {{ business.Phone | jsonify }} }, {% if logo  %}  "logoImage": {"_sanityAsset": {{ logo | prepend: "image@file:///Users/brentrobbins/VS/greeleydowntown.com/_backups/current" | jsonify  }},"_type": "mainImage","alt": {{ business.Business | jsonify }}},{% endif %}{% if business.Website  %} "links": [ { "_type": "link", "link": {{ business.Website | jsonify }}, "linkType": "business" }],  {% endif %} "seoSettings": { "_type": "seo", "description": {{ business.content | jsonify | strip_html }}, "title": {{ business.Business | jsonify }}  }},
 
 
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
+
   "businessCategories": {
     "_type": "businessCategories",
     
     {% if business.dining_categories  != null  %}
     "diningCategories": [
       {% for item in business.dining_categories %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
-      }, 
+      } 
       {% endfor %}
     ],
     {% endif %}
@@ -30,10 +39,14 @@ sitemap: false
     {% if business.entertainment_and_recreation_categories  != null  %}
     "entertainmentAndRecreationCategories": [
       {% for item in business.entertainment_and_recreation_categories %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
-      }, 
+      } 
       {% endfor %}
     ],
     {% endif %}
@@ -41,10 +54,14 @@ sitemap: false
     {% if business.lodging_and_event_centers_categories  != null  %}
     "lodging_and_event_centers_categories": [
       {% for item in business.lodging_and_event_centers_categories %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
-      }, 
+      } 
       {% endfor %}
     ],
     {% endif %}
@@ -52,10 +69,14 @@ sitemap: false
     {% if business.nightlife_categories  != null  %}
     "nightlifeCategories": [
       {% for item in business.nightlife_categories %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
-      }, 
+      }
       {% endfor %}
     ],
     {% endif %}
@@ -63,10 +84,14 @@ sitemap: false
     {% if business.retail_categories  != null  %}
     "retailCategories": [
       {% for item in business.retail_categories %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
-      }, 
+      } 
       {% endfor %}
     ],
     {% endif %}
@@ -74,10 +99,14 @@ sitemap: false
     {% if business.service_categories  != null  %}
     "serviceCategories": [
       {% for item in business.service_categories %}
+      {% if first_item %}
+      {% assign first_item = false %}
+      {% else %},
+      {% endif %}
       {
         "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
-      }, 
+      } 
       {% endfor %}
     ]
     {% endif %}
