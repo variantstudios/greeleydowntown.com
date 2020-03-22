@@ -4,7 +4,7 @@ sitemap: false
 ---
 {% for business in site.directory %}{% if business.live_directory  == false %}{% assign zip =  business.Zip | jsonify | downcase %}
 
-{% if business.Logo_image_path  !== "/assets/images/directory/directory-default.png" %}
+{% if business.Logo_image_path  != "/assets/images/directory/directory-default.png" %}
     {% assign logo =  business.Logo_image_path | jsonify  %}
 {% endif %}
 
