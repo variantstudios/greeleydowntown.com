@@ -27,9 +27,9 @@ sitemap: false
     
     {% if business.dining_categories  == null  %}
     "diningCategories": [
-      {% for item in site.dining_categories %}
+      {% for item in business.dining_categories %}
       {
-        "_ref": {{ item.title | slugify | jsonify }},
+        "_ref": {{ item | slugify | jsonify }},
         "_type": "reference"
       }, 
       {% endfor %}
