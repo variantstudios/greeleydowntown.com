@@ -29,7 +29,7 @@ sitemap: false
     "diningCategories": [
       {% for item in site.dining_categories %}
       {
-        "_ref": {{ item }},
+        "_ref": {{ item.title | slugify }},
         "_type": "reference"
       }, 
       {% endfor %}
