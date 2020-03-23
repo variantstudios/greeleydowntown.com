@@ -104,7 +104,5 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[The Jager](https://www.facebook.com/JagerGreeley/){: target="_blank"}** - Closed for 30 days starting March 17th.
 * **[The Kress Cinema & Lounge](https://www.facebook.com/kresscinema/){: target="_blank"}** - Closed until further notice in the interest of public/employee health.
 * [**Union Colony Insurance**](https://www.facebook.com/UnionColonyInsurance){: target="_blank"} - Office will not be open to the public. If you need to complete business in person, you may call 970-352-9500 to arrange an appointment with your agent.
-
 * **[Union Colony Underground](https://www.facebook.com/UCUTATTOO/){: target="_blank"}** - Closed until April 30th.
-
 * **[Zoe’s Cafe & Events](https://www.facebook.com/zoescafeandevents/){: target="_blank"}** - Closed at least through April 8th.
