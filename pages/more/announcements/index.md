@@ -107,6 +107,6 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
   If you need to complete business in person, you may call 970-352-9500 to arrange an appointment with your agent.
 
-* [**Union Colony Underground**](https://www.facebook.com/UCUTATTOO/){: target="_blank"} - Closed until April 30th.
+* **[Union Colony Underground](https://www.facebook.com/UCUTATTOO/){: target="_blank"}** - Closed until April 30th.
 
 * **[Zoe’s Cafe & Events](https://www.facebook.com/zoescafeandevents/){: target="_blank"}** - Closed at least through April 8th.
