@@ -9,6 +9,14 @@ description: >-
 meeting_agenda:
   - title:
     pdf_path:
+  - title: February 2020 Meeting Agenda
+    pdf_path: /assets/pdfs/DDA Board Agenda 2-20-20.pdf
+  - title: January 2020 Meeting Agenda
+    pdf_path: /assets/pdfs/DDA Board Agenda 1-16-20.pdf
+  - title: December 2019 Meeting Agenda
+    pdf_path: /assets/pdfs/DDA Board Agenda 12-19-19.pdf
+  - title: November 2019 Meeting Agenda
+    pdf_path: /assets/pdfs/DDA Board Agenda 11-21-19.pdf
 meeting_minutes:
   - title: February 2020 Meeting Minutes
     pdf_path: /assets/pdfs/DDA Meeting Minutes 2-20-2020.pdf
