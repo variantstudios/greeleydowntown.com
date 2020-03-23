@@ -36,7 +36,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 ## **Take Out/Curbside/Delivery**
 
-* **[Aunt Helen’s Coffee House](https://www.facebook.com/aunthelenscoffeehouse/){: target="_blank"}** - Call 970-515-6542 for curbside pick up Monday-Friday from 7am-5pm and Saturday 8am-4pm.
+* **[Aunt Helen’s Coffee House](https://www.facebook.com/aunthelenscoffeehouse/){: target="_blank"}** - Call 970-515-6542 for curbside pick up Monday-Friday from 7am-5pm and Saturday 8am-4pm. Now delivering\! Order at&nbsp;[www.noconosh.com](http://www.noconosh.com/?fbclid=IwAR2MkVSFlhQQV1ibTu9BQUFNuNhIS_xqatUSoIdwEcY4V4zU5k0WPibhnYI){: target="_blank"}.
 * **[Batter Up Cakes Downtown](https://www.facebook.com/BatterUpCakesGreeley/)** - Open for take-out only Monday-Saturday 9am-5pm.
 * **[Brix Brewery & Taphouse](https://www.facebook.com/brixbrewtap/){: target="_blank"}** - Taproom hours are currently 4-7pm with to-go beer sales only, no dine-in. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 * **[Canton Garden Restaurant](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"}** - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
