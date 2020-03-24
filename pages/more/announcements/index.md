@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 24th, 2020 at 9:37am)
+(Updated March 24th, 2020 at 2:00pm)
 
 ## **Open (Retail & General)**
 
@@ -87,6 +87,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[Greeley Chophouse](https://www.facebook.com/GreeleyChophouse/){: target="_blank"}** - Closed for 30 days starting March 17th.
 * **[Greeley Farmers’ Market](https://www.facebook.com/greeleyfarmersmarket/){: target="_blank"}** - March 21st Farmers’ Market is cancelled. For more information, please visit&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19){: target="_blank"}.
 * [**Greeley Tribune**](https://www.facebook.com/greeleytribune/){: target="_blank"} - Office is temporarily CLOSED to the public until further notice, but &nbsp;check out&nbsp; their Facebook page to find out how you can contact them during this time
+* [**Hearne's Footwear and Clothing**](https://www.facebook.com/hearnesfootwearandclothing/){: target="_blank"}&nbsp;- Closed for two weeks starting March 18th. Call 970-224-4653 to order merchandise featured on their website, Facebook, and Instagram pages.&nbsp;
 * **[High Brau Taphouse](https://www.facebook.com/highbrautap/){: target="_blank"}** - Closed starting March 17th. [Gift cards](https://squareup.com/gift/Q6PRSP7J78WQP/order?fbclid=IwAR3G38XL6zd08BSLgBp--2rAaS0etncNAuQD_B4iBFnCbjRcJyECLFyQ6vk){: target="_blank"} available for purchase.
 * **[Hog Wild BBQ](https://www.facebook.com/HogWildBarbecue/){: target="_blank"}** - Greeley store due to the current atmosphere but we will reopen when the time comes.
 * **[Jenny’s Malt Shop and Diner](https://www.facebook.com/jennysmaltshopanddiner/){: target="_blank"}**&nbsp;- Will be closed for a limited time starting March 18th. Please check their Facebook and website for updates.
