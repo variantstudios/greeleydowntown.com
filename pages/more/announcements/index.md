@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 21st, 2020 at 5:30pm)
+(Updated March 24th, 2020 at 9:37am)
 
 ## **Open (Retail & General)**
 
@@ -96,6 +96,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[Madison & Main Gallery](https://www.facebook.com/madmaingallery/){: target="_blank"}** - Closed through March 30th. If you would like make an appointment to purchase art contact Gin Leuchter at 970-356-5062.
 * [**Millennium Event Center**](https://www.facebook.com/millenniumeventcenter/){: target="_blank"} - Suspended all activities for the next 30 days starting March 18th.
 * **[Mom’s Popcorn](https://www.facebook.com/momspopcornCO/){: target="_blank"}** - Closed through the end of the month starting March 18th.
+* [**MrBravo Phizza & Phillys**](https://www.facebook.com/mrbravopizza/) - Closed March 24th-29th.
 * **[Patrick’s Irish Pub](https://www.facebook.com/patricksirish/){: target="_blank"}**\: Currently Closed. On-line store available.
 * **[Points West Bank](https://www.facebook.com/PointsWestBank/){: target="_blank"}** - . As the downtown bank does not have a drive-thru, they have temporarily moved those employees and operations to the bank at 6801 West 20th Street. Encouraging customers to utilize drive-thrus as a method of social distancing. Through April 1st, bank lobbies are open by appointment only. They can still meet customers downtown, as needed, if you call 970-330-1200.&nbsp;
 * [**Right Coast Pizza**](https://www.facebook.com/PizzaGreeley/){: target="_blank"} - Currently closed and taking this opportunity for some house keeping and renovations that have been on the back burner.
