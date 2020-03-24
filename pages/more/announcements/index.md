@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 24th, 2020 at 2:00pm)
+(Updated March 24th, 2020 at 2:30pm)
 
 ## **Open (Retail & General)**
 
@@ -21,6 +21,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 * **[CIT - Consider It There](https://www.facebook.com/CITGreeley/){: target="_blank"}** - Will be taking via e-mail and phone but are not open**&nbsp;**to the public. Call 970-352-9334 to order and for pick up or drop off.
 * **&nbsp;[DoubleTree by Hilton Greeley at Lincoln Park](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"}** - Working from home may not be an option for everyone so the DoubleTree by Hilton Greeley at Lincoln Park is offering a “Work-From-Doubletree” option\! $49 rates include clean, friendly, comfortable and quiet social distancing-approved work spaces, complimentary high speed wireless internet, private bathroom facilities, and room access 8am–5pm daily. Upgrade your package to include room service delivered lunch for just $15 more. Rate does not include applicable taxes and service charge.
 * **[Free Leaf](https://www.facebook.com/shopfreeleaf/){: target="_blank"}** - Open from 8am-2pm until further notice and the on-line shop will**&nbsp;**remain open.
+* [**King's Clocks and Unique Gifts**](http://www.kingsclocks.net/){: target="_blank"} - Open Tuesday-Friday from 12-4pm and Saturday by appointment.&nbsp;
 * **[Lincoln Park Emporium](https://www.facebook.com/LincolnParkEmporium/){: target="_blank"}** - Open for business.
 * **[Mariposa Plants & Flowers](https://www.facebook.com/Mariposaflowers/){: target="_blank"}** - Open for regular business hours and delivering cheer\! They are here for you and encourage you to support their local**&nbsp;**downtown friends (especially restaurants) the best you can.
 * **[Mystical Threads Costume Studio and Alterations](https://www.facebook.com/mysticalthreads/){: target="_blank"}** - Open during normal**&nbsp;**business hours, Tues-Sat 11:00-4:00. Not currently scheduling any fitting appointments, but is available for drop-offs and pick-ups, and any other**&nbsp;**projects.&nbsp; Please call with any questions, 970-702-2327.
