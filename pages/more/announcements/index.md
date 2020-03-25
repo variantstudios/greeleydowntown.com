@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 24th, 2020 at 2:30pm)
+(Updated March 254th, 2020 at 8:57am)
 
 ## **Open (Retail & General)**
 
@@ -73,6 +73,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 * **[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced
+* **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
 
 ## **Live Streaming Events**
 
