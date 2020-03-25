@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS SPECIALS AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 25th, 2020 at 12:23pm)
+(Updated March 25th, 2020 at 1:57pm)
 
 ## **Open (Retail & General)**
 
