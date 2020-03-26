@@ -62,10 +62,6 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
 * **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
 
-## **Business Support and Resource Guide**
-
-![](/assets/dda-small-business-resources-for-covid-19.jpg){: width="1224" height="1584"}
-
 ## **City Of Greeley**
 
 * City of Greeley officials decided to extend the public closure of all non-emergency city facilities through April 30th. Additionally, as of Thursday, March 26, all City of Greeley playgrounds, skateparks, restrooms, and drinking fountains will also close through at least April 30th and gatherings in public parks are strongly discouraged. People are encouraged to still enjoy trails and the outdoors while following Centers-for-Disease-Control-recommended precautions, including, but not limited to, physical distancing and no gatherings of more than 10 people. The City will continue to monitor and reassess the situation as it unfolds. All essential city operations and staff — including, police, fire department, water, sewer, Greeley-Evans Transit, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
