@@ -64,7 +64,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 ## **Business Support & Resource Guide**
 
-##### ***Help for Businesses****\:***
+##### ***1) Help for Businesses****\:***
 
 * [Small Business Development Center](https://www.coloradosbdc.org/)[&nbsp;](https://www.coloradosbdc.org/)
   * [East Colorado SBDC](https://eastcoloradosbdc.com/)\: (970) 351-4274 - No cost consulting, assistance with SBA application
@@ -82,20 +82,20 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
   * Includes links to a business toolkit, Bartender Emergency Assistance Program, County and Medical Health resources and more
 * Colorado COVID Hotline: (303) 389-1687
 
-##### ***Help for Employees:***
+##### ***2) Help for Employees:***
 
 * Colorado Workers affected by COVID-19 are eligible for assistance
   * File for unemployment [HERE](http://coloradoui.gov.)
   * [Colorado Dept.of Labor Resources for Workers](https://www.colorado.gov/pacific/cdle/information-and-resources-coronavirus#Worker%20Resources)\: Included info on unemployment insurance benefits, paid sick leave, wage claims, and COVID resources
   * [Bartender Emergenc](https://www.usbgfoundation.org/beap)[y](https://www.usbgfoundation.org/beap)[Assistance Program](https://www.usbgfoundation.org/beap)
 
-##### ***Staying Safe and Healthy:***
+##### ***3) Staying Safe and Healthy:***
 
 * [Reducing Fear and Taking Care of Yourself](https://covid19.colorado.gov/reducing-fear-and-taking-care-yourself)\: Includes actions steps, talking with children and crisis outreach
 * **Crisis Services – Free, Confidential 24/7:** Call 1-844-493-8255 or Text “TALK” to 38255
 * [Weld County Health Dept.](https://www.weldgov.com/departments/health_and_environment/2019_novel_coronavirus)[Covid Updates](https://www.weldgov.com/departments/health_and_environment/2019_novel_coronavirus)
 
-##### ***From the DDA:***
+##### ***4) From the DDA:***
 
 * [Link to a list of downtown businesses](https://www.greeleydowntown.com/announcements/)\: who is open, closed, doing curbside pickup, etc. Email Karen at&nbsp;[karen@greeleydowntown.com](mailto:karen@greeleydowntown.com) to have your information included on this list.
 * The DDA is also trying to share as many posts on the Downtown Greeley Facebook page as possible; if we miss something, feel free to let us know\!
