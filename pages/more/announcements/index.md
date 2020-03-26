@@ -21,8 +21,6 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 [![](/assets/colorado-stay-at-home-order.jpg){: width="768" height="960"}](https://www.colorado.gov/governor/news/gov-polis-announces-statewide-stay-home-order-provides-update-colorado-response-covid-19){: target="_blank"}
 
-## &nbsp;
-
 ## **Take Out/Curbside/Delivery**
 
 * **[Batter Up Cakes Downtown](https://www.facebook.com/BatterUpCakesGreeley/)** - Open for take-out only. DIY Cupcake Kits to keep the kiddos entertained while supplies last. 970-352-3880.&nbsp;
@@ -63,6 +61,10 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
 * **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
+
+## **Business Support and Resource Guide**
+
+![](/assets/dda-small-business-resources-for-covid-19.jpg){: width="1224" height="1584"}
 
 ## **City Of Greeley**
 
