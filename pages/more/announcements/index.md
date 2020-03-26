@@ -77,4 +77,4 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 ## **Greeley Area Chamber of Commerce**
 
-* Following a modified schedule for events and meetings. Keep an eye on their website at [www.greeleychamber.com](www.greeleychamber.com){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
+* Following a modified schedule for events and meetings. Keep an eye on their website at [https://www.greeleychamber.com/](https://www.greeleychamber.com/){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
