@@ -62,6 +62,45 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
 * **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
 
+## **Business Support & Resource Guide**
+
+#### **Help for Businesses****\:**
+
+* [Small Business Development Center](https://www.coloradosbdc.org/)[&nbsp;](https://www.coloradosbdc.org/)
+  * [East Colorado SBDC](https://eastcoloradosbdc.com/)\: (970) 351-4274 - No cost consulting, assistance with SBA application
+    * [Economic Injury Disaster Loans](https://disasterloan.sba.gov/ela)
+  * [COVID 19 Small Business Response Resources](https://pikespeaksbdc.org/what-we-do/programs/disaster-relief/)
+* [Colorado Dept. of Public Health and Environment: Public Health orders and Recommendations for Workplaces and Businesses](https://covid19.colorado.gov/schools-workplaces-community)
+  * Including:
+    * [Updated notice of Public Health Order 20-22](https://drive.google.com/file/d/14X5zbYPY7LJ8zzzSv_GcApJauFmsc5Ju/view) closing bars, restaurants, theaters, gymnasiums, casinos, non-essential personal service facilities, etc…
+    * [Notice of Public Health Order 20-23](https://drive.google.com/file/d/1OC3SQoM78_NNDyPLSs6cEEkldfa3rH8r/view) implementing social distancing measures
+* Weld County Property Tax Deferral info: [https://www.weldgov.com/departments/treasurer](https://www.weldgov.com/departments/treasurer)
+* Tax Extension: [IRS Tax filing extension](https://www.irs.gov/newsroom/payment-deadline-extended-to-july-15-2020)
+* [Families First Coronavirus Response Act:](https://www.colorado.gov/pacific/sites/default/files/families_first_coronavirus_response_act.pdf) What does it mean for employers?
+* [Alternatives to laying off employees](https://www.colorado.gov/pacific/cdle/layoffassistance)\: Workshare programs and fact sheet
+* [Greeley Area Chamber of Commerce COVID Resource Guide](https://www.greeleychamber.com/covid-19-resources-and-public-announcements/)
+  * Includes links to a business toolkit, Bartender Emergency Assistance Program, County and Medical Health resources and more
+* Colorado COVID Hotline: (303) 389-1687
+
+#### **Help for Employees:**
+
+* Colorado Workers affected by COVID-19 are eligible for assistance
+  * File for unemployment [HERE](http://coloradoui.gov.)
+  * [Colorado Dept.of Labor Resources for Workers](https://www.colorado.gov/pacific/cdle/information-and-resources-coronavirus#Worker%20Resources)\: Included info on unemployment insurance benefits, paid sick leave, wage claims, and COVID resources
+  * [Bartender Emergenc](https://www.usbgfoundation.org/beap)[y](https://www.usbgfoundation.org/beap)[Assistance Program](https://www.usbgfoundation.org/beap)
+
+#### **Staying Safe and Healthy:**
+
+* [Reducing Fear and Taking Care of Yourself](https://covid19.colorado.gov/reducing-fear-and-taking-care-yourself)\: Includes actions steps, talking with children and crisis outreach
+* **Crisis Services – Free, Confidential 24/7:** Call 1-844-493-8255 or Text “TALK” to 38255
+* [Weld County Health Dept.](https://www.weldgov.com/departments/health_and_environment/2019_novel_coronavirus)[Covid Updates](https://www.weldgov.com/departments/health_and_environment/2019_novel_coronavirus)
+
+#### **From the DDA:**
+
+* [Link to a list of downtown businesses](https://www.greeleydowntown.com/announcements/)\: who is open, closed, doing curbside pickup, etc. Email Karen at&nbsp;[karen@greeleydowntown.com](mailto:karen@greeleydowntown.com) to have your information included on this list.
+* The DDA is also trying to share as many posts on the Downtown Greeley Facebook page as possible; if we miss something, feel free to let us know\!
+* Send us your positive stories about how you are helping our community through this challenge—we want to share this with the media
+
 ## **City Of Greeley**
 
 * City of Greeley officials decided to extend the public closure of all non-emergency city facilities through April 30th. Additionally, as of Thursday, March 26, all City of Greeley playgrounds, skateparks, restrooms, and drinking fountains will also close through at least April 30th and gatherings in public parks are strongly discouraged. People are encouraged to still enjoy trails and the outdoors while following Centers-for-Disease-Control-recommended precautions, including, but not limited to, physical distancing and no gatherings of more than 10 people. The City will continue to monitor and reassess the situation as it unfolds. All essential city operations and staff — including, police, fire department, water, sewer, Greeley-Evans Transit, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
