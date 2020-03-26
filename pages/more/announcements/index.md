@@ -64,7 +64,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 ## **Business Support & Resource Guide**
 
-#### **Help for Businesses****\:**
+##### ***Help for Businesses****\:***
 
 * [Small Business Development Center](https://www.coloradosbdc.org/)[&nbsp;](https://www.coloradosbdc.org/)
   * [East Colorado SBDC](https://eastcoloradosbdc.com/)\: (970) 351-4274 - No cost consulting, assistance with SBA application
@@ -82,30 +82,30 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
   * Includes links to a business toolkit, Bartender Emergency Assistance Program, County and Medical Health resources and more
 * Colorado COVID Hotline: (303) 389-1687
 
-#### **Help for Employees:**
+##### ***Help for Employees:***
 
 * Colorado Workers affected by COVID-19 are eligible for assistance
   * File for unemployment [HERE](http://coloradoui.gov.)
   * [Colorado Dept.of Labor Resources for Workers](https://www.colorado.gov/pacific/cdle/information-and-resources-coronavirus#Worker%20Resources)\: Included info on unemployment insurance benefits, paid sick leave, wage claims, and COVID resources
   * [Bartender Emergenc](https://www.usbgfoundation.org/beap)[y](https://www.usbgfoundation.org/beap)[Assistance Program](https://www.usbgfoundation.org/beap)
 
-#### **Staying Safe and Healthy:**
+##### ***Staying Safe and Healthy:***
 
 * [Reducing Fear and Taking Care of Yourself](https://covid19.colorado.gov/reducing-fear-and-taking-care-yourself)\: Includes actions steps, talking with children and crisis outreach
 * **Crisis Services – Free, Confidential 24/7:** Call 1-844-493-8255 or Text “TALK” to 38255
 * [Weld County Health Dept.](https://www.weldgov.com/departments/health_and_environment/2019_novel_coronavirus)[Covid Updates](https://www.weldgov.com/departments/health_and_environment/2019_novel_coronavirus)
 
-#### **From the DDA:**
+##### ***From the DDA:***
 
 * [Link to a list of downtown businesses](https://www.greeleydowntown.com/announcements/)\: who is open, closed, doing curbside pickup, etc. Email Karen at&nbsp;[karen@greeleydowntown.com](mailto:karen@greeleydowntown.com) to have your information included on this list.
 * The DDA is also trying to share as many posts on the Downtown Greeley Facebook page as possible; if we miss something, feel free to let us know\!
 * Send us your positive stories about how you are helping our community through this challenge—we want to share this with the media
 
-## **City Of Greeley**
+## **City Of Greeley News**
 
 * City of Greeley officials decided to extend the public closure of all non-emergency city facilities through April 30th. Additionally, as of Thursday, March 26, all City of Greeley playgrounds, skateparks, restrooms, and drinking fountains will also close through at least April 30th and gatherings in public parks are strongly discouraged. People are encouraged to still enjoy trails and the outdoors while following Centers-for-Disease-Control-recommended precautions, including, but not limited to, physical distancing and no gatherings of more than 10 people. The City will continue to monitor and reassess the situation as it unfolds. All essential city operations and staff — including, police, fire department, water, sewer, Greeley-Evans Transit, and key infrastructure will continue functioning. Emergency services will continue. Many services will be disrupted as a result of these precautionary measures. More information can be found at&nbsp;[http://greeleygov.com/covid-19](http://greeleygov.com/covid-19?fbclid=IwAR2MNFF175UyPIgthoRA5Bqtz61dcbqWKea4m8GYfFZBwVBmj5gfqm7MgD8){: target="_blank"}.
 * [**Greeley-Evans Transit**](https://www.facebook.com/GetTransit/){: target="_blank"} - Greeley-Evans Transit (GET) has suspended all regular fixed-route operations, including Poudre Express, and are temporarily transitioning to exclusively Call-n-Ride services for the general public and paratransit riders. Staff will focus on requests for essential trips — medical, grocery and work. However, Call-n-Ride services operate on a first-come-first-serve basis. To schedule a ride, call 970-350-9290.
 
-## **Greeley Area Chamber of Commerce**
+## **Greeley Area Chamber of Commerce News**
 
 * Following a modified schedule for events and meetings. Keep an eye on their website at [https://www.greeleychamber.com/](https://www.greeleychamber.com/){: target="_blank"}, social media and personal e-mails. Staff is working remotely to provide visitors with information and investors with all they need.
