@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 26th, 2020 at 9:37am)
+(Updated March 26th, 2020 at 10:45am)
 
 ## Stay At Home Order
 
@@ -57,18 +57,13 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * [**Warm Hugs Mixes & Gifts Boutique**](https://warmhugsmixes.com/shop/){: target="_blank"} - Get your shopping done and order [gift certificates](https://warmhugsmixes.com/product/gift-certificate/){: target="_blank"}&nbsp;on-line.
 * **[WeldWerks Brewing Company](https://weldwerksbrewing.com/order)**&nbsp;- The on-line store allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
 
-## **On-Line Classes/Services**
+## **On-Line Classes/Services/Live Streaming Events**
 
 * **[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
-* **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
-
-## **Live Streaming Events**
-
 * [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth. The STEAM Program will air live on Thursday, March 26 at 1:00 PM and will cover Measuring Sound, Making a Solar Oven, Types of Energy, Static Energy, Electromagnetism, Fossils and much more\!
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
-* **[Moxi Theater](https://www.facebook.com/MoxiTheater/){: target="_blank"}** - Any bands looking for an inspiring, professional, and spacious rehearsal space for the next 30 days? Open and available 24/7 until at least April 17th. Contact them at [booking@moxitheater.com](mailto:booking@moxitheater.com).&nbsp;
+* **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - Closed through April 9th. On-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
 * **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
-* [**Warm Hugs Mixes & Gifts Boutique**](https://www.facebook.com/WarmHugsMixes/){: target="_blank"} - Can't find chicken stock on the grocery store shelves? Jim shows us how to make easy, inexpensive, AND nutritious chicken stock for use in soups and other recipes\! Watch the whole video Wednesday, March 25th at 6:30pm…good tips through out\!
 
 ## **City Of Greeley**
 
