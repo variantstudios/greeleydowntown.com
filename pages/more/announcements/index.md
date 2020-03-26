@@ -15,7 +15,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 (Updated March 26th, 2020 at 9:37am)
 
-## [Stay At Home Order](https://www.colorado.gov/governor/news/gov-polis-announces-statewide-stay-home-order-provides-update-colorado-response-covid-19){: target="_blank"}
+## Stay At Home Order
 
 Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKxzDImCSF8bBBdOOI3Km/view?usp=sharing){: target="_blank"}&nbsp;Read the FAQ&nbsp;[here](https://drive.google.com/file/d/16nO05S6q0AGBew32r0NYelifwk11uDMO/view?usp=sharing){: target="_blank"}. Read the public health order&nbsp;[here](https://drive.google.com/file/d/1IzfYUaxEf-UFSVAzkY_b9Cf1OMPOdlxH/view?usp=sharing){: target="_blank"}. Watch the press conference&nbsp;[here](https://www.facebook.com/jaredpolis/videos/260499038301497/){: target="_blank"}.&nbsp;
 
