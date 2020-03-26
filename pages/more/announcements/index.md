@@ -25,7 +25,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 ## **Take Out/Curbside/Delivery**
 
-* **[Batter Up Cakes Downtown](https://www.facebook.com/BatterUpCakesGreeley/)** - Open for take-out only Monday-Saturday 9am-5pm.
+* **[Batter Up Cakes Downtown](https://www.facebook.com/BatterUpCakesGreeley/)** - Open for take-out only. DIY Cupcake Kits to keep the kiddos entertained while supplies last. 970-352-3880.&nbsp;
 * **[Brix Brewery & Taphouse](https://www.facebook.com/brixbrewtap/){: target="_blank"}** - Open Tuesday-Friday 3-7pm and Saturday 11-5pm with to-go beer sales only, no dine-in. They have more cans in, get your growlers and bottles filled, and get gift cards to keep small business going\!&nbsp;*If you have Growler glassware at home please bring them by for sanitation and filling.*
 * **[Canton Garden Restaurant](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"}** - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
 * **Carl’s Junior** - Drive thru open
