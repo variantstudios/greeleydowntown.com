@@ -41,7 +41,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * **Subway** - Open for takeout on our regular hours. Order ahead online.
 * **[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Open for bottle sales Monday-Saturday 11am-6pm. They also keep producing to make sure their liquor store partners are well stocked. If you want bottles delivered to your home, check out&nbsp;[www.drizly.com.](www.drizly.com){: target="_blank"}&nbsp;
 * **[The Mad Cow](https://www.facebook.com/madcowgreeley/){: target="_blank"}** - Phone lines are open for carry-out and gift cards available for purchase. 970-356-5520.
-* **[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- The taproom will be closed for all draft sales until further notice. Revised to-go and on-line order pickup hours: Monday-Thursday 12-7pm, Friday-Saturday 11am-8pm, and Sunday 12-6pm. [On-line store available](https://weldwerksbrewing.com/order){: target="_blank"}.
+* **[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- Taproom is completely closed for all customers and guests, transitioning exclusively to on-line orders for curbside and drive-thru pickup. Pickups will be continued for as long as they can maintain extreme social distancing and all the necessary safety measures. Online orders can be placed at&nbsp;[https://weldwerksonline.square.site.](https://weldwerksonline.square.site){: target="_blank"}
 
 ## **On-Line Shopping/Gift Certificates/Merchandise Sales/Etc.**
 
