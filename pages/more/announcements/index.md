@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 26th, 2020 at 10:45am)
+(Updated March 26th, 2020 at 12:30pm)
 
 ## Stay At Home Order
 
