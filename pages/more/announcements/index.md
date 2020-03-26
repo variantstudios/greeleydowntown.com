@@ -64,7 +64,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 ## **Business Support & Resource Guide**
 
-##### ***1) Help for Businesses****\:***
+##### ***1) Help for Businesses****\:*\*\*
 
 * [Small Business Development Center](https://www.coloradosbdc.org/)[&nbsp;](https://www.coloradosbdc.org/)
   * [East Colorado SBDC](https://eastcoloradosbdc.com/)\: (970) 351-4274 - No cost consulting, assistance with SBA application
@@ -85,7 +85,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 ##### ***2) Help for Employees:***
 
 * Colorado Workers affected by COVID-19 are eligible for assistance
-  * File for unemployment [HERE](http://coloradoui.gov.)
+  * File for unemployment [HERE](https://www.colorado.gov/cdle/unemployment){: target="_blank"}
   * [Colorado Dept.of Labor Resources for Workers](https://www.colorado.gov/pacific/cdle/information-and-resources-coronavirus#Worker%20Resources)\: Included info on unemployment insurance benefits, paid sick leave, wage claims, and COVID resources
   * [Bartender Emergenc](https://www.usbgfoundation.org/beap)[y](https://www.usbgfoundation.org/beap)[Assistance Program](https://www.usbgfoundation.org/beap)
 
