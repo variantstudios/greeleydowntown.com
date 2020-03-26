@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 25th, 2020 at 5:54pm)
+(Updated March 26th, 2020 at 9:37am)
 
 ## [Stay At Home Order](https://www.colorado.gov/governor/news/gov-polis-announces-statewide-stay-home-order-provides-update-colorado-response-covid-19){: target="_blank"}
 
