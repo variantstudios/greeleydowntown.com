@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 27th, 2020 at 11:00am)
+(Updated March 27th, 2020 at 11:51am)
 
 ## Stay At Home Order
 
@@ -36,6 +36,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Open for take out orders and delivery through&nbsp;[NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
 * **[Santeramo’s Pizza House and Italian Food](https://www.facebook.com/santeramospizzahouse/){: target="_blank"}** - Offering curbside pickup for all to go orders and delivery through [GrubHub](https://www.grubhub.com/){: target="_blank"}, [Doordash](https://www.doordash.com/){: target="_blank"} and [NocoNosh](https://www.noconosh.com/){: target="_blank"}&nbsp;from 4-8pm Tuesday-Thursday and 11am-8pm Friday-Sunday. For all curbside orders please call 970-353-4844.
+* [**Sherpa Grill**](https://www.facebook.com/sherpagrillcolorado/) - Offering free delivery. Call 970-352-5344.
 * **Subway** - Open for takeout on our regular hours. Order ahead online.
 * **[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Open for bottle sales Monday-Saturday 11am-6pm. They also keep producing to make sure their liquor store partners are well stocked. If you want bottles delivered to your home, check out&nbsp;[www.drizly.com.](www.drizly.com){: target="_blank"}&nbsp;
 * **[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- Taproom is completely closed for all customers and guests, transitioning exclusively to on-line orders for curbside and drive-thru pickup. Pickups will be continued for as long as they can maintain extreme social distancing and all the necessary safety measures. Online orders can be placed at&nbsp;[https://weldwerksonline.square.site.](https://weldwerksonline.square.site){: target="_blank"}
