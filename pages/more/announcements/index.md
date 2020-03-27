@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 26th, 2020 at 12:30pm)
+(Updated March 276th, 2020 at 10:50am)
 
 ## Stay At Home Order
 
@@ -43,7 +43,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 
 ## **On-Line Shopping/Gift Certificates/Merchandise Sales/Etc.**
 
-* **[Blush Boutique Co](www.BlushBoutiqueCo.com){: target="_blank"}** - Closed for the next couple of weeks starting on March 18th. Keep up with on-line sales and watch their [Facebook Page](https://www.facebook.com/blushboutiqueco/){: target="_blank"} and Instagram for LIVE sales and news.
+* **[Blush Boutique Co](www.BlushBoutiqueCo.com){: target="_blank"}** - Offering FREE SHIPPING on all orders and the store is still 20% off all items. So please help still support us by shopping online. Keep up with on-line sales and watch their [Facebook Page](https://www.facebook.com/blushboutiqueco/){: target="_blank"} and Instagram for LIVE sales and news.
 * **[Brix Brewery & Taphouse](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"}** -&nbsp;[eGift Cards](https://squareup.com/gift/9GPB8X32RR40D/order){: target="_blank"}&nbsp;available. Time to stock up on Crowlers, bottles and gift cards to keep small business going\!
 * **[DoubleTree by Hilton Greeley at Lincoln Park](https://www.facebook.com/DoubleTreeGreeley/){: target="_blank"}** - Working from home may not be an option for everyone so the DoubleTree by Hilton Greeley at Lincoln Park is offering a “Work-From-Doubletree” option\! $49 rates include clean, friendly, comfortable and quiet social distancing-approved work spaces, complimentary high speed wireless internet, private bathroom facilities, and room access 8am–5pm daily. Upgrade your package to include room service delivered lunch for just $15 more. Rate does not include applicable taxes and service charge.
 * [**Moxi Theater**](https://www.facebook.com/MoxiTheater/){: target="_blank"} - The Moxi Theater has canceled or postponed their entire calendar of shows through May 1st. Besides&nbsp;[buying more concert tickets](https://www.moxitheater.com/){: target="_blank"}, becoming a&nbsp;[Moxi Insider](https://www.moxitheater.com/insiders/){: target="_blank"}, or purchasing a&nbsp;[Season Pass](https://www.eventbrite.com/e/moxi-theater-2020-vip-season-pass-tickets-85523319551){: target="_blank"}, please consider contributing to their [fundraiser](https://www.gofundme.com/f/moxi-venue-and-staff-fundraiser){: target="_blank"}, which offers some exclusive gifts in exchange for your generous donation. 100% of the net earnings from this campaign will benefit the Moxi Theater venue and our staff.
@@ -57,7 +57,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 ## **On-Line Classes/Services/Live Streaming Events**
 
 * **[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
-* [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth. The STEAM Program will air live on Thursday, March 26 at 1:00 PM and will cover Measuring Sound, Making a Solar Oven, Types of Energy, Static Energy, Electromagnetism, Fossils and much more\!
+* [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth.&nbsp;
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
 * **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
