@@ -13,7 +13,7 @@ The Staff will be updating this page regularly to reflect the rapidly evolving b
 
 **BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
 
-(Updated March 276th, 2020 at 10:50am)
+(Updated March 27th, 2020 at 11:00am)
 
 ## Stay At Home Order
 
@@ -31,7 +31,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * **[Doug’s Diner](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"}** - Open from 7am-1:30pm for carryout only.
 * **[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring in an empty growler and get a pre-filled growler of Barbed Wire Black Ale or Colorado Summer Kölsch on Thursday, March 26th from 5-6pm
 * **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
-* **[Margie’s Java Joint](https://www.facebook.com/margiesjavajoint/){: target="_blank"}** - Open for carry-out/to-go orders only, from 8am-2pm until further notice
+* **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie's for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they'll prepare it and deliver it to you the following day at your specified time and address\! ALSO...all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
 * **Red Sea Restaurant** - Open during normal business hours for takeout only.
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Open for take out orders and delivery through&nbsp;[NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
