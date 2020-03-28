@@ -9,17 +9,11 @@ permalink: /announcements/
 
 # **IMPORTANT DOWNTOWN BUSINESS ANNOUNCEMENTS**
 
-The Staff will be updating this page regularly to reflect the rapidly evolving business environment in Downtown Greeley. To include your business, please email any announcements, special offers, closure information or relevant updates to [karen@greeleydowntown.com](mailto:karen@greeleydowntown.com). In addition, we would suggest that you immediately update your store hours and info on your respective Google listings, websites, social media channels, and to reach out directly to your clients and customers via your email and contact lists.
+![](/assets/support-downtown-businesses.png){: width="940" height="788"}
 
-**BUSINESS INFORMATION AND TEMPORARY CHANGES TO OPERATIONS**
+Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
 (Updated March 27th, 2020 at 11:51am)
-
-## Stay At Home Order
-
-Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKxzDImCSF8bBBdOOI3Km/view?usp=sharing){: target="_blank"}&nbsp;Read the FAQ&nbsp;[here](https://drive.google.com/file/d/16nO05S6q0AGBew32r0NYelifwk11uDMO/view?usp=sharing){: target="_blank"}. Read the public health order&nbsp;[here](https://drive.google.com/file/d/1IzfYUaxEf-UFSVAzkY_b9Cf1OMPOdlxH/view?usp=sharing){: target="_blank"}. Watch the press conference&nbsp;[here](https://www.facebook.com/jaredpolis/videos/260499038301497/){: target="_blank"}.&nbsp;
-
-[![](/assets/colorado-stay-at-home-order.jpg){: width="768" height="960"}](https://www.colorado.gov/governor/news/gov-polis-announces-statewide-stay-home-order-provides-update-colorado-response-covid-19){: target="_blank"}
 
 ## **Take Out/Curbside/Delivery**
 
@@ -31,7 +25,7 @@ Read the full order&nbsp;[here.](https://drive.google.com/file/d/1O1EDCY6-A6QBKx
 * **[Doug’s Diner](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"}** - Open from 7am-1:30pm for carryout only.
 * **[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring in an empty growler and get a pre-filled growler of Barbed Wire Black Ale or Colorado Summer Kölsch on Thursday, March 26th from 5-6pm
 * **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
-* **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie's for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they'll prepare it and deliver it to you the following day at your specified time and address\! ALSO...all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
+* **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie's for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they'll prepare it and deliver it to you the following day at your specified time and address\! ALSO…all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
 * **Red Sea Restaurant** - Open during normal business hours for takeout only.
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Open for take out orders and delivery through&nbsp;[NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
