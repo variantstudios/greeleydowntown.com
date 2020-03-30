@@ -46,7 +46,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * **[Sassy Bagz](www.shopsassybagz.com){: target="_blank"}** - Raquel will still be posting videos, doing some on-line live sales, and taking orders. Please shop on-line&nbsp;[www.shopsassybagz.com](http://www.shopsassybagz.com/?fbclid=IwAR2AqFmOpyLZhsBRX2BBIl5x603NgocREV5omf6aojib7Lo2_NWcSWsDTSk){: target="_blank"}. Shipping is free. The first on-line live sale is this Friday at 1pm.
 * **[Tower 56 Distilling](https://squareup.com/gift/M8ADXDSHNPT00/order){: target="_blank"}** - Gift Cards available on-line.
 * **[Trinkets-n-Treasures](https://www.facebook.com/trinketsandtreasures2017/){: target="_blank"}** - On-line shopping thru artist/vendor ads posted on Craig’s List (For Sale) and Facebook (Marketplace) with payments accepted by phone and email.
-* [**Warm Hugs Mixes & Gifts Boutique**](https://warmhugsmixes.com/shop/){: target="_blank"} - Get your shopping done and order [gift certificates](https://warmhugsmixes.com/product/gift-certificate/){: target="_blank"}&nbsp;on-line.
+* [**Warm Hugs Mixes & Gifts Boutique**](https://warmhugsmixes.com/shop/){: target="_blank"} - Get your shopping done and order [gift certificates](https://warmhugsmixes.com/product/gift-certificate/){: target="_blank"}&nbsp;on-line. Random Act of Kindness Gift Bags still available and being delivered. Call the store at 970-353-3447 Monday-Friday from 10am-3pm to order yours today.
 * **[WeldWerks Brewing Company](https://weldwerksbrewing.com/order)**&nbsp;- The on-line store allows you to order and pay for all your cans in advance and even request curbside delivery straight to your vehicle\!
 
 ## **On-Line Classes/Services/Live Streaming Events**
