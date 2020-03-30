@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated March 30th, 2020 at 1:00pm)
+(Updated March 30th, 2020 at 2:20pm)
 
 ## **Take Out/Curbside/Delivery**
 
@@ -24,7 +24,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * **[Chipolte](Chipotle.com){: target="_blank"}&nbsp;**\- Offering guests free delivery March 15th-31st&nbsp; with a minimum purchase of $10 or more through the Chipotle app and [Chipotle.com](Chipotle.com){: target="_blank"}. [Postmates](https://postmates.com/)will also be offering free delivery between March 16th-31st. No minimum purchase required and guests must enter the code “CHIPOTLEME” at checkout to receive the free delivery promotion.
 * **[Doug’s Diner](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"}** - Open from 7am-1:30pm for carryout only.
 * **[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring in an empty growler and get a pre-filled growler of Barbed Wire Black Ale or Colorado Summer Kölsch on Thursday, March 26th from 5-6pm
-* **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
+* **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside. The Chef has whipped up some special hot sauces to raise some money for their team - order on-line at [www.lunastacos.com](https://www.lunastacos.com/){: target="_blank"}.
 * **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie’s for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they’ll prepare it and deliver it to you the following day at your specified time and address\! ALSO…all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
 * **Red Sea Restaurant** - Open during normal business hours for takeout only.
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
