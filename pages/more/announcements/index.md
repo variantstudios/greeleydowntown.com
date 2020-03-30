@@ -25,7 +25,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * **[Doug’s Diner](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"}** - Open from 7am-1:30pm for carryout only.
 * **[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring in an empty growler and get a pre-filled growler of Barbed Wire Black Ale or Colorado Summer Kölsch on Thursday, March 26th from 5-6pm
 * **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside.
-* **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie's for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they'll prepare it and deliver it to you the following day at your specified time and address\! ALSO…all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
+* **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie’s for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they’ll prepare it and deliver it to you the following day at your specified time and address\! ALSO…all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
 * **Red Sea Restaurant** - Open during normal business hours for takeout only.
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Open for take out orders and delivery through&nbsp;[NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
@@ -54,7 +54,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth.&nbsp;
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
-* **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Gin Education and Cocktails Class on Saturday, March 28th from 6-7pm.
+* **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Will be offering Facebook Live Education and Cocktails Classes.
 
 ## **Business Support & Resource Guide**
 
