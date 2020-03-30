@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated March 30th, 2020 at 8:00am)
+(Updated March 30th, 2020 at 1:00pm)
 
 ## **Take Out/Curbside/Delivery**
 
@@ -56,7 +56,8 @@ Now, more than ever, we need to support our local downtown business community\! 
 * [**Greeley Area Chamber of Commerce**](https://www.facebook.com/GreeleyAreaChamberofCommerce/){: target="_blank"} - Go Live broadcast with Jaime Henning, Chamber President/CEO at 10am on Monday, March 30th.
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
-* **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Will be offering Facebook Live Education and Cocktails Classes.
+* **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Bourbon Cocktail Class on Saturday, April 4th at 6pm.
+* [**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - Will be recording a virtual hangout with brewery friends from across the nation. They plan on catching up, chatting about craft beer in the wake of the pandemic, and discussing a virtual collaboration. They want to hear from you guys too\! Send them some questions to answer during this hangout. What do YOU want to know? And, Keep an eye out for the video to be posted on Tuesday\!
 
 ## **Business Support & Resource Guide**
 
