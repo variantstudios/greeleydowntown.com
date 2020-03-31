@@ -13,15 +13,16 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated March 31st, 2020 at 12:45pm)
+(Updated March 31st, 2020 at 5:20pm)
 
 ## **Take Out/Curbside/Delivery**
 
 * **[Batter Up Cakes Downtown](https://www.facebook.com/BatterUpCakesGreeley/)** - Open for take-out only. DIY Cupcake Kits to keep the kiddos entertained while supplies last. 970-352-3880.&nbsp;
 * **[Brix Brewery & Taphouse](https://www.facebook.com/brixbrewtap/){: target="_blank"}** - Open Tuesday-Friday 3-7pm and Saturday 11-5pm with to-go beer sales only, no dine-in. They have more cans in, get your growlers and bottles filled, and get gift cards\!&nbsp;*If you have Growler glassware at home please bring them by for sanitation and filling.*
 * **[Canton Garden Restaurant](https://www.facebook.com/GreeleyCantonGarden/){: target="_blank"}** - Open for take out and delivery only. Monday-Thursday 11am-2pm & 4:30-8:30pm and Friday-Saturday 11am-2pm & 4:30-9pm.
-* **Carl’s Junior** - Drive thru open
-* **[Chipolte](Chipotle.com){: target="_blank"}&nbsp;**\- Offering guests free delivery March 15th-31st&nbsp; with a minimum purchase of $10 or more through the Chipotle app and [Chipotle.com](Chipotle.com){: target="_blank"}. [Postmates](https://postmates.com/)will also be offering free delivery between March 16th-31st. No minimum purchase required and guests must enter the code “CHIPOTLEME” at checkout to receive the free delivery promotion.
+* **Carl’s Junior** - Drive thru open.
+* **[Cheba Hut](https://chebahut.com/greeley)** - Pick up Cheba...or get it delivered. Download the app on [Apple](https://apps.apple.com/us/app/cheba-hut/id1046607012){: target="_blank"} or [Google Play](https://play.google.com/store/apps/details?id=com.olo.chebahut&amp;hl=en_US){: target="_blank"}, place order and prepay. OR, if you prefer, [visit your shop's page](https://chebahut.com/greeley){: target="_blank"}&nbsp;to get it delivered.
+* **[Chipolte](https://www.chipotle.com/){: target="_blank"}&nbsp;**\- Offering guests free delivery March 15th-31st&nbsp; with a minimum purchase of $10 or more through the Chipotle app and [Chipotle.com](https://www.chipotle.com/). [Postmates](https://postmates.com/){: target="_blank"}&nbsp;will also be offering free delivery between March 16th-31st. No minimum purchase required and guests must enter the code “CHIPOTLEME” at checkout to receive the free delivery promotion.
 * **[Doug’s Diner](https://www.facebook.com/DougsDinerGreeley/){: target="_blank"}** - Open from 7am-1:30pm for carryout only.
 * **[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring in an empty growler and get a pre-filled growler of Barbed Wire Black Ale or Colorado Summer Kölsch on Thursday, March 26th from 5-6pm
 * **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com.](www.noconosh.com){: target="_blank"}&nbsp;Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside. The Chef has whipped up some special hot sauces to raise some money for their team - order on-line at [www.lunastacos.com](https://www.lunastacos.com/){: target="_blank"}.
@@ -31,7 +32,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Open for take out orders and delivery through&nbsp;[NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
 * **[Santeramo’s Pizza House and Italian Food](https://www.facebook.com/santeramospizzahouse/){: target="_blank"}** - Offering curbside pickup for all to go orders and delivery through [GrubHub](https://www.grubhub.com/){: target="_blank"}, [Doordash](https://www.doordash.com/){: target="_blank"} and [NocoNosh](https://www.noconosh.com/){: target="_blank"}&nbsp;from 4-8pm Tuesday-Thursday and 11am-8pm Friday-Sunday. For all curbside orders please call 970-353-4844.
 * [**Sherpa Grill**](https://www.facebook.com/sherpagrillcolorado/) - Offering free delivery. Call 970-352-5344.
-* **Subway** - NEW HOURS during this crisis are 10am to 7pm, 7 days a week. We are open for take-out during these hours, or if your prefer, remote ordering at subway.com. 1011 9th Ave.&nbsp;
+* [**Subway**](https://www.subway.com/en-us){: target="_blank"} - NEW HOURS are 10am-7pm. 7 days a week for takeout. If your prefer, remote order at [subway.com](https://www.subway.com/en-us){: target="_blank"}.
 * **[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Open for bottle sales Monday-Saturday 1-6pm. They also keep producing to make sure their liquor store partners are well stocked. If you want bottles delivered to your home, check out&nbsp;[www.drizly.com.](www.drizly.com){: target="_blank"}&nbsp;Are now stocked back up on ice cream but it goes quickly, so get yours while it's available.
 * **[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- Taproom is completely closed for all customers and guests, transitioning exclusively to on-line orders for curbside and drive-thru pickup. Pickups will be continued for as long as they can maintain extreme social distancing and all the necessary safety measures. Online orders can be placed at&nbsp;[https://weldwerksonline.square.site.](https://weldwerksonline.square.site){: target="_blank"}
 
@@ -52,7 +53,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 ## **On-Line Classes/Services/Live Streaming Events**
 
 * **[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
-* [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth. Check out their Facebook page for Lession \#2 at 1pm today (Tuesday, March 31st).
+* [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth.&nbsp;
 * [**Greeley Area Chamber of Commerce**](https://www.facebook.com/GreeleyAreaChamberofCommerce/){: target="_blank"} - Virtual Town Hall this Friday, April 3rd, at 10am.
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
