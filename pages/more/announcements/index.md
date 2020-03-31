@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated March 30th, 2020 at 2:20pm)
+(Updated March 31st, 2020 at 12:45pm)
 
 ## **Take Out/Curbside/Delivery**
 
@@ -52,7 +52,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 ## **On-Line Classes/Services/Live Streaming Events**
 
 * **[Academy of Natural Therapy](https://www.facebook.com/TheAcademyofNaturalTherapy/){: target="_blank"}** - Classes moved on-line and professional clinic closed 3/18-4/12/2020. Taking lotion orders and nutrition Standard Process orders at&nbsp;[www.natural-therapy.com](http://www.natural-therapy.com)&nbsp;or 970-352-1181 and mailing all orders.
-* [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth.&nbsp;
+* [**Colorado Model Railroad Museum**](https://www.facebook.com/ColoradoModelRailroadMuseum/){: target="_blank"} - The Museum is collaborating with the Colorado State University Extension, Weld County 4-H program on STEAM programming for youth. Check out their Facebook page for Lession \#2 at 1pm today (Tuesday, March 31st).
 * [**Greeley Area Chamber of Commerce**](https://www.facebook.com/GreeleyAreaChamberofCommerce/){: target="_blank"} - Virtual Town Hall this Friday, April 3rd, at 10am.
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
