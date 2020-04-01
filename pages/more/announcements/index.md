@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated March 31st, 2020 at 5:20pm)
+(Updated April 1st, 2020 at 11:30am)
 
 ## **Take Out/Curbside/Delivery**
 
@@ -28,6 +28,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com](https://www.noconosh.com/){: target="_blank"}. Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside. The Chef has whipped up some special hot sauces to raise some money for their team - order on-line at [www.lunastacos.com](https://www.lunastacos.com/){: target="_blank"}.
 * **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie’s for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they’ll prepare it and deliver it to you the following day at your specified time and address\! ALSO…all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
 * **Red Sea Restaurant** - Open during normal business hours for takeout only.
+* [**Right Coast Pizza**](http://www.rightcoastpizza.com/gr/){: target="_blank"} - Open for carryout Wednesday-Saturday Noon
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
 * **[Roma Restaurant](https://www.facebook.com/romapizzagreeley/){: target="_blank"}** - Open for take out orders and delivery through&nbsp;[NoCoNosh](https://www.noconosh.com/) orders from 11am-1pm and 5-8pm.
 * **[Santeramo’s Pizza House and Italian Food](https://www.facebook.com/santeramospizzahouse/){: target="_blank"}** - Offering curbside pickup for all to go orders and delivery through [GrubHub](https://www.grubhub.com/){: target="_blank"}, [Doordash](https://www.doordash.com/){: target="_blank"} and [NocoNosh](https://www.noconosh.com/){: target="_blank"}&nbsp;from 4-8pm Tuesday-Thursday and 11am-8pm Friday-Sunday. For all curbside orders please call 970-353-4844.
