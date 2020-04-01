@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated April 1st, 2020 at 11:30am)
+(Updated April 1st, 2020 at 5pm)
 
 ## **Take Out/Curbside/Delivery**
 
@@ -36,6 +36,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * [**Subway**](https://www.subway.com/en-us){: target="_blank"} - NEW HOURS are 10am-7pm. 7 days a week for takeout. If your prefer, remote order at [subway.com](https://www.subway.com/en-us){: target="_blank"}.
 * **[Tower 56 Distilling](https://www.facebook.com/Tower56/){: target="_blank"}** - Open for bottle sales Monday-Saturday 1-6pm. They also keep producing to make sure their liquor store partners are well stocked. If you want bottles delivered to your home, check out&nbsp;[www.drizly.com](https://drizly.com/){: target="_blank"}. Are now stocked back up on ice cream but it goes quickly, so get yours while it's available.
 * **[WeldWerks Brewing Company](https://www.facebook.com/weldwerksbrewing/){: target="_blank"}**&nbsp;- Taproom is completely closed for all customers and guests, transitioning exclusively to on-line orders for curbside and drive-thru pickup. Pickups will be continued for as long as they can maintain extreme social distancing and all the necessary safety measures. Online orders can be placed at&nbsp;[https://weldwerksonline.square.site.](https://weldwerksonline.square.site){: target="_blank"}
+* [**Winchell'**](https://www.facebook.com/Winchells-Greeley-103676637685264/){: target="_blank"}s - Can order with [DoorDash](https://www.doordash.com/en-US){: target="_blank"} or can call 970-353-5728 or walk in to set up your order. Please use CDC guidelines to protect yourself and others.
 
 ## **On-Line Shopping/Gift Certificates/Merchandise Sales/Etc.**
 
@@ -58,6 +59,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * [**Greeley Area Chamber of Commerce**](https://www.facebook.com/GreeleyAreaChamberofCommerce/){: target="_blank"} - Virtual Town Hall this Friday, April 3rd, at 10am.
 * **[KFKA](https://www.facebook.com/1310KFKARadio/){: target="_blank"}** - Listen to NOCO NOW from 9-10am Monday-Friday. Businesses can update listeners on how to still utilize their services, local entertainers can promote ways folks can still watch or listen to them, good samaritans can let us know what they are doing to help. Text KFKA to 31996 to subscribe or call 970-353-1310.
 * **[Lincoln Park Library](https://www.facebook.com/myhpld/){: target="_blank"}** - The library is closed but on-line services like Libby/Overdrive, Hoopla, and Kanopy are all good to go and have been enhanced.
+* [**Showcase Art Center**](https://www.showcaseartcenter.com/){: target="_blank"} - Start new online classes and watch unlimited videos for only $10/month. Join on the&nbsp;[website](https://www.showcaseartcenter.com/videos){: target="_blank"} or use this invite code if you have the app: OQUQUZ
 * **[Tower 56 Distilling](https://www.facebook.com/events/539128360317092/){: target="_blank"}&nbsp;**\- Facebook Live Bourbon Cocktail Class on Saturday, April 4th at 6pm.
 * [**WeldWerks Brewing Company**](https://www.facebook.com/weldwerksbrewing/){: target="_blank"} - Will be recording a virtual hangout with brewery friends from across the nation. They plan on catching up, chatting about craft beer in the wake of the pandemic, and discussing a virtual collaboration. Keep an eye out for the video to be posted on Tuesday\!
 
