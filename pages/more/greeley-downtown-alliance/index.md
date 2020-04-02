@@ -27,4 +27,4 @@ Exploring infrastructure issues, such as parking, safety, etc. are also importan
 
 ### Next Meeting
 
-The March 20, 2020 GDA meeting has been cancelled. Please join us at 8am on Friday, April 17th, 2020 for our next monthly meeting. The meeting will be held at the Lincoln Park Library located at 1012 11th Street.
+The March 20, 2020 GDA meeting was cancelled. Please join us at 8am on Friday, April 17th, 2020 for our next monthly meeting. We will be holding a virtual meeting on this day and will post information soon.
