@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated April 2nd 2020 at 11:40am)
+(Updated April 2nd 2020 at 2:40pm)
 
 ## **Take Out/Curbside/Delivery**
 
@@ -27,6 +27,7 @@ Now, more than ever, we need to support our local downtown business community\! 
 * **[Green Earth Brewing Company](https://www.facebook.com/gebcobeer/){: target="_blank"}** - Bring your growlers in and get them filled from 5-7pm on Friday and 2-5pm on Saturday.
 * **[Luna’s Tacos & Tequila](https://www.facebook.com/lunastacos/){: target="_blank"}** - Offering their full menu for pickup and delivery. Orders for delivery can be made at&nbsp;[www.noconosh.com](https://www.noconosh.com/){: target="_blank"}. Pick up / To Go orders can be made by phone at 970-673-8509 and they will bring the order to you curbside. The Chef has whipped up some special hot sauces to raise some money for their team - order on-line at [www.lunastacos.com](https://www.lunastacos.com/){: target="_blank"}.
 * **[Margie’s Java Joint](https://margies-java-joint.square.site/){: target="_blank"}** - Margie’s for essential workers. Order breakfast and lunch catering online by 2pm the day before, and they’ll prepare it and deliver it to you the following day at your specified time and address\! ALSO…all of their merch is for sale on their on-line store for anyone looking to support MJJ during this closure.
+* **[MrBravo Pizza & Phillys](http://www.mrbravopizza.com/){: target="_blank"}** - Open for takeout or delivery.
 * [**Red Sea Restaurant**](https://redsearestaurantingreeley.com/){: target="_blank"} - Open during normal business hours for takeout only.
 * [**Right Coast Pizza**](http://www.rightcoastpizza.com/gr/){: target="_blank"} - Open for carryout Wednesday-Saturday Noon
 * [**Rio Grande Mexican Restaurant**](https://www.facebook.com/MyRioGrande/){: target="_blank"} - Open from Noon-8pm. Limited takeout menu. Call 970-304-9292 for details.
