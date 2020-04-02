@@ -13,7 +13,7 @@ permalink: /announcements/
 
 Now, more than ever, we need to support our local downtown business community\! The DDA team is regularly updating this page to reflect business updates and make it as easy as possible to find ways to still shop, dine, and spend locally.
 
-(Updated April 1st, 2020 at 5pm)
+(Updated April 2nd 2020 at 11:40am)
 
 ## **Take Out/Curbside/Delivery**
 
